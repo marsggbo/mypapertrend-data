@@ -193,6 +193,564 @@
         "2026-07-19": 51
       },
       "meta": {}
+    },
+    "Layer-wise adaptive gradient sparsification for distributed deep learning with convergence guarantees": {
+      "year": "2019",
+      "pub_id": "FlYcrEcAAAAJ:YsMSGLbcyi4C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 50
+      },
+      "meta": {}
+    },
+    "FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs": {
+      "year": "2023",
+      "pub_id": "FlYcrEcAAAAJ:Zph67rFs4hoC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 48
+      },
+      "meta": {}
+    },
+    "FedImpro: Measuring and Improving Client Update in Federated Learning": {
+      "year": "2024",
+      "pub_id": "FlYcrEcAAAAJ:aqlVkmm33-oC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 41
+      },
+      "meta": {}
+    },
+    "FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion": {
+      "year": "2024",
+      "pub_id": "FlYcrEcAAAAJ:4JMBOYKVnBMC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 39
+      },
+      "meta": {}
+    },
+    "ExpertFlow: Optimized Expert Activation and Token Allocation for Efficient Mixture-of-Experts Inference": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:RHpTSmoSYBkC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 36
+      },
+      "meta": {}
+    },
+    "Assessing Judging Bias in Large Reasoning Models: An Empirical Study": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:NaGl4SEjCO4C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 30
+      },
+      "meta": {}
+    },
+    "Parzc: Parametric zero-cost proxies for efficient nas": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:O3NaXMp0MMsC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 28
+      },
+      "meta": {}
+    },
+    "Data Resampling for Federated Learning with Non-IID Labels": {
+      "year": "2021",
+      "pub_id": "FlYcrEcAAAAJ:eQOLeE2rZwMC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 27
+      },
+      "meta": {}
+    },
+    "Computer-Aided Clinical Skin Disease Diagnosis Using CNN and Object Detection Models": {
+      "year": "2019",
+      "pub_id": "FlYcrEcAAAAJ:d1gkVwhDpl0C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 27
+      },
+      "meta": {}
+    },
+    "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:TFP_iSt0sucC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 26
+      },
+      "meta": {}
+    },
+    "AgentTaxo: Dissecting and Benchmarking Token Distribution of LLM Multi-Agent Systems": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:RGFaLdJalmkC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 24
+      },
+      "meta": {}
+    },
+    "NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension": {
+      "year": "2022",
+      "pub_id": "FlYcrEcAAAAJ:8k81kl-MbHgC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 24
+      },
+      "meta": {}
+    },
+    "Gittaskbench: A benchmark for code agents solving real-world tasks through code repository leveraging": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:dfsIfKJdRG4C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 23
+      },
+      "meta": {}
+    },
+    "Can Compressed LLMs Truly Act? An Empirical Evaluation of Agentic Capabilities in LLM Compression": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:GnPB-g6toBAC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 22
+      },
+      "meta": {}
+    },
+    "Can LLMs Maintain Fundamental Abilities under KV Cache Compression?": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:maZDTaKrznsC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 22
+      },
+      "meta": {}
+    },
+    "Should We Really Edit Language Models? On the Evaluation of Edited Language Models": {
+      "year": "2024",
+      "pub_id": "FlYcrEcAAAAJ:_Qo2XoVZTnwC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 21
+      },
+      "meta": {}
+    },
+    "From ChatGPT to DeepSeek: Can LLMs Simulate Humanity?": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:NMxIlDl6LWMC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 20
+      },
+      "meta": {}
+    },
+    "Reliable and Efficient In-Memory Fault Tolerance of Large Language Model Pretraining": {
+      "year": "2023",
+      "pub_id": "FlYcrEcAAAAJ:YOwf2qJgpHMC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 17
+      },
+      "meta": {}
+    },
+    "Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:M3NEmzRMIkIC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 16
+      },
+      "meta": {}
+    },
+    "FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression": {
+      "year": "2024",
+      "pub_id": "FlYcrEcAAAAJ:hC7cP41nSMkC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 15
+      },
+      "meta": {}
+    },
+    "Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning": {
+      "year": "2024",
+      "pub_id": "FlYcrEcAAAAJ:IWHjjKOFINEC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 15
+      },
+      "meta": {}
+    },
+    "FedML Parrot: A Scalable Federated Learning System via Heterogeneity-aware Scheduling on Sequential and Hierarchical Training": {
+      "year": "2023",
+      "pub_id": "FlYcrEcAAAAJ:kNdYIx-mwKoC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 15
+      },
+      "meta": {}
+    },
+    "The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM Compression Preserve?": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:hMod-77fHWUC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 13
+      },
+      "meta": {}
+    },
+    "OracleKV: Oracle Guidance for Question-Independent KV Cache Compression": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:ns9cj8rnVeAC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 12
+      },
+      "meta": {}
+    },
+    "Hot-pluggable Federated Learning: Bridging General and Personalized FL via Dynamic Selection": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:YFjsv_pBGBYC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 12
+      },
+      "meta": {}
+    },
+    "JailbreakLoRA: Your Downloaded LoRA from Sharing Platforms might be Unsafe": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:vV6vV6tmYwMC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 9
+      },
+      "meta": {}
+    },
+    "LPZero: Language Model Zero-cost Proxy Search from Zero": {
+      "year": "2024",
+      "pub_id": "FlYcrEcAAAAJ:qUcmZB5y_30C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 8
+      },
+      "meta": {}
+    },
+    "AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:J_g5lzvAfSwC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 7
+      },
+      "meta": {}
+    },
+    "Ghost in the Cloud: Your Geo-Distributed Large Language Models Training is Easily Manipulated": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:lSLTfruPkqcC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 6
+      },
+      "meta": {}
+    },
+    "Enhancing LLM Trading Performance with Fact-Subjectivity Aware Reasoning": {
+      "year": "2024",
+      "pub_id": "FlYcrEcAAAAJ:-f6ydRqryjwC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 6
+      },
+      "meta": {}
+    },
+    "DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:JV2RwH3_ST0C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 5
+      },
+      "meta": {}
+    },
+    "RouteMark: A Fingerprint for Intellectual Property Attribution in Routing-based Model Merging": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:2P1L_qKh6hAC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 5
+      },
+      "meta": {}
+    },
+    "Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences)": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:cFHS6HbyZ2cC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "LLM Agent Memory: A Survey from a Unified Representation–Management Perspective": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:4OULZ7Gr8RgC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 4
+      },
+      "meta": {}
+    },
+    "ElasWave: An Elastic-Native System for Scalable Hybrid-Parallel Training": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:pqnbT2bcN3wC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 4
+      },
+      "meta": {}
+    },
+    "Towards Evaluting Fake Reasoning Bias in Language Models": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:ZHo1McVdvXMC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 4
+      },
+      "meta": {}
+    },
+    "Reasoning Language Model Inference Serving Unveiled: An Empirical Study": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:g5m5HwL7SMYC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 2
+      },
+      "meta": {}
+    },
+    "Are Dilemmas and Conflicts in LLM Alignment Solvable? A View from Priority Graph": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:a0OBvERweLwC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 2
+      },
+      "meta": {}
+    },
+    "Rethinking Deep Research from the Perspective of Web Content Distribution Matching": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:fPk4N6BV_jEC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 2
+      },
+      "meta": {}
+    },
+    "Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:P5F9QuxV20EC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 2
+      },
+      "meta": {}
+    },
+    "Fault-Tolerant Hybrid-Parallel Training at Scale with Reliable and Efficient In-memory Checkpointing": {
+      "year": "2023",
+      "pub_id": "FlYcrEcAAAAJ:blknAaTinKkC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 2
+      },
+      "meta": {}
+    },
+    "Communication-Efficient Distributed Deep Learning: Survey, Evaluation, and Challenges": {
+      "year": "2020",
+      "pub_id": "FlYcrEcAAAAJ:2osOgNQ5qMEC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 2
+      },
+      "meta": {}
+    },
+    "VCG-Bench: Towards A Unified Visual-Centric Benchmark for Structured Generation and Editing": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:_xSYboBqXhAC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 1
+      },
+      "meta": {}
+    },
+    "OmniReview: A Large-scale Benchmark and LLM-enhanced Framework for Realistic Reviewer Recommendation": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:u_35RYKgDlwC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 1
+      },
+      "meta": {}
+    },
+    "Dissecting Outlier Dynamics in LLM NVFP4 Pretraining": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:rO6llkc54NcC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 1
+      },
+      "meta": {}
+    },
+    "Efficient MoE Inference with Fine-Grained Scheduling of Disaggregated Expert Parallelism": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:3s1wT3WcHBgC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 1
+      },
+      "meta": {}
+    },
+    "Privacy-Preserving Large-Scale Set Intersection: An Efficient Method With Enhanced Security": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:ldfaerwXgEUC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 1
+      },
+      "meta": {}
+    },
+    "Reasoning Models Can be Easily Hacked by Fake Reasoning Bias": {
+      "year": "",
+      "pub_id": "FlYcrEcAAAAJ:SeFeTyx0c_EC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 1
+      },
+      "meta": {}
+    },
+    "OracleKV: Oracle Guidance for Question-Independent KV Cache Eviction": {
+      "year": "",
+      "pub_id": "FlYcrEcAAAAJ:RYcK_YlVTxYC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 1
+      },
+      "meta": {}
+    },
+    "GreenMoE: Exploiting Dynamic Load Imbalance for Energy-Efficient Long-Context MoE Training": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:abG-DnoFyZgC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "BiasTrojan: LLM Judgers Are Easily Distorted by Few Hundreds of Contrastive Biased Training Data": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:b0M2c_1WBrUC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "Enhancing Knowledge Injection with Surrounding Backgrounds in Continual Training LLMs": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:EUQCXRtRnyEC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "Parameters as Agentic Memory: Internalizing Long-Horizon Memories for Efficient LLM Agents": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:f2IySw72cVMC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:nb7KW1ujOQ8C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "Probing the Plasticity and Correlation of LLM Value Systems: LLM Value Rankings are Not Stable": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:CHSYGLWDkRkC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "Position: LLM Inference Should Be Evaluated as Energy-to-Token Production": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:1sJd4Hv_s6UC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "On the Spectral Flattening of Quantized Embeddings": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:zA6iFVUQeVQC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "DreamDDP: Accelerating Low-Bandwidth Geo-Distributed LLM Training with Layer-wise Partial Synchronization": {
+      "year": "2026",
+      "pub_id": "FlYcrEcAAAAJ:xtRiw3GOFMkC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "Collaborative Machine Learning at Scale: Efficiency and Generalization": {
+      "year": "2024",
+      "pub_id": "FlYcrEcAAAAJ:iH-uZ7U-co4C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "Clearing MCP Navigation Fog with Economics-Aware Hierarchical Tool Routing": {
+      "year": "",
+      "pub_id": "FlYcrEcAAAAJ:NhqRSupF_l8C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "Is Privacy Always Prioritized over Learning? Probing LLMs' Value Priority Belief under External Perturbations": {
+      "year": "",
+      "pub_id": "FlYcrEcAAAAJ:yD5IFk8b50cC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
+    },
+    "Harnessing Client Drift with Decoupled Gradient Dissimilarity": {
+      "year": "",
+      "pub_id": "FlYcrEcAAAAJ:3fE2CSJIrl8C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {}
     }
   }
 }
