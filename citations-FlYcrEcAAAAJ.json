@@ -8,10 +8,15 @@
         "citations": 3281,
         "hindex": 27,
         "i10": 45
+      },
+      "2026-07-20": {
+        "citations": 3281,
+        "hindex": 27,
+        "i10": 45
       }
     }
   },
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "source": "dom",
   "papers": {
     "Deep learning identifies accurate burst locations in water distribution networks": {
@@ -19,7 +24,8 @@
       "pub_id": "FlYcrEcAAAAJ:u-x6o8ySG0sC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 283
+        "2026-07-19": 283,
+        "2026-07-20": 283
       },
       "meta": {}
     },
@@ -28,7 +34,8 @@
       "pub_id": "FlYcrEcAAAAJ:qjMakFHDy7sC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 233
+        "2026-07-19": 233,
+        "2026-07-20": 233
       },
       "meta": {}
     },
@@ -37,7 +44,8 @@
       "pub_id": "FlYcrEcAAAAJ:zYLM7Y9cAGgC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 228
+        "2026-07-19": 228,
+        "2026-07-20": 228
       },
       "meta": {}
     },
@@ -46,7 +54,8 @@
       "pub_id": "FlYcrEcAAAAJ:MXK_kJrjxJIC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 222
+        "2026-07-19": 222,
+        "2026-07-20": 222
       },
       "meta": {}
     },
@@ -55,7 +64,8 @@
       "pub_id": "FlYcrEcAAAAJ:mB3voiENLucC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 189
+        "2026-07-19": 189,
+        "2026-07-20": 189
       },
       "meta": {}
     },
@@ -64,7 +74,8 @@
       "pub_id": "FlYcrEcAAAAJ:9yKSN-GCB0IC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 158
+        "2026-07-19": 158,
+        "2026-07-20": 158
       },
       "meta": {}
     },
@@ -73,7 +84,8 @@
       "pub_id": "FlYcrEcAAAAJ:5nxA0vEk-isC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 153
+        "2026-07-19": 153,
+        "2026-07-20": 153
       },
       "meta": {}
     },
@@ -82,7 +94,8 @@
       "pub_id": "FlYcrEcAAAAJ:Tyk-4Ss8FVUC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 137
+        "2026-07-19": 137,
+        "2026-07-20": 137
       },
       "meta": {}
     },
@@ -91,7 +104,8 @@
       "pub_id": "FlYcrEcAAAAJ:WF5omc3nYNoC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 119
+        "2026-07-19": 119,
+        "2026-07-20": 119
       },
       "meta": {}
     },
@@ -100,7 +114,8 @@
       "pub_id": "FlYcrEcAAAAJ:Wp0gIr-vW9MC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 117
+        "2026-07-19": 117,
+        "2026-07-20": 117
       },
       "meta": {}
     },
@@ -109,7 +124,8 @@
       "pub_id": "FlYcrEcAAAAJ:dhFuZR0502QC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 110
+        "2026-07-19": 110,
+        "2026-07-20": 110
       },
       "meta": {}
     },
@@ -118,7 +134,8 @@
       "pub_id": "FlYcrEcAAAAJ:IjCSPb-OGe4C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 100
+        "2026-07-19": 100,
+        "2026-07-20": 100
       },
       "meta": {}
     },
@@ -127,7 +144,8 @@
       "pub_id": "FlYcrEcAAAAJ:UeHWp8X0CEIC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 85
+        "2026-07-19": 85,
+        "2026-07-20": 85
       },
       "meta": {}
     },
@@ -136,7 +154,8 @@
       "pub_id": "FlYcrEcAAAAJ:35N4QoGY0k4C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 81
+        "2026-07-19": 81,
+        "2026-07-20": 81
       },
       "meta": {}
     },
@@ -145,7 +164,8 @@
       "pub_id": "FlYcrEcAAAAJ:ufrVoPGSRksC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 71
+        "2026-07-19": 71,
+        "2026-07-20": 71
       },
       "meta": {}
     },
@@ -154,7 +174,8 @@
       "pub_id": "FlYcrEcAAAAJ:j3f4tGmQtD8C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 67
+        "2026-07-19": 67,
+        "2026-07-20": 67
       },
       "meta": {}
     },
@@ -163,7 +184,8 @@
       "pub_id": "FlYcrEcAAAAJ:_FxGoFyzp5QC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 65
+        "2026-07-19": 65,
+        "2026-07-20": 65
       },
       "meta": {}
     },
@@ -172,7 +194,8 @@
       "pub_id": "FlYcrEcAAAAJ:k_IJM867U9cC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 55
+        "2026-07-19": 55,
+        "2026-07-20": 55
       },
       "meta": {}
     },
@@ -181,7 +204,8 @@
       "pub_id": "FlYcrEcAAAAJ:ZeXyd9-uunAC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 53
+        "2026-07-19": 53,
+        "2026-07-20": 53
       },
       "meta": {}
     },
@@ -190,7 +214,8 @@
       "pub_id": "FlYcrEcAAAAJ:bEWYMUwI8FkC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 51
+        "2026-07-19": 51,
+        "2026-07-20": 51
       },
       "meta": {}
     },
@@ -199,7 +224,8 @@
       "pub_id": "FlYcrEcAAAAJ:YsMSGLbcyi4C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 50
+        "2026-07-19": 50,
+        "2026-07-20": 50
       },
       "meta": {}
     },
@@ -208,7 +234,8 @@
       "pub_id": "FlYcrEcAAAAJ:Zph67rFs4hoC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 48
+        "2026-07-19": 48,
+        "2026-07-20": 48
       },
       "meta": {}
     },
@@ -217,7 +244,8 @@
       "pub_id": "FlYcrEcAAAAJ:aqlVkmm33-oC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 41
+        "2026-07-19": 41,
+        "2026-07-20": 41
       },
       "meta": {}
     },
@@ -226,7 +254,8 @@
       "pub_id": "FlYcrEcAAAAJ:4JMBOYKVnBMC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 39
+        "2026-07-19": 39,
+        "2026-07-20": 39
       },
       "meta": {}
     },
@@ -235,7 +264,8 @@
       "pub_id": "FlYcrEcAAAAJ:RHpTSmoSYBkC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 36
+        "2026-07-19": 36,
+        "2026-07-20": 36
       },
       "meta": {}
     },
@@ -244,7 +274,8 @@
       "pub_id": "FlYcrEcAAAAJ:NaGl4SEjCO4C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 30
+        "2026-07-19": 30,
+        "2026-07-20": 30
       },
       "meta": {}
     },
@@ -253,7 +284,8 @@
       "pub_id": "FlYcrEcAAAAJ:O3NaXMp0MMsC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 28
+        "2026-07-19": 28,
+        "2026-07-20": 28
       },
       "meta": {}
     },
@@ -262,7 +294,8 @@
       "pub_id": "FlYcrEcAAAAJ:eQOLeE2rZwMC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 27
+        "2026-07-19": 27,
+        "2026-07-20": 27
       },
       "meta": {}
     },
@@ -271,7 +304,8 @@
       "pub_id": "FlYcrEcAAAAJ:d1gkVwhDpl0C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 27
+        "2026-07-19": 27,
+        "2026-07-20": 27
       },
       "meta": {}
     },
@@ -280,7 +314,8 @@
       "pub_id": "FlYcrEcAAAAJ:TFP_iSt0sucC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 26
+        "2026-07-19": 26,
+        "2026-07-20": 26
       },
       "meta": {}
     },
@@ -289,7 +324,8 @@
       "pub_id": "FlYcrEcAAAAJ:RGFaLdJalmkC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 24
+        "2026-07-19": 24,
+        "2026-07-20": 24
       },
       "meta": {}
     },
@@ -298,7 +334,8 @@
       "pub_id": "FlYcrEcAAAAJ:8k81kl-MbHgC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 24
+        "2026-07-19": 24,
+        "2026-07-20": 24
       },
       "meta": {}
     },
@@ -307,7 +344,8 @@
       "pub_id": "FlYcrEcAAAAJ:dfsIfKJdRG4C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 23
+        "2026-07-19": 23,
+        "2026-07-20": 23
       },
       "meta": {}
     },
@@ -316,7 +354,8 @@
       "pub_id": "FlYcrEcAAAAJ:GnPB-g6toBAC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 22
+        "2026-07-19": 22,
+        "2026-07-20": 22
       },
       "meta": {}
     },
@@ -325,7 +364,8 @@
       "pub_id": "FlYcrEcAAAAJ:maZDTaKrznsC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 22
+        "2026-07-19": 22,
+        "2026-07-20": 22
       },
       "meta": {}
     },
@@ -334,7 +374,8 @@
       "pub_id": "FlYcrEcAAAAJ:_Qo2XoVZTnwC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 21
+        "2026-07-19": 21,
+        "2026-07-20": 21
       },
       "meta": {}
     },
@@ -343,7 +384,8 @@
       "pub_id": "FlYcrEcAAAAJ:NMxIlDl6LWMC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 20
+        "2026-07-19": 20,
+        "2026-07-20": 20
       },
       "meta": {}
     },
@@ -352,7 +394,8 @@
       "pub_id": "FlYcrEcAAAAJ:YOwf2qJgpHMC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 17
+        "2026-07-19": 17,
+        "2026-07-20": 17
       },
       "meta": {}
     },
@@ -361,7 +404,8 @@
       "pub_id": "FlYcrEcAAAAJ:M3NEmzRMIkIC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 16
+        "2026-07-19": 16,
+        "2026-07-20": 16
       },
       "meta": {}
     },
@@ -370,7 +414,8 @@
       "pub_id": "FlYcrEcAAAAJ:hC7cP41nSMkC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 15
+        "2026-07-19": 15,
+        "2026-07-20": 15
       },
       "meta": {}
     },
@@ -379,7 +424,8 @@
       "pub_id": "FlYcrEcAAAAJ:IWHjjKOFINEC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 15
+        "2026-07-19": 15,
+        "2026-07-20": 15
       },
       "meta": {}
     },
@@ -388,7 +434,8 @@
       "pub_id": "FlYcrEcAAAAJ:kNdYIx-mwKoC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 15
+        "2026-07-19": 15,
+        "2026-07-20": 15
       },
       "meta": {}
     },
@@ -397,7 +444,8 @@
       "pub_id": "FlYcrEcAAAAJ:hMod-77fHWUC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 13
+        "2026-07-19": 13,
+        "2026-07-20": 13
       },
       "meta": {}
     },
@@ -406,7 +454,8 @@
       "pub_id": "FlYcrEcAAAAJ:ns9cj8rnVeAC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 12
+        "2026-07-19": 12,
+        "2026-07-20": 12
       },
       "meta": {}
     },
@@ -415,7 +464,8 @@
       "pub_id": "FlYcrEcAAAAJ:YFjsv_pBGBYC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 12
+        "2026-07-19": 12,
+        "2026-07-20": 12
       },
       "meta": {}
     },
@@ -424,7 +474,8 @@
       "pub_id": "FlYcrEcAAAAJ:vV6vV6tmYwMC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 9
+        "2026-07-19": 9,
+        "2026-07-20": 9
       },
       "meta": {}
     },
@@ -433,7 +484,8 @@
       "pub_id": "FlYcrEcAAAAJ:qUcmZB5y_30C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 8
+        "2026-07-19": 8,
+        "2026-07-20": 8
       },
       "meta": {}
     },
@@ -442,7 +494,8 @@
       "pub_id": "FlYcrEcAAAAJ:J_g5lzvAfSwC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 7
+        "2026-07-19": 7,
+        "2026-07-20": 7
       },
       "meta": {}
     },
@@ -451,7 +504,8 @@
       "pub_id": "FlYcrEcAAAAJ:lSLTfruPkqcC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 6
+        "2026-07-19": 6,
+        "2026-07-20": 6
       },
       "meta": {}
     },
@@ -460,7 +514,8 @@
       "pub_id": "FlYcrEcAAAAJ:-f6ydRqryjwC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 6
+        "2026-07-19": 6,
+        "2026-07-20": 6
       },
       "meta": {}
     },
@@ -469,7 +524,8 @@
       "pub_id": "FlYcrEcAAAAJ:JV2RwH3_ST0C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 5
+        "2026-07-19": 5,
+        "2026-07-20": 5
       },
       "meta": {}
     },
@@ -478,7 +534,8 @@
       "pub_id": "FlYcrEcAAAAJ:2P1L_qKh6hAC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 5
+        "2026-07-19": 5,
+        "2026-07-20": 5
       },
       "meta": {}
     },
@@ -487,7 +544,8 @@
       "pub_id": "FlYcrEcAAAAJ:cFHS6HbyZ2cC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -496,7 +554,8 @@
       "pub_id": "FlYcrEcAAAAJ:4OULZ7Gr8RgC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 4
+        "2026-07-19": 4,
+        "2026-07-20": 4
       },
       "meta": {}
     },
@@ -505,7 +564,8 @@
       "pub_id": "FlYcrEcAAAAJ:pqnbT2bcN3wC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 4
+        "2026-07-19": 4,
+        "2026-07-20": 4
       },
       "meta": {}
     },
@@ -514,7 +574,8 @@
       "pub_id": "FlYcrEcAAAAJ:ZHo1McVdvXMC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 4
+        "2026-07-19": 4,
+        "2026-07-20": 4
       },
       "meta": {}
     },
@@ -523,7 +584,8 @@
       "pub_id": "FlYcrEcAAAAJ:g5m5HwL7SMYC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 2
+        "2026-07-19": 2,
+        "2026-07-20": 2
       },
       "meta": {}
     },
@@ -532,7 +594,8 @@
       "pub_id": "FlYcrEcAAAAJ:a0OBvERweLwC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 2
+        "2026-07-19": 2,
+        "2026-07-20": 2
       },
       "meta": {}
     },
@@ -541,7 +604,8 @@
       "pub_id": "FlYcrEcAAAAJ:fPk4N6BV_jEC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 2
+        "2026-07-19": 2,
+        "2026-07-20": 2
       },
       "meta": {}
     },
@@ -550,7 +614,8 @@
       "pub_id": "FlYcrEcAAAAJ:P5F9QuxV20EC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 2
+        "2026-07-19": 2,
+        "2026-07-20": 2
       },
       "meta": {}
     },
@@ -559,7 +624,8 @@
       "pub_id": "FlYcrEcAAAAJ:blknAaTinKkC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 2
+        "2026-07-19": 2,
+        "2026-07-20": 2
       },
       "meta": {}
     },
@@ -568,7 +634,8 @@
       "pub_id": "FlYcrEcAAAAJ:2osOgNQ5qMEC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 2
+        "2026-07-19": 2,
+        "2026-07-20": 2
       },
       "meta": {}
     },
@@ -577,7 +644,8 @@
       "pub_id": "FlYcrEcAAAAJ:_xSYboBqXhAC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 1
+        "2026-07-19": 1,
+        "2026-07-20": 1
       },
       "meta": {}
     },
@@ -586,7 +654,8 @@
       "pub_id": "FlYcrEcAAAAJ:u_35RYKgDlwC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 1
+        "2026-07-19": 1,
+        "2026-07-20": 1
       },
       "meta": {}
     },
@@ -595,7 +664,8 @@
       "pub_id": "FlYcrEcAAAAJ:rO6llkc54NcC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 1
+        "2026-07-19": 1,
+        "2026-07-20": 1
       },
       "meta": {}
     },
@@ -604,7 +674,8 @@
       "pub_id": "FlYcrEcAAAAJ:3s1wT3WcHBgC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 1
+        "2026-07-19": 1,
+        "2026-07-20": 1
       },
       "meta": {}
     },
@@ -613,7 +684,8 @@
       "pub_id": "FlYcrEcAAAAJ:ldfaerwXgEUC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 1
+        "2026-07-19": 1,
+        "2026-07-20": 1
       },
       "meta": {}
     },
@@ -622,7 +694,8 @@
       "pub_id": "FlYcrEcAAAAJ:SeFeTyx0c_EC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 1
+        "2026-07-19": 1,
+        "2026-07-20": 1
       },
       "meta": {}
     },
@@ -631,7 +704,8 @@
       "pub_id": "FlYcrEcAAAAJ:RYcK_YlVTxYC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 1
+        "2026-07-19": 1,
+        "2026-07-20": 1
       },
       "meta": {}
     },
@@ -640,7 +714,8 @@
       "pub_id": "FlYcrEcAAAAJ:abG-DnoFyZgC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -649,7 +724,8 @@
       "pub_id": "FlYcrEcAAAAJ:b0M2c_1WBrUC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -658,7 +734,8 @@
       "pub_id": "FlYcrEcAAAAJ:EUQCXRtRnyEC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -667,7 +744,8 @@
       "pub_id": "FlYcrEcAAAAJ:f2IySw72cVMC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -676,7 +754,8 @@
       "pub_id": "FlYcrEcAAAAJ:nb7KW1ujOQ8C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -685,7 +764,8 @@
       "pub_id": "FlYcrEcAAAAJ:CHSYGLWDkRkC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -694,7 +774,8 @@
       "pub_id": "FlYcrEcAAAAJ:1sJd4Hv_s6UC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -703,7 +784,8 @@
       "pub_id": "FlYcrEcAAAAJ:zA6iFVUQeVQC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -712,7 +794,8 @@
       "pub_id": "FlYcrEcAAAAJ:xtRiw3GOFMkC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -721,7 +804,8 @@
       "pub_id": "FlYcrEcAAAAJ:iH-uZ7U-co4C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -730,7 +814,8 @@
       "pub_id": "FlYcrEcAAAAJ:NhqRSupF_l8C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -739,7 +824,8 @@
       "pub_id": "FlYcrEcAAAAJ:yD5IFk8b50cC",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     },
@@ -748,7 +834,8 @@
       "pub_id": "FlYcrEcAAAAJ:3fE2CSJIrl8C",
       "first_seen": "2026-07-19",
       "history": {
-        "2026-07-19": 0
+        "2026-07-19": 0,
+        "2026-07-20": 0
       },
       "meta": {}
     }
