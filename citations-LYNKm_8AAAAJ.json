@@ -3,13 +3,21 @@
   "profile": {
     "scholar_id": "LYNKm_8AAAAJ",
     "name": "Xin He",
-    "url": "https://scholar.google.com/citations?user=LYNKm_8AAAAJ"
+    "url": "https://scholar.google.com/citations?user=LYNKm_8AAAAJ",
+    "metrics": {
+      "2026-07-19": {
+        "citations": 3696,
+        "hindex": 14,
+        "i10": 16
+      }
+    }
   },
   "updated": "2026-07-19",
   "source": "import",
   "papers": {
     "AutoML: A survey of the state-of-the-art": {
       "year": "2021",
+      "pub_id": "LYNKm_8AAAAJ:zYLM7Y9cAGgC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 2630,
@@ -137,6 +145,7 @@
     },
     "Virtual homogeneity learning: Defending against data heterogeneity in federated learning": {
       "year": "2022",
+      "pub_id": "LYNKm_8AAAAJ:9yKSN-GCB0IC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 146,
@@ -267,6 +276,7 @@
     },
     "Benchmarking the performance and energy efficiency of AI accelerators for AI training": {
       "year": "2020",
+      "pub_id": "LYNKm_8AAAAJ:d1gkVwhDpl0C",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 126,
@@ -398,6 +408,7 @@
     },
     "BurstGPT: A Real-world Workload Dataset to Optimize LLM Serving Systems": {
       "year": "2025",
+      "pub_id": "LYNKm_8AAAAJ:ufrVoPGSRksC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 124,
@@ -536,6 +547,7 @@
     },
     "Benchmarking deep learning models and automated model design for COVID-19 detection with chest CT scans": {
       "year": "2020",
+      "pub_id": "LYNKm_8AAAAJ:IjCSPb-OGe4C",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 67,
@@ -669,6 +681,7 @@
     },
     "Automated model design and benchmarking of deep learning models for covid-19 detection with chest ct scans": {
       "year": "2021",
+      "pub_id": "LYNKm_8AAAAJ:2osOgNQ5qMEC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 57,
@@ -802,6 +815,7 @@
     },
     "Fusionai: Decentralized training and deploying llms with massive consumer-level gpus": {
       "year": "2023",
+      "pub_id": "LYNKm_8AAAAJ:W7OEmFMy1HYC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 47,
@@ -937,6 +951,7 @@
     },
     "EAGAN: Efficient two-stage evolutionary architecture search for GANs": {
       "year": "2022",
+      "pub_id": "LYNKm_8AAAAJ:qjMakFHDy7sC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 38,
@@ -1066,6 +1081,7 @@
     },
     "ExpertFlow: Efficient Mixture-of-Experts Inference via Predictive Expert Caching and Token Scheduling": {
       "year": "2026",
+      "pub_id": "LYNKm_8AAAAJ:LkGwnXOMwfcC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 30,
@@ -1201,6 +1217,7 @@
     },
     "Evolutionary multi-objective architecture search framework: Application to covid-19 3d ct classification": {
       "year": "2022",
+      "pub_id": "LYNKm_8AAAAJ:UeHWp8X0CEIC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 27,
@@ -1329,6 +1346,7 @@
     },
     "Computer-aided clinical skin disease diagnosis using CNN and object detection models": {
       "year": "2019",
+      "pub_id": "LYNKm_8AAAAJ:eQOLeE2rZwMC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 24,
@@ -1467,6 +1485,7 @@
     },
     "Nas-lid: Efficient neural architecture search with local intrinsic dimension": {
       "year": "2023",
+      "pub_id": "LYNKm_8AAAAJ:Tyk-4Ss8FVUC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 22,
@@ -1599,6 +1618,7 @@
     },
     "Fault-Tolerant Hybrid-Parallel Training at Scale with Reliable and Efficient In-memory Checkpointing": {
       "year": "2024",
+      "pub_id": "LYNKm_8AAAAJ:YsMSGLbcyi4C",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 18,
@@ -1734,6 +1754,7 @@
     },
     "FusionLLM: a decentralized LLM training system on geo-distributed GPUs with adaptive compression": {
       "year": "2024",
+      "pub_id": "LYNKm_8AAAAJ:_FxGoFyzp5QC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 13,
@@ -1872,6 +1893,7 @@
     },
     "MedPipe: End-to-End Joint Search of Data Augmentation Policy and Neural Architecture for 3D Medical Image Classification": {
       "year": "2023",
+      "pub_id": "LYNKm_8AAAAJ:u-x6o8ySG0sC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 8,
@@ -1998,6 +2020,7 @@
     },
     "Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework": {
       "year": "2026",
+      "pub_id": "LYNKm_8AAAAJ:UebtZRa9Y70C",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 6,
@@ -2128,6 +2151,7 @@
     },
     "Ghost in the cloud: Your geo-distributed large language models training is easily manipulated": {
       "year": "2026",
+      "pub_id": "LYNKm_8AAAAJ:8k81kl-MbHgC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 4,
@@ -2244,6 +2268,7 @@
     },
     "Autohete: An automatic and efficient heterogeneous training system for llms": {
       "year": "2025",
+      "pub_id": "LYNKm_8AAAAJ:roLk4NBRz8UC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 3,
@@ -2376,6 +2401,7 @@
     },
     "Routemark: A fingerprint for intellectual property attribution in routing-based model merging": {
       "year": "2025",
+      "pub_id": "LYNKm_8AAAAJ:Se3iqnhoufwC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 2,
@@ -2507,6 +2533,7 @@
     },
     "GM-Skip: Metric-Guided Transformer Block Skipping for Efficient Vision-Language Models": {
       "year": "2025",
+      "pub_id": "LYNKm_8AAAAJ:hqOjcs7Dif8C",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 1,
@@ -2576,7 +2603,8 @@
         "2026-06-07": 1,
         "2026-06-08": 1,
         "2026-06-09": 1,
-        "2026-06-10": 1
+        "2026-06-10": 1,
+        "2026-07-19": 1
       },
       "meta": {
         "authors": [
@@ -2598,6 +2626,7 @@
     },
     "LLM Agent Memory: A Survey from a Unified Representation–Management Perspective": {
       "year": "2026",
+      "pub_id": "",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 0,
@@ -2610,11 +2639,13 @@
     },
     "Automated Machine Learning and Its Applications": {
       "year": "2023",
+      "pub_id": "LYNKm_8AAAAJ:Y0pCki6q_DkC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 0,
         "2026-04-05": 0,
-        "2026-04-06": 0
+        "2026-04-06": 0,
+        "2026-07-19": 0
       },
       "meta": {
         "_tried": "2026-07-19"
@@ -2622,6 +2653,7 @@
     },
     "Llm agent memory: A survey from a unified representation–management perspective": {
       "year": "2026",
+      "pub_id": "LYNKm_8AAAAJ:MXK_kJrjxJIC",
       "first_seen": "2026-06-11",
       "history": {
         "2026-06-11": 1,
@@ -2667,6 +2699,24 @@
       "meta": {
         "_tried": "2026-07-19"
       }
+    },
+    "LLM Agents Make Collective Belief Dynamics Programmable: Challenges and Research Directions": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:kNdYIx-mwKoC",
+      "year": "2026"
+    },
+    "动手学 AutoML：从 NAS 到大语言模型优化实战": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:KlAtU1dfN6UC",
+      "year": "2026"
     }
   }
 }
