@@ -1,1 +1,309 @@
-
+{
+  "papers": {
+    "AutoML: A survey of the state-of-the-art": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 2808
+      },
+      "meta": {
+        "abstract": "Deep learning (DL) techniques have penetrated all aspects of our lives and brought us great convenience. However, building a high-quality DL system for a specific task highly relies on human expertise, hindering the applications of DL to more areas. Automated machine learning (AutoML) becomes a promising solution to build a DL system without human assistance, and a growing number of researchers focus on AutoML. In this paper, we provide a comprehensive and up-to-date review of the state-of-the-art (SOTA) in AutoML. First, we introduce AutoML methods according to the pipeline, covering data preparation, feature engineering, hyperparameter optimization, and neural architecture search (NAS). We focus more on NAS, as it is currently very hot sub-topic of AutoML. We summarize the performance of the representative NAS algorithms on the CIFAR-10 and ImageNet datasets and further discuss several worthy studying directions of NAS methods: one/two-stage NAS, one-shot NAS, and joint hyperparameter and architecture optimization. Finally, we discuss some open problems of the existing AutoML methods for future research.",
+        "arxiv": "1908.00709",
+        "authors": [
+          "Xin He",
+          "Kaiyong Zhao",
+          "X. Chu"
+        ],
+        "doi": "10.1016/j.knosys.2020.106622",
+        "pdf": "https://arxiv.org/pdf/1908.00709",
+        "s2url": "https://www.semanticscholar.org/paper/3a7fa673ff8ec4ec2f322473de005f3cd09ea820",
+        "tldr": "A comprehensive and up-to-date review of the state-of-the-art (SOTA) in AutoML methods according to the pipeline, covering data preparation, feature engineering, hyperparameter optimization, and neural architecture search (NAS).",
+        "venue": "Knowledge-Based Systems"
+      },
+      "pub_id": "LYNKm_8AAAAJ:zYLM7Y9cAGgC",
+      "year": "2021"
+    },
+    "Autohete: An automatic and efficient heterogeneous training system for llms": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 3
+      },
+      "meta": {
+        "abstract": "Transformer-based large language models (LLMs) have demonstrated exceptional capabilities in sequence modeling and text generation, with improvements scaling proportionally with model size. However, the limitations of GPU memory have restricted LLM training accessibility for many researchers. Existing heterogeneous training methods significantly expand the scale of trainable models but introduce substantial communication overheads and CPU workloads. In this work, we propose AutoHete, an automatic and efficient heterogeneous training system compatible with both single-GPU and multi-GPU environments. AutoHete dynamically adjusts activation checkpointing, parameter offloading, and optimizer offloading based on the specific hardware configuration and LLM training needs. Additionally, we design a priority-based scheduling mechanism that maximizes the overlap between operations across training iterations, enhancing throughput. Compared to state-of-the-art heterogeneous training systems, AutoHete delivers a 1.32x~1.91x throughput improvement across various model sizes and training configurations.",
+        "arxiv": "2503.01890",
+        "authors": [
+          "Zihao Zeng",
+          "Chubo Liu",
+          "Xin He",
+          "Juan Hu",
+          "Yong Jiang",
+          "Fei Huang",
+          "Kenli Li",
+          "Wei Yang Bryan Lim"
+        ],
+        "doi": "10.48550/arXiv.2503.01890",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/54996020034d5e4249f596cafab2e2e12aa7cf19",
+        "tldr": "This work proposes AutoHete, an automatic and efficient heterogeneous training system compatible with both single-GPU and multi-GPU environments, and designs a priority-based scheduling mechanism that maximizes the overlap between operations across training iterations, enhancing throughput.",
+        "venue": "arXiv.org"
+      },
+      "pub_id": "LYNKm_8AAAAJ:roLk4NBRz8UC",
+      "year": "2025"
+    },
+    "Automated Machine Learning and Its Applications": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {
+        "_tried": "2026-07-19"
+      },
+      "pub_id": "LYNKm_8AAAAJ:Y0pCki6q_DkC",
+      "year": "2023"
+    },
+    "Automated model design and benchmarking of deep learning models for covid-19 detection with chest ct scans": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 59
+      },
+      "meta": {
+        "abstract": "The COVID-19 pandemic has spread globally for several months. Because its transmissibility and high pathogenicity seriously threaten people's lives, it is crucial to accurately and quickly detect COVID-19 infection. Many recent studies have shown that deep learning (DL) based solutions can help detect COVID-19 based on chest CT scans. However, most existing work focuses on 2D datasets, which may result in low quality models as the real CT scans are 3D images. Besides, the reported results span a broad spectrum on different datasets with a relatively unfair comparison. In this paper, we first use three state-of-the-art 3D models (ResNet3D101, DenseNet3D121, and MC3\\_18) to establish the baseline performance on three publicly available chest CT scan datasets. Then we propose a differentiable neural architecture search (DNAS) framework to automatically search the 3D DL models for 3D chest CT scans classification and use the Gumbel Softmax technique to improve the search efficiency. We further exploit the Class Activation Mapping (CAM) technique on our models to provide the interpretability of the results. The experimental results show that our searched models (CovidNet3D) outperform the baseline human-designed models on three datasets with tens of times smaller model size and higher accuracy. Furthermore, the results also verify that CAM can be well applied in CovidNet3D for COVID-19 datasets to provide interpretability for medical diagnosis. Code: https://github.com/HKBU-HPML/CovidNet3D.",
+        "arxiv": "2101.05442",
+        "authors": [
+          "Xin He",
+          "Shihao Wang",
+          "X. Chu",
+          "S. Shi",
+          "Jiangping Tang",
+          "Xin Liu",
+          "C. Yan",
+          "Jiyong Zhang",
+          "G. Ding"
+        ],
+        "doi": "10.1609/aaai.v35i6.16614",
+        "pdf": "https://ojs.aaai.org/index.php/AAAI/article/download/16614/16421",
+        "s2url": "https://www.semanticscholar.org/paper/6316b4bc0a8cf6564d0f5a2ea5de007179681777",
+        "tldr": "A differentiable neural architecture search (DNAS) framework is proposed to automatically search the 3D DL models for 3D chest CT scans classification and use the Gumbel Softmax technique to improve the search efficiency and verify that CAM can be well applied in CovidNet3D for COVID-19 datasets to provide interpretability for medical diagnosis.",
+        "venue": "AAAI Conference on Artificial Intelligence"
+      },
+      "pub_id": "LYNKm_8AAAAJ:2osOgNQ5qMEC",
+      "year": "2021"
+    },
+    "Benchmarking deep learning models and automated model design for COVID-19 detection with chest CT scans": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 69
+      },
+      "meta": {
+        "_tried": "2026-07-19"
+      },
+      "pub_id": "LYNKm_8AAAAJ:IjCSPb-OGe4C",
+      "year": "2020"
+    },
+    "Benchmarking the performance and energy efficiency of AI accelerators for AI training": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 139
+      },
+      "meta": {
+        "abstract": "Deep learning has become widely used in complex AI applications. Yet, training a deep neural network (DNNs) model requires a considerable amount of calculations, long running time, and much energy. Nowadays, many-core AI accelerators (e.g., GPUs and TPUs) are designed to improve the performance of AI training. However, processors from different vendors perform dissimilarly in terms of performance and energy consumption. To investigate the differences among several popular off-the-shelf processors (i.e., Intel CPU, NVIDIA GPU, AMD GPU, and Google TPU) in training DNNs, we carry out a comprehensive empirical study on the performance and energy efficiency of these processors1 by benchmarking a representative set of deep learning workloads, including computation-intensive operations, classical convolutional neural networks (CNNs), recurrent neural networks (LSTM), Deep Speech 2, and Transformer. Different from the existing end-to-end benchmarks which only present the training time, We try to investigate the impact of hardware, vendor's software library, and deep learning framework on the performance and energy consumption of AI training. Our evaluation methods and results not only provide an informative guide for end users to select proper AI accelerators, but also expose some opportunities for the hardware vendors to improve their software library.",
+        "arxiv": "",
+        "authors": [
+          "Yuxin Wang",
+          "Qiang Wang",
+          "S. Shi",
+          "Xin He",
+          "Zhenheng Tang",
+          "Kaiyong Zhao",
+          "X. Chu"
+        ],
+        "doi": "10.1109/CCGrid49817.2020.00-15",
+        "pdf": "https://arxiv.org/pdf/1909.06842",
+        "s2url": "https://www.semanticscholar.org/paper/81517c02204e8fe1f6c78e928031ace82a70f877",
+        "tldr": "",
+        "venue": "IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing"
+      },
+      "pub_id": "LYNKm_8AAAAJ:d1gkVwhDpl0C",
+      "year": "2020"
+    },
+    "BurstGPT: A Real-world Workload Dataset to Optimize LLM Serving Systems": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 189
+      },
+      "meta": {
+        "_tried": "2026-07-19"
+      },
+      "pub_id": "LYNKm_8AAAAJ:ufrVoPGSRksC",
+      "year": "2025"
+    },
+    "Computer-aided clinical skin disease diagnosis using CNN and object detection models": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 27
+      },
+      "meta": {
+        "_tried": "2026-07-19"
+      },
+      "pub_id": "LYNKm_8AAAAJ:eQOLeE2rZwMC",
+      "year": "2019"
+    },
+    "EAGAN: Efficient two-stage evolutionary architecture search for GANs": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 42
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:qjMakFHDy7sC",
+      "year": "2022"
+    },
+    "Evolutionary multi-objective architecture search framework: Application to covid-19 3d ct classification": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 28
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:UeHWp8X0CEIC",
+      "year": "2022"
+    },
+    "ExpertFlow: Efficient Mixture-of-Experts Inference via Predictive Expert Caching and Token Scheduling": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 36
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:LkGwnXOMwfcC",
+      "year": "2026"
+    },
+    "Fault-Tolerant Hybrid-Parallel Training at Scale with Reliable and Efficient In-memory Checkpointing": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 19
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:YsMSGLbcyi4C",
+      "year": "2024"
+    },
+    "FusionLLM: a decentralized LLM training system on geo-distributed GPUs with adaptive compression": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 15
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:_FxGoFyzp5QC",
+      "year": "2024"
+    },
+    "Fusionai: Decentralized training and deploying llms with massive consumer-level gpus": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 48
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:W7OEmFMy1HYC",
+      "year": "2023"
+    },
+    "GM-Skip: Metric-Guided Transformer Block Skipping for Efficient Vision-Language Models": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 1
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:hqOjcs7Dif8C",
+      "year": "2026"
+    },
+    "Ghost in the cloud: Your geo-distributed large language models training is easily manipulated": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 6
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:8k81kl-MbHgC",
+      "year": "2026"
+    },
+    "LLM Agents Make Collective Belief Dynamics Programmable: Challenges and Research Directions": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:kNdYIx-mwKoC",
+      "year": "2026"
+    },
+    "Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 11
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:UebtZRa9Y70C",
+      "year": "2026"
+    },
+    "Llm agent memory: A survey from a unified representation–management perspective": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 4
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:MXK_kJrjxJIC",
+      "year": "2026"
+    },
+    "MedPipe: End-to-End Joint Search of Data Augmentation Policy and Neural Architecture for 3D Medical Image Classification": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 10
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:u-x6o8ySG0sC",
+      "year": "2023"
+    },
+    "Nas-lid: Efficient neural architecture search with local intrinsic dimension": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 24
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:Tyk-4Ss8FVUC",
+      "year": "2023"
+    },
+    "Routemark: A fingerprint for intellectual property attribution in routing-based model merging": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 5
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:Se3iqnhoufwC",
+      "year": "2025"
+    },
+    "Virtual homogeneity learning: Defending against data heterogeneity in federated learning": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 153
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:9yKSN-GCB0IC",
+      "year": "2022"
+    },
+    "动手学 AutoML：从 NAS 到大语言模型优化实战": {
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 0
+      },
+      "meta": {},
+      "pub_id": "LYNKm_8AAAAJ:KlAtU1dfN6UC",
+      "year": "2026"
+    }
+  },
+  "profile": {
+    "metrics": {
+      "2026-07-19": {
+        "citations": 3696,
+        "hindex": 14,
+        "i10": 16
+      }
+    },
+    "name": "Xin He",
+    "scholar_id": "LYNKm_8AAAAJ"
+  },
+  "schema": 2,
+  "source": "dom",
+  "updated": "2026-07-19"
+}
