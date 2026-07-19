@@ -2701,22 +2701,22 @@
       }
     },
     "LLM Agents Make Collective Belief Dynamics Programmable: Challenges and Research Directions": {
+      "year": "2026",
+      "pub_id": "LYNKm_8AAAAJ:kNdYIx-mwKoC",
       "first_seen": "2026-07-19",
       "history": {
         "2026-07-19": 0
       },
-      "meta": {},
-      "pub_id": "LYNKm_8AAAAJ:kNdYIx-mwKoC",
-      "year": "2026"
+      "meta": {}
     },
     "动手学 AutoML：从 NAS 到大语言模型优化实战": {
+      "year": "2026",
+      "pub_id": "LYNKm_8AAAAJ:KlAtU1dfN6UC",
       "first_seen": "2026-07-19",
       "history": {
         "2026-07-19": 0
       },
-      "meta": {},
-      "pub_id": "LYNKm_8AAAAJ:KlAtU1dfN6UC",
-      "year": "2026"
+      "meta": {}
     }
   }
 }
