@@ -1,0 +1,198 @@
+{
+  "schema": 2,
+  "profile": {
+    "scholar_id": "FlYcrEcAAAAJ",
+    "name": "Zhenheng Tang",
+    "metrics": {
+      "2026-07-19": {
+        "citations": 3281,
+        "hindex": 27,
+        "i10": 45
+      }
+    }
+  },
+  "updated": "2026-07-19",
+  "source": "dom",
+  "papers": {
+    "Deep learning identifies accurate burst locations in water distribution networks": {
+      "year": "2019",
+      "pub_id": "FlYcrEcAAAAJ:u-x6o8ySG0sC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 283
+      },
+      "meta": {}
+    },
+    "Communication-efficient distributed deep learning: A comprehensive survey": {
+      "year": "2020",
+      "pub_id": "FlYcrEcAAAAJ:qjMakFHDy7sC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 233
+      },
+      "meta": {}
+    },
+    "A distributed synchronous SGD algorithm with global Top-k sparsification for low bandwidth networks": {
+      "year": "2019",
+      "pub_id": "FlYcrEcAAAAJ:zYLM7Y9cAGgC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 228
+      },
+      "meta": {}
+    },
+    "GossipFL: A Decentralized Federated Learning Framework With Sparsified and Adaptive Communication": {
+      "year": "2022",
+      "pub_id": "FlYcrEcAAAAJ:MXK_kJrjxJIC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 222
+      },
+      "meta": {}
+    },
+    "Burstgpt: A real-world workload dataset to optimize llm serving systems": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:mB3voiENLucC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 189
+      },
+      "meta": {}
+    },
+    "Benchmarking the Performance and Energy Efficiency of AI Accelerators for AI Training": {
+      "year": "2020",
+      "pub_id": "FlYcrEcAAAAJ:9yKSN-GCB0IC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 158
+      },
+      "meta": {}
+    },
+    "Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning": {
+      "year": "2022",
+      "pub_id": "FlYcrEcAAAAJ:5nxA0vEk-isC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 153
+      },
+      "meta": {}
+    },
+    "The impact of GPU DVFS on the energy and performance of deep learning: An empirical study": {
+      "year": "2019",
+      "pub_id": "FlYcrEcAAAAJ:Tyk-4Ss8FVUC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 137
+      },
+      "meta": {}
+    },
+    "FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks": {
+      "year": "2021",
+      "pub_id": "FlYcrEcAAAAJ:WF5omc3nYNoC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 119
+      },
+      "meta": {}
+    },
+    "VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting": {
+      "year": "2024",
+      "pub_id": "FlYcrEcAAAAJ:Wp0gIr-vW9MC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 117
+      },
+      "meta": {}
+    },
+    "Pruner-Zero: Evolving Symbolic Pruning Metric from scratch for Large Language Models": {
+      "year": "2024",
+      "pub_id": "FlYcrEcAAAAJ:dhFuZR0502QC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 110
+      },
+      "meta": {}
+    },
+    "A Convergence Analysis of Distributed SGD with Communication-Efficient Gradient Sparsification.": {
+      "year": "2019",
+      "pub_id": "FlYcrEcAAAAJ:IjCSPb-OGe4C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 100
+      },
+      "meta": {}
+    },
+    "Communication-efficient decentralized learning with sparsification and adaptive peer selection": {
+      "year": "2020",
+      "pub_id": "FlYcrEcAAAAJ:UeHWp8X0CEIC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 85
+      },
+      "meta": {}
+    },
+    "MegaAgent: A large-scale autonomous LLM-based multi-agent system without predefined SOPs": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:35N4QoGY0k4C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 81
+      },
+      "meta": {}
+    },
+    "A quantitative survey of communication optimizations in distributed deep learning": {
+      "year": "2020",
+      "pub_id": "FlYcrEcAAAAJ:ufrVoPGSRksC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 71
+      },
+      "meta": {}
+    },
+    "Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models": {
+      "year": "2024",
+      "pub_id": "FlYcrEcAAAAJ:j3f4tGmQtD8C",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 67
+      },
+      "meta": {}
+    },
+    "Deep learning identifies leak in water pipeline system using transient frequency response": {
+      "year": "2021",
+      "pub_id": "FlYcrEcAAAAJ:_FxGoFyzp5QC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 65
+      },
+      "meta": {}
+    },
+    "ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:k_IJM867U9cC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 55
+      },
+      "meta": {}
+    },
+    "STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:ZeXyd9-uunAC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 53
+      },
+      "meta": {}
+    },
+    "What Limits LLM-based Human Simulation: LLMs or Our Design?": {
+      "year": "2025",
+      "pub_id": "FlYcrEcAAAAJ:bEWYMUwI8FkC",
+      "first_seen": "2026-07-19",
+      "history": {
+        "2026-07-19": 51
+      },
+      "meta": {}
+    }
+  }
+}
