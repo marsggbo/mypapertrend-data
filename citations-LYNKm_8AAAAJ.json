@@ -2735,7 +2735,24 @@
         "2026-07-19": 0,
         "2026-07-20": 0
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Classical models of opinion dynamics assume human participants with bounded rationality and limited coordination. The rise of LLM-based agents introduces a qualitative shift: agents can now participate in online discussions at scale, maintain consistent persuasion strategies, and coordinate systematically. This paper argues that LLM agents make collective belief dynamics programmable, enabling deliberate steering of population-level beliefs. We term this emerging problem programmable collective belief control. Through controlled multi-agent simulations, we provide proof-of-concept evidence that coordinated AI agents can induce measurable belief shifts that stabilize within a few interaction rounds. We identify four structural properties (indistinguishability, persistence, contextuality, and configurability) that make detection and defense fundamentally difficult. Based on these findings, we outline a research agenda spanning theoretical foundations for adversarial belief dynamics, operational methods for system-level detection and intervention, and simulation infrastructure for scalable experimentation. Our goal is not to present a complete solution, but to articulate why this problem demands urgent attention and to provide a conceptual foundation for future work.",
+        "arxiv": "2605.19915",
+        "authors": [
+          "Xin He",
+          "Jun Shen",
+          "Yuchen Mou",
+          "David M. Bossens",
+          "Caishun Chen",
+          "Ivor W. Tsang",
+          "Y. Ong"
+        ],
+        "doi": "10.48550/arXiv.2605.19915",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/47182a6f8f7fca27a6ff2b522c7296f62917c940",
+        "tldr": "This paper argues that LLM agents make collective belief dynamics programmable, enabling deliberate steering of population-level beliefs, and outlines a research agenda spanning theoretical foundations for adversarial belief dynamics, operational methods for system-level detection and intervention, and simulation infrastructure for scalable experimentation.",
+        "venue": "arXiv.org"
+      }
     },
     "动手学 AutoML：从 NAS 到大语言模型优化实战": {
       "year": "2026",
@@ -2745,7 +2762,9 @@
         "2026-07-19": 0,
         "2026-07-20": 0
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-07-20"
+      }
     }
   }
 }
