@@ -18,10 +18,15 @@
         "citations": 3292,
         "hindex": 27,
         "i10": 45
+      },
+      "2026-07-22": {
+        "citations": 3311,
+        "hindex": 27,
+        "i10": 45
       }
     }
   },
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "source": "dom",
   "papers": {
     "Deep learning identifies accurate burst locations in water distribution networks": {
@@ -31,7 +36,8 @@
       "history": {
         "2026-07-19": 283,
         "2026-07-20": 283,
-        "2026-07-21": 284
+        "2026-07-21": 284,
+        "2026-07-22": 285
       },
       "meta": {}
     },
@@ -42,7 +48,8 @@
       "history": {
         "2026-07-19": 233,
         "2026-07-20": 233,
-        "2026-07-21": 233
+        "2026-07-21": 233,
+        "2026-07-22": 233
       },
       "meta": {}
     },
@@ -53,9 +60,27 @@
       "history": {
         "2026-07-19": 228,
         "2026-07-20": 228,
-        "2026-07-21": 228
+        "2026-07-21": 228,
+        "2026-07-22": 228
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Distributed synchronous stochastic gradient descent (S-SGD) with data parallelism has been widely used in training large-scale deep neural networks (DNNs), but it typically requires very high communication bandwidth between computational workers (e.g., GPUs) to exchange gradients iteratively. Recently, Top-k sparsification techniques have been proposed to reduce the volume of data to be exchanged among workers and thus alleviate the network pressure. Top-k sparsification can zero-out a significant portion of gradients without impacting the model convergence. However, the sparse gradients should be transferred with their indices, and the irregular indices make the sparse gradients aggregation difficult. Current methods that use AllGather to accumulate the sparse gradients have a communication complexity of O(kP), where P is the number of workers, which is inefficient on low bandwidth networks with a large number of workers. We observe that not all top-k gradients from P workers are needed for the model update, and therefore we propose a novel global Top-k (gTop-k) sparsification mechanism to address the difficulty of aggregating sparse gradients. Specifically, we choose global top-k largest absolute values of gradients from P workers, instead of accumulating all local top-k gradients to update the model in each iteration. The gradient aggregation method based on gTop-k sparsification, namely gTopKAllReduce, reduces the communication complexity from O(kP) to O(k log P). Through extensive experiments on different DNNs, we verify that gTop-k S-SGD has nearly consistent convergence performance with S-SGD, and it has only slight degradations on generalization performance. In terms of scaling efficiency, we evaluate gTop-k on a cluster with 32 GPU machines which are interconnected with 1 Gbps Ethernet. The experimental results show that our method achieves 2.7-12× higher scaling efficiency than S-SGD with dense gradients and 1.1-1.7× improvement than the existing Top-k S-SGD.",
+        "arxiv": "1901.04359",
+        "authors": [
+          "S. Shi",
+          "Qiang Wang",
+          "Kaiyong Zhao",
+          "Zhenheng Tang",
+          "Yuxin Wang",
+          "Xiang Huang",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.1109/ICDCS.2019.00220",
+        "pdf": "http://arxiv.org/pdf/1901.04359",
+        "s2url": "https://www.semanticscholar.org/paper/22c844d939f755f07b4e78ab830586f10cb0fa6d",
+        "tldr": "This work proposes a novel global Top-k (gTop-k) sparsification mechanism to address the difficulty of aggregating sparse gradients, and chooses global top-k largest absolute values of gradients from P workers, instead of accumulating all local top- k gradients to update the model in each iteration.",
+        "venue": "IEEE International Conference on Distributed Computing Systems"
+      }
     },
     "GossipFL: A Decentralized Federated Learning Framework With Sparsified and Adaptive Communication": {
       "year": "2022",
@@ -64,7 +89,8 @@
       "history": {
         "2026-07-19": 222,
         "2026-07-20": 222,
-        "2026-07-21": 222
+        "2026-07-21": 222,
+        "2026-07-22": 224
       },
       "meta": {}
     },
@@ -75,7 +101,8 @@
       "history": {
         "2026-07-19": 189,
         "2026-07-20": 189,
-        "2026-07-21": 189
+        "2026-07-21": 189,
+        "2026-07-22": 189
       },
       "meta": {}
     },
@@ -86,7 +113,8 @@
       "history": {
         "2026-07-19": 158,
         "2026-07-20": 158,
-        "2026-07-21": 158
+        "2026-07-21": 158,
+        "2026-07-22": 159
       },
       "meta": {}
     },
@@ -97,7 +125,8 @@
       "history": {
         "2026-07-19": 153,
         "2026-07-20": 153,
-        "2026-07-21": 153
+        "2026-07-21": 153,
+        "2026-07-22": 154
       },
       "meta": {}
     },
@@ -108,7 +137,8 @@
       "history": {
         "2026-07-19": 137,
         "2026-07-20": 137,
-        "2026-07-21": 137
+        "2026-07-21": 137,
+        "2026-07-22": 137
       },
       "meta": {}
     },
@@ -119,7 +149,8 @@
       "history": {
         "2026-07-19": 119,
         "2026-07-20": 119,
-        "2026-07-21": 120
+        "2026-07-21": 120,
+        "2026-07-22": 120
       },
       "meta": {}
     },
@@ -130,7 +161,8 @@
       "history": {
         "2026-07-19": 117,
         "2026-07-20": 117,
-        "2026-07-21": 117
+        "2026-07-21": 117,
+        "2026-07-22": 117
       },
       "meta": {}
     },
@@ -141,7 +173,8 @@
       "history": {
         "2026-07-19": 110,
         "2026-07-20": 110,
-        "2026-07-21": 110
+        "2026-07-21": 110,
+        "2026-07-22": 110
       },
       "meta": {}
     },
@@ -152,9 +185,25 @@
       "history": {
         "2026-07-19": 100,
         "2026-07-20": 100,
-        "2026-07-21": 100
+        "2026-07-21": 100,
+        "2026-07-22": 101
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Gradient sparsification is a promising technique to significantly reduce the communication overhead in decentralized synchronous stochastic gradient descent (S-SGD) algorithms. Yet, many existing gradient sparsification schemes (e.g., Top-k sparsification) have a communication complexity of O(kP), where k is the number of selected gradients by each worker and P is the number of workers. Recently, the gTop-k sparsification scheme has been proposed to reduce the communication complexity from O(kP) to O(k logP), which significantly boosts the system scalability. However, it remains unclear whether the gTop-k sparsification scheme can converge in theory. In this paper, we first provide theoretical proofs on the convergence of the gTop-k scheme for non-convex objective functions under certain analytic assumptions. We then derive the convergence rate of gTop-k S-SGD, which is at the same order as the vanilla mini-batch SGD. Finally, we conduct extensive experiments on different machine learning models and data sets to verify the soundness of the assumptions and theoretical results, and discuss the impact of the compression ratio on the convergence performance.",
+        "arxiv": "",
+        "authors": [
+          "S. Shi",
+          "Kaiyong Zhao",
+          "Qiang Wang",
+          "Zhenheng Tang",
+          "X. Chu"
+        ],
+        "doi": "10.24963/ijcai.2019/473",
+        "pdf": "https://www.ijcai.org/proceedings/2019/0473.pdf",
+        "s2url": "https://www.semanticscholar.org/paper/966995e660c1b760ccce6e4995bd70020e7484c7",
+        "tldr": "Theoretical proofs on the convergence of the gTop-k scheme for non-convex objective functions under certain analytic assumptions are provided and the convergence rate of g top-k SSGD is derived, which is at the same order as the vanilla minibatch SGD.",
+        "venue": "International Joint Conference on Artificial Intelligence"
+      }
     },
     "Communication-efficient decentralized learning with sparsification and adaptive peer selection": {
       "year": "2020",
@@ -163,7 +212,8 @@
       "history": {
         "2026-07-19": 85,
         "2026-07-20": 85,
-        "2026-07-21": 85
+        "2026-07-21": 85,
+        "2026-07-22": 85
       },
       "meta": {}
     },
@@ -174,7 +224,8 @@
       "history": {
         "2026-07-19": 81,
         "2026-07-20": 81,
-        "2026-07-21": 81
+        "2026-07-21": 81,
+        "2026-07-22": 82
       },
       "meta": {}
     },
@@ -185,9 +236,26 @@
       "history": {
         "2026-07-19": 71,
         "2026-07-20": 71,
-        "2026-07-21": 71
+        "2026-07-21": 71,
+        "2026-07-22": 71
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Nowadays, large and complex deep learning (DL) models are increasingly trained in a distributed manner across multiple worker machines, in which extensive communications between workers pose serious scaling problems. In this article, we present a quantitative survey of communication optimization techniques for data parallel distributed DL. We first identify the major communication challenges and classify the existing solutions into three levels, namely the learning algorithm, the system architecture, and the network infrastructure. We present the state-of-the-art communication optimization techniques and conduct a comparative study of seven common lossless distributed DL methods on a 32-GPU cluster with 100Gb/s InfiniBand (IB). We show that the DL models with low model intensity (such as BERT and BERT-Large) are difficult to scale out even with the best available lossless algorithm over 100Gb/s IB; and the system architecture and scheduling algorithms have a critical impact on the scaling property. We conclude the article with discussions of open issues for further investigation.",
+        "arxiv": "",
+        "authors": [
+          "S. Shi",
+          "Zhenheng Tang",
+          "X. Chu",
+          "Chengjian Liu",
+          "Wei Wang",
+          "Bo Li"
+        ],
+        "doi": "10.1109/MNET.011.2000530",
+        "pdf": "https://arxiv.org/pdf/2005.13247",
+        "s2url": "https://www.semanticscholar.org/paper/eb85560febf519f11b47fd30c4cb6e17b7e86605",
+        "tldr": "",
+        "venue": "IEEE Network"
+      }
     },
     "Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models": {
       "year": "2024",
@@ -196,7 +264,8 @@
       "history": {
         "2026-07-19": 67,
         "2026-07-20": 67,
-        "2026-07-21": 67
+        "2026-07-21": 67,
+        "2026-07-22": 67
       },
       "meta": {}
     },
@@ -207,7 +276,8 @@
       "history": {
         "2026-07-19": 65,
         "2026-07-20": 65,
-        "2026-07-21": 66
+        "2026-07-21": 66,
+        "2026-07-22": 66
       },
       "meta": {}
     },
@@ -218,7 +288,8 @@
       "history": {
         "2026-07-19": 55,
         "2026-07-20": 55,
-        "2026-07-21": 61
+        "2026-07-21": 61,
+        "2026-07-22": 68
       },
       "meta": {}
     },
@@ -229,7 +300,8 @@
       "history": {
         "2026-07-19": 53,
         "2026-07-20": 53,
-        "2026-07-21": 53
+        "2026-07-21": 53,
+        "2026-07-22": 54
       },
       "meta": {}
     },
@@ -240,7 +312,8 @@
       "history": {
         "2026-07-19": 51,
         "2026-07-20": 51,
-        "2026-07-21": 51
+        "2026-07-21": 51,
+        "2026-07-22": 51
       },
       "meta": {}
     },
@@ -251,7 +324,8 @@
       "history": {
         "2026-07-19": 50,
         "2026-07-20": 50,
-        "2026-07-21": 50
+        "2026-07-21": 50,
+        "2026-07-22": 50
       },
       "meta": {}
     },
@@ -262,7 +336,8 @@
       "history": {
         "2026-07-19": 48,
         "2026-07-20": 48,
-        "2026-07-21": 48
+        "2026-07-21": 48,
+        "2026-07-22": 48
       },
       "meta": {}
     },
@@ -273,7 +348,8 @@
       "history": {
         "2026-07-19": 41,
         "2026-07-20": 41,
-        "2026-07-21": 41
+        "2026-07-21": 41,
+        "2026-07-22": 41
       },
       "meta": {}
     },
@@ -284,7 +360,8 @@
       "history": {
         "2026-07-19": 39,
         "2026-07-20": 39,
-        "2026-07-21": 39
+        "2026-07-21": 39,
+        "2026-07-22": 40
       },
       "meta": {}
     },
@@ -295,7 +372,8 @@
       "history": {
         "2026-07-19": 36,
         "2026-07-20": 36,
-        "2026-07-21": 36
+        "2026-07-21": 36,
+        "2026-07-22": 36
       },
       "meta": {}
     },
@@ -306,9 +384,28 @@
       "history": {
         "2026-07-19": 30,
         "2026-07-20": 30,
-        "2026-07-21": 31
+        "2026-07-21": 31,
+        "2026-07-22": 31
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Large Reasoning Models (LRMs) like DeepSeek-R1 and OpenAI-o1 have demonstrated remarkable reasoning capabilities, raising important questions about their biases in LLM-as-a-judge settings. We present a comprehensive benchmark comparing judging biases between LLMs and LRMs across both subjective preference-alignment datasets and objective fact-based datasets. Through investigation of bandwagon, authority, position, and distraction biases, we uncover four key findings: (1) despite their advanced reasoning capabilities, LRMs remain susceptible to the above biases; (2) LRMs demonstrate better robustness than LLMs specifically on fact-related datasets; (3) LRMs exhibit notable position bias, preferring options in later positions; and (4) we identify a novel\"superficial reflection bias\"where phrases mimicking reasoning (e.g.,\"wait, let me think...\") significantly influence model judgments. To address these biases, we design and evaluate three mitigation strategies: specialized system prompts that reduce judging biases by up to 19\\% in preference alignment datasets and 14\\% in fact-related datasets, in-context learning that provides up to 27\\% improvement on preference tasks but shows inconsistent results on factual tasks, and a self-reflection mechanism that reduces biases by up to 10\\% in preference datasets and 16\\% in fact-related datasets, with self-reflection proving particularly effective for LRMs. Our work provides crucial insights for developing more reliable LLM-as-a-Judge frameworks, especially as LRMs become increasingly deployed as automated judges.",
+        "arxiv": "2504.09946",
+        "authors": [
+          "Qian Wang",
+          "Z. Lou",
+          "Zhenheng Tang",
+          "Nuo Chen",
+          "Xuandong Zhao",
+          "Wenxuan Zhang",
+          "D. Song",
+          "Bingsheng He"
+        ],
+        "doi": "10.48550/arXiv.2504.09946",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/9517846ccc0ebfdcc5a0a2f26a11b1ee9bc74c27",
+        "tldr": "A comprehensive benchmark comparing judging biases between LLMs and LRMs across both subjective preference-alignment datasets and objective fact-based datasets is presented, providing crucial insights for developing more reliable LLM-as-a-Judge frameworks.",
+        "venue": "arXiv.org"
+      }
     },
     "Parzc: Parametric zero-cost proxies for efficient nas": {
       "year": "2025",
@@ -317,7 +414,8 @@
       "history": {
         "2026-07-19": 28,
         "2026-07-20": 28,
-        "2026-07-21": 28
+        "2026-07-21": 28,
+        "2026-07-22": 28
       },
       "meta": {}
     },
@@ -328,7 +426,8 @@
       "history": {
         "2026-07-19": 27,
         "2026-07-20": 27,
-        "2026-07-21": 27
+        "2026-07-21": 27,
+        "2026-07-22": 27
       },
       "meta": {}
     },
@@ -339,7 +438,8 @@
       "history": {
         "2026-07-19": 27,
         "2026-07-20": 27,
-        "2026-07-21": 27
+        "2026-07-21": 27,
+        "2026-07-22": 27
       },
       "meta": {}
     },
@@ -350,7 +450,8 @@
       "history": {
         "2026-07-19": 26,
         "2026-07-20": 26,
-        "2026-07-21": 26
+        "2026-07-21": 26,
+        "2026-07-22": 26
       },
       "meta": {}
     },
@@ -361,9 +462,12 @@
       "history": {
         "2026-07-19": 24,
         "2026-07-20": 24,
-        "2026-07-21": 24
+        "2026-07-21": 24,
+        "2026-07-22": 24
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-07-21"
+      }
     },
     "NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension": {
       "year": "2022",
@@ -372,7 +476,8 @@
       "history": {
         "2026-07-19": 24,
         "2026-07-20": 24,
-        "2026-07-21": 24
+        "2026-07-21": 24,
+        "2026-07-22": 24
       },
       "meta": {}
     },
@@ -383,7 +488,8 @@
       "history": {
         "2026-07-19": 23,
         "2026-07-20": 23,
-        "2026-07-21": 24
+        "2026-07-21": 24,
+        "2026-07-22": 24
       },
       "meta": {}
     },
@@ -394,7 +500,8 @@
       "history": {
         "2026-07-19": 22,
         "2026-07-20": 22,
-        "2026-07-21": 22
+        "2026-07-21": 22,
+        "2026-07-22": 23
       },
       "meta": {}
     },
@@ -405,7 +512,8 @@
       "history": {
         "2026-07-19": 22,
         "2026-07-20": 22,
-        "2026-07-21": 22
+        "2026-07-21": 22,
+        "2026-07-22": 23
       },
       "meta": {}
     },
@@ -416,7 +524,8 @@
       "history": {
         "2026-07-19": 21,
         "2026-07-20": 21,
-        "2026-07-21": 21
+        "2026-07-21": 21,
+        "2026-07-22": 21
       },
       "meta": {}
     },
@@ -427,7 +536,8 @@
       "history": {
         "2026-07-19": 20,
         "2026-07-20": 20,
-        "2026-07-21": 20
+        "2026-07-21": 20,
+        "2026-07-22": 20
       },
       "meta": {}
     },
@@ -438,7 +548,8 @@
       "history": {
         "2026-07-19": 17,
         "2026-07-20": 17,
-        "2026-07-21": 17
+        "2026-07-21": 17,
+        "2026-07-22": 17
       },
       "meta": {}
     },
@@ -449,7 +560,8 @@
       "history": {
         "2026-07-19": 16,
         "2026-07-20": 16,
-        "2026-07-21": 16
+        "2026-07-21": 16,
+        "2026-07-22": 16
       },
       "meta": {}
     },
@@ -460,7 +572,8 @@
       "history": {
         "2026-07-19": 15,
         "2026-07-20": 15,
-        "2026-07-21": 15
+        "2026-07-21": 15,
+        "2026-07-22": 15
       },
       "meta": {}
     },
@@ -471,9 +584,28 @@
       "history": {
         "2026-07-19": 15,
         "2026-07-20": 15,
-        "2026-07-21": 15
+        "2026-07-21": 15,
+        "2026-07-22": 15
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Current data compression methods, such as sparsification in Federated Averaging (FedAvg), effectively enhance the communication efficiency of Federated Learning (FL). However, these methods encounter challenges such as the straggler problem and diminished model performance due to heterogeneous bandwidth and non-IID (Independently and Identically Distributed) data. To address these issues, we introduce a bandwidth-aware compression framework for FL, aimed at improving communication efficiency while mitigating the problems associated with non-IID data. First, our strategy dynamically adjusts compression ratios according to bandwidth, enabling clients to upload their models at a close pace, thus exploiting the otherwise wasted time to transmit more data. Second, we identify the non-overlapped pattern of retained parameters after compression, which results in diminished client update signals due to uniformly averaged weights. Based on this finding, we propose a parameter mask to adjust the client-averaging coefficients at the parameter level, thereby more closely approximating the original updates, and improving the training convergence under heterogeneous environments. Our evaluations reveal that our method significantly boosts model accuracy, with a maximum improvement of 13% over the uncompressed FedAvg. Moreover, it achieves a 3.37 × speedup in reaching the target accuracy compared to FedAvg with a Top-K compressor, demonstrating its effectiveness in accelerating convergence with compression. The integration of common compression techniques into our framework further establishes its potential as a versatile foundation for future cross-device, communication-efficient FL research, addressing critical challenges in FL and advancing the field of distributed machine learning.",
+        "arxiv": "2408.14736",
+        "authors": [
+          "Zichen Tang",
+          "Jun-Te Huang",
+          "Rudan Yan",
+          "Yuxin Wang",
+          "Zhenheng Tang",
+          "S. Shi",
+          "Amelie Chi Zhou",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.1145/3673038.3673142",
+        "pdf": "https://dl.acm.org/doi/pdf/10.1145/3673038.3673142",
+        "s2url": "https://www.semanticscholar.org/paper/25cc0c30ec3d12453a49ebb9ae20962031e6cead",
+        "tldr": "A bandwidth-aware compression framework for FL, aimed at improving communication efficiency while mitigating the problems associated with non-IID data, and proposes a parameter mask to adjust the client-averaging coefficients at the parameter level, thereby more closely approximating the original updates, and improving the training convergence under heterogeneous environments.",
+        "venue": "International Conference on Parallel Processing"
+      }
     },
     "FedML Parrot: A Scalable Federated Learning System via Heterogeneity-aware Scheduling on Sequential and Hierarchical Training": {
       "year": "2023",
@@ -482,7 +614,8 @@
       "history": {
         "2026-07-19": 15,
         "2026-07-20": 15,
-        "2026-07-21": 15
+        "2026-07-21": 15,
+        "2026-07-22": 15
       },
       "meta": {}
     },
@@ -493,7 +626,8 @@
       "history": {
         "2026-07-19": 13,
         "2026-07-20": 13,
-        "2026-07-21": 13
+        "2026-07-21": 13,
+        "2026-07-22": 13
       },
       "meta": {}
     },
@@ -504,7 +638,8 @@
       "history": {
         "2026-07-19": 12,
         "2026-07-20": 12,
-        "2026-07-21": 12
+        "2026-07-21": 12,
+        "2026-07-22": 12
       },
       "meta": {}
     },
@@ -515,7 +650,8 @@
       "history": {
         "2026-07-19": 12,
         "2026-07-20": 12,
-        "2026-07-21": 12
+        "2026-07-21": 12,
+        "2026-07-22": 12
       },
       "meta": {}
     },
@@ -526,7 +662,8 @@
       "history": {
         "2026-07-19": 9,
         "2026-07-20": 9,
-        "2026-07-21": 9
+        "2026-07-21": 9,
+        "2026-07-22": 9
       },
       "meta": {}
     },
@@ -537,7 +674,8 @@
       "history": {
         "2026-07-19": 8,
         "2026-07-20": 8,
-        "2026-07-21": 8
+        "2026-07-21": 8,
+        "2026-07-22": 9
       },
       "meta": {}
     },
@@ -548,9 +686,29 @@
       "history": {
         "2026-07-19": 7,
         "2026-07-20": 7,
-        "2026-07-21": 7
+        "2026-07-21": 7,
+        "2026-07-22": 7
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Quantization has emerged as an effective and lightweight solution to reduce the memory footprint of the KV cache in Large Language Models. Nevertheless, minimizing the accuracy degradation caused by ultra-low-bit KV cache quantization remains a significant challenge. While scalar quantization is constrained by 1-bit bound, vector quantization exploits intra-vector correlations and enables sub-bit regimes, making it more suitable for ultra-low-bit quantization. To further mitigate quantization-induced degradation, we reveal that the degradation is highly uneven across tokens in attention quality. To investigate this unevenness, we introduce anchor score to measure each token's sensitivity to quantization. Our analysis and experiments show that preserving a small subset (1\\%) of tokens with the highest Anchor Score significantly mitigates accuracy loss under aggressive quantization. We propose AnTKV, a dual-stage framework that leverages anchor token-aware vector quantization to compress the KV cache. It combines offline token-aware centroids learning and online anchor token selection to balance compression and accuracy. To enable efficient deployment, we design an online anchor token selection kernel compatible with FlashAttention. It allows LLaMA3-8B to scale to 840K tokens on a single 80GB A100, while delivering up to $3.5\\times$ higher decoding throughput over the FP16 baseline. Experiments demonstrate that AnTKV matches or surpasses prior methods at 4-bit, and significantly reduce perplexity under ultra-low-bit quantization, achieving 6.32 at 1-bit on Mistral-7B, compared to 7.25 for CQ and 15.36 for KVQuant.",
+        "arxiv": "2506.19505",
+        "authors": [
+          "Zeyu Li",
+          "Chuanfu Xiao",
+          "Yang Wang",
+          "Xiang Liu",
+          "Zhenheng Tang",
+          "Baotong Lu",
+          "Mao Yang",
+          "Xinyu Chen",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.48550/arXiv.2506.19505",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/d9d4de72ddb0af577e332242ae3ca34772b80785",
+        "tldr": "AnTKV is proposed, a dual-stage framework that leverages anchor token-aware vector quantization to compress the KV cache and combines offline token-aware centroids learning and online anchor token selection to balance compression and accuracy.",
+        "venue": "arXiv.org"
+      }
     },
     "Ghost in the Cloud: Your Geo-Distributed Large Language Models Training is Easily Manipulated": {
       "year": "2026",
@@ -559,7 +717,8 @@
       "history": {
         "2026-07-19": 6,
         "2026-07-20": 6,
-        "2026-07-21": 6
+        "2026-07-21": 6,
+        "2026-07-22": 6
       },
       "meta": {}
     },
@@ -570,7 +729,8 @@
       "history": {
         "2026-07-19": 6,
         "2026-07-20": 6,
-        "2026-07-21": 6
+        "2026-07-21": 6,
+        "2026-07-22": 6
       },
       "meta": {}
     },
@@ -581,7 +741,8 @@
       "history": {
         "2026-07-19": 5,
         "2026-07-20": 5,
-        "2026-07-21": 5
+        "2026-07-21": 5,
+        "2026-07-22": 5
       },
       "meta": {}
     },
@@ -592,7 +753,8 @@
       "history": {
         "2026-07-19": 5,
         "2026-07-20": 5,
-        "2026-07-21": 5
+        "2026-07-21": 5,
+        "2026-07-22": 5
       },
       "meta": {}
     },
@@ -603,7 +765,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -614,7 +777,8 @@
       "history": {
         "2026-07-19": 4,
         "2026-07-20": 4,
-        "2026-07-21": 4
+        "2026-07-21": 4,
+        "2026-07-22": 4
       },
       "meta": {}
     },
@@ -625,7 +789,8 @@
       "history": {
         "2026-07-19": 4,
         "2026-07-20": 4,
-        "2026-07-21": 4
+        "2026-07-21": 4,
+        "2026-07-22": 4
       },
       "meta": {}
     },
@@ -636,7 +801,8 @@
       "history": {
         "2026-07-19": 4,
         "2026-07-20": 4,
-        "2026-07-21": 4
+        "2026-07-21": 4,
+        "2026-07-22": 4
       },
       "meta": {}
     },
@@ -647,7 +813,8 @@
       "history": {
         "2026-07-19": 2,
         "2026-07-20": 2,
-        "2026-07-21": 2
+        "2026-07-21": 2,
+        "2026-07-22": 2
       },
       "meta": {}
     },
@@ -658,9 +825,26 @@
       "history": {
         "2026-07-19": 2,
         "2026-07-20": 2,
-        "2026-07-21": 2
+        "2026-07-21": 2,
+        "2026-07-22": 2
       },
-      "meta": {}
+      "meta": {
+        "abstract": "As Large Language Models (LLMs) become more powerful and autonomous, they increasingly face conflicts and dilemmas in many scenarios. We first summarize and taxonomize these diverse conflicts. Then, we model the LLM's preferences to make different choices as a priority graph, where instructions and values are nodes, and the edges represent context-specific priorities determined by the model's output distribution. This graph reveals that a unified stable LLM alignment is very challenging, because the graph is neither static nor necessarily consistent in different contexts. Besides, it also reveals a potential vulnerability: priority hacking, where adversaries can craft deceptive contexts to manipulate the graph and bypass safety alignments. To counter this, we propose a runtime verification mechanism, enabling LLMs to query external sources to ground their context and resist manipulation. While this approach enhances robustness, we also acknowledge that many ethical and value dilemmas are philosophically irreducible, posing a long-term, open challenge for the future of AI alignment.",
+        "arxiv": "2603.15527",
+        "authors": [
+          "Zhenheng Tang",
+          "Xianglong Liu",
+          "Qian Wang",
+          "Eunsol Choi",
+          "Bo Li",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.48550/arXiv.2603.15527",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/6c55718d164058959e8907831db1eb7bc2f417f2",
+        "tldr": "A runtime verification mechanism is proposed, enabling LLMs to query external sources to ground their context and resist manipulation, and also acknowledges that many ethical and value dilemmas are philosophically irreducible, posing a long-term, open challenge for the future of AI alignment.",
+        "venue": "arXiv.org"
+      }
     },
     "Rethinking Deep Research from the Perspective of Web Content Distribution Matching": {
       "year": "2026",
@@ -669,7 +853,8 @@
       "history": {
         "2026-07-19": 2,
         "2026-07-20": 2,
-        "2026-07-21": 2
+        "2026-07-21": 2,
+        "2026-07-22": 2
       },
       "meta": {}
     },
@@ -680,7 +865,8 @@
       "history": {
         "2026-07-19": 2,
         "2026-07-20": 2,
-        "2026-07-21": 2
+        "2026-07-21": 2,
+        "2026-07-22": 2
       },
       "meta": {}
     },
@@ -691,7 +877,8 @@
       "history": {
         "2026-07-19": 2,
         "2026-07-20": 2,
-        "2026-07-21": 2
+        "2026-07-21": 2,
+        "2026-07-22": 2
       },
       "meta": {}
     },
@@ -702,7 +889,8 @@
       "history": {
         "2026-07-19": 2,
         "2026-07-20": 2,
-        "2026-07-21": 2
+        "2026-07-21": 2,
+        "2026-07-22": 2
       },
       "meta": {}
     },
@@ -713,7 +901,8 @@
       "history": {
         "2026-07-19": 1,
         "2026-07-20": 1,
-        "2026-07-21": 1
+        "2026-07-21": 1,
+        "2026-07-22": 1
       },
       "meta": {}
     },
@@ -724,7 +913,8 @@
       "history": {
         "2026-07-19": 1,
         "2026-07-20": 1,
-        "2026-07-21": 1
+        "2026-07-21": 1,
+        "2026-07-22": 1
       },
       "meta": {}
     },
@@ -735,7 +925,8 @@
       "history": {
         "2026-07-19": 1,
         "2026-07-20": 1,
-        "2026-07-21": 1
+        "2026-07-21": 1,
+        "2026-07-22": 1
       },
       "meta": {}
     },
@@ -746,7 +937,8 @@
       "history": {
         "2026-07-19": 1,
         "2026-07-20": 1,
-        "2026-07-21": 1
+        "2026-07-21": 1,
+        "2026-07-22": 1
       },
       "meta": {}
     },
@@ -757,7 +949,8 @@
       "history": {
         "2026-07-19": 1,
         "2026-07-20": 1,
-        "2026-07-21": 1
+        "2026-07-21": 1,
+        "2026-07-22": 1
       },
       "meta": {}
     },
@@ -768,7 +961,8 @@
       "history": {
         "2026-07-19": 1,
         "2026-07-20": 1,
-        "2026-07-21": 1
+        "2026-07-21": 1,
+        "2026-07-22": 1
       },
       "meta": {}
     },
@@ -779,7 +973,8 @@
       "history": {
         "2026-07-19": 1,
         "2026-07-20": 1,
-        "2026-07-21": 1
+        "2026-07-21": 1,
+        "2026-07-22": 1
       },
       "meta": {}
     },
@@ -790,7 +985,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -801,7 +997,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -812,7 +1009,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -823,7 +1021,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -834,7 +1033,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -845,7 +1045,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -856,7 +1057,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -867,7 +1069,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -878,7 +1081,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -889,7 +1093,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -900,7 +1105,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -911,7 +1117,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     },
@@ -922,7 +1129,8 @@
       "history": {
         "2026-07-19": 0,
         "2026-07-20": 0,
-        "2026-07-21": 0
+        "2026-07-21": 0,
+        "2026-07-22": 0
       },
       "meta": {}
     }
