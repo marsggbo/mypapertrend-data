@@ -104,7 +104,31 @@
         "2026-07-21": 189,
         "2026-07-22": 189
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Despite efforts to improve the quality of service (QoS) and throughput in Large Language Model (LLM) serving systems, progress is often limited by the lack of publicly available real-world workloads. Consequently, evaluations usually depend on synthetic or oversimplified load patterns, and systems that appear promising in testing frequently underperform once deployed. This work presents BurstGPT, an LLM serving workload with 10.31 million traces from regional Azure OpenAI GPT services over 213 days. BurstGPT captures LLM serving characteristics from user, model and system perspectives: (1) User request concurrency: burstiness variations of requests in Azure OpenAI GPT services, revealing diversified concurrency patterns in different services and model types. (2) User conversation patterns: counts and intervals within conversations for service optimizations. (3) Model response lengths: auto-regressive serving processes of GPT models, showing statistical relations between requests and their responses. (4) System response failures: failures of conversation and API services, showing intensive resource needs and limited availability of LLM services in Azure. The details of the characteristics can serve multiple purposes in LLM serving optimizations, such as system evaluation and trace provisioning. In our demo evaluation with BurstGPT, frequent variations in BurstGPT reveal declines in efficiency, stability, or reliability in realistic LLM serving. We identify that the generalization of KV cache management, scheduling and disaggregation optimizations can be improved under realistic workload evaluations. BurstGPT is publicly available now at https://github.com/HPMLL/BurstGPT and is widely used to develop prototypes of LLM serving frameworks in the industry.",
+        "arxiv": "2401.17644",
+        "authors": [
+          "Yuxin Wang",
+          "Yuhan Chen",
+          "Zeyu Li",
+          "Xueze Kang",
+          "Yuchu Fang",
+          "Yeju Zhou",
+          "Yang Zheng",
+          "Zhenheng Tang",
+          "Xin He",
+          "Rui Guo",
+          "Xin Wang",
+          "Qiang Wang",
+          "Amelie Chi Zhou",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.1145/3711896.3737413",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/90d5a2cb82d277586704bba3c843511e9547cf1b",
+        "tldr": "It is identified that the generalization of KV cache management, scheduling and disaggregation optimizations can be improved under realistic workload evaluations, and BurstGPT, an LLM serving workload with 10.31 million traces from regional Azure OpenAI GPT services over 213 days is presented.",
+        "venue": "Knowledge Discovery and Data Mining"
+      }
     },
     "Benchmarking the Performance and Energy Efficiency of AI Accelerators for AI Training": {
       "year": "2020",
@@ -116,7 +140,9 @@
         "2026-07-21": 158,
         "2026-07-22": 159
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-07-22"
+      }
     },
     "Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning": {
       "year": "2022",
@@ -291,7 +317,24 @@
         "2026-07-21": 61,
         "2026-07-22": 68
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Large Language Models (LLMs) require significant GPU memory when processing long texts, with the key value (KV) cache consuming up to 70\\% of total memory during inference. Although existing compression methods reduce memory by evaluating the importance of individual tokens, they overlook critical semantic relationships between tokens, resulting in fragmented context and degraded performance. We introduce ChunkKV, which fundamentally reimagines KV cache compression by treating semantic chunks - rather than isolated tokens - as basic compression units. This approach preserves complete linguistic structures and contextual integrity, ensuring that essential meaning is retained even under aggressive compression. Our innovation includes a novel layer-wise index reuse technique that exploits the higher cross-layer similarity of preserved indices in ChunkKV, reducing computational overhead and improving throughput by 26.5\\%. Comprehensive evaluations on challenging benchmarks: LongBench, Needle-In-A-HayStack, GSM8K, and JailbreakV demonstrate that ChunkKV outperforms state-of-the-art methods by up to 8.7\\% in precision while maintaining the same compression ratio. These results confirm that semantic-aware compression significantly enhances both efficiency and performance for long-context LLM inference, providing a simple yet effective solution to the memory bottleneck problem. The code is available at \\href{https://github.com/NVIDIA/kvpress}{link}.",
+        "arxiv": "2502.00299",
+        "authors": [
+          "Xiang Liu",
+          "Zhenheng Tang",
+          "Peijie Dong",
+          "Zeyu Li",
+          "Bo Li",
+          "Xuming Hu",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.48550/arXiv.2502.00299",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/ef094815dc0118c8d1cc06d4bb3aa78bae0a3877",
+        "tldr": "",
+        "venue": "arXiv.org"
+      }
     },
     "STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs": {
       "year": "2025",
@@ -503,7 +546,23 @@
         "2026-07-21": 22,
         "2026-07-22": 23
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Post-training compression reduces the computational and memory costs of large language models (LLMs), enabling resource-efficient deployment. However, existing compression benchmarks only focus on language modeling (e.g., perplexity) and natural language understanding tasks (e.g., GLUE accuracy), ignoring the agentic capabilities - workflow, tool use/function call, long-context understanding and real-world application. We introduce the Agent Compression Benchmark (ACBench), the first comprehensive benchmark for evaluating how compression impacts LLMs' agentic abilities. ACBench spans (1) 12 tasks across 4 capabilities (e.g., WorfBench for workflow generation, Needle-in-Haystack for long-context retrieval), (2) quantization (GPTQ, AWQ) and pruning (Wanda, SparseGPT), and (3) 15 models, including small (Gemma-2B), standard (Qwen2.5 7B-32B), and distilled reasoning LLMs (DeepSeek-R1-Distill). Our experiments reveal compression tradeoffs: 4-bit quantization preserves workflow generation and tool use (1%-3% drop) but degrades real-world application accuracy by 10%-15%. We introduce ERank, Top-k Ranking Correlation and Energy to systematize analysis. ACBench provides actionable insights for optimizing LLM compression in agentic scenarios. The code can be found in https://github.com/pprp/ACBench.",
+        "arxiv": "2505.19433",
+        "authors": [
+          "Peijie Dong",
+          "Zhenheng Tang",
+          "Xiang-Hong Liu",
+          "Lujun Li",
+          "Xiaowen Chu",
+          "Bo Li"
+        ],
+        "doi": "10.48550/arXiv.2505.19433",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/0aa160093f13c6c6ca444d1e72660b494e10c309",
+        "tldr": "The Agent Compression Benchmark (ACBench) is introduced, the first comprehensive benchmark for evaluating how compression impacts LLMs' agentic abilities and ERank, Top-k Ranking Correlation and Energy are introduced to systematize analysis.",
+        "venue": "International Conference on Machine Learning"
+      }
     },
     "Can LLMs Maintain Fundamental Abilities under KV Cache Compression?": {
       "year": "2025",
@@ -515,7 +574,9 @@
         "2026-07-21": 22,
         "2026-07-22": 23
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-07-22"
+      }
     },
     "Should We Really Edit Language Models? On the Evaluation of Edited Language Models": {
       "year": "2024",
@@ -1000,7 +1061,9 @@
         "2026-07-21": 0,
         "2026-07-22": 0
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-07-22"
+      }
     },
     "Enhancing Knowledge Injection with Surrounding Backgrounds in Continual Training LLMs": {
       "year": "2026",
@@ -1096,7 +1159,9 @@
         "2026-07-21": 0,
         "2026-07-22": 0
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-07-22"
+      }
     },
     "Clearing MCP Navigation Fog with Economics-Aware Hierarchical Tool Routing": {
       "year": "",
@@ -1108,7 +1173,22 @@
         "2026-07-21": 0,
         "2026-07-22": 0
       },
-      "meta": {}
+      "meta": {
+        "abstract": "",
+        "arxiv": "",
+        "authors": [
+          "Jieling Yu",
+          "Zhenheng Tang",
+          "Ruiting Zhou",
+          "‡. BaochunLi",
+          "Bo Li"
+        ],
+        "doi": "",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/0e137d7544a12348604082ab8c5515b7b8c05c03",
+        "tldr": "This paper proposes Economics-aware Hierarchical Retrieval and Routing (EHRR), a lightweight MCP co-pilot routing mechanism designed for practical MCP deployment at scale that consistently improves end-to-end task success while substantially reducing wasted routing/execution, token overhead, and tool spending.",
+        "venue": ""
+      }
     },
     "Is Privacy Always Prioritized over Learning? Probing LLMs' Value Priority Belief under External Perturbations": {
       "year": "",
