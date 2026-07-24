@@ -34,10 +34,15 @@
         "citations": 3709,
         "hindex": 14,
         "i10": 16
+      },
+      "2026-07-25": {
+        "citations": 3709,
+        "hindex": 14,
+        "i10": 16
       }
     }
   },
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "source": "dom",
   "papers": {
     "AutoML: A survey of the state-of-the-art": {
@@ -156,7 +161,8 @@
         "2026-07-21": 2812,
         "2026-07-22": 2812,
         "2026-07-23": 2814,
-        "2026-07-24": 2814
+        "2026-07-24": 2814,
+        "2026-07-25": 2814
       },
       "meta": {
         "authors": [
@@ -289,7 +295,8 @@
         "2026-07-21": 154,
         "2026-07-22": 154,
         "2026-07-23": 154,
-        "2026-07-24": 154
+        "2026-07-24": 154,
+        "2026-07-25": 154
       },
       "meta": {
         "authors": [
@@ -425,7 +432,8 @@
         "2026-07-21": 140,
         "2026-07-22": 140,
         "2026-07-23": 140,
-        "2026-07-24": 140
+        "2026-07-24": 140,
+        "2026-07-25": 140
       },
       "meta": {
         "authors": [
@@ -562,7 +570,8 @@
         "2026-07-21": 189,
         "2026-07-22": 189,
         "2026-07-23": 191,
-        "2026-07-24": 191
+        "2026-07-24": 191,
+        "2026-07-25": 191
       },
       "meta": {
         "authors": [
@@ -706,7 +715,8 @@
         "2026-07-21": 70,
         "2026-07-22": 70,
         "2026-07-23": 71,
-        "2026-07-24": 71
+        "2026-07-24": 71,
+        "2026-07-25": 71
       },
       "meta": {
         "authors": [
@@ -845,7 +855,8 @@
         "2026-07-21": 59,
         "2026-07-22": 59,
         "2026-07-23": 59,
-        "2026-07-24": 59
+        "2026-07-24": 59,
+        "2026-07-25": 59
       },
       "meta": {
         "authors": [
@@ -984,7 +995,8 @@
         "2026-07-21": 48,
         "2026-07-22": 48,
         "2026-07-23": 48,
-        "2026-07-24": 48
+        "2026-07-24": 48,
+        "2026-07-25": 48
       },
       "meta": {
         "authors": [
@@ -1125,7 +1137,8 @@
         "2026-07-21": 42,
         "2026-07-22": 42,
         "2026-07-23": 42,
-        "2026-07-24": 42
+        "2026-07-24": 42,
+        "2026-07-25": 42
       },
       "meta": {
         "authors": [
@@ -1260,7 +1273,8 @@
         "2026-07-21": 36,
         "2026-07-22": 36,
         "2026-07-23": 36,
-        "2026-07-24": 36
+        "2026-07-24": 36,
+        "2026-07-25": 36
       },
       "meta": {
         "authors": [
@@ -1401,7 +1415,8 @@
         "2026-07-21": 28,
         "2026-07-22": 28,
         "2026-07-23": 28,
-        "2026-07-24": 28
+        "2026-07-24": 28,
+        "2026-07-25": 28
       },
       "meta": {
         "authors": [
@@ -1535,7 +1550,8 @@
         "2026-07-21": 27,
         "2026-07-22": 27,
         "2026-07-23": 27,
-        "2026-07-24": 27
+        "2026-07-24": 27,
+        "2026-07-25": 27
       },
       "meta": {
         "authors": [
@@ -1679,7 +1695,8 @@
         "2026-07-21": 24,
         "2026-07-22": 24,
         "2026-07-23": 24,
-        "2026-07-24": 24
+        "2026-07-24": 24,
+        "2026-07-25": 24
       },
       "meta": {
         "authors": [
@@ -1817,7 +1834,8 @@
         "2026-07-21": 19,
         "2026-07-22": 19,
         "2026-07-23": 19,
-        "2026-07-24": 19
+        "2026-07-24": 19,
+        "2026-07-25": 19
       },
       "meta": {
         "authors": [
@@ -1958,7 +1976,8 @@
         "2026-07-21": 15,
         "2026-07-22": 15,
         "2026-07-23": 15,
-        "2026-07-24": 15
+        "2026-07-24": 15,
+        "2026-07-25": 15
       },
       "meta": {
         "authors": [
@@ -2102,7 +2121,8 @@
         "2026-07-21": 11,
         "2026-07-22": 11,
         "2026-07-23": 11,
-        "2026-07-24": 11
+        "2026-07-24": 11,
+        "2026-07-25": 11
       },
       "meta": {
         "authors": [
@@ -2234,7 +2254,8 @@
         "2026-07-21": 11,
         "2026-07-22": 11,
         "2026-07-23": 11,
-        "2026-07-24": 11
+        "2026-07-24": 11,
+        "2026-07-25": 11
       },
       "meta": {
         "authors": [
@@ -2370,7 +2391,8 @@
         "2026-07-21": 6,
         "2026-07-22": 6,
         "2026-07-23": 6,
-        "2026-07-24": 6
+        "2026-07-24": 6,
+        "2026-07-25": 6
       },
       "meta": {
         "_tried": "2026-07-19"
@@ -2492,7 +2514,8 @@
         "2026-07-21": 3,
         "2026-07-22": 3,
         "2026-07-23": 3,
-        "2026-07-24": 3
+        "2026-07-24": 3,
+        "2026-07-25": 3
       },
       "meta": {
         "authors": [
@@ -2630,7 +2653,8 @@
         "2026-07-21": 5,
         "2026-07-22": 5,
         "2026-07-23": 5,
-        "2026-07-24": 5
+        "2026-07-24": 5,
+        "2026-07-25": 5
       },
       "meta": {
         "authors": [
@@ -2729,7 +2753,8 @@
         "2026-07-21": 1,
         "2026-07-22": 1,
         "2026-07-23": 1,
-        "2026-07-24": 1
+        "2026-07-24": 1,
+        "2026-07-25": 1
       },
       "meta": {
         "authors": [
@@ -2775,7 +2800,8 @@
         "2026-07-21": 0,
         "2026-07-22": 0,
         "2026-07-23": 0,
-        "2026-07-24": 0
+        "2026-07-24": 0,
+        "2026-07-25": 0
       },
       "meta": {
         "_tried": "2026-07-19"
@@ -2829,7 +2855,8 @@
         "2026-07-21": 4,
         "2026-07-22": 4,
         "2026-07-23": 4,
-        "2026-07-24": 4
+        "2026-07-24": 4,
+        "2026-07-25": 4
       },
       "meta": {
         "_tried": "2026-07-19"
@@ -2845,7 +2872,8 @@
         "2026-07-21": 0,
         "2026-07-22": 0,
         "2026-07-23": 0,
-        "2026-07-24": 0
+        "2026-07-24": 0,
+        "2026-07-25": 0
       },
       "meta": {
         "abstract": "Classical models of opinion dynamics assume human participants with bounded rationality and limited coordination. The rise of LLM-based agents introduces a qualitative shift: agents can now participate in online discussions at scale, maintain consistent persuasion strategies, and coordinate systematically. This paper argues that LLM agents make collective belief dynamics programmable, enabling deliberate steering of population-level beliefs. We term this emerging problem programmable collective belief control. Through controlled multi-agent simulations, we provide proof-of-concept evidence that coordinated AI agents can induce measurable belief shifts that stabilize within a few interaction rounds. We identify four structural properties (indistinguishability, persistence, contextuality, and configurability) that make detection and defense fundamentally difficult. Based on these findings, we outline a research agenda spanning theoretical foundations for adversarial belief dynamics, operational methods for system-level detection and intervention, and simulation infrastructure for scalable experimentation. Our goal is not to present a complete solution, but to articulate why this problem demands urgent attention and to provide a conceptual foundation for future work.",
@@ -2876,7 +2904,8 @@
         "2026-07-21": 0,
         "2026-07-22": 0,
         "2026-07-23": 0,
-        "2026-07-24": 0
+        "2026-07-24": 0,
+        "2026-07-25": 0
       },
       "meta": {
         "_tried": "2026-07-20"
