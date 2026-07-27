@@ -24,6 +24,11 @@
         "hindex": 27,
         "i10": 45
       },
+      "2026-07-23": {
+        "citations": 3311,
+        "hindex": 27,
+        "i10": 45
+      },
       "2026-07-24": {
         "citations": 3316,
         "hindex": 27,
@@ -44,14 +49,14 @@
         "hindex": 27,
         "i10": 45
       },
-      "2026-07-23": {
-        "citations": 3311,
+      "2026-07-28": {
+        "citations": 3330,
         "hindex": 27,
         "i10": 45
       }
     }
   },
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "source": "dom",
   "papers": {
     "Deep learning identifies accurate burst locations in water distribution networks": {
@@ -67,7 +72,8 @@
         "2026-07-24": 285,
         "2026-07-25": 285,
         "2026-07-26": 285,
-        "2026-07-27": 285
+        "2026-07-27": 285,
+        "2026-07-28": 285
       },
       "meta": {
         "abstract": "Pipe bursts in water distribution networks lead to considerable water loss and pose risks of bacteria and pollutant contamination. Pipe burst localisation methods help water service providers repair the burst pipes and restore water supply timely and efficiently. Although methods have been reported on burst detection and localisation, there is a lack of studies on accurate localisation of a burst within a potential district by accessible meters. To address this, a novel Burst Location Identification Framework by Fully-linear DenseNet (BLIFF) is proposed. In this framework, additional pressure meters are placed at limited, optimised places for a short period (minutes to hours) to monitor system behaviour after the burst. The fully-linear DenseNet (FL-DenseNet) newly developed in this study modifies the state-of-the-art deep learning algorithm to effectively extract features in the limited pressure signals for accurate burst localisation. BLIFF was tested on a benchmark network with different parameter settings, which showed that accurate burst localisation results can be achieved even with high model uncertainties. The framework was also applied to a real-life network, in which 57 of the total 58 synthetic bursts in the potential burst district were correctly located when the top five most possible pipes are considered and among them, 37 were successfully located when considering only the top one. Only one failed because of the very small pipe diameter and remote location. Comparisons with DenseNet and the traditional fully linear neural network demonstrate that the framework can effectively narrow the potential burst district to one or several pipes with good robustness and applicability. Codes are available at https://github.com/wizard1203/waternn.",
@@ -101,7 +107,8 @@
         "2026-07-24": 233,
         "2026-07-25": 233,
         "2026-07-26": 233,
-        "2026-07-27": 233
+        "2026-07-27": 233,
+        "2026-07-28": 233
       },
       "meta": {
         "abstract": "",
@@ -133,7 +140,8 @@
         "2026-07-24": 228,
         "2026-07-25": 228,
         "2026-07-26": 228,
-        "2026-07-27": 228
+        "2026-07-27": 228,
+        "2026-07-28": 228
       },
       "meta": {
         "abstract": "Distributed synchronous stochastic gradient descent (S-SGD) with data parallelism has been widely used in training large-scale deep neural networks (DNNs), but it typically requires very high communication bandwidth between computational workers (e.g., GPUs) to exchange gradients iteratively. Recently, Top-k sparsification techniques have been proposed to reduce the volume of data to be exchanged among workers and thus alleviate the network pressure. Top-k sparsification can zero-out a significant portion of gradients without impacting the model convergence. However, the sparse gradients should be transferred with their indices, and the irregular indices make the sparse gradients aggregation difficult. Current methods that use AllGather to accumulate the sparse gradients have a communication complexity of O(kP), where P is the number of workers, which is inefficient on low bandwidth networks with a large number of workers. We observe that not all top-k gradients from P workers are needed for the model update, and therefore we propose a novel global Top-k (gTop-k) sparsification mechanism to address the difficulty of aggregating sparse gradients. Specifically, we choose global top-k largest absolute values of gradients from P workers, instead of accumulating all local top-k gradients to update the model in each iteration. The gradient aggregation method based on gTop-k sparsification, namely gTopKAllReduce, reduces the communication complexity from O(kP) to O(k log P). Through extensive experiments on different DNNs, we verify that gTop-k S-SGD has nearly consistent convergence performance with S-SGD, and it has only slight degradations on generalization performance. In terms of scaling efficiency, we evaluate gTop-k on a cluster with 32 GPU machines which are interconnected with 1 Gbps Ethernet. The experimental results show that our method achieves 2.7-12× higher scaling efficiency than S-SGD with dense gradients and 1.1-1.7× improvement than the existing Top-k S-SGD.",
@@ -167,7 +175,8 @@
         "2026-07-24": 224,
         "2026-07-25": 224,
         "2026-07-26": 224,
-        "2026-07-27": 224
+        "2026-07-27": 224,
+        "2026-07-28": 225
       },
       "meta": {}
     },
@@ -184,7 +193,8 @@
         "2026-07-24": 191,
         "2026-07-25": 191,
         "2026-07-26": 192,
-        "2026-07-27": 192
+        "2026-07-27": 192,
+        "2026-07-28": 194
       },
       "meta": {
         "abstract": "Despite efforts to improve the quality of service (QoS) and throughput in Large Language Model (LLM) serving systems, progress is often limited by the lack of publicly available real-world workloads. Consequently, evaluations usually depend on synthetic or oversimplified load patterns, and systems that appear promising in testing frequently underperform once deployed. This work presents BurstGPT, an LLM serving workload with 10.31 million traces from regional Azure OpenAI GPT services over 213 days. BurstGPT captures LLM serving characteristics from user, model and system perspectives: (1) User request concurrency: burstiness variations of requests in Azure OpenAI GPT services, revealing diversified concurrency patterns in different services and model types. (2) User conversation patterns: counts and intervals within conversations for service optimizations. (3) Model response lengths: auto-regressive serving processes of GPT models, showing statistical relations between requests and their responses. (4) System response failures: failures of conversation and API services, showing intensive resource needs and limited availability of LLM services in Azure. The details of the characteristics can serve multiple purposes in LLM serving optimizations, such as system evaluation and trace provisioning. In our demo evaluation with BurstGPT, frequent variations in BurstGPT reveal declines in efficiency, stability, or reliability in realistic LLM serving. We identify that the generalization of KV cache management, scheduling and disaggregation optimizations can be improved under realistic workload evaluations. BurstGPT is publicly available now at https://github.com/HPMLL/BurstGPT and is widely used to develop prototypes of LLM serving frameworks in the industry.",
@@ -225,7 +235,8 @@
         "2026-07-24": 159,
         "2026-07-25": 159,
         "2026-07-26": 159,
-        "2026-07-27": 159
+        "2026-07-27": 159,
+        "2026-07-28": 159
       },
       "meta": {
         "abstract": "Deep learning has become widely used in complex AI applications. Yet, training a deep neural network (DNNs) model requires a considerable amount of calculations, long running time, and much energy. Nowadays, many-core AI accelerators (e.g., GPUs and TPUs) are designed to improve the performance of AI training. However, processors from different vendors perform dissimilarly in terms of performance and energy consumption. To investigate the differences among several popular off-the-shelf processors (i.e., Intel CPU, NVIDIA GPU, AMD GPU, and Google TPU) in training DNNs, we carry out a comprehensive empirical study on the performance and energy efficiency of these processors1 by benchmarking a representative set of deep learning workloads, including computation-intensive operations, classical convolutional neural networks (CNNs), recurrent neural networks (LSTM), Deep Speech 2, and Transformer. Different from the existing end-to-end benchmarks which only present the training time, We try to investigate the impact of hardware, vendor's software library, and deep learning framework on the performance and energy consumption of AI training. Our evaluation methods and results not only provide an informative guide for end users to select proper AI accelerators, but also expose some opportunities for the hardware vendors to improve their software library.",
@@ -259,7 +270,8 @@
         "2026-07-24": 154,
         "2026-07-25": 154,
         "2026-07-26": 154,
-        "2026-07-27": 154
+        "2026-07-27": 154,
+        "2026-07-28": 154
       },
       "meta": {}
     },
@@ -276,7 +288,8 @@
         "2026-07-24": 137,
         "2026-07-25": 137,
         "2026-07-26": 137,
-        "2026-07-27": 137
+        "2026-07-27": 137,
+        "2026-07-28": 137
       },
       "meta": {}
     },
@@ -293,7 +306,8 @@
         "2026-07-24": 120,
         "2026-07-25": 120,
         "2026-07-26": 120,
-        "2026-07-27": 120
+        "2026-07-27": 120,
+        "2026-07-28": 120
       },
       "meta": {
         "abstract": "Federated Learning (FL) is a distributed learning paradigm that can learn a global or personalized model from decentralized datasets on edge devices. However, in the computer vision domain, model performance in FL is far behind centralized training due to the lack of exploration in diverse tasks with a unified FL framework. FL has rarely been demonstrated effectively in advanced computer vision tasks such as object detection and image segmentation. To bridge the gap and facilitate the development of FL for computer vision tasks, in this work, we propose a federated learning library and benchmarking framework, named FedCV, to evaluate FL on the three most representative computer vision tasks: image classification, image segmentation, and object detection. We provide non-I.I.D. benchmarking datasets, models, and various reference FL algorithms. Our benchmark study suggests that there are multiple challenges that deserve future exploration: centralized training tricks may not be directly applied to FL; the non-I.I.D. dataset actually downgrades the model accuracy to some degree in different tasks; improving the system efficiency of federated training is challenging given the huge number of parameters and the per-client memory cost. We believe that such a library and benchmark, along with comparable evaluation settings, is necessary to make meaningful progress in FL on computer vision tasks. FedCV is publicly available: https://github.com/FedML-AI/FedCV.",
@@ -331,7 +345,8 @@
         "2026-07-24": 118,
         "2026-07-25": 118,
         "2026-07-26": 119,
-        "2026-07-27": 119
+        "2026-07-27": 119,
+        "2026-07-28": 120
       },
       "meta": {}
     },
@@ -348,7 +363,8 @@
         "2026-07-24": 110,
         "2026-07-25": 110,
         "2026-07-26": 110,
-        "2026-07-27": 110
+        "2026-07-27": 110,
+        "2026-07-28": 110
       },
       "meta": {}
     },
@@ -365,7 +381,8 @@
         "2026-07-24": 101,
         "2026-07-25": 101,
         "2026-07-26": 101,
-        "2026-07-27": 101
+        "2026-07-27": 101,
+        "2026-07-28": 101
       },
       "meta": {
         "abstract": "Gradient sparsification is a promising technique to significantly reduce the communication overhead in decentralized synchronous stochastic gradient descent (S-SGD) algorithms. Yet, many existing gradient sparsification schemes (e.g., Top-k sparsification) have a communication complexity of O(kP), where k is the number of selected gradients by each worker and P is the number of workers. Recently, the gTop-k sparsification scheme has been proposed to reduce the communication complexity from O(kP) to O(k logP), which significantly boosts the system scalability. However, it remains unclear whether the gTop-k sparsification scheme can converge in theory. In this paper, we first provide theoretical proofs on the convergence of the gTop-k scheme for non-convex objective functions under certain analytic assumptions. We then derive the convergence rate of gTop-k S-SGD, which is at the same order as the vanilla mini-batch SGD. Finally, we conduct extensive experiments on different machine learning models and data sets to verify the soundness of the assumptions and theoretical results, and discuss the impact of the compression ratio on the convergence performance.",
@@ -397,7 +414,8 @@
         "2026-07-24": 85,
         "2026-07-25": 85,
         "2026-07-26": 85,
-        "2026-07-27": 85
+        "2026-07-27": 85,
+        "2026-07-28": 85
       },
       "meta": {
         "abstract": "The increasing size of machine learning models, especially deep neural network models, can improve the model generalization capability. However, large models require more training data and more computing resources (such as GPU clusters) to train. In distributed training, the communication overhead of exchanging gradients or models among workers becomes a potential system bottleneck that limits the system scalability. Recently, many research works aim to reduce communication time of two types of distributed deep learning architectures, centralized and decentralized.",
@@ -427,7 +445,8 @@
         "2026-07-24": 82,
         "2026-07-25": 82,
         "2026-07-26": 83,
-        "2026-07-27": 83
+        "2026-07-27": 83,
+        "2026-07-28": 83
       },
       "meta": {}
     },
@@ -444,7 +463,8 @@
         "2026-07-24": 71,
         "2026-07-25": 71,
         "2026-07-26": 71,
-        "2026-07-27": 71
+        "2026-07-27": 71,
+        "2026-07-28": 71
       },
       "meta": {
         "abstract": "Nowadays, large and complex deep learning (DL) models are increasingly trained in a distributed manner across multiple worker machines, in which extensive communications between workers pose serious scaling problems. In this article, we present a quantitative survey of communication optimization techniques for data parallel distributed DL. We first identify the major communication challenges and classify the existing solutions into three levels, namely the learning algorithm, the system architecture, and the network infrastructure. We present the state-of-the-art communication optimization techniques and conduct a comparative study of seven common lossless distributed DL methods on a 32-GPU cluster with 100Gb/s InfiniBand (IB). We show that the DL models with low model intensity (such as BERT and BERT-Large) are difficult to scale out even with the best available lossless algorithm over 100Gb/s IB; and the system architecture and scheduling algorithms have a critical impact on the scaling property. We conclude the article with discussions of open issues for further investigation.",
@@ -477,7 +497,8 @@
         "2026-07-24": 68,
         "2026-07-25": 68,
         "2026-07-26": 68,
-        "2026-07-27": 68
+        "2026-07-27": 68,
+        "2026-07-28": 68
       },
       "meta": {
         "abstract": "In this paper, we present DSA, the first automated framework for discovering sparsity allocation schemes for layer-wise pruning in Large Language Models (LLMs). LLMs have become increasingly powerful, but their large parameter counts make them computationally expensive. Existing pruning methods for compressing LLMs primarily focus on evaluating redundancies and removing element-wise weights. However, these methods fail to allocate adaptive layer-wise sparsities, leading to performance degradation in challenging tasks. We observe that per-layer importance statistics can serve as allocation indications, but their effectiveness depends on the allocation function between layers. To address this issue, we develop an expression discovery framework to explore potential allocation strategies. Our allocation functions involve two steps: reducing element-wise metrics to per-layer importance scores, and modelling layer importance to sparsity ratios. To search for the most effective allocation function, we construct a search space consisting of pre-process, reduction, transform, and post-process operations. We leverage an evolutionary algorithm to perform crossover and mutation on superior candidates within the population, guided by performance evaluation. Finally, we seamlessly integrate our discovered functions into various uniform methods, resulting in significant performance improvements. We conduct extensive experiments on multiple challenging tasks such as arithmetic, knowledge reasoning, and multimodal benchmarks spanning",
@@ -514,7 +535,8 @@
         "2026-07-24": 66,
         "2026-07-25": 66,
         "2026-07-26": 66,
-        "2026-07-27": 66
+        "2026-07-27": 66,
+        "2026-07-28": 66
       },
       "meta": {
         "abstract": "Abstract Pipeline leak identification method using transient frequency response (TFR) has been researched in the past two decades. To extend this method to a more general water pipeline system with hydraulic uncertainties, this work (1) introduces deep learning (DL) into the TFR-based leak identification framework and (2) develops extended TFR equations in matrix form for DL learning set generation. In this framework, TFR equations are firstly solved in a pre-calibrated hydraulic model of the system to extract frequency response function (FRF) for the training set preparation. Then the simulated FRFs are fed to train fully linear DenseNet (FL-DenseNet) for feature recognition. Finally, the measured FRF of the system is fed to the trained FL-DenseNet to identify a leak to a pipe in the suspected leak area. A study on a hypothetical small system shows that the proposed framework has robustness against uncertainties of friction coefficient, wave speed, and leak flow. A significant advantage is also observed over the existing method with an inaccurate model. Then the framework is applied to a larger network. Over 90% of the synthetic leaks are identified in 5 of the 149 pipes. These results presented in the paper indicate the potential of applying this framework to a water pipeline system.",
@@ -546,7 +568,8 @@
         "2026-07-24": 68,
         "2026-07-25": 68,
         "2026-07-26": 80,
-        "2026-07-27": 80
+        "2026-07-27": 80,
+        "2026-07-28": 79
       },
       "meta": {
         "abstract": "Large Language Models (LLMs) require significant GPU memory when processing long texts, with the key value (KV) cache consuming up to 70\\% of total memory during inference. Although existing compression methods reduce memory by evaluating the importance of individual tokens, they overlook critical semantic relationships between tokens, resulting in fragmented context and degraded performance. We introduce ChunkKV, which fundamentally reimagines KV cache compression by treating semantic chunks - rather than isolated tokens - as basic compression units. This approach preserves complete linguistic structures and contextual integrity, ensuring that essential meaning is retained even under aggressive compression. Our innovation includes a novel layer-wise index reuse technique that exploits the higher cross-layer similarity of preserved indices in ChunkKV, reducing computational overhead and improving throughput by 26.5\\%. Comprehensive evaluations on challenging benchmarks: LongBench, Needle-In-A-HayStack, GSM8K, and JailbreakV demonstrate that ChunkKV outperforms state-of-the-art methods by up to 8.7\\% in precision while maintaining the same compression ratio. These results confirm that semantic-aware compression significantly enhances both efficiency and performance for long-context LLM inference, providing a simple yet effective solution to the memory bottleneck problem. The code is available at \\href{https://github.com/NVIDIA/kvpress}{link}.",
@@ -580,7 +603,8 @@
         "2026-07-24": 54,
         "2026-07-25": 54,
         "2026-07-26": 54,
-        "2026-07-27": 54
+        "2026-07-27": 54,
+        "2026-07-28": 54
       },
       "meta": {}
     },
@@ -597,7 +621,8 @@
         "2026-07-24": 51,
         "2026-07-25": 51,
         "2026-07-26": 51,
-        "2026-07-27": 51
+        "2026-07-27": 51,
+        "2026-07-28": 51
       },
       "meta": {}
     },
@@ -614,7 +639,8 @@
         "2026-07-24": 50,
         "2026-07-25": 50,
         "2026-07-26": 50,
-        "2026-07-27": 50
+        "2026-07-27": 50,
+        "2026-07-28": 50
       },
       "meta": {}
     },
@@ -631,7 +657,8 @@
         "2026-07-24": 48,
         "2026-07-25": 48,
         "2026-07-26": 48,
-        "2026-07-27": 48
+        "2026-07-27": 48,
+        "2026-07-28": 47
       },
       "meta": {}
     },
@@ -648,7 +675,8 @@
         "2026-07-24": 41,
         "2026-07-25": 41,
         "2026-07-26": 41,
-        "2026-07-27": 41
+        "2026-07-27": 41,
+        "2026-07-28": 41
       },
       "meta": {
         "_tried": "2026-07-26"
@@ -667,7 +695,8 @@
         "2026-07-24": 41,
         "2026-07-25": 41,
         "2026-07-26": 41,
-        "2026-07-27": 41
+        "2026-07-27": 41,
+        "2026-07-28": 41
       },
       "meta": {
         "abstract": "One-shot Federated Learning (OFL) significantly reduces communication costs in FL by aggregating trained models only once. However, the performance of advanced OFL methods is far behind the normal FL. In this work, we provide a causal view to find that this performance drop of OFL methods comes from the isolation problem, which means that local isolatedly trained models in OFL may easily fit to spurious correlations due to the data heterogeneity. From the causal perspective, we observe that the spurious fitting can be alleviated by augmenting intermediate features from other clients. Built upon our observation, we propose a novel learning approach to endow OFL with superb performance and low communication and storage costs, termed as FuseFL. Specifically, FuseFL decomposes neural networks into several blocks, and progressively trains and fuses each block following a bottom-up manner for feature augmentation, introducing no additional communication costs. Comprehensive experiments demonstrate that FuseFL outperforms existing OFL and ensemble FL by a significant margin. We conduct comprehensive experiments to show that FuseFL supports high scalability of clients, heterogeneous model training, and low memory costs. Our work is the first attempt using causality to analyze and alleviate data heterogeneity of OFL.",
@@ -701,7 +730,8 @@
         "2026-07-24": 36,
         "2026-07-25": 36,
         "2026-07-26": 36,
-        "2026-07-27": 36
+        "2026-07-27": 36,
+        "2026-07-28": 36
       },
       "meta": {
         "abstract": "",
@@ -738,7 +768,8 @@
         "2026-07-24": 31,
         "2026-07-25": 31,
         "2026-07-26": 31,
-        "2026-07-27": 31
+        "2026-07-27": 31,
+        "2026-07-28": 31
       },
       "meta": {
         "abstract": "Large Reasoning Models (LRMs) like DeepSeek-R1 and OpenAI-o1 have demonstrated remarkable reasoning capabilities, raising important questions about their biases in LLM-as-a-judge settings. We present a comprehensive benchmark comparing judging biases between LLMs and LRMs across both subjective preference-alignment datasets and objective fact-based datasets. Through investigation of bandwagon, authority, position, and distraction biases, we uncover four key findings: (1) despite their advanced reasoning capabilities, LRMs remain susceptible to the above biases; (2) LRMs demonstrate better robustness than LLMs specifically on fact-related datasets; (3) LRMs exhibit notable position bias, preferring options in later positions; and (4) we identify a novel\"superficial reflection bias\"where phrases mimicking reasoning (e.g.,\"wait, let me think...\") significantly influence model judgments. To address these biases, we design and evaluate three mitigation strategies: specialized system prompts that reduce judging biases by up to 19\\% in preference alignment datasets and 14\\% in fact-related datasets, in-context learning that provides up to 27\\% improvement on preference tasks but shows inconsistent results on factual tasks, and a self-reflection mechanism that reduces biases by up to 10\\% in preference datasets and 16\\% in fact-related datasets, with self-reflection proving particularly effective for LRMs. Our work provides crucial insights for developing more reliable LLM-as-a-Judge frameworks, especially as LRMs become increasingly deployed as automated judges.",
@@ -773,7 +804,8 @@
         "2026-07-24": 28,
         "2026-07-25": 28,
         "2026-07-26": 28,
-        "2026-07-27": 28
+        "2026-07-27": 28,
+        "2026-07-28": 28
       },
       "meta": {}
     },
@@ -790,7 +822,8 @@
         "2026-07-24": 27,
         "2026-07-25": 27,
         "2026-07-26": 27,
-        "2026-07-27": 27
+        "2026-07-27": 27,
+        "2026-07-28": 27
       },
       "meta": {
         "abstract": "",
@@ -825,7 +858,8 @@
         "2026-07-24": 27,
         "2026-07-25": 27,
         "2026-07-26": 27,
-        "2026-07-27": 27
+        "2026-07-27": 27,
+        "2026-07-28": 27
       },
       "meta": {
         "abstract": "Skin disease is one of the most common types of human diseases, which may happen to everyone regardless of age, gender or race. Due to the high visual diversity, human diagnosis highly relies on personal experience; and there is a serious shortage of experienced dermatologists in many countries. To alleviate this problem, computer-aided diagnosis with state-of-the-art (SOTA) machine learning techniques would be a promising solution. In this paper, we aim at understanding the performance of convolutional neural network (CNN) based approaches. We first build two versions of skin disease datasets from Internet images: (a) Skin -10, which contains 10 common classes of skin disease with a total of 10,218 images; (b) Skin -100, which is a larger dataset that consists of 19,807 images of 100 skin disease classes. Based on these datasets, we benchmark several SOTA CNN models and show that the accuracy of skin -100 is much lower than the accuracy of skin -10. We then implement an ensemble method based on several CNN models and achieve the best accuracy of 79.01% for Skin -10 and 53.54% for Skin -100. We also present an object detection based approach by introducing bounding boxes into the Skin -10 dataset. Our results show that object detection can help improve the accuracy of some skin disease classes.",
@@ -866,7 +900,8 @@
         "2026-07-24": 26,
         "2026-07-25": 26,
         "2026-07-26": 27,
-        "2026-07-27": 27
+        "2026-07-27": 27,
+        "2026-07-28": 27
       },
       "meta": {
         "abstract": "Recent large language models (LLMs) have tended to leverage sparsity to reduce computations, employing the sparsely activated mixture-of-experts (MoE) technique. MoE introduces four modules, including token routing, token communication, expert computation, and expert parallelism, that impact model quality and training efficiency. To enable ver- satile usage of MoE models, we introduce FSMoE, a flexible training system optimizing task scheduling with three novel techniques: 1) Unified abstraction and online profiling of MoE modules for task scheduling across various MoE implementations. 2) Co-scheduling intra-node and inter-node communications with computations to minimize communication overheads. 3) To support near-optimal task scheduling, we design an adaptive gradient partitioning method for gradient aggregation and a schedule to adaptively pipeline communications and computations. We conduct extensive experiments with configured MoE layers and real-world MoE models on two GPU clusters. Experimental results show that 1) our FSMoE supports four popular types of MoE routing functions and is more efficient than existing implementations (with up to a 1.42× speedup), and 2) FSMoE outperforms the state-of-the-art MoE training systems (DeepSpeed-MoE and Tutel) by 1.18×-1.22× on 1458 MoE layers and 1.19×-3.01× on real-world MoE models based on GPT-2 and Mixtral using a popular routing function. In this work, we present a flexible training system named FSMoE to optimize task scheduling. To achieve this goal: 1) we design unified abstraction and online profiling of MoE modules across various MoE implementations, 2) we co-schedule intra-node and inter-node communications with computations to minimize communication overhead, and 3) we design an adaptive gradient partitioning method for gradient aggregation and a schedule to adaptively pipeline communications and computations. Experimental results on two clusters up to 48 GPUs show that our FSMoE outperforms the state-of-the-art MoE training systems (DeepSpeed-MoE and Tutel) with speedups of 1.18x-1.22x on 1458 customized MoE layers and 1.19x-3.01x on real-world MoE models based on GPT-2 and Mixtral.",
@@ -901,7 +936,8 @@
         "2026-07-24": 24,
         "2026-07-25": 24,
         "2026-07-26": 24,
-        "2026-07-27": 24
+        "2026-07-27": 24,
+        "2026-07-28": 23
       },
       "meta": {
         "_tried": "2026-07-21"
@@ -920,7 +956,8 @@
         "2026-07-24": 24,
         "2026-07-25": 24,
         "2026-07-26": 24,
-        "2026-07-27": 24
+        "2026-07-27": 24,
+        "2026-07-28": 24
       },
       "meta": {}
     },
@@ -937,7 +974,8 @@
         "2026-07-24": 24,
         "2026-07-25": 24,
         "2026-07-26": 25,
-        "2026-07-27": 25
+        "2026-07-27": 25,
+        "2026-07-28": 24
       },
       "meta": {}
     },
@@ -954,7 +992,8 @@
         "2026-07-24": 23,
         "2026-07-25": 23,
         "2026-07-26": 23,
-        "2026-07-27": 23
+        "2026-07-27": 23,
+        "2026-07-28": 22
       },
       "meta": {
         "abstract": "Post-training compression reduces the computational and memory costs of large language models (LLMs), enabling resource-efficient deployment. However, existing compression benchmarks only focus on language modeling (e.g., perplexity) and natural language understanding tasks (e.g., GLUE accuracy), ignoring the agentic capabilities - workflow, tool use/function call, long-context understanding and real-world application. We introduce the Agent Compression Benchmark (ACBench), the first comprehensive benchmark for evaluating how compression impacts LLMs' agentic abilities. ACBench spans (1) 12 tasks across 4 capabilities (e.g., WorfBench for workflow generation, Needle-in-Haystack for long-context retrieval), (2) quantization (GPTQ, AWQ) and pruning (Wanda, SparseGPT), and (3) 15 models, including small (Gemma-2B), standard (Qwen2.5 7B-32B), and distilled reasoning LLMs (DeepSeek-R1-Distill). Our experiments reveal compression tradeoffs: 4-bit quantization preserves workflow generation and tool use (1%-3% drop) but degrades real-world application accuracy by 10%-15%. We introduce ERank, Top-k Ranking Correlation and Energy to systematize analysis. ACBench provides actionable insights for optimizing LLM compression in agentic scenarios. The code can be found in https://github.com/pprp/ACBench.",
@@ -987,7 +1026,8 @@
         "2026-07-24": 23,
         "2026-07-25": 23,
         "2026-07-26": 23,
-        "2026-07-27": 23
+        "2026-07-27": 23,
+        "2026-07-28": 23
       },
       "meta": {
         "_tried": "2026-07-22"
@@ -1006,7 +1046,8 @@
         "2026-07-24": 21,
         "2026-07-25": 21,
         "2026-07-26": 22,
-        "2026-07-27": 22
+        "2026-07-27": 22,
+        "2026-07-28": 21
       },
       "meta": {}
     },
@@ -1023,7 +1064,8 @@
         "2026-07-24": 20,
         "2026-07-25": 20,
         "2026-07-26": 20,
-        "2026-07-27": 20
+        "2026-07-27": 20,
+        "2026-07-28": 22
       },
       "meta": {
         "abstract": "Simulation powered by Large Language Models (LLMs) has become a promising method for exploring complex human social behaviors. However, the application of LLMs in simulations presents significant challenges, particularly regarding their capacity to accurately replicate the complexities of human behaviors and societal dynamics, as evidenced by recent studies highlighting discrepancies between simulated and real-world interactions. We rethink LLM-based simulations by emphasizing both their limitations and the necessities for advancing LLM simulations. By critically examining these challenges, we aim to offer actionable insights and strategies for enhancing the applicability of LLM simulations in human society in the future.",
@@ -1053,7 +1095,8 @@
         "2026-07-24": 17,
         "2026-07-25": 17,
         "2026-07-26": 17,
-        "2026-07-27": 17
+        "2026-07-27": 17,
+        "2026-07-28": 17
       },
       "meta": {}
     },
@@ -1070,7 +1113,8 @@
         "2026-07-24": 16,
         "2026-07-25": 16,
         "2026-07-26": 16,
-        "2026-07-27": 16
+        "2026-07-27": 16,
+        "2026-07-28": 16
       },
       "meta": {}
     },
@@ -1087,7 +1131,8 @@
         "2026-07-24": 15,
         "2026-07-25": 15,
         "2026-07-26": 15,
-        "2026-07-27": 15
+        "2026-07-27": 15,
+        "2026-07-28": 15
       },
       "meta": {}
     },
@@ -1104,7 +1149,8 @@
         "2026-07-24": 15,
         "2026-07-25": 15,
         "2026-07-26": 15,
-        "2026-07-27": 15
+        "2026-07-27": 15,
+        "2026-07-28": 15
       },
       "meta": {
         "abstract": "Current data compression methods, such as sparsification in Federated Averaging (FedAvg), effectively enhance the communication efficiency of Federated Learning (FL). However, these methods encounter challenges such as the straggler problem and diminished model performance due to heterogeneous bandwidth and non-IID (Independently and Identically Distributed) data. To address these issues, we introduce a bandwidth-aware compression framework for FL, aimed at improving communication efficiency while mitigating the problems associated with non-IID data. First, our strategy dynamically adjusts compression ratios according to bandwidth, enabling clients to upload their models at a close pace, thus exploiting the otherwise wasted time to transmit more data. Second, we identify the non-overlapped pattern of retained parameters after compression, which results in diminished client update signals due to uniformly averaged weights. Based on this finding, we propose a parameter mask to adjust the client-averaging coefficients at the parameter level, thereby more closely approximating the original updates, and improving the training convergence under heterogeneous environments. Our evaluations reveal that our method significantly boosts model accuracy, with a maximum improvement of 13% over the uncompressed FedAvg. Moreover, it achieves a 3.37 × speedup in reaching the target accuracy compared to FedAvg with a Top-K compressor, demonstrating its effectiveness in accelerating convergence with compression. The integration of common compression techniques into our framework further establishes its potential as a versatile foundation for future cross-device, communication-efficient FL research, addressing critical challenges in FL and advancing the field of distributed machine learning.",
@@ -1139,7 +1185,8 @@
         "2026-07-24": 15,
         "2026-07-25": 15,
         "2026-07-26": 15,
-        "2026-07-27": 15
+        "2026-07-27": 15,
+        "2026-07-28": 15
       },
       "meta": {
         "_tried": "2026-07-26"
@@ -1158,7 +1205,8 @@
         "2026-07-24": 13,
         "2026-07-25": 13,
         "2026-07-26": 13,
-        "2026-07-27": 13
+        "2026-07-27": 13,
+        "2026-07-28": 12
       },
       "meta": {}
     },
@@ -1175,7 +1223,8 @@
         "2026-07-24": 12,
         "2026-07-25": 12,
         "2026-07-26": 12,
-        "2026-07-27": 12
+        "2026-07-27": 12,
+        "2026-07-28": 12
       },
       "meta": {}
     },
@@ -1192,7 +1241,8 @@
         "2026-07-24": 12,
         "2026-07-25": 12,
         "2026-07-26": 12,
-        "2026-07-27": 12
+        "2026-07-27": 12,
+        "2026-07-28": 12
       },
       "meta": {}
     },
@@ -1209,7 +1259,8 @@
         "2026-07-24": 9,
         "2026-07-25": 9,
         "2026-07-26": 9,
-        "2026-07-27": 9
+        "2026-07-27": 9,
+        "2026-07-28": 9
       },
       "meta": {}
     },
@@ -1226,7 +1277,8 @@
         "2026-07-24": 9,
         "2026-07-25": 9,
         "2026-07-26": 9,
-        "2026-07-27": 9
+        "2026-07-27": 9,
+        "2026-07-28": 9
       },
       "meta": {}
     },
@@ -1243,7 +1295,8 @@
         "2026-07-24": 7,
         "2026-07-25": 7,
         "2026-07-26": 7,
-        "2026-07-27": 7
+        "2026-07-27": 7,
+        "2026-07-28": 7
       },
       "meta": {
         "abstract": "Quantization has emerged as an effective and lightweight solution to reduce the memory footprint of the KV cache in Large Language Models. Nevertheless, minimizing the accuracy degradation caused by ultra-low-bit KV cache quantization remains a significant challenge. While scalar quantization is constrained by 1-bit bound, vector quantization exploits intra-vector correlations and enables sub-bit regimes, making it more suitable for ultra-low-bit quantization. To further mitigate quantization-induced degradation, we reveal that the degradation is highly uneven across tokens in attention quality. To investigate this unevenness, we introduce anchor score to measure each token's sensitivity to quantization. Our analysis and experiments show that preserving a small subset (1\\%) of tokens with the highest Anchor Score significantly mitigates accuracy loss under aggressive quantization. We propose AnTKV, a dual-stage framework that leverages anchor token-aware vector quantization to compress the KV cache. It combines offline token-aware centroids learning and online anchor token selection to balance compression and accuracy. To enable efficient deployment, we design an online anchor token selection kernel compatible with FlashAttention. It allows LLaMA3-8B to scale to 840K tokens on a single 80GB A100, while delivering up to $3.5\\times$ higher decoding throughput over the FP16 baseline. Experiments demonstrate that AnTKV matches or surpasses prior methods at 4-bit, and significantly reduce perplexity under ultra-low-bit quantization, achieving 6.32 at 1-bit on Mistral-7B, compared to 7.25 for CQ and 15.36 for KVQuant.",
@@ -1279,7 +1332,8 @@
         "2026-07-24": 6,
         "2026-07-25": 6,
         "2026-07-26": 6,
-        "2026-07-27": 6
+        "2026-07-27": 6,
+        "2026-07-28": 6
       },
       "meta": {}
     },
@@ -1296,7 +1350,8 @@
         "2026-07-24": 6,
         "2026-07-25": 6,
         "2026-07-26": 6,
-        "2026-07-27": 6
+        "2026-07-27": 6,
+        "2026-07-28": 6
       },
       "meta": {
         "_tried": "2026-07-24"
@@ -1315,7 +1370,8 @@
         "2026-07-24": 5,
         "2026-07-25": 5,
         "2026-07-26": 5,
-        "2026-07-27": 5
+        "2026-07-27": 5,
+        "2026-07-28": 4
       },
       "meta": {
         "abstract": "The growth of large language models (LLMs) increases challenges of accelerating distributed training across multiple GPUs in different data centers. Moreover, concerns about data privacy and data exhaustion have heightened interest in geo-distributed data centers. Communication in geo-distributed data parallel training (DDP) with stochastic gradient descent (S-SGD) is the main bottleneck in low-bandwidth environments. Local SGD mitigates communication overhead by reducing synchronization frequency, and recent studies have successfully applied it to geo-distributedly pre-train LLMs. However, we identify that its model synchronization mechanism prevents overlapping communication and computation, which makes the system lose opportunities to overlap communication and computation. To overcome this limitation, we expand the design space of local SGD by layer-wisely decoupling model synchronization. In each iteration, only some layers are synchronized instead of the entire model after a specific number of iterations. Leveraging this methodology, we introduce DreamDDP, a training framework to accelerate low-bandwidth distributed training with three key innovations: (1) partial local SGD with theoretical assurances of convergence rates comparable to S-SGD; (2) overlapping parameter synchronization with computation without extra GPU memory occupation; (3) identifying and exploiting three properties to schedule the communication and computation to reduce the training time based on fine-grained profiling of layer-wise communication and computation time. Empirical evaluations conducted on 32 GPUs using prominent deep learning models, including ResNet-18, ResNet-50, GPT-2, and Llama-2, demonstrate that DreamDDP enhances the convergence properties of Local SGD (and Adam) and achieves speedups ranging from $1.49\\times$ to $3.91\\times$ over leading baseline methods.",
@@ -1352,7 +1408,8 @@
         "2026-07-24": 5,
         "2026-07-25": 5,
         "2026-07-26": 5,
-        "2026-07-27": 5
+        "2026-07-27": 5,
+        "2026-07-28": 5
       },
       "meta": {}
     },
@@ -1369,7 +1426,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {}
     },
@@ -1386,7 +1444,8 @@
         "2026-07-24": 4,
         "2026-07-25": 4,
         "2026-07-26": 3,
-        "2026-07-27": 3
+        "2026-07-27": 3,
+        "2026-07-28": 3
       },
       "meta": {}
     },
@@ -1403,7 +1462,8 @@
         "2026-07-24": 4,
         "2026-07-25": 4,
         "2026-07-26": 4,
-        "2026-07-27": 4
+        "2026-07-27": 4,
+        "2026-07-28": 4
       },
       "meta": {
         "_tried": "2026-07-24"
@@ -1422,7 +1482,8 @@
         "2026-07-24": 4,
         "2026-07-25": 4,
         "2026-07-26": 4,
-        "2026-07-27": 4
+        "2026-07-27": 4,
+        "2026-07-28": 3
       },
       "meta": {}
     },
@@ -1439,7 +1500,8 @@
         "2026-07-24": 2,
         "2026-07-25": 2,
         "2026-07-26": 2,
-        "2026-07-27": 2
+        "2026-07-27": 2,
+        "2026-07-28": 2
       },
       "meta": {}
     },
@@ -1456,7 +1518,8 @@
         "2026-07-24": 2,
         "2026-07-25": 2,
         "2026-07-26": 2,
-        "2026-07-27": 2
+        "2026-07-27": 2,
+        "2026-07-28": 2
       },
       "meta": {
         "abstract": "As Large Language Models (LLMs) become more powerful and autonomous, they increasingly face conflicts and dilemmas in many scenarios. We first summarize and taxonomize these diverse conflicts. Then, we model the LLM's preferences to make different choices as a priority graph, where instructions and values are nodes, and the edges represent context-specific priorities determined by the model's output distribution. This graph reveals that a unified stable LLM alignment is very challenging, because the graph is neither static nor necessarily consistent in different contexts. Besides, it also reveals a potential vulnerability: priority hacking, where adversaries can craft deceptive contexts to manipulate the graph and bypass safety alignments. To counter this, we propose a runtime verification mechanism, enabling LLMs to query external sources to ground their context and resist manipulation. While this approach enhances robustness, we also acknowledge that many ethical and value dilemmas are philosophically irreducible, posing a long-term, open challenge for the future of AI alignment.",
@@ -1489,7 +1552,8 @@
         "2026-07-24": 2,
         "2026-07-25": 2,
         "2026-07-26": 2,
-        "2026-07-27": 2
+        "2026-07-27": 2,
+        "2026-07-28": 2
       },
       "meta": {}
     },
@@ -1506,7 +1570,8 @@
         "2026-07-24": 2,
         "2026-07-25": 2,
         "2026-07-26": 2,
-        "2026-07-27": 2
+        "2026-07-27": 2,
+        "2026-07-28": 2
       },
       "meta": {}
     },
@@ -1523,7 +1588,8 @@
         "2026-07-24": 2,
         "2026-07-25": 2,
         "2026-07-26": 2,
-        "2026-07-27": 2
+        "2026-07-27": 2,
+        "2026-07-28": 2
       },
       "meta": {
         "abstract": "To efficiently scale large model (LM) training, researchers transition from data parallelism (DP) to hybrid parallelism (HP) on GPU clusters, which frequently experience hardware and software failures. Existing works introduce in-memory checkpointing optimizations that snapshot parameters to device memory for rapid failure recovery. However, these methods introduce severe resource competition between checkpointing and training, which can work under DP but can hardly scale under resource-intensive HP. To ensure low checkpointing overhead for hybrid-parallel training, this paper introduces a distributed in-memory checkpointing system with near-zero in-memory saving overhead. It strives from two aspects to mitigate the on-host resource competition caused by in-memory checkpointing: (1) It introduces Hierarchical Asynchronous Snapshotting Coordination in the checkpoint saving stage. This approach uses three-level asynchronous on-device scheduling to enhance parallelism between snapshotting and training, thereby minimizing snapshotting overhead. (2) It proposes Hybrid In-memory Checkpoint Protection to enhance checkpoint completeness during hardware failures. Unlike methods that require inter-node communications, which may block training under HP, it creates intra-node redundancy with efficient resource utilization, protecting training against hardware failures with minimal overhead. With these methods, this work enables fast restart for failed HP training with Distributed In-memory Checkpoint Loading, bypassing inefficiencies in NFS reads. In our evaluation, we achieve zero in-memory checkpoint saving overhead on Frontier while training Llama-2-34B on 256 MI250X devices (512 GPUs).",
@@ -1561,7 +1627,8 @@
         "2026-07-24": 2,
         "2026-07-25": 2,
         "2026-07-26": 2,
-        "2026-07-27": 2
+        "2026-07-27": 2,
+        "2026-07-28": 2
       },
       "meta": {
         "abstract": "In recent years, distributed deep learning techniques are widely deployed to accelerate the training of deep learning models by exploiting multiple computing nodes. However, the extensive communications among workers dramatically limit the system scalability. In this article, we provide a systematic survey of communication-efficient distributed deep learning. Specifically, we first identify the communication challenges in distributed deep learning. Then we summarize the state-of-the-art techniques in this direction, and provide a taxonomy with three levels: optimization algorithm, system architecture, and communication infrastructure. Afterwards, we present a comparative study on seven different distributed deep learning techniques on a 32-GPU cluster with both 10Gbps Ethernet and 100Gbps InfiniBand. We finally discuss some challenges and open issues for possible future investigations.",
@@ -1594,7 +1661,8 @@
         "2026-07-24": 1,
         "2026-07-25": 1,
         "2026-07-26": 1,
-        "2026-07-27": 1
+        "2026-07-27": 1,
+        "2026-07-28": 1
       },
       "meta": {}
     },
@@ -1611,7 +1679,8 @@
         "2026-07-24": 1,
         "2026-07-25": 1,
         "2026-07-26": 1,
-        "2026-07-27": 1
+        "2026-07-27": 1,
+        "2026-07-28": 1
       },
       "meta": {}
     },
@@ -1628,7 +1697,8 @@
         "2026-07-24": 1,
         "2026-07-25": 1,
         "2026-07-26": 1,
-        "2026-07-27": 1
+        "2026-07-27": 1,
+        "2026-07-28": 1
       },
       "meta": {
         "abstract": "Training large language models using 4-bit arithmetic enhances throughput and memory efficiency. Yet, the limited dynamic range of FP4 increases sensitivity to outliers. While NVFP4 mitigates quantization error via hierarchical microscaling, a persistent loss gap remains compared to BF16. This study conducts a longitudinal analysis of outlier dynamics across architecture during NVFP4 pretraining, focusing on where they localize, why they occur, and how they evolve temporally. We find that, compared with Softmax Attention (SA), Linear Attention (LA) reduces per-tensor heavy tails but still exhibits persistent block-level spikes under block quantization. Our analysis attributes outliers to specific architectural components: Softmax in SA, gating in LA, and SwiGLU in FFN, with\"post-QK\"operations exhibiting higher sensitivity to quantization. Notably, outliers evolve from transient spikes early in training to a small set of persistent hot channels (i.e., channels with persistently large magnitudes) in later stages. Based on these findings, we introduce Hot-Channel Patch (HCP), an online compensation mechanism that identifies hot channels and reinjects residuals using hardware-efficient kernels. We then develop CHON, an NVFP4 training recipe integrating HCP with post-QK operation protection. On GLA-1.3B model trained for 60B tokens, CHON reduces the loss gap to BF16 from 0.94% to 0.58% while maintaining downstream accuracy.",
@@ -1669,7 +1739,8 @@
         "2026-07-24": 1,
         "2026-07-25": 1,
         "2026-07-26": 1,
-        "2026-07-27": 1
+        "2026-07-27": 1,
+        "2026-07-28": 1
       },
       "meta": {
         "_tried": "2026-07-24"
@@ -1688,7 +1759,8 @@
         "2026-07-24": 1,
         "2026-07-25": 1,
         "2026-07-26": 1,
-        "2026-07-27": 1
+        "2026-07-27": 1,
+        "2026-07-28": 1
       },
       "meta": {}
     },
@@ -1705,7 +1777,8 @@
         "2026-07-24": 1,
         "2026-07-25": 1,
         "2026-07-26": 1,
-        "2026-07-27": 1
+        "2026-07-27": 1,
+        "2026-07-28": 1
       },
       "meta": {}
     },
@@ -1722,7 +1795,8 @@
         "2026-07-24": 1,
         "2026-07-25": 1,
         "2026-07-26": 1,
-        "2026-07-27": 1
+        "2026-07-27": 1,
+        "2026-07-28": 1
       },
       "meta": {}
     },
@@ -1739,7 +1813,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {}
     },
@@ -1756,7 +1831,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {
         "_tried": "2026-07-22"
@@ -1775,7 +1851,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {
         "_tried": "2026-07-24"
@@ -1794,7 +1871,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {}
     },
@@ -1811,7 +1889,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {}
     },
@@ -1828,7 +1907,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {}
     },
@@ -1845,7 +1925,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {}
     },
@@ -1862,7 +1943,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {}
     },
@@ -1879,7 +1961,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {
         "_tried": "2026-07-24"
@@ -1898,7 +1981,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {
         "_tried": "2026-07-22"
@@ -1917,7 +2001,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {
         "abstract": "",
@@ -1949,7 +2034,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {}
     },
@@ -1966,7 +2052,8 @@
         "2026-07-24": 0,
         "2026-07-25": 0,
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {}
     },
@@ -1976,7 +2063,8 @@
       "first_seen": "2026-07-26",
       "history": {
         "2026-07-26": 0,
-        "2026-07-27": 0
+        "2026-07-27": 0,
+        "2026-07-28": 0
       },
       "meta": {
         "abstract": "Deep research agents increasingly operate over the open web, where relevant records coexist with redundant summaries, outdated reports, and misleading documents. Existing evaluations offer limited insight into whether agents preserve sound evidential standards when an ordinary-looking false document is deliberately seeded into a searchable environment and offers a direct shortcut to a conflicting answer. We introduce DRNOISE, a 100-task benchmark for answer recovery under misleading evidence. Each task has a unique gold answer supported by two corroborating indirect record chains; the paired noisy condition adds one plausible document that states a conflicting answer directly. The benchmark spans ten families of evidence operations. Across agents with strong clean-task performance, this single intervention causes 66-88 percentage-point accuracy drops. Trace analyses identify verification inertia as the dominant failure mode: agents often retrieve truthful records but stop before completing and reconciling the evidence chain, instead deferring to the answer-like document. Generic verification prompts reduce but do not close this gap. The setting is especially relevant to open-web deployment, where plausible falsehoods arrive through ordinary-looking pages rather than explicit attacks. Reliable deep research therefore requires more than retrieval and citation; it requires active reconciliation of direct claims with record-level evidence.",
