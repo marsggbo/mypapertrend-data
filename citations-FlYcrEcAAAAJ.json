@@ -24,11 +24,6 @@
         "hindex": 27,
         "i10": 45
       },
-      "2026-07-23": {
-        "citations": 3311,
-        "hindex": 27,
-        "i10": 45
-      },
       "2026-07-24": {
         "citations": 3316,
         "hindex": 27,
@@ -56,6 +51,11 @@
       },
       "2026-07-29": {
         "citations": 3330,
+        "hindex": 27,
+        "i10": 45
+      },
+      "2026-07-23": {
+        "citations": 3311,
         "hindex": 27,
         "i10": 45
       }
@@ -1484,7 +1484,20 @@
         "2026-07-29": 6
       },
       "meta": {
-        "_tried": "2026-07-24"
+        "abstract": "",
+        "arxiv": "",
+        "authors": [
+          "Qian Wang",
+          "Yuchen Gao",
+          "Zhenheng Tang",
+          "B. Luo",
+          "Bingsheng He"
+        ],
+        "doi": "10.48550/arXiv.2410.12464",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/e40dbeea4123e49ec7cf19f6430a935bebdf8a25",
+        "tldr": "A multi-agent framework is introduced, FS-ReasoningAgent, which enables LLMs to recognize and learn from both factual and subjective reasoning, and demonstrates that this framework enhances LLM trading performance in cryptocurrency markets.",
+        "venue": "arXiv.org"
       }
     },
     "DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization": {
@@ -1601,7 +1614,34 @@
         "2026-07-29": 4
       },
       "meta": {
-        "_tried": "2026-07-24"
+        "abstract": "Large-scale LLM pretraining now runs across $10^5$--$10^6$ accelerators, making failures routine and elasticity mandatory. We posit that an elastic-native training system must jointly deliver (i) parameter consistency, (ii) low mean time to recovery (MTTR), (iii) high post-change throughput, and (iv) computation consistency. No prior system achieves all four simultaneously. To achieve these goals, we present ElasWave, which delivers per-step fault tolerance via multi-dimensional scheduling across graph, dataflow, DVFS, and RNG. ElasWave reshapes and reshards micro-batches while preserving the global batch size and gradient scale. It performs online pipeline resharding with asynchronous parameter migration and interleaves ZeRO partitions, reducing parameter recovery processes to disjoint rank-to-rank transfers. It further leverages DVFS to absorb pipeline bubbles and reshards RNG to keep computation consistency. Together, a dynamic communicator enables in-place communication group edits, while per-step in-memory snapshots support online verification and redistribution. We evaluate ElasWave on 96 NPUs and benchmark it against state-of-the-art baselines: throughput improves by $1.35\\times$ over ReCycle and $1.60\\times$ over TorchFT; communicator recovery completes within one second (up to $82\\times/3.6\\times$ faster than full/partial rebuilds); migration MTTR drops by as much as $51\\%$; and convergence deviation is reduced by approximately $78\\%$.",
+        "arxiv": "2510.00606",
+        "authors": [
+          "Xueze Kang",
+          "Guangyu Xiang",
+          "Yuxin Wang",
+          "Hao Zhang",
+          "Yuchu Fang",
+          "Yuhang Zhou",
+          "Zhenheng Tang",
+          "Youhui Lv",
+          "Eliran Maman",
+          "Mark Wasserman",
+          "Alon Zameret",
+          "Zhipeng Bian",
+          "Shushu Chen",
+          "Zhiyou Yu",
+          "Jin Wang",
+          "Xiaoyu Wu",
+          "Yang Zheng",
+          "Chen Tian",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.48550/arXiv.2510.00606",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/ea141113edcfdc8c9f5a5ceab2e8ac393a017ecb",
+        "tldr": "ElasWave is presented, which delivers per-step fault tolerance via multi-dimensional scheduling across graph, dataflow, DVFS, DVFS, and RNG and performs online pipeline resharding with asynchronous parameter migration and interleaves ZeRO partitions, reducing parameter recovery processes to disjoint rank-to-rank transfers.",
+        "venue": "arXiv.org"
       }
     },
     "Towards Evaluting Fake Reasoning Bias in Language Models": {
@@ -1889,7 +1929,22 @@
         "2026-07-29": 1
       },
       "meta": {
-        "_tried": "2026-07-24"
+        "abstract": "The mixture-of-experts (MoE) architecture scales model size with sublinear computational increase but suffers from memory-intensive inference due to KV caches and sparse expert activation. Recent disaggregated expert parallelism (DEP) distributes attention and experts to dedicated GPU groups but lacks support for shared experts and efficient task scheduling, limiting performance. We propose FinDEP, a fine-grained task scheduling algorithm for DEP that maximizes task overlap to improve MoE inference throughput. FinDEP introduces three innovations: 1) partitioning computation/communication into smaller tasks for fine-grained pipelining, 2) formulating a scheduling optimization supporting variable granularity and ordering, and 3) developing an efficient solver for this large search space. Experiments on four GPU systems with DeepSeek-V2 and Qwen3-MoE show FinDEP improves throughput by up to 1.61x over prior methods, achieving up to 1.24x speedup on a 32-GPU system.",
+        "arxiv": "2512.21487",
+        "authors": [
+          "Xinglin Pan",
+          "Shaohuai Shi",
+          "Wen-Jing Lin",
+          "Yuxin Wang",
+          "Zhenheng Tang",
+          "Wei Wang",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.48550/arXiv.2512.21487",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/d9a022a97fac83e3606ec78e72dab857451dcc28",
+        "tldr": "FinDEP is proposed, a fine-grained task scheduling algorithm for DEP that maximizes task overlap to improve MoE inference throughput and introduces three innovations: partitioning computation/communication into smaller tasks for fine-grained pipelining, formulating a scheduling optimization supporting variable granularity and ordering, and developing an efficient solver for this large search space.",
+        "venue": "arXiv.org"
       }
     },
     "Privacy-Preserving Large-Scale Set Intersection: An Efficient Method With Enhanced Security": {
