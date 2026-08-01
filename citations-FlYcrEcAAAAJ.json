@@ -24,11 +24,6 @@
         "hindex": 27,
         "i10": 45
       },
-      "2026-07-23": {
-        "citations": 3311,
-        "hindex": 27,
-        "i10": 45
-      },
       "2026-07-24": {
         "citations": 3316,
         "hindex": 27,
@@ -64,7 +59,7 @@
         "hindex": 27,
         "i10": 45
       },
-      "2026-07-31": {
+      "2026-08-01": {
         "citations": 3330,
         "hindex": 27,
         "i10": 45
@@ -74,7 +69,12 @@
         "hindex": 27,
         "i10": 45
       },
-      "2026-08-01": {
+      "2026-07-23": {
+        "citations": 3311,
+        "hindex": 27,
+        "i10": 45
+      },
+      "2026-07-31": {
         "citations": 3330,
         "hindex": 27,
         "i10": 45
@@ -1755,7 +1755,22 @@
         "2026-08-02": 9
       },
       "meta": {
-        "_tried": "2026-07-29"
+        "abstract": "In spite of the outstanding performance, Neural Architecture Search (NAS) is criticized for massive computation. Recently, Zero-shot NAS has emerged as a promising approach by exploiting Zero-cost (ZC) proxies, which markedly reduce computational demands. Despite this, existing ZC proxies heavily rely on expert knowledge and incur significant trial-and-error costs. Particularly in NLP tasks, most existing ZC proxies fail to surpass the performance of the naive baseline. To address these challenges, we introduce a novel framework, \\textbf{LPZero}, which is the first to automatically design ZC proxies for various tasks, achieving higher ranking consistency than human-designed proxies. Specifically, we model the ZC proxy as a symbolic equation and incorporate a unified proxy search space that encompasses existing ZC proxies, which are composed of a predefined set of mathematical symbols. To heuristically search for the best ZC proxy, LPZero incorporates genetic programming to find the optimal symbolic composition. We propose a \\textit{Rule-based Pruning Strategy (RPS),} which preemptively eliminates unpromising proxies, thereby mitigating the risk of proxy degradation. Extensive experiments on FlexiBERT, GPT-2, and LLaMA-7B demonstrate LPZero's superior ranking ability and performance on downstream tasks compared to current approaches.",
+        "arxiv": "2410.04808",
+        "authors": [
+          "Peijie Dong",
+          "Lujun Li",
+          "Xiang Liu",
+          "Zhenheng Tang",
+          "Xuebo Liu",
+          "Qiang Wang",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.48550/arXiv.2410.04808",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/bfa88a06c137b8152c72574ac89f7f3d2719bb29",
+        "tldr": "LPZero introduces a novel framework, which is the first to automatically design ZC proxies for various tasks, achieving higher ranking consistency than human-designed proxies, and proposes a Rule-based Pruning Strategy (RPS) which preemptively eliminates unpromising proxies, thereby mitigating the risk of proxy degradation.",
+        "venue": "Conference on Empirical Methods in Natural Language Processing"
       }
     },
     "AnTKV: Anchor Token-Aware Sub-Bit Vector Quantization for KV Cache in Large Language Models": {
