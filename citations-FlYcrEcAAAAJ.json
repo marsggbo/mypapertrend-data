@@ -24,11 +24,6 @@
         "hindex": 27,
         "i10": 45
       },
-      "2026-07-23": {
-        "citations": 3311,
-        "hindex": 27,
-        "i10": 45
-      },
       "2026-07-24": {
         "citations": 3316,
         "hindex": 27,
@@ -64,7 +59,7 @@
         "hindex": 27,
         "i10": 45
       },
-      "2026-07-31": {
+      "2026-08-01": {
         "citations": 3330,
         "hindex": 27,
         "i10": 45
@@ -79,7 +74,12 @@
         "hindex": 28,
         "i10": 46
       },
-      "2026-08-01": {
+      "2026-07-23": {
+        "citations": 3311,
+        "hindex": 27,
+        "i10": 45
+      },
+      "2026-07-31": {
         "citations": 3330,
         "hindex": 27,
         "i10": 45
@@ -1134,7 +1134,22 @@
         "2026-08-03": 29
       },
       "meta": {
-        "_tried": "2026-07-30"
+        "abstract": "Recent advancements in Zero-shot Neural Architecture Search (NAS) highlight the ability of zero-cost proxies in identifying superior architecture. However, we identify a critical issue with current zero-cost proxies: they aggregate node-wise zero-cost statistics without considering that not all nodes in a neural network equally impact performance estimation. Our observations reveal that node-wise zero-cost statistics significantly vary in their contributions to performance, with each node exhibiting a degree of uncertainty. Based on this insight, we introduce a novel method called Parametric Zero-Cost Proxies (ParZC) framework to enhance the adaptability of zero-cost proxies through parameterization. To address the node indiscrimination, we propose a Mixer Architecture with Bayesian Network (MABN) to explore the node-wise zero-cost statistics and estimate node-specific uncertainty. Moreover, we propose DiffKendall as a loss function to improve ranking consistency. Comprehensive experiments on NAS-Bench-101, 201, and NDS demonstrate the superiority of our proposed ParZC compared to existing zero-shot NAS methods. Additionally, we demonstrate the versatility and adaptability of ParZC on Vision Transformer search space.",
+        "arxiv": "2402.02105",
+        "authors": [
+          "Peijie Dong",
+          "Lujun Li",
+          "Xinglin Pan",
+          "Zimian Wei",
+          "Xiang Liu",
+          "Qiang Wang",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.48550/arXiv.2402.02105",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/51bb697294134b1982e38875c9ad31a5db8e30e2",
+        "tldr": "This work introduces a novel method called Parametric Zero-Cost Proxies (ParZC) framework to enhance the adaptability of zero-cost proxies through parameterization and proposes a Mixer Architecture with Bayesian Network to explore the node-wise zero-cost statistics and estimate node-specific uncertainty.",
+        "venue": "AAAI Conference on Artificial Intelligence"
       }
     },
     "Data Resampling for Federated Learning with Non-IID Labels": {
@@ -2530,7 +2545,20 @@
         "2026-08-03": 1
       },
       "meta": {
-        "_tried": "2026-07-30"
+        "abstract": "Academic peer review remains the cornerstone of scholarly validation, yet the field faces some challenges in data and methods. From the data perspective, existing research is hindered by the scarcity of large-scale, verified benchmarks and oversimplified evaluation metrics that fail to reflect real-world editorial workflows. To bridge this gap, we present OmniReview, a comprehensive dataset constructed by integrating multi-source academic platforms encompassing comprehensive scholarly profiles through the disambiguation pipeline, yielding 202, 756 verified review records. Based on this data, we introduce a three-tier hierarchical evaluaion framework to assess recommendations from recall to precise expert identification. From the method perspective, existing embedding-based approaches suffer from the information bottleneck of semantic compression and limited interpretability. To resolve these method limitations, we propose Profiling Scholars with Multi-gate Mixture-of-Experts (Pro-MMoE), a novel framework that synergizes Large Language Models (LLMs) with Multi-task Learning. Specifically, it utilizes LLM-generated semantic profiles to preserve fine-grained expertise nuances and interpretability, while employing a Task-Adaptive MMoE architecture to dynamically balance conflicting evaluation goals. Comprehensive experiments demonstrate that Pro-MMoE achieves state-of-the-art performance across six of seven metrics, establishing a new benchmark for realistic reviewer recommendation.",
+        "arxiv": "2602.08896",
+        "authors": [
+          "Yehua Huang",
+          "Penglei Sun",
+          "Zebin Chen",
+          "Zhenheng Tang",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.48550/arXiv.2602.08896",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/afe85a66480f141b110c630cee611c14ed588d5d",
+        "tldr": "This work presents OmniReview, a comprehensive dataset constructed by integrating multi-source academic platforms encompassing comprehensive scholarly profiles through the disambiguation pipeline, yielding 202, 756 verified review records, and proposes Profiling Scholars with Multi-gate Mixture-of-Experts (Pro-MMoE), a novel framework that synergizes Large Language Models with Multi-task Learning.",
+        "venue": "arXiv.org"
       }
     },
     "Dissecting Outlier Dynamics in LLM NVFP4 Pretraining": {
@@ -2729,7 +2757,25 @@
         "2026-08-03": 13
       },
       "meta": {
-        "_tried": "2026-07-30"
+        "abstract": "",
+        "arxiv": "",
+        "authors": [
+          "Yuanbing Zhu",
+          "Zhenheng Tang",
+          "Xiang-Hong Liu",
+          "Ang Li",
+          "Bo Li",
+          "Xiaowen Chu",
+          "†. BoHan",
+          "Niah MultiKey",
+          "Niah MultiQuery",
+          "Niah MultiValue"
+        ],
+        "doi": "",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/285c703584d797e71885a6cf3ce87864bbba8ab9",
+        "tldr": "This paper proposes OracleKV for question-independent KV cache eviction, which operates by steering model’s attention with an oracle guidance containing surface-level statistics of user preferences from large-scale real-world dialogues, allowing seam-less integration with other eviction algorithms in a plug-and-play manner.",
+        "venue": ""
       }
     },
     "GreenMoE: Exploiting Dynamic Load Imbalance for Energy-Efficient Long-Context MoE Training": {
