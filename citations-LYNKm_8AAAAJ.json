@@ -3161,7 +3161,21 @@
       "history": {
         "2026-08-02": 28
       },
-      "meta": {}
+      "meta": {
+        "abstract": "The COVID-19 pandemic has threatened global health. Many studies have applied deep convolutional neural networks (CNN) to recognize COVID-19 based on chest 3D computed tomography (CT). Recent works show that no model generalizes well across CT datasets from different countries, and manually designing models for specific datasets requires expertise;thus, neural architecture search (NAS) that aims to search models automatically has become an attractive solution. To reduce the search cost on large 3D CT datasets, most NAS-based works use the weight-sharing (WS) strategy to make all models share weights within a supernet;however, WS inevitably incurs search instability, leading to inaccurate model estimation. In this work, we propose an efficient Evolutionary Multi-objective ARchitecture Search (EMARS) framework. We propose a new objective, namely potential, which can help exploit promising models to indirectly reduce the number of models involved in weights training, thus alleviating search instability. We demonstrate that under objectives of accuracy and potential, EMARS can balance exploitation and exploration, i.e., reducing search time and finding better models. Our searched models are small and perform better than prior works on three public COVID-19 3D CT datasets.",
+        "arxiv": "2101.10667",
+        "authors": [
+          "Xinfu He",
+          "Guohao Ying",
+          "Jiyong Zhang",
+          "X. Chu"
+        ],
+        "doi": "10.1007/978-3-031-16431-6_53",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/a3bae64030dd675701b9a65e6920ba4ca9110b9f",
+        "tldr": "This work proposes an efficient Evolutionary Multi-objective ARchitecture Search (EMARS) framework, and demonstrates that under objectives of accuracy and potential, EMARS can balance exploitation and exploration, i.e., reducing search time and finding better models.",
+        "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention"
+      }
     },
     "Computer-aided clinical skin disease diagnosis using cnn and object detection models": {
       "year": "2019",
@@ -3170,7 +3184,31 @@
       "history": {
         "2026-08-02": 27
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Skin disease is one of the most common types of human diseases, which may happen to everyone regardless of age, gender or race. Due to the high visual diversity, human diagnosis highly relies on personal experience; and there is a serious shortage of experienced dermatologists in many countries. To alleviate this problem, computer-aided diagnosis with state-of-the-art (SOTA) machine learning techniques would be a promising solution. In this paper, we aim at understanding the performance of convolutional neural network (CNN) based approaches. We first build two versions of skin disease datasets from Internet images: (a) Skin -10, which contains 10 common classes of skin disease with a total of 10,218 images; (b) Skin -100, which is a larger dataset that consists of 19,807 images of 100 skin disease classes. Based on these datasets, we benchmark several SOTA CNN models and show that the accuracy of skin -100 is much lower than the accuracy of skin -10. We then implement an ensemble method based on several CNN models and achieve the best accuracy of 79.01% for Skin -10 and 53.54% for Skin -100. We also present an object detection based approach by introducing bounding boxes into the Skin -10 dataset. Our results show that object detection can help improve the accuracy of some skin disease classes.",
+        "arxiv": "1911.08705",
+        "authors": [
+          "Xin He",
+          "Xin He",
+          "Shihao Wang",
+          "S. Shi",
+          "Zhenheng Tang",
+          "Yuxin Wang",
+          "Zhihao Zhao",
+          "Jing Dai",
+          "Ronghao Ni",
+          "Xiaofeng Zhang",
+          "Xiaoming Liu",
+          "Zhiliang Wu",
+          "Wu Yu",
+          "X. Chu"
+        ],
+        "doi": "10.1109/BigData47090.2019.9006528",
+        "pdf": "https://arxiv.org/pdf/1911.08705",
+        "s2url": "https://www.semanticscholar.org/paper/584c88b519ea159523a1500e67f5ded2010e57c7",
+        "tldr": "The results show that object detection can help improve the accuracy of some skin disease classes and an object detection based approach by introducing bounding boxes into the Skin -10 dataset is presented.",
+        "venue": "2019 IEEE International Conference on Big Data (Big Data)"
+      }
     }
   }
 }
