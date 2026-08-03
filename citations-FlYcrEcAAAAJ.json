@@ -1571,6 +1571,25 @@
         "2026-08-03": 18
       },
       "meta": {
+        "abstract": "",
+        "arxiv": "",
+        "authors": [
+          "Yuxin Wang",
+          "S. Shi",
+          "Xin He",
+          "Zhenheng Tang",
+          "Xinglin Pan",
+          "Yang Zheng",
+          "Xiaoyu Wu",
+          "Amelie Chi Zhou",
+          "Bingsheng He",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.48550/arXiv.2310.12670",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/b9246bf02675a349bfb02298b32ecd68f4bdc195",
+        "tldr": "",
+        "venue": "arXiv.org",
         "_tried": "2026-07-31"
       }
     },
@@ -2367,7 +2386,21 @@
         "2026-08-03": 2
       },
       "meta": {
-        "_tried": "2026-07-31"
+        "abstract": "Despite the integration of search tools, Deep Search Agents often suffer from a misalignment between reasoning-driven queries and the underlying web indexing structures. Existing frameworks treat the search engine as a static utility, leading to queries that are either too coarse or too granular to retrieve precise evidence. We propose WeDas, a Web Content Distribution Aware framework that incorporates search-space structural characteristics into the agent's observation space. Central to our method is the Query-Result Alignment Score, a metric quantifying the compatibility between agent intent and retrieval outcomes. To overcome the intractability of indexing the dynamic web, we introduce a few-shot probing mechanism that iteratively estimates this score via limited query accesses, allowing the agent to dynamically recalibrate sub-goals based on the local content landscape. As a plug-and-play module, WeDas consistently improves sub-goal completion and accuracy across four benchmarks, effectively bridging the gap between high-level reasoning and low-level retrieval.",
+        "arxiv": "2603.07241",
+        "authors": [
+          "Zixuan Yu",
+          "Zhenheng Tang",
+          "Tongliang Liu",
+          "Chengqi Zhang",
+          "Xiaowen Chu",
+          "Bo Han"
+        ],
+        "doi": "10.48550/arXiv.2603.07241",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/b1235a0cbe0c8af79840ed69e4849e2f454fcea4",
+        "tldr": "This work proposes WeDas, a Web Content Distribution Aware framework that incorporates search-space structural characteristics into the agent's observation space, and introduces a few-shot probing mechanism that iteratively estimates this score via limited query accesses, allowing the agent to dynamically recalibrate sub-goals based on the local content landscape.",
+        "venue": "arXiv.org"
       }
     },
     "Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression": {
@@ -2717,6 +2750,7 @@
         "2026-08-03": 1
       },
       "meta": {
+        "_tried": "2026-08-03",
         "abstract": "",
         "arxiv": "",
         "authors": [
