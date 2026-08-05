@@ -24,11 +24,6 @@
         "hindex": 27,
         "i10": 45
       },
-      "2026-07-23": {
-        "citations": 3311,
-        "hindex": 27,
-        "i10": 45
-      },
       "2026-07-24": {
         "citations": 3316,
         "hindex": 27,
@@ -64,11 +59,6 @@
         "hindex": 27,
         "i10": 45
       },
-      "2026-07-31": {
-        "citations": 3330,
-        "hindex": 27,
-        "i10": 45
-      },
       "2026-08-01": {
         "citations": 3330,
         "hindex": 27,
@@ -93,6 +83,16 @@
         "citations": 3397,
         "hindex": 28,
         "i10": 46
+      },
+      "2026-07-23": {
+        "citations": 3311,
+        "hindex": 27,
+        "i10": 45
+      },
+      "2026-07-31": {
+        "citations": 3330,
+        "hindex": 27,
+        "i10": 45
       }
     }
   },
@@ -1676,7 +1676,6 @@
         "2026-08-05": 18
       },
       "meta": {
-        "_tried": "2026-07-31",
         "abstract": "",
         "arxiv": "",
         "authors": [
@@ -1695,7 +1694,8 @@
         "pdf": "",
         "s2url": "https://www.semanticscholar.org/paper/b9246bf02675a349bfb02298b32ecd68f4bdc195",
         "tldr": "",
-        "venue": "arXiv.org"
+        "venue": "arXiv.org",
+        "_tried": "2026-07-31"
       }
     },
     "Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing": {
@@ -2709,7 +2709,26 @@
         "2026-08-05": 1
       },
       "meta": {
-        "_tried": "2026-08-03"
+        "abstract": "Despite the rapid advancements in Vision-Language Models (VLMs), a critical gap remains in their ability to handle structured, controllable diagrammatic tasks essential for professional workflows. Existing methods predominantly rely on pixel-based synthesis, which operates in probabilistic pixel spaces and is inherently limited in editability and fidelity. Instead, we propose a new Diagram-as-Code paradigm with symbolic logic that leverages mxGraph Extensible Markup Language (XML) for precise diagram generation and editing. We present VCG-Bench, a unified benchmark for visual-centric \\texttt{mxGraph} tasks. VCG-Bench comprises: (1) a taxonomized dataset of 1,449 diverse diagrams spanning 6 domains and 15 sub-domains, (2) a paradigm definition that integrates Generation (Vision-to-Code) and Editability (Code-to-Code), (3) a Tailored Evaluation Protocol employing multi-dimensional metrics such as \\texttt{mxGraph} Execution Success Rate, Style Consistency Score (SCS), etc. Experimental results highlight the challenges faced by current State-of-the-Art (SOTA) VLMs in structured fidelity and instruction compliance, reflecting their vision and reasoning capabilities.",
+        "arxiv": "2605.15677",
+        "authors": [
+          "Xiaoyan Su",
+          "Peijie Dong",
+          "Zhenheng Tang",
+          "Song Tang",
+          "Yuyao Zhai",
+          "Kaitao Lin",
+          "Liang Chen",
+          "Yuhang Gai",
+          "Yuyu Luo",
+          "Qiang Wang",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.48550/arXiv.2605.15677",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/de2d9a8a7b5ce1038235912087f0f872c7167fa0",
+        "tldr": "This work proposes a new Diagram-as-Code paradigm with symbolic logic that leverages mxGraph Extensible Markup Language (XML) for precise diagram generation and editing, and presents VCG-Bench, a unified benchmark for visual-centric \\texttt{mxGraph} tasks.",
+        "venue": "arXiv.org"
       }
     },
     "OmniReview: A Large-scale Benchmark and LLM-enhanced Framework for Realistic Reviewer Recommendation": {
