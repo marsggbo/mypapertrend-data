@@ -24,11 +24,6 @@
         "hindex": 27,
         "i10": 45
       },
-      "2026-07-23": {
-        "citations": 3311,
-        "hindex": 27,
-        "i10": 45
-      },
       "2026-07-24": {
         "citations": 3316,
         "hindex": 27,
@@ -64,11 +59,6 @@
         "hindex": 27,
         "i10": 45
       },
-      "2026-07-31": {
-        "citations": 3330,
-        "hindex": 27,
-        "i10": 45
-      },
       "2026-08-01": {
         "citations": 3330,
         "hindex": 27,
@@ -98,6 +88,16 @@
         "citations": 3397,
         "hindex": 28,
         "i10": 46
+      },
+      "2026-07-23": {
+        "citations": 3311,
+        "hindex": 27,
+        "i10": 45
+      },
+      "2026-07-31": {
+        "citations": 3330,
+        "hindex": 27,
+        "i10": 45
       }
     }
   },
@@ -1719,7 +1719,6 @@
         "2026-08-06": 18
       },
       "meta": {
-        "_tried": "2026-07-31",
         "abstract": "",
         "arxiv": "",
         "authors": [
@@ -1738,7 +1737,8 @@
         "pdf": "",
         "s2url": "https://www.semanticscholar.org/paper/b9246bf02675a349bfb02298b32ecd68f4bdc195",
         "tldr": "",
-        "venue": "arXiv.org"
+        "venue": "arXiv.org",
+        "_tried": "2026-07-31"
       }
     },
     "Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing": {
