@@ -129,23 +129,23 @@
         "hindex": 29,
         "i10": 46
       },
-      "2026-08-13": {
-        "citations": 3450,
-        "hindex": 29,
-        "i10": 46
-      },
       "2026-08-14": {
         "citations": 3449,
         "hindex": 29,
         "i10": 46
       },
-      "2026-08-15": {
-        "citations": 3461,
+      "2026-08-16": {
+        "citations": 3470,
         "hindex": 29,
         "i10": 46
       },
-      "2026-08-16": {
-        "citations": 3470,
+      "2026-08-13": {
+        "citations": 3450,
+        "hindex": 29,
+        "i10": 46
+      },
+      "2026-08-15": {
+        "citations": 3461,
         "hindex": 29,
         "i10": 46
       }
@@ -2149,6 +2149,7 @@
         "2026-08-16": 18
       },
       "meta": {
+        "_tried": "2026-07-31",
         "abstract": "",
         "arxiv": "",
         "authors": [
@@ -2167,8 +2168,7 @@
         "pdf": "",
         "s2url": "https://www.semanticscholar.org/paper/b9246bf02675a349bfb02298b32ecd68f4bdc195",
         "tldr": "",
-        "venue": "arXiv.org",
-        "_tried": "2026-07-31"
+        "venue": "arXiv.org"
       }
     },
     "Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing": {
@@ -2923,7 +2923,7 @@
         "2026-08-05": 0,
         "2026-08-06": 0,
         "2026-08-07": 0,
-        "2026-08-08": 4,
+        "2026-08-08": 0,
         "2026-08-09": 0,
         "2026-08-10": 0,
         "2026-08-11": 0,
@@ -4461,7 +4461,6 @@
         "2026-08-16": 16
       },
       "meta": {
-        "_tried": "2026-08-12",
         "abstract": "",
         "arxiv": "",
         "authors": [
@@ -4479,7 +4478,8 @@
         "pdf": "",
         "s2url": "https://www.semanticscholar.org/paper/1f2a59ddbd8cf71266e931505d86338e53c8234b",
         "tldr": "",
-        "venue": "IEEE transactions on computers"
+        "venue": "IEEE transactions on computers",
+        "_tried": "2026-08-12"
       }
     },
     "Clonemem: Benchmarking long-term memory for ai clones": {
