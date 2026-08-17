@@ -129,18 +129,8 @@
         "hindex": 29,
         "i10": 46
       },
-      "2026-08-13": {
-        "citations": 3450,
-        "hindex": 29,
-        "i10": 46
-      },
       "2026-08-14": {
         "citations": 3449,
-        "hindex": 29,
-        "i10": 46
-      },
-      "2026-08-15": {
-        "citations": 3461,
         "hindex": 29,
         "i10": 46
       },
@@ -156,6 +146,16 @@
       },
       "2026-08-18": {
         "citations": 3482,
+        "hindex": 29,
+        "i10": 46
+      },
+      "2026-08-13": {
+        "citations": 3450,
+        "hindex": 29,
+        "i10": 46
+      },
+      "2026-08-15": {
+        "citations": 3461,
         "hindex": 29,
         "i10": 46
       }
@@ -540,7 +540,21 @@
         "2026-08-18": 158
       },
       "meta": {
-        "_tried": "2026-08-03"
+        "abstract": "In federated learning (FL), model performance typically suffers from client drift induced by data heterogeneity, and mainstream works focus on correcting client drift. We propose a different approach named virtual homogeneity learning (VHL) to directly\"rectify\"the data heterogeneity. In particular, VHL conducts FL with a virtual homogeneous dataset crafted to satisfy two conditions: containing no private information and being separable. The virtual dataset can be generated from pure noise shared across clients, aiming to calibrate the features from the heterogeneous clients. Theoretically, we prove that VHL can achieve provable generalization performance on the natural distribution. Empirically, we demonstrate that VHL endows FL with drastically improved convergence speed and generalization performance. VHL is the first attempt towards using a virtual dataset to address data heterogeneity, offering new and effective means to FL.",
+        "arxiv": "2206.02465",
+        "authors": [
+          "Zhenheng Tang",
+          "Yonggang Zhang",
+          "S. Shi",
+          "Xinfu He",
+          "Bo Han",
+          "X. Chu"
+        ],
+        "doi": "10.48550/arXiv.2206.02465",
+        "pdf": "https://arxiv.org/pdf/2206.02465",
+        "s2url": "https://www.semanticscholar.org/paper/d32d7c4687aa1017b6858df72741b909e27d85ed",
+        "tldr": "Virtual homogeneity learning (VHL) is the first attempt towards using a virtual dataset to address data heterogeneity, offering new and effective means to FL.",
+        "venue": "International Conference on Machine Learning"
       }
     },
     "The impact of GPU DVFS on the energy and performance of deep learning: An empirical study": {
@@ -2235,7 +2249,6 @@
         "2026-08-18": 18
       },
       "meta": {
-        "_tried": "2026-07-31",
         "abstract": "",
         "arxiv": "",
         "authors": [
@@ -2254,7 +2267,8 @@
         "pdf": "",
         "s2url": "https://www.semanticscholar.org/paper/b9246bf02675a349bfb02298b32ecd68f4bdc195",
         "tldr": "",
-        "venue": "arXiv.org"
+        "venue": "arXiv.org",
+        "_tried": "2026-07-31"
       }
     },
     "Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing": {
@@ -3033,7 +3047,7 @@
         "2026-08-05": 0,
         "2026-08-06": 0,
         "2026-08-07": 0,
-        "2026-08-08": 4,
+        "2026-08-08": 0,
         "2026-08-09": 0,
         "2026-08-10": 0,
         "2026-08-11": 0,
@@ -3898,7 +3912,6 @@
         "2026-08-18": 1
       },
       "meta": {
-        "_tried": "2026-08-03",
         "abstract": "",
         "arxiv": "",
         "authors": [
@@ -3913,7 +3926,8 @@
         "pdf": "",
         "s2url": "https://www.semanticscholar.org/paper/e70177d6eec6d4f74f565beb5876ca04095c7427",
         "tldr": "",
-        "venue": "arXiv.org"
+        "venue": "arXiv.org",
+        "_tried": "2026-08-03"
       }
     },
     "OracleKV: Oracle Guidance for Question-Independent KV Cache Eviction": {
@@ -4635,7 +4649,6 @@
         "2026-08-18": 16
       },
       "meta": {
-        "_tried": "2026-08-12",
         "abstract": "",
         "arxiv": "",
         "authors": [
@@ -4653,7 +4666,8 @@
         "pdf": "",
         "s2url": "https://www.semanticscholar.org/paper/1f2a59ddbd8cf71266e931505d86338e53c8234b",
         "tldr": "",
-        "venue": "IEEE transactions on computers"
+        "venue": "IEEE transactions on computers",
+        "_tried": "2026-08-12"
       }
     },
     "Clonemem: Benchmarking long-term memory for ai clones": {
