@@ -164,10 +164,15 @@
         "citations": 3755,
         "hindex": 14,
         "i10": 16
+      },
+      "2026-08-20": {
+        "citations": 3755,
+        "hindex": 14,
+        "i10": 16
       }
     }
   },
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "source": "dom",
   "papers": {
     "AutoML: A survey of the state-of-the-art": {
@@ -312,7 +317,8 @@
         "2026-08-16": 2812,
         "2026-08-17": 2818,
         "2026-08-18": 2819,
-        "2026-08-19": 2819
+        "2026-08-19": 2819,
+        "2026-08-20": 2819
       },
       "meta": {
         "authors": [
@@ -471,7 +477,8 @@
         "2026-08-16": 158,
         "2026-08-17": 158,
         "2026-08-18": 158,
-        "2026-08-19": 158
+        "2026-08-19": 158,
+        "2026-08-20": 158
       },
       "meta": {
         "authors": [
@@ -633,7 +640,8 @@
         "2026-08-16": 139,
         "2026-08-17": 140,
         "2026-08-18": 141,
-        "2026-08-19": 141
+        "2026-08-19": 141,
+        "2026-08-20": 141
       },
       "meta": {
         "authors": [
@@ -796,7 +804,8 @@
         "2026-08-16": 213,
         "2026-08-17": 214,
         "2026-08-18": 214,
-        "2026-08-19": 214
+        "2026-08-19": 214,
+        "2026-08-20": 214
       },
       "meta": {
         "authors": [
@@ -966,7 +975,8 @@
         "2026-08-16": 68,
         "2026-08-17": 68,
         "2026-08-18": 68,
-        "2026-08-19": 68
+        "2026-08-19": 68,
+        "2026-08-20": 68
       },
       "meta": {
         "authors": [
@@ -1131,7 +1141,8 @@
         "2026-08-16": 59,
         "2026-08-17": 59,
         "2026-08-18": 59,
-        "2026-08-19": 59
+        "2026-08-19": 59,
+        "2026-08-20": 59
       },
       "meta": {
         "authors": [
@@ -1296,7 +1307,8 @@
         "2026-08-16": 50,
         "2026-08-17": 50,
         "2026-08-18": 50,
-        "2026-08-19": 50
+        "2026-08-19": 50,
+        "2026-08-20": 50
       },
       "meta": {
         "authors": [
@@ -1463,7 +1475,8 @@
         "2026-08-16": 42,
         "2026-08-17": 42,
         "2026-08-18": 42,
-        "2026-08-19": 42
+        "2026-08-19": 42,
+        "2026-08-20": 42
       },
       "meta": {
         "authors": [
@@ -1624,7 +1637,8 @@
         "2026-08-16": 39,
         "2026-08-17": 39,
         "2026-08-18": 39,
-        "2026-08-19": 39
+        "2026-08-19": 39,
+        "2026-08-20": 39
       },
       "meta": {
         "authors": [
@@ -2087,7 +2101,8 @@
         "2026-08-16": 24,
         "2026-08-17": 24,
         "2026-08-18": 24,
-        "2026-08-19": 24
+        "2026-08-19": 24,
+        "2026-08-20": 24
       },
       "meta": {
         "authors": [
@@ -2251,7 +2266,8 @@
         "2026-08-16": 21,
         "2026-08-17": 21,
         "2026-08-18": 21,
-        "2026-08-19": 21
+        "2026-08-19": 21,
+        "2026-08-20": 21
       },
       "meta": {
         "authors": [
@@ -2418,7 +2434,8 @@
         "2026-08-16": 19,
         "2026-08-17": 19,
         "2026-08-18": 19,
-        "2026-08-19": 19
+        "2026-08-19": 19,
+        "2026-08-20": 19
       },
       "meta": {
         "authors": [
@@ -2588,7 +2605,8 @@
         "2026-08-16": 12,
         "2026-08-17": 12,
         "2026-08-18": 12,
-        "2026-08-19": 12
+        "2026-08-19": 12,
+        "2026-08-20": 12
       },
       "meta": {
         "authors": [
@@ -2746,7 +2764,8 @@
         "2026-08-16": 12,
         "2026-08-17": 12,
         "2026-08-18": 12,
-        "2026-08-19": 12
+        "2026-08-19": 12,
+        "2026-08-20": 12
       },
       "meta": {
         "authors": [
@@ -2908,7 +2927,8 @@
         "2026-08-16": 9,
         "2026-08-17": 9,
         "2026-08-18": 9,
-        "2026-08-19": 9
+        "2026-08-19": 9,
+        "2026-08-20": 9
       },
       "meta": {
         "_tried": "2026-07-19"
@@ -3056,7 +3076,8 @@
         "2026-08-16": 3,
         "2026-08-17": 3,
         "2026-08-18": 3,
-        "2026-08-19": 3
+        "2026-08-19": 3,
+        "2026-08-20": 3
       },
       "meta": {
         "authors": [
@@ -3220,7 +3241,8 @@
         "2026-08-16": 5,
         "2026-08-17": 5,
         "2026-08-18": 5,
-        "2026-08-19": 5
+        "2026-08-19": 5,
+        "2026-08-20": 5
       },
       "meta": {
         "authors": [
@@ -3345,7 +3367,8 @@
         "2026-08-16": 1,
         "2026-08-17": 1,
         "2026-08-18": 1,
-        "2026-08-19": 1
+        "2026-08-19": 1,
+        "2026-08-20": 1
       },
       "meta": {
         "authors": [
@@ -3417,7 +3440,8 @@
         "2026-08-16": 0,
         "2026-08-17": 0,
         "2026-08-18": 0,
-        "2026-08-19": 0
+        "2026-08-19": 0,
+        "2026-08-20": 0
       },
       "meta": {
         "_tried": "2026-07-19"
@@ -3514,7 +3538,8 @@
         "2026-08-16": 0,
         "2026-08-17": 0,
         "2026-08-18": 0,
-        "2026-08-19": 0
+        "2026-08-19": 0,
+        "2026-08-20": 0
       },
       "meta": {
         "abstract": "Classical models of opinion dynamics assume human participants with bounded rationality and limited coordination. The rise of LLM-based agents introduces a qualitative shift: agents can now participate in online discussions at scale, maintain consistent persuasion strategies, and coordinate systematically. This paper argues that LLM agents make collective belief dynamics programmable, enabling deliberate steering of population-level beliefs. We term this emerging problem programmable collective belief control. Through controlled multi-agent simulations, we provide proof-of-concept evidence that coordinated AI agents can induce measurable belief shifts that stabilize within a few interaction rounds. We identify four structural properties (indistinguishability, persistence, contextuality, and configurability) that make detection and defense fundamentally difficult. Based on these findings, we outline a research agenda spanning theoretical foundations for adversarial belief dynamics, operational methods for system-level detection and intervention, and simulation infrastructure for scalable experimentation. Our goal is not to present a complete solution, but to articulate why this problem demands urgent attention and to provide a conceptual foundation for future work.",
@@ -3571,7 +3596,8 @@
         "2026-08-16": 0,
         "2026-08-17": 0,
         "2026-08-18": 0,
-        "2026-08-19": 0
+        "2026-08-19": 0,
+        "2026-08-20": 0
       },
       "meta": {
         "_tried": "2026-07-20"
@@ -3607,7 +3633,8 @@
         "2026-08-16": 4,
         "2026-08-17": 4,
         "2026-08-18": 4,
-        "2026-08-19": 4
+        "2026-08-19": 4,
+        "2026-08-20": 4
       },
       "meta": {
         "_tried": "2026-07-27"
@@ -3635,7 +3662,8 @@
         "2026-08-16": 28,
         "2026-08-17": 28,
         "2026-08-18": 28,
-        "2026-08-19": 28
+        "2026-08-19": 28,
+        "2026-08-20": 28
       },
       "meta": {
         "abstract": "The COVID-19 pandemic has threatened global health. Many studies have applied deep convolutional neural networks (CNN) to recognize COVID-19 based on chest 3D computed tomography (CT). Recent works show that no model generalizes well across CT datasets from different countries, and manually designing models for specific datasets requires expertise;thus, neural architecture search (NAS) that aims to search models automatically has become an attractive solution. To reduce the search cost on large 3D CT datasets, most NAS-based works use the weight-sharing (WS) strategy to make all models share weights within a supernet;however, WS inevitably incurs search instability, leading to inaccurate model estimation. In this work, we propose an efficient Evolutionary Multi-objective ARchitecture Search (EMARS) framework. We propose a new objective, namely potential, which can help exploit promising models to indirectly reduce the number of models involved in weights training, thus alleviating search instability. We demonstrate that under objectives of accuracy and potential, EMARS can balance exploitation and exploration, i.e., reducing search time and finding better models. Our searched models are small and perform better than prior works on three public COVID-19 3D CT datasets.",
@@ -3675,7 +3703,8 @@
         "2026-08-16": 27,
         "2026-08-17": 27,
         "2026-08-18": 27,
-        "2026-08-19": 27
+        "2026-08-19": 27,
+        "2026-08-20": 27
       },
       "meta": {
         "abstract": "Skin disease is one of the most common types of human diseases, which may happen to everyone regardless of age, gender or race. Due to the high visual diversity, human diagnosis highly relies on personal experience; and there is a serious shortage of experienced dermatologists in many countries. To alleviate this problem, computer-aided diagnosis with state-of-the-art (SOTA) machine learning techniques would be a promising solution. In this paper, we aim at understanding the performance of convolutional neural network (CNN) based approaches. We first build two versions of skin disease datasets from Internet images: (a) Skin -10, which contains 10 common classes of skin disease with a total of 10,218 images; (b) Skin -100, which is a larger dataset that consists of 19,807 images of 100 skin disease classes. Based on these datasets, we benchmark several SOTA CNN models and show that the accuracy of skin -100 is much lower than the accuracy of skin -10. We then implement an ensemble method based on several CNN models and achieve the best accuracy of 79.01% for Skin -10 and 53.54% for Skin -100. We also present an object detection based approach by introducing bounding boxes into the Skin -10 dataset. Our results show that object detection can help improve the accuracy of some skin disease classes.",
