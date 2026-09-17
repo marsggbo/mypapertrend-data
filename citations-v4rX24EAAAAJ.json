@@ -193,6 +193,3390 @@
         "2026-09-17": 183
       },
       "meta": {}
+    },
+    "Wavelength converter placement under different RWA algorithms in wavelength-routed all-optical networks": {
+      "year": "2003",
+      "pub_id": "v4rX24EAAAAJ:u5HHmVD_uO8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 183
+      },
+      "meta": {}
+    },
+    "Understanding top-k sparsification in distributed deep learning": {
+      "year": "2019",
+      "pub_id": "v4rX24EAAAAJ:8xutWZnSdmoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 178
+      },
+      "meta": {}
+    },
+    "Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:PyEswDtIyv0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 161
+      },
+      "meta": {}
+    },
+    "Benchmarking the performance and energy efficiency of AI accelerators for AI training": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:kVjdVfd2voEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 160
+      },
+      "meta": {}
+    },
+    "Efficient dynamic task scheduling in virtualized data centers with fuzzy prediction": {
+      "year": "2011",
+      "pub_id": "v4rX24EAAAAJ:5nxA0vEk-isC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 158
+      },
+      "meta": {}
+    },
+    "Performance modeling and evaluation of distributed deep learning frameworks on gpus": {
+      "year": "2018",
+      "pub_id": "v4rX24EAAAAJ:8d8msizDQcsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 157
+      },
+      "meta": {}
+    },
+    "Dynamic routing and wavelength assignment in the presence of wavelength conversion for all-optical networks": {
+      "year": "2005",
+      "pub_id": "v4rX24EAAAAJ:d1gkVwhDpl0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 157
+      },
+      "meta": {}
+    },
+    "A dynamic RWA algorithm in a wavelength-routed all-optical network with wavelength converters": {
+      "year": "2003",
+      "pub_id": "v4rX24EAAAAJ:48xauSegjOkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 154
+      },
+      "meta": {}
+    },
+    "Adaprop: Learning adaptive propagation for graph neural network based knowledge graph reasoning": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:raTqNPD5sRQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 152
+      },
+      "meta": {}
+    },
+    "Enhanced jump-stay rendezvous algorithm for cognitive radio networks": {
+      "year": "2013",
+      "pub_id": "v4rX24EAAAAJ:bnK-pcrLprsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 152
+      },
+      "meta": {}
+    },
+    "Implementation and analysis of AES encryption on GPU": {
+      "year": "2012",
+      "pub_id": "v4rX24EAAAAJ:738O_yMBCRsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 152
+      },
+      "meta": {}
+    },
+    "The Impact of GPU DVFS on the Energy and Performance of Deep Learning: an Empirical Study": {
+      "year": "2019",
+      "pub_id": "v4rX24EAAAAJ:yMeIxYmEMEAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 142
+      },
+      "meta": {}
+    },
+    "MG-WFBP: Efficient data communication for distributed synchronous SGD algorithms": {
+      "year": "2019",
+      "pub_id": "v4rX24EAAAAJ:1r-w4gtu6w8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 141
+      },
+      "meta": {}
+    },
+    "Irs: A large naturalistic indoor robotics stereo dataset to train deep models for disparity and surface normal estimation": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:LPtt_HFRSbwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 139
+      },
+      "meta": {}
+    },
+    "FADNet: A Fast and Accurate Network for Disparity Estimation": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:lgwcVrK6X84C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 139
+      },
+      "meta": {}
+    },
+    "A survey and measurement study of GPU DVFS on energy conservation": {
+      "year": "2017",
+      "pub_id": "v4rX24EAAAAJ:KUbvn5osdkgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 137
+      },
+      "meta": {}
+    },
+    "Demystifying tensor cores to optimize half-precision matrix multiply": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:otzGkya1bYkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 135
+      },
+      "meta": {}
+    },
+    "Vmrnn: Integrating vision mamba and lstm for efficient and accurate spatiotemporal forecasting": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:HJSXoJQnj-YC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 132
+      },
+      "meta": {}
+    },
+    "Benchmarking and dissecting the nvidia hopper gpu architecture": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:69ZgNCALVd0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 126
+      },
+      "meta": {}
+    },
+    "Automated Model Design and Benchmarking of 3D Deep Learning Models for COVID-19 Detection with Chest CT Scans": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:FiytvqdAVhgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 123
+      },
+      "meta": {}
+    },
+    "Pruner-Zero: Evolving Symbolic Pruning Metric from scratch for Large Language Models": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:UuEBAcK4md4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 122
+      },
+      "meta": {}
+    },
+    "Bitdistiller: Unleashing the potential of sub-4-bit llms via self-distillation": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:QUX0mv85b1cC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 120
+      },
+      "meta": {}
+    },
+    "A measurement study of GPU DVFS on energy conservation": {
+      "year": "2013",
+      "pub_id": "v4rX24EAAAAJ:olpn-zPbct0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 120
+      },
+      "meta": {}
+    },
+    "Fedcv: a federated learning framework for diverse computer vision tasks": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:Br1UauaknNIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 119
+      },
+      "meta": {}
+    },
+    "GPGPU performance estimation with core and memory frequency scaling": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:BzfGm06jWhQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 109
+      },
+      "meta": {}
+    },
+    "Energy efficient real-time task scheduling on CPU-GPU hybrid clusters": {
+      "year": "2017",
+      "pub_id": "v4rX24EAAAAJ:M7yex6snE4oC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 108
+      },
+      "meta": {}
+    },
+    "Electric vehicle charging station placement": {
+      "year": "2013",
+      "pub_id": "v4rX24EAAAAJ:IUKN3-7HHlwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 106
+      },
+      "meta": {}
+    },
+    "Ring-walk based channel-hopping algorithms with guaranteed rendezvous for cognitive radio networks": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:cK4Rrx0J3m0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 106
+      },
+      "meta": {}
+    },
+    "Dissecting mining pools of bitcoin network: Measurement, analysis and modeling": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:uVUOdF_882EC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 105
+      },
+      "meta": {}
+    },
+    "A Convergence Analysis of Distributed SGD with Communication-Efficient Gradient Sparsification": {
+      "year": "2019",
+      "pub_id": "v4rX24EAAAAJ:a3BOlSfXSfwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 105
+      },
+      "meta": {}
+    },
+    "G-BLASTN: accelerating nucleotide alignment by graphics processors": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:eMMeJKvmdy0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 105
+      },
+      "meta": {}
+    },
+    "Self-adaptive collective motion of swarm robots": {
+      "year": "2018",
+      "pub_id": "v4rX24EAAAAJ:9c2xU6iGI7YC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 103
+      },
+      "meta": {}
+    },
+    "Reliable and energy-efficient routing for static wireless ad hoc networks with unreliable links": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:zYLM7Y9cAGgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 103
+      },
+      "meta": {}
+    },
+    "Performance Characterization and Bottleneck Analysis of Hyperledger Fabric": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:LdasjJ6CEcoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 102
+      },
+      "meta": {}
+    },
+    "Communication-efficient distributed deep learning with merged gradient sparsification on gpus": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:nVrZBo8bIpAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 98
+      },
+      "meta": {}
+    },
+    "Optimizing batched winograd convolution on GPUs": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:5icHVeHT4IsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 94
+      },
+      "meta": {}
+    },
+    "An overview of virtual private network (VPN): IP VPN and optical VPN": {
+      "year": "2004",
+      "pub_id": "v4rX24EAAAAJ:Tyk-4Ss8FVUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 94
+      },
+      "meta": {}
+    },
+    "Incentive mechanisms in federated learning and a game-theoretical approach": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:kWvqk_afx_IC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 92
+      },
+      "meta": {}
+    },
+    "Multiple radios for fast rendezvous in cognitive radio networks": {
+      "year": "2015",
+      "pub_id": "v4rX24EAAAAJ:dQ2og3OwTAUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 91
+      },
+      "meta": {}
+    },
+    "Chunkkv: Semantic-preserving kv cache compression for efficient long-context llm inference": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:qE4H1tSSYIIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 90
+      },
+      "meta": {}
+    },
+    "Simple movement control algorithm for bi-connectivity in robotic sensor networks": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:ufrVoPGSRksC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 89
+      },
+      "meta": {}
+    },
+    "Communication-efficient decentralized learning with sparsification and adaptive peer selection": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:2v_ZtQDX9iAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 85
+      },
+      "meta": {}
+    },
+    "P2b-trace: Privacy-preserving blockchain-based contact tracing to combat pandemics": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:prdVHNxh-e8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 84
+      },
+      "meta": {}
+    },
+    "Towards Scalable Distributed Training of Deep Learning on Public Cloud Clusters": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:PaBasH6fAo0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 83
+      },
+      "meta": {}
+    },
+    "Analysis of sparse-partial wavelength conversion in wavelength-routed WDM networks": {
+      "year": "2004",
+      "pub_id": "v4rX24EAAAAJ:kh2fBNsKQNwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 83
+      },
+      "meta": {}
+    },
+    "Performance evaluation of deep learning tools in docker containers": {
+      "year": "2017",
+      "pub_id": "v4rX24EAAAAJ:FAceZFleit8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 82
+      },
+      "meta": {}
+    },
+    "Benchmarking the memory hierarchy of modern GPUs": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:OcBU2YAGkTUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 82
+      },
+      "meta": {}
+    },
+    "Joint throughput optimization for wireless mesh networks": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:UeHWp8X0CEIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 78
+      },
+      "meta": {}
+    },
+    "Routing and wavelength assignment vs. wavelength converter placement in all-optical networks": {
+      "year": "2003",
+      "pub_id": "v4rX24EAAAAJ:1yQoGdGgb4wC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 77
+      },
+      "meta": {}
+    },
+    "A quantitative survey of communication optimizations in distributed deep learning": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:IaI1MmNe2tcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 75
+      },
+      "meta": {}
+    },
+    "Taxonomy and challenges of rendezvous algorithms in cognitive radio networks": {
+      "year": "2012",
+      "pub_id": "v4rX24EAAAAJ:hMod-77fHWUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 75
+      },
+      "meta": {}
+    },
+    "Discovering sparsity allocation for layer-wise pruning of large language models": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:wE-fMHVdjMkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 74
+      },
+      "meta": {}
+    },
+    "Dtc-spmm: Bridging the gap in accelerating general sparse matrix multiplication with tensor cores": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:JTqpx9DYBaYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 74
+      },
+      "meta": {}
+    },
+    "Schemoe: An extensible mixture-of-experts distributed training system with tasks scheduling": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:rbm3iO8VlycC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 71
+      },
+      "meta": {}
+    },
+    "Galaxy: A Resource-Efficient Collaborative Edge AI System for In-situ Transformer Inference": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:jSAVyFp_754C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 70
+      },
+      "meta": {}
+    },
+    "Leveraging graph neural networks for point-of-interest recommendations": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:DBa1UEJaJKAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 70
+      },
+      "meta": {}
+    },
+    "Lightpath rerouting in wavelength-routed WDM networks": {
+      "year": "2008",
+      "pub_id": "v4rX24EAAAAJ:sNmaIFBj_lkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 70
+      },
+      "meta": {}
+    },
+    "Longgenbench: Long-context generation benchmark": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:qwy9JoKyICEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 69
+      },
+      "meta": {}
+    },
+    "Energy-aware non-preemptive task scheduling with deadline constraint in DVFS-enabled heterogeneous clusters": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:NDuN12AVoxsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 69
+      },
+      "meta": {}
+    },
+    "Deep learning identifies leak in water pipeline system using transient frequency response": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:AXkvAH5U_nMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 69
+      },
+      "meta": {}
+    },
+    "Reputation-based qos provisioning in cloud computing via dirichlet multinomial model": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:dhFuZR0502QC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 66
+      },
+      "meta": {}
+    },
+    "Accelerating Network Coding on Many-core GPUs and Multi-core CPUs.": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:aqlVkmm33-oC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 66
+      },
+      "meta": {}
+    },
+    "G-CRS: GPU accelerated Cauchy Reed-Solomon coding": {
+      "year": "2018",
+      "pub_id": "v4rX24EAAAAJ:4hFrxpcac9AC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 64
+      },
+      "meta": {}
+    },
+    "Dissecting Darknets: Measurement and performance analysis": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:YohjEiUPhakC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 63
+      },
+      "meta": {}
+    },
+    "Asteroid: Resource-Efficient Hybrid Pipeline Parallelism for Collaborative DNN Training on Heterogeneous Edge Devices": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:65Yg0jNCQDAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 60
+      },
+      "meta": {}
+    },
+    "Pipemoe: Accelerating mixture-of-experts through adaptive pipelining": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:WAzi4Gm8nLoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 60
+      },
+      "meta": {}
+    },
+    "Fine-grained scalable video caching for heterogeneous clients": {
+      "year": "2006",
+      "pub_id": "v4rX24EAAAAJ:8k81kl-MbHgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 14
+      },
+      "meta": {}
+    },
+    "Spinfer: Leveraging low-level sparsity for efficient large language model inference on gpus": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:AzKEL7Gb_04C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 59
+      },
+      "meta": {}
+    },
+    "CBS: Community-based bus system as routing backbone for vehicular ad hoc networks": {
+      "year": "2016",
+      "pub_id": "v4rX24EAAAAJ:g3aElNc5_aQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 57
+      },
+      "meta": {}
+    },
+    "Speeding up convolutional neural networks by exploiting the sparsity of rectifier units": {
+      "year": "2017",
+      "pub_id": "v4rX24EAAAAJ:WZBGuue-350C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 55
+      },
+      "meta": {}
+    },
+    "Jupiter: Fast and resource-efficient collaborative inference of generative llms on edge devices": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:NMlhSUseqAsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 54
+      },
+      "meta": {}
+    },
+    "STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:DyXnQzXoVgIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 54
+      },
+      "meta": {}
+    },
+    "A blockchain-enabled framework for enhancing scalability and security in IIoT": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:O0nohqN1r9EC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 51
+      },
+      "meta": {}
+    },
+    "Fusionai: Decentralized training and deploying llms with massive consumer-level gpus": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:kF1pexMAQbMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 50
+      },
+      "meta": {}
+    },
+    "Layer-wise Adaptive Gradient Sparsification for Distributed Deep Learning with Convergence Guarantees": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:GFxP56DSvIMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 50
+      },
+      "meta": {}
+    },
+    "Energy efficient routing with unreliable links in wireless networks": {
+      "year": "2006",
+      "pub_id": "v4rX24EAAAAJ:WF5omc3nYNoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 49
+      },
+      "meta": {}
+    },
+    "Energy efficient job scheduling with DVFS for CPU-GPU heterogeneous systems": {
+      "year": "2017",
+      "pub_id": "v4rX24EAAAAJ:e_rmSamDkqQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 47
+      },
+      "meta": {}
+    },
+    "Reputation and trust management in heterogeneous peer-to-peer networks": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:mVmsd5A6BfQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 47
+      },
+      "meta": {}
+    },
+    "Fedimpro: Measuring and improving client update in federated learning": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:rTD5ala9j4wC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 46
+      },
+      "meta": {}
+    },
+    "Learning 6-dof fine-grained grasp detection based on part affordance grounding": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:YlPif8NxrbYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 45
+      },
+      "meta": {}
+    },
+    "FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:zdjWy_NXXwUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 45
+      },
+      "meta": {}
+    },
+    "Dear: Accelerating distributed deep learning with fine-grained all-reduce pipelining": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:oi2SiIJ9l4AC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 45
+      },
+      "meta": {}
+    },
+    "Exploiting simultaneous communications to accelerate data parallel distributed deep learning": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:WHdLCjDvYFkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 45
+      },
+      "meta": {}
+    },
+    "MG-WFBP: Merging gradients wisely for efficient communication in distributed deep learning": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:EsEWqaRxkBgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 45
+      },
+      "meta": {}
+    },
+    "EAGAN: Efficient Two-stage Evolutionary Architecture Search for GANs": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:KaMxkj08jr0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 43
+      },
+      "meta": {}
+    },
+    "Minimum-cost sensor placement for required lifetime in wireless sensor-target surveillance networks": {
+      "year": "2012",
+      "pub_id": "v4rX24EAAAAJ:OU6Ihb5iCvQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 43
+      },
+      "meta": {}
+    },
+    "Core-selecting auctions for dynamically allocating heterogeneous VMs in cloud computing": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:N5tVd3kTz84C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 42
+      },
+      "meta": {}
+    },
+    "A DAG model of synchronous stochastic gradient descent in distributed deep learning": {
+      "year": "2018",
+      "pub_id": "v4rX24EAAAAJ:ODE9OILHJdcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 41
+      },
+      "meta": {}
+    },
+    "Toward a standard interface for cloud providers: the container as the narrow waist": {
+      "year": "2016",
+      "pub_id": "v4rX24EAAAAJ:BUYA1_V_uYcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 41
+      },
+      "meta": {}
+    },
+    "Model quantization and hardware acceleration for vision transformers: A comprehensive survey": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:IsPWOBWtZBwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 40
+      },
+      "meta": {}
+    },
+    "Practical random linear network coding on GPUs": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:Wp0gIr-vW9MC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 40
+      },
+      "meta": {}
+    },
+    "Expertflow: Optimized expert activation and token allocation for efficient mixture-of-experts inference": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:-DxkuPiZhfEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 38
+      },
+      "meta": {}
+    },
+    "DLCR: A new adaptive routing scheme in WDM mesh networks": {
+      "year": "2005",
+      "pub_id": "v4rX24EAAAAJ:W7OEmFMy1HYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 37
+      },
+      "meta": {}
+    },
+    "GPUMP: A multiple-precision integer library for GPUs": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:j3f4tGmQtD8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 35
+      },
+      "meta": {}
+    },
+    "Evaluation and optimization of gradient compression for distributed deep learning": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:mUJArPsKIAAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 34
+      },
+      "meta": {}
+    },
+    "Autonomous vehicle public transportation system": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:wKETBy42zhYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 34
+      },
+      "meta": {}
+    },
+    "Adjustable rendezvous in multi-radio cognitive radio networks": {
+      "year": "2015",
+      "pub_id": "v4rX24EAAAAJ:Z5m8FVwuT1cC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 33
+      },
+      "meta": {}
+    },
+    "SGDRC: Software-defined dynamic resource control for concurrent dnn inference on nvidia gpus": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:NxmKEeNBbOMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 32
+      },
+      "meta": {}
+    },
+    "Fast sparse gpu kernels for accelerated training of graph neural networks": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:w1MjKQ0l0TYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 32
+      },
+      "meta": {}
+    },
+    "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:eAlLMO4JVmQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 31
+      },
+      "meta": {}
+    },
+    "Parzc: Parametric zero-cost proxies for efficient nas": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:pS0ncopqnHgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 31
+      },
+      "meta": {}
+    },
+    "Random linear network coding for peer-to-peer applications": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:XUvXOeBm_78C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 31
+      },
+      "meta": {}
+    },
+    "Mechanism design for set cover games with selfish element agents": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:TQgYirikUcIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 31
+      },
+      "meta": {}
+    },
+    "Spectrum bidding in wireless networks and related": {
+      "year": "2008",
+      "pub_id": "v4rX24EAAAAJ:Y0pCki6q_DkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 31
+      },
+      "meta": {}
+    },
+    "Data Resampling for Federated Learning with Non-IID Labels": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:rHJHxKgnXwkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 30
+      },
+      "meta": {}
+    },
+    "Accelerating the scoring module of mass spectrometry-based peptide identification using GPUs": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:ZuybSZzF8UAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 30
+      },
+      "meta": {}
+    },
+    "Can Compressed LLMs Truly Act? An Empirical Evaluation of Agentic Capabilities in LLM Compression": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:KWzIFqRkAKkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 29
+      },
+      "meta": {}
+    },
+    "Efficient Sparse-Dense Matrix-Matrix Multiplication on GPUs Using the Customized Sparse Storage Format": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:jgBuDB5drN8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 29
+      },
+      "meta": {}
+    },
+    "Dissecting the nvidia hopper architecture through microbenchmarking and multiple level analysis": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:RJOyoaXV5v8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 28
+      },
+      "meta": {}
+    },
+    "Enhancing the efficiency and scalability of blockchain through probabilistic verification and clustering": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:CdxZDUztZiMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 28
+      },
+      "meta": {}
+    },
+    "Autoreward: Closed-loop reward design with large language models for autonomous driving": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:ghEM2AJqZyQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 27
+      },
+      "meta": {}
+    },
+    "On regularization for explaining graph neural networks: An information theory perspective": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:kJDgFkosVoMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 27
+      },
+      "meta": {}
+    },
+    "Dissecting the runtime performance of the training, fine-tuning, and inference of large language models": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:EPG8bYD4jVwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 27
+      },
+      "meta": {}
+    },
+    "Esetstore: An erasure-coded storage system with fast data recovery": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:ALROH1vI_8AC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 27
+      },
+      "meta": {}
+    },
+    "Computer-Aided Clinical Skin Disease Diagnosis Using CNN and Object Detection Models": {
+      "year": "2019",
+      "pub_id": "v4rX24EAAAAJ:nZcligLrVowC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 27
+      },
+      "meta": {}
+    },
+    "Rethinking Disparity: A Depth Range Free Multi-View Stereo Based on Disparity": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:pAkWuXOU-OoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 26
+      },
+      "meta": {}
+    },
+    "Reducing forks in the blockchain via probabilistic verification": {
+      "year": "2019",
+      "pub_id": "v4rX24EAAAAJ:HeT0ZceujKMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 26
+      },
+      "meta": {}
+    },
+    "Auction-based on-demand P2P min-cost media streaming with network coding": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:MXK_kJrjxJIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 26
+      },
+      "meta": {}
+    },
+    "The Multi-Round Diagnostic RAG Framework for Emulating Clinical Reasoning": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:hQUaER0FWQ4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 25
+      },
+      "meta": {}
+    },
+    "Can LLMs Maintain Fundamental Abilities under KV Cache Compression?": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:L_l9e5I586QC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 25
+      },
+      "meta": {}
+    },
+    "Joint access point placement and power-channel-resource-unit assignment for 802.11 ax-based dense WiFi with QoS requirements": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:gVv57TyPmFsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 25
+      },
+      "meta": {}
+    },
+    "Online procurement auctions for resource pooling in client-assisted cloud storage systems": {
+      "year": "2015",
+      "pub_id": "v4rX24EAAAAJ:tKAzc9rXhukC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 25
+      },
+      "meta": {}
+    },
+    "Channel-hopping based on available channel set for rendezvous of cognitive radios": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:ye4kPcJQO24C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 25
+      },
+      "meta": {}
+    },
+    "An efficient privacy-preserving publish-subscribe service scheme for cloud computing": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:fPk4N6BV_jEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 25
+      },
+      "meta": {}
+    },
+    "NAS-LID: Efficient Neural Architecture Search with Local Intrinsic Dimension": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:KNjnJ3z-R6IC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 24
+      },
+      "meta": {}
+    },
+    "Ednet: Efficient disparity estimation with cost volume combination and attention-based spatial residual": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:3NQIlFlcGxIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 24
+      },
+      "meta": {}
+    },
+    "Improving sustainability of BitTorrent darknets": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:KxtntwgDAa4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 24
+      },
+      "meta": {}
+    },
+    "Constructing connected-dominating-set with maximum lifetime in cognitive radio networks": {
+      "year": "2013",
+      "pub_id": "v4rX24EAAAAJ:LPZeul_q3PIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 24
+      },
+      "meta": {}
+    },
+    "An erasure-coded storage system for edge computing": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:ubry08Y2EpUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 23
+      },
+      "meta": {}
+    },
+    "Unveiling popularity of BitTorrent darknets": {
+      "year": "2012",
+      "pub_id": "v4rX24EAAAAJ:3fE2CSJIrl8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 23
+      },
+      "meta": {}
+    },
+    "Should We Really Edit Language Models? On the Evaluation of Edited Language Models": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:27LrP4qxOz0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 22
+      },
+      "meta": {}
+    },
+    "3D Question Answering for City Scene Understanding": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:sA9dB-pw3HoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 22
+      },
+      "meta": {}
+    },
+    "Enhancing AI-generated content efficiency through adaptive multi-edge collaboration": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:Xz60mAmATU4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 22
+      },
+      "meta": {}
+    },
+    "Cf-nerf: Camera parameter free neural radiance fields with incremental learning": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:2l5NCbZemmgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 22
+      },
+      "meta": {}
+    },
+    "LF-Net: A learning-based Frenet planning approach for urban autonomous driving": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:SnGPuo6Feq8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 22
+      },
+      "meta": {}
+    },
+    "GPGPU power estimation with core and memory frequency scaling": {
+      "year": "2017",
+      "pub_id": "v4rX24EAAAAJ:SpbeaW3--B0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 22
+      },
+      "meta": {}
+    },
+    "EnsembleFollower: A hybrid car-following framework based on hierarchical planning and reinforcement learning": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:ZqE1mSdD_DYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 21
+      },
+      "meta": {}
+    },
+    "FusionLLM: a decentralized LLM training system on geo-distributed GPUs with adaptive compression": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:hSRAE-fF4OAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 20
+      },
+      "meta": {}
+    },
+    "Parm: Efficient training of large sparsely-activated models with dedicated schedules": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:qe6vwMD2xtsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 20
+      },
+      "meta": {}
+    },
+    "BU-trace: A permissionless mobile system for privacy-preserving intelligent contact tracing": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:kw52XkFRtyQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 20
+      },
+      "meta": {}
+    },
+    "Ring-Walk Rendezvous Algorithms for Cognitive Radio Networks.": {
+      "year": "2012",
+      "pub_id": "v4rX24EAAAAJ:fFSKOagxvKUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 20
+      },
+      "meta": {}
+    },
+    "Quadratic residue based address allocation for mobile ad hoc networks": {
+      "year": "2008",
+      "pub_id": "v4rX24EAAAAJ:UebtZRa9Y70C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 20
+      },
+      "meta": {}
+    },
+    "Fuzzy control for guaranteeing absolute delays in web servers": {
+      "year": "2006",
+      "pub_id": "v4rX24EAAAAJ:_FxGoFyzp5QC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 20
+      },
+      "meta": {}
+    },
+    "A decomposition-ensemble-integration framework for carbon price forecasting": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:UmS_249rOGwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 19
+      },
+      "meta": {}
+    },
+    "Can we continually edit language models? On the knowledge attenuation in sequential model editing": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:X9ykpCP0fEIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 19
+      },
+      "meta": {}
+    },
+    "Fadnet++: Real-time and accurate disparity estimation with configurable networks": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:jFemdcug13IC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 19
+      },
+      "meta": {}
+    },
+    "Communication contention aware scheduling of multiple deep learning training jobs": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:buQ7SEKw-1sC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 19
+      },
+      "meta": {}
+    },
+    "Speeding Up Homomorphic Hashing Using GPUs": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:HDshCWvjkbEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 19
+      },
+      "meta": {}
+    },
+    "AdaEdit: Advancing Continuous Knowledge Editing For Large Language Models": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:BmWJbWwHJAwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 18
+      },
+      "meta": {}
+    },
+    "Reliable and efficient in-memory fault tolerance of large language model pretraining": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:kzcSZmkxUKAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 18
+      },
+      "meta": {}
+    },
+    "Minimum latency server selection for heterogeneous cloud services": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:ZfRJV9d4-WMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 18
+      },
+      "meta": {}
+    },
+    "Efficient broadcasting in multi-hop wireless networks with a realistic physical layer": {
+      "year": "2013",
+      "pub_id": "v4rX24EAAAAJ:TFP_iSt0sucC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 18
+      },
+      "meta": {}
+    },
+    "General maximal lifetime sensor-target surveillance problem and its solution": {
+      "year": "2011",
+      "pub_id": "v4rX24EAAAAJ:FPJr55Dyh1AC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 18
+      },
+      "meta": {}
+    },
+    "Trust based access control in infrastructure-centric environment": {
+      "year": "2011",
+      "pub_id": "v4rX24EAAAAJ:cFHS6HbyZ2cC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 18
+      },
+      "meta": {}
+    },
+    "UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:hGdtkIFZdKAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 17
+      },
+      "meta": {}
+    },
+    "Bandwidth-aware and overlap-weighted compression for communication-efficient federated learning": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:CYCckWUYoCcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 17
+      },
+      "meta": {}
+    },
+    "Multipath based congestion propagation via information network interaction in IIoT": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:wvYxNZNCP7wC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 17
+      },
+      "meta": {}
+    },
+    "Traffic management for distributed machine learning in RDMA-enabled data center networks": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:-mN3Mh-tlDkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 17
+      },
+      "meta": {}
+    },
+    "Mediator: Memory-efficient llm merging with less parameter conflicts and uncertainty based routing": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:D_tqNUsBuKoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 16
+      },
+      "meta": {}
+    },
+    "Fedml parrot: a scalable federated learning system via heterogeneity-aware scheduling on sequential and hierarchical training": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:F2UWTTQJPOcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 16
+      },
+      "meta": {}
+    },
+    "Joint access point placement and power-channel-resource-unit assignment for IEEE 802.11 ax-based dense WiFi network with QoS requirements": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:1Ye0OR6EYb4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 16
+      },
+      "meta": {}
+    },
+    "EPPMiner: An extended benchmark suite for energy, power and performance characterization of heterogeneous architecture": {
+      "year": "2017",
+      "pub_id": "v4rX24EAAAAJ:-FonjvnnhkoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 16
+      },
+      "meta": {}
+    },
+    "Minimum-cost recruitment of mobile crowdsensing in cellular networks": {
+      "year": "2016",
+      "pub_id": "v4rX24EAAAAJ:lmc2jWPfTJgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 16
+      },
+      "meta": {}
+    },
+    "A parallel lattice Boltzmann method for large eddy simulation on multiple GPUs": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:t6usbXjVLHcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 16
+      },
+      "meta": {}
+    },
+    "The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM Compression Preserve?": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:A8cqit5AE6sC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 15
+      },
+      "meta": {}
+    },
+    "Energy-efficient inference service of transformer-based deep learning models on gpus": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:7BrZ7Jt4UNcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 15
+      },
+      "meta": {}
+    },
+    "Sparse-partial wavelength conversion: Converter placement and wavelength assignment": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:DUooU5lO8OsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 15
+      },
+      "meta": {}
+    },
+    "Analytical model of sparse-partial wavelength conversion in wavelength-routed WDM networks": {
+      "year": "2005",
+      "pub_id": "v4rX24EAAAAJ:nRpfm8aw39MC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 15
+      },
+      "meta": {}
+    },
+    "Hot-pluggable Federated Learning: Bridging General and Personalized FL via Dynamic Selection": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:v6i8RKmR8ToC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 14
+      },
+      "meta": {}
+    },
+    "Perovskite-llm: Knowledge-enhanced large language models for perovskite solar cell research": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:MIg0yeAD4ggC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 14
+      },
+      "meta": {}
+    },
+    "Generating and evolving reward functions for highway driving with large language models": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:Hck25ST_3aIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 14
+      },
+      "meta": {}
+    },
+    "Evolutionary multi-objective architecture search framework: Application to COVID-19 3D CT classification": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:-95Q15plzcUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 14
+      },
+      "meta": {}
+    },
+    "“Barcode” cell sensor microfluidic system: Rapid and sample-to-answer antimicrobial susceptibility testing applicable in resource-limited conditions": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:-7ulzOJl1JYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 14
+      },
+      "meta": {}
+    },
+    "Efficient multi-objective evolutionary 3D neural architecture search for COVID-19 detection with chest CT scans": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:1taIhTC69MYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 14
+      },
+      "meta": {}
+    },
+    "Routing and wavelength assignment issues in the presence of wavelength conversion for all-optical networks": {
+      "year": "2002",
+      "pub_id": "v4rX24EAAAAJ:KlAtU1dfN6UC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 14
+      },
+      "meta": {}
+    },
+    "OracleKV: Oracle guidance for question-independent KV cache eviction": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:8dzOF9BpDQoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 13
+      },
+      "meta": {}
+    },
+    "GPU accelerated AES algorithm": {
+      "year": "2019",
+      "pub_id": "v4rX24EAAAAJ:P7Ujq4OLJYoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 13
+      },
+      "meta": {}
+    },
+    "Generalized-bi-connectivity for fault tolerant cognitive radio networks": {
+      "year": "2012",
+      "pub_id": "v4rX24EAAAAJ:p2g8aNsByqUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 13
+      },
+      "meta": {}
+    },
+    "Ad hoc and sensor wireless networks: architectures, algorithms and protocols": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:uWQEDVKXjbEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 13
+      },
+      "meta": {}
+    },
+    "Sparse-partial wavelength conversion in wavelength-routed all-optical networks": {
+      "year": "2003",
+      "pub_id": "v4rX24EAAAAJ:kNdYIx-mwKoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 13
+      },
+      "meta": {}
+    },
+    "Evaluation-driven scaling for scientific discovery": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:KS-xo-ZNxMsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 12
+      },
+      "meta": {}
+    },
+    "Lpzero: Language model zero-cost proxy search from zero": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:g5Ck-dwhA_QC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 12
+      },
+      "meta": {}
+    },
+    "MedPipe: end-to-end joint search of data augmentation and neural architecture for 3D medical image classification": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:Dem6FJhTUoYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 12
+      },
+      "meta": {}
+    },
+    "A multi-node collaborative storage strategy via clustering in blockchain network": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:7H_MAutzIkAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 12
+      },
+      "meta": {}
+    },
+    "Design of a fuzzy PI controller to guarantee proportional delay differentiation on web servers": {
+      "year": "2007",
+      "pub_id": "v4rX24EAAAAJ:4DMP91E08xMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 12
+      },
+      "meta": {}
+    },
+    "Diffusion models for reinforcement learning: Foundations, taxonomy, and development": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:X0DADzN9RKwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 11
+      },
+      "meta": {}
+    },
+    "Network embedding: The bridge between water distribution network hydraulics and machine learning": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:eGYfIraVYiQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 11
+      },
+      "meta": {}
+    },
+    "Improving fairness in coexisting 5g and wi-fi network on unlicensed band with urllc": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:ziOE8S1-AIUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 11
+      },
+      "meta": {}
+    },
+    "Advances in mobile, edge and cloud computing": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:7Hz3ACDFbsoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 11
+      },
+      "meta": {}
+    },
+    "ZOS: A fast rendezvous algorithm based on set of available channels for cognitive radios": {
+      "year": "2018",
+      "pub_id": "v4rX24EAAAAJ:XD-gHx7UXLsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 11
+      },
+      "meta": {}
+    },
+    "Joint VM-switch consolidation for energy efficiency in data centers": {
+      "year": "2016",
+      "pub_id": "v4rX24EAAAAJ:LI9QrySNdTsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 11
+      },
+      "meta": {}
+    },
+    "How to survive and thrive in a private BitTorrent community": {
+      "year": "2013",
+      "pub_id": "v4rX24EAAAAJ:l7t_Zn2s7bgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 11
+      },
+      "meta": {}
+    },
+    "RSRWKV: A linear-complexity 2D attention mechanism for efficient remote sensing vision task": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:N4u4nq0IxgcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 10
+      },
+      "meta": {}
+    },
+    "Automated design for physics-informed modeling with convolutional neural networks": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:c_xDhezhKKUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 10
+      },
+      "meta": {}
+    },
+    "Maximizing lifetime of sensor-target surveillance in wireless sensor networks": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:_FM0Bhl9EiAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 10
+      },
+      "meta": {}
+    },
+    "Resource management in an integrated optical network": {
+      "year": "2003",
+      "pub_id": "v4rX24EAAAAJ:M3ejUd6NZC8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 10
+      },
+      "meta": {}
+    },
+    "Wavelength converter placement under a dynamic RWA algorithm in wavelength-routed all-optical networks": {
+      "year": "2002",
+      "pub_id": "v4rX24EAAAAJ:QIV2ME_5wuYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 10
+      },
+      "meta": {}
+    },
+    "DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:nqdriD65xNoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 9
+      },
+      "meta": {}
+    },
+    "Ghost in the cloud: Your geo-distributed large language models training is easily manipulated": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:YB4bud6kWLwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 9
+      },
+      "meta": {}
+    },
+    "Resource-efficient collaborative edge transformer inference with hybrid model parallelism": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:4aZ_i-5WJEQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 9
+      },
+      "meta": {}
+    },
+    "Energy-efficient online scheduling of transformer inference services on GPU servers": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:HGTzPopzzJcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 9
+      },
+      "meta": {}
+    },
+    "Gpgpu performance estimation for frequency scaling using cross-benchmarking": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:tH6gc1N1XXoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 9
+      },
+      "meta": {}
+    },
+    "Anchor selection for localization in large indoor venues": {
+      "year": "2018",
+      "pub_id": "v4rX24EAAAAJ:QYdC8u9Cj1oC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 9
+      },
+      "meta": {}
+    },
+    "A DoS and fault-tolerant authentication protocol for group communications in ad hoc networks": {
+      "year": "2007",
+      "pub_id": "v4rX24EAAAAJ:ULOm3_A8WrAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 9
+      },
+      "meta": {}
+    },
+    "DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:-6RzNnnwWf8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 8
+      },
+      "meta": {}
+    },
+    "JailbreakloRA: Your downloaded loRA from sharing platforms might be unsafe": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:SxCCDk4iOpsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 8
+      },
+      "meta": {}
+    },
+    "ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:R-LXmdHK_14C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 8
+      },
+      "meta": {}
+    },
+    "FlowKV: Enhancing multi-turn conversational coherence in LLMs via isolated key-value cache management": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:-uzm3Y7AvW0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 8
+      },
+      "meta": {}
+    },
+    "EditFollower: Tunable car following models for customizable driving behavior": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:JP7YXuLIOvAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 8
+      },
+      "meta": {}
+    },
+    "EASNet: Searching Elastic and Accurate Network Architecture for Stereo Matching": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:ce2CqMG-AY4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 8
+      },
+      "meta": {}
+    },
+    "Provisioning of parameterized quality of service in 802.11 e based wireless mesh networks": {
+      "year": "2008",
+      "pub_id": "v4rX24EAAAAJ:4TOpqqG69KYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 8
+      },
+      "meta": {}
+    },
+    "Accelerating aigc services with latent action diffusion scheduling in edge networks": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:0aBXIfxlw9sC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 7
+      },
+      "meta": {}
+    },
+    "From words to wheels: Automated style-customized policy generation for autonomous driving": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:8Xgff_V0N9gC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 7
+      },
+      "meta": {}
+    },
+    "Reinsurance-emulated collaboration mechanism in cloud federation": {
+      "year": "2017",
+      "pub_id": "v4rX24EAAAAJ:Dip1O2bNi0gC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 7
+      },
+      "meta": {}
+    },
+    "R-Memcached: A Reliable In-Memory Cache for Big Key-Value Stores": {
+      "year": "2015",
+      "pub_id": "v4rX24EAAAAJ:tYavs44e6CUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 7
+      },
+      "meta": {}
+    },
+    "Performance analysis of data management in sensor data storage via stochastic petri nets": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:e5wmG9Sq2KIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 7
+      },
+      "meta": {}
+    },
+    "Understanding Private Trackers in BitTorrent Systems": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:anf4URPfarAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 7
+      },
+      "meta": {}
+    },
+    "An efficient scheme for secure communication in large-scale wireless sensor networks": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:blknAaTinKkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 7
+      },
+      "meta": {}
+    },
+    "A preliminary exploration on parallelized BLAST algorithm using GPU": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:fQNAKQ3IYiAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 7
+      },
+      "meta": {}
+    },
+    "Effective congestion control for QoS enhancement of self-similar multimedia traffic": {
+      "year": "2006",
+      "pub_id": "v4rX24EAAAAJ:bFI3QPDXJZMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 7
+      },
+      "meta": {}
+    },
+    "A novel key-embedded scheme for secure video multicast systems": {
+      "year": "2006",
+      "pub_id": "v4rX24EAAAAJ:_kc_bZDykSQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 7
+      },
+      "meta": {}
+    },
+    "Class-based latency assurances for web servers": {
+      "year": "2005",
+      "pub_id": "v4rX24EAAAAJ:_Qo2XoVZTnwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 7
+      },
+      "meta": {}
+    },
+    "Finkario: Event-enhanced automated construction of financial knowledge graph": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:LGlY6t8CeOMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 6
+      },
+      "meta": {}
+    },
+    "Venus: An Efficient Edge Memory-and-Retrieval System for VLM-based Online Video Understanding": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:pQTOvowfQioC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 6
+      },
+      "meta": {}
+    },
+    "Elaswave: An elastic-native system for scalable hybrid-parallel training": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:s85pQhAUCrAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 6
+      },
+      "meta": {}
+    },
+    "Antkv: Anchor token-aware sub-bit vector quantization for kv cache in large language models": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:hvmnpdAuIbkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 6
+      },
+      "meta": {}
+    },
+    "Spherefusion: Efficient panorama depth estimation via gated fusion": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:tHtfpZlB6tUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 6
+      },
+      "meta": {}
+    },
+    "SphereDepth: Panorama Depth Estimation from Spherical Domain": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:1DsIQWDZLl8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 6
+      },
+      "meta": {}
+    },
+    "A probabilistic approach towards an unbiased semi-supervised cluster tree": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:jL-93Qbq4QoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 6
+      },
+      "meta": {}
+    },
+    "Efficient channel-hopping rendezvous algorithm based on available channel set": {
+      "year": "2015",
+      "pub_id": "v4rX24EAAAAJ:nrtMV_XWKgEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 6
+      },
+      "meta": {}
+    },
+    "User behaviors in private BitTorrent communities": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:Mojj43d5GZwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 6
+      },
+      "meta": {}
+    },
+    "Distributed KDC-based random pairwise key establishment in wireless sensor networks": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:dshw04ExmUIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 6
+      },
+      "meta": {}
+    },
+    "Performance evaluation of IEEE 802.11 infrastructure mode with intra-cell UDP traffic": {
+      "year": "2007",
+      "pub_id": "v4rX24EAAAAJ:M3NEmzRMIkIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 6
+      },
+      "meta": {}
+    },
+    "Deltalag: Learning dynamic lead-lag patterns in financial markets": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:lYAcb2jw7qUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 5
+      },
+      "meta": {}
+    },
+    "City-vlm: Towards multidomain perception scene understanding via multimodal incomplete learning": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:BJrgspguQaEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 5
+      },
+      "meta": {}
+    },
+    "Interleaved bitstream execution for multi-pattern regex matching on GPUs": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:jtI9f0ekYq0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 5
+      },
+      "meta": {}
+    },
+    "Routemark: A fingerprint for intellectual property attribution in routing-based model merging": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:YTuZlYwrTOUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 5
+      },
+      "meta": {}
+    },
+    "SCFusion: Enhance infrared and visible modality fusion by preserving salient object consistency": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:oPLKW5k6eA4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 5
+      },
+      "meta": {}
+    },
+    "Task scheduling for efficient inference of large language models on single moderate GPU systems": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:1tZ8xJnm2c8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 5
+      },
+      "meta": {}
+    },
+    "R-memcached: A reliable in-memory cache system for big key-value stores": {
+      "year": "2015",
+      "pub_id": "v4rX24EAAAAJ:uc_IGeMz5qoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 5
+      },
+      "meta": {}
+    },
+    "Nash equilibria and dominant strategies in routing": {
+      "year": "2005",
+      "pub_id": "v4rX24EAAAAJ:IWHjjKOFINEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 5
+      },
+      "meta": {}
+    },
+    "A novel secure wireless video surveillance system based on Intel IXP425 network processor": {
+      "year": "2005",
+      "pub_id": "v4rX24EAAAAJ:4JMBOYKVnBMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 5
+      },
+      "meta": {}
+    },
+    "Llm agent memory: a survey from a unified representation–management perspective": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:qmtmRrLr0tkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences)": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:9DLIHnF0jcYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "SONIC: Segmented optimized nexus for information compression in key-value caching": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:sJPMR1oEGYQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "Resource-efficient personal large language models fine-tuning with collaborative edge computing": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:ijdKiLOsEJMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "Enhancing aigc service efficiency with adaptive multi-edge collaboration in a distributed system": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:jmjb1lOE9QIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "Unleashing Expert Opinion From Social Media for Stock Prediction": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:QVtou7C4vgoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "Mast: Efficient training of mixture-of-experts transformers with task pipelining and ordering": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:_AeoHAGD03cC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "ExpertFlow: Efficient Mixture-of-Experts Inference via Predictive Expert Caching and Token Scheduling": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:Y0-TYkg6YM4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "From regional to general: A vision-language model-based framework for corner cases comprehension in autonomous driving": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:2ywjKiB__4kC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "Smcoedge: Simultaneous multi-server offloading for collaborative mobile edge computing": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:TlpoogIpr_IC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "Stochastic Performance Analysis of Phase Decomposition in Hyperledger Fabric": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:5bg8sr1QxYwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "A quality-aware rendezvous framework for cognitive radio networks": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:-nhnvRiOwuoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "Multi-Fingerprint for wireless localization in time-varying indoor environment": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:7wO8s98CvbsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "Supervised learning based algorithm selection for deep neural networks": {
+      "year": "2017",
+      "pub_id": "v4rX24EAAAAJ:oNZyr7d5Mn4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "Tsunami: massively parallel homomorphic hashing on many‐core GPUs": {
+      "year": "2012",
+      "pub_id": "v4rX24EAAAAJ:g5m5HwL7SMYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "A lightweight emulator for bittorrent-like file sharing systems": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:NMxIlDl6LWMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "Incentive framework using Shapley value for BitTorrent-like systems": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:qUcmZB5y_30C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "An effective early warning scheme against pollution dissemination for BitTorrent": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:t7zJ5fGR-2UC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4
+      },
+      "meta": {}
+    },
+    "HierMoE: Accelerating MoE Training with Hierarchical Token Deduplication and Expert Swap": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:nPT8s1NX_-sC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 3
+      },
+      "meta": {}
+    },
+    "Efficient MoE Inference with Fine-Grained Scheduling of Disaggregated Expert Parallelism": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:JWITY9-sCbMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 3
+      },
+      "meta": {}
+    },
+    "Towards universal video retrieval: Generalizing video embedding via synthesized multimodal pyramid curriculum": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:m4fbC6XIj1kC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 3
+      },
+      "meta": {}
+    },
+    "Serverless computing": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:isU91gLudPYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 3
+      },
+      "meta": {}
+    },
+    "Risk-Aware Net: An Explicit Collision-Constrained Framework for Enhanced Safety Autonomous Driving": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:C33y2ycGS3YC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 3
+      },
+      "meta": {}
+    },
+    "Fault-tolerant hybrid-parallel training at scale with reliable and efficient in-memory checkpointing": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:SAZ1SQo2q1kC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 3
+      },
+      "meta": {}
+    },
+    "An LLVM-based open-source compiler for NVIDIA GPUs": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:jE2MZjpN3IcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 3
+      },
+      "meta": {}
+    },
+    "User-assisted cloud storage system: Opportunities and challenges": {
+      "year": "2013",
+      "pub_id": "v4rX24EAAAAJ:tOudhMTPpwUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 3
+      },
+      "meta": {}
+    },
+    "Homonymous role in role‐based discretionary access control": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:bEWYMUwI8FkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 3
+      },
+      "meta": {}
+    },
+    "RWA and wavelength conversion in wavelength-routed all-optical WDM networks": {
+      "year": "2003",
+      "pub_id": "v4rX24EAAAAJ:ZeXyd9-uunAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 3
+      },
+      "meta": {}
+    },
+    "ZipCCL: Efficient lossless data compression of communication collectives for accelerating LLM training": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:ymY9cBF3mdcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "VCG-Bench: Towards A Unified Visual-Centric Benchmark for Structured Generation and Editing": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:lg2tdxc6qMwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "MDN: Parallelizing Stepwise Momentum for Delta Linear Attention": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:6VlyvFCUEfcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "SpatialGrammar: A Domain-Specific Language for LLM-Based 3D Indoor Scene Generation": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:pYKElYtJMmwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "Reasoning language model inference serving unveiled: An empirical study": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:z8nqeaKD1nsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "Are Dilemmas and Conflicts in LLM Alignment Solvable? A View from Priority Graph": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:nPTYJWkExTIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "Rethinking deep research from the perspective of web content distribution matching": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:4Yq6kJLCcecC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "Janus-Q: End-to-End Event-Driven Trading via Hierarchical-Gated Reward Modeling": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:iyewoVqAXLQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:RuPIJ_LgqDgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "COVID-19 Lung Infection Segmentation With Cascaded Aggregation Network": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:CNPyR2KL9-0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:FsLZdJ3BAzkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "Multi-Task Domain Adaptation for Language Grounding with 3D Objects": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:aIdbFUkbNIkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "Power-Aware Wireless Transmission for Computation Offloading in Mobile Cloud": {
+      "year": "2016",
+      "pub_id": "v4rX24EAAAAJ:ILKRHgRFtOwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "QoS prediction for the cloud service marketplace: A Grassmann manifold approach": {
+      "year": "2015",
+      "pub_id": "v4rX24EAAAAJ:ipzZ9siozwsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "Accelerating mass spectrometry-based protein identification using gpus": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:08ZZubdj9fEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "On achieving group-strategyproof multicast": {
+      "year": "2011",
+      "pub_id": "v4rX24EAAAAJ:CHSYGLWDkRkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "Address allocation mechanisms for mobile ad hoc networks": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:uDGL6kOW6j0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "Design of a cluster-based web server with proportional connection delay guarantee": {
+      "year": "2008",
+      "pub_id": "v4rX24EAAAAJ:BqipwSGYUEgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "An Analytical Model for IEEE 802.11 Point-To-Point Link": {
+      "year": "2008",
+      "pub_id": "v4rX24EAAAAJ:maZDTaKrznsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "Utility-Aware Resource Allocation for Multi-Stream Overlay Multicast": {
+      "year": "2007",
+      "pub_id": "v4rX24EAAAAJ:U_HPUtbDl20C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2
+      },
+      "meta": {}
+    },
+    "DRNOISE: Benchmarking Deep Research Agents in Misleading Evidence Environments": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:tz746QTLzJkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Xema: Efficient Diffusion Serving through Fine-Grained Memory Management and Auto-Configuration": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:W2uZP3ddy8sC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "From Ground to Space: A Survey on Multidomain Data Lifecycle for Urban Embodied Agents": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:cBPnxVikjH8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "KernelFlume: Elastic Core-Attention Scaling for Agentic Long-Context Decoding": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:Azgs6IHzeyYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Compass: Dissecting Communication and Computation Operators for Efficient LLM Training": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:EaFouW7jFu4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "MOFMeld: a structure–language fusion framework for MOF property prediction in carbon capture": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:hNSvKAmkeYkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Salr: Sparsity-aware low-rank representation for efficient fine-tuning of large language models": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:jlhcAiayVhoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "OmniReview: A Large-scale Benchmark and LLM-enhanced Framework for Realistic Reviewer Recommendation": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:2vr6o8x5NLkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Dissecting Outlier Dynamics in LLM NVFP4 Pretraining": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:yY3RG6sOEgwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "On the Spectral Flattening of Quantized Embeddings": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:wSy_KLzO7YEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Privacy-preserving large-scale set intersection: An efficient method with enhanced security": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:t-hv7AR41mYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Mitigating Contention in Stream Multiprocessors for Pipelined Mixture of Experts: An SM-Aware Scheduling Approach": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:TaaCk18tZOkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "ScheInfer: Efficient inference of large language models with task scheduling on moderate gpus": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:zUl2_INMlC4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Guest Editorial: Introduction to the Special Section on Communication-Efficient Distributed Machine Learning": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:RoXSNcbkSzsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Simplifying low-level GPU programming with GAS": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:WC23djZS0W4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Quality, Reliability, Security and Robustness in Heterogeneous Systems": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:vDZJ-YLwNdEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Minimal Discrepancy Placement of Sniffers and Calibrators for Wireless Indoor Localization": {
+      "year": "2019",
+      "pub_id": "v4rX24EAAAAJ:Ehil0879vHcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Cooperative rendezvous protocol for multiple user-pairs in cognitive radio networks": {
+      "year": "2018",
+      "pub_id": "v4rX24EAAAAJ:WJVC3Jt7v1AC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Improving the performance of fully connected neural networks by out-of-place matrix transpose": {
+      "year": "2017",
+      "pub_id": "v4rX24EAAAAJ:k8Z6L05lTy4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Frontier technologies of trust computing and network security": {
+      "year": "2015",
+      "pub_id": "v4rX24EAAAAJ:uJ-U7cs_P_0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Ebanshu: An Interactivity-Aware Blended Virtual Learning Environment": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:VaXvl8Fpj5cC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Inequity of sharing ratio enhancement in darknet: measurement and improvement": {
+      "year": "2012",
+      "pub_id": "v4rX24EAAAAJ:dfsIfKJdRG4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "MLCC: A Multi Layered Correlative Control Mechanism for the VPN Topology": {
+      "year": "2007",
+      "pub_id": "v4rX24EAAAAJ:JV2RwH3_ST0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "On the homonymous role in role-based discretionary access control": {
+      "year": "2007",
+      "pub_id": "v4rX24EAAAAJ:k_IJM867U9cC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Self-certified mutual authentication and key exchange protocol for roaming services": {
+      "year": "2006",
+      "pub_id": "v4rX24EAAAAJ:r0BpntZqJG4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "A novel key management and distribution solution for secure video multicast": {
+      "year": "2005",
+      "pub_id": "v4rX24EAAAAJ:NyGDZy8z5eUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "A key embedded video codec for secure video multicast": {
+      "year": "2005",
+      "pub_id": "v4rX24EAAAAJ:0CzhzZyukY4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 1
+      },
+      "meta": {}
+    },
+    "Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:H7nrzBkawXsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Zellige: Moldable Sequence Placement for Mixed Image-Video DiT Training": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:TesyEGJKHF4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Stale Information Matters: Efficiently Tackling Data Heterogeneity in Asynchronous Federated Learning with Model Calibration": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:I8rxH6phXEkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "FedML Parrot: A Scalable Federated Learning Simulation System via Heterogeneity-aware Scheduling on Hierarchical Sequential Training": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:RMgMIBzvq-4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Memory-Augmented Multimodal Large Language Models for Small Object Understanding in Streaming Aerial Videos": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:In6cVmBjs0IC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "CoT-Core: Accelerating LLM Evaluation via CoT-Aware Coreset Selection": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:7H_jS4BsgvYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Bidirectional Resource Scheduling for Disaggregated and Asynchronous RL Post-Training": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:xGWFX6Gbr9MC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "DynSpAttn: Efficient Attention via Dual-Side Dynamic Sparsity on Sparse Tensor Cores": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:rCNdntzdTkkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Probing the Plasticity and Correlation of LLM Value Systems: LLM Value Rankings are Not Stable": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:7Frjd3zlGBUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Accelerating Disaggregated RL for Visual Generative LLMs with Diffusion-Based Parallelism and Trainer-Assisted Generation": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:xm0LlTxljI0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:ndLnGcHYRF0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Accelerating Multi-modal LLM Training with Adaptive Model Placement and Parallelization": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:x21FZCSn4ZoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Position: LLM Inference Should Be Evaluated as Energy-to-Token Production": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:PQEM9vzQD9gC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "SNI-GNN: SmartNIC-Assisted Full-Graph GNN Training with In-Network Embedding Prediction": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:3_LpOwP6eMYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Rule-VLN: Bridging Perception and Compliance via Semantic Reasoning and Geometric Rectification": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:M0leSnx2MbUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "MFAD: A Multimodal Feature Fusion-Enhanced Time Series Anomaly Detection Framework in Industrial Cyber-Physical Systems": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:WwIwg2wKZ0QC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "From Literature to Lab: Closed-Loop Advancement of Perovskite Solar Cells via Domain Knowledge Guided LLM": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:Og1tA8FjbJAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "ROME: Maximizing GPU Efficiency for All-Pairs Shortest Path via Taming Fine-Grained Irregularities": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:BOlwja0KXvYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:Ic1VZgkJnDsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "SAFormer: Spatially Adaptive Transformer for Efficient and Multi-Resolution Occupancy Prediction": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:OzeSX8-yOCQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Guest Editorial Special Issue on Federated Learning for Big Data Applications": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:LK8CI43ZvvMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Microfluidic Barcode-Like Cell Sensor For Microscope-Free Quantitative Detection Of Small Amount Of Cells": {
+      "year": "2024",
+      "pub_id": "v4rX24EAAAAJ:SIv7DqKytYAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "LoRA-FA: Efficient and Effective Low Rank Representation Fine-tuning": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:bVQMTfhMCi4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "System for efficient large-scale data distribution in distributed and parallel processing environment": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:Ade32sEp0pkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Guest Editorial: Interplay between Machine Learning and Networking Systems": {
+      "year": "2022",
+      "pub_id": "v4rX24EAAAAJ:MAUkC_7iAq8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "INTERPLAY BETWEEN MACHINE LEARNING AND NETWORKING SYSTEMS": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:yeL6HyUMUGUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Cooperative Rendezvous in Multi-User Cognitive Radio Networks": {
+      "year": "2018",
+      "pub_id": "v4rX24EAAAAJ:Zh0EY9V9P6UC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "A Survey and Measurement Study of GPU DVFS on Energy Conservation": {
+      "year": "2016",
+      "pub_id": "v4rX24EAAAAJ:yTLRzDEmwhEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Method for achieving rendezvous for cognitive radio networks": {
+      "year": "2015",
+      "pub_id": "v4rX24EAAAAJ:j8SEvjWlNXcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "An Authorization Model without Central Authority for Service Collaboration": {
+      "year": "2011",
+      "pub_id": "v4rX24EAAAAJ:PVgj2kMGcgYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Quality of service management in emerging wireless networks": {
+      "year": "2011",
+      "pub_id": "v4rX24EAAAAJ:isC4tDSrTZIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "An Efficient Recovery and Survival Scheme against Malware Attacks": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:BJbdYPG6LGMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Providing key recovery capability for mobile communications": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:sJsF-0ZLhtgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Risk-Aware QoP/QoS Optimization for Multimedia Applications in Wireless Networks": {
+      "year": "2009",
+      "pub_id": "v4rX24EAAAAJ:Ak0FvsSvgGUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Nash Equilibria and Dominant Strategies in Routing: 2005; Wang, Li, Chu": {
+      "year": "2008",
+      "pub_id": "v4rX24EAAAAJ:G1UMdFYMoxkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Considering network context for efficient simulation of highly parallel network processors": {
+      "year": "2005",
+      "pub_id": "v4rX24EAAAAJ:F1b5ZUV5XREC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Wavelength assignment in WDM networks with sparse-partial wavelength conversion": {
+      "year": "2005",
+      "pub_id": "v4rX24EAAAAJ:a9-T7VOCCH8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Session 24-Design and Performance Analysis-Considering Network Context for Efficient Simulation of Highly Parallel Network Processors": {
+      "year": "2005",
+      "pub_id": "v4rX24EAAAAJ:z6xuaG2dYH0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Routing and wavelength assignment issues in the presence of wavelength conversion for all-optical networks [J]": {
+      "year": "2003",
+      "pub_id": "v4rX24EAAAAJ:AHdEip9mkN0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Routing and wavelength assignment versus wavelength converters placement in all-optical networks": {
+      "year": "2002",
+      "pub_id": "v4rX24EAAAAJ:4xDN1ZYqzskC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Benchmarking and Error Analysis of Deep Search and Deep Research LLM Agents": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:9NZAP19TdFAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Parameters as Memory: Internalizing Long-Horizon Memories for Efficient LLM Agents": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:L24QuVWYgZ0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Does Knowledge Editing Encourage Hallucination? On the Interplay of Knowledge Editing and Language Model Hallucination": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:QoJ_w57xiyAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "DreamDDP: Accelerating Low-Bandwidth Geo-Distributed LLM Training with Layer-wise Partial Synchronization": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:_tF6a-HnqWAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Enhancing Knowledge Injection with Surrounding Backgrounds in Continual Training LLMs": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:orDZ08hpP44C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "BiasTrojan: LLM Judgers Are Easily Distorted by Few Hundreds of Contrastive Biased Training Data": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:QsKbpXNoaWkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Capturing and Mitigating Gradient Aggregation Errors for Fault-Tolerant Distributed Training": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:4e5Qn2KL_jwC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "AnTKV: Anchor Token-Aware Ultra-Low-Bit Vector Quantization for KV Cache in Large Language Models": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:wUn16MOA3RoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Sliding Window Attention for Reinforced Reasoning": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:m92CDrhVnKEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Is Privacy Always Prioritized over Learning? Probing LLMs' Value Priority Belief under External Perturbations": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:dAp6zn-oMfAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:c59VksA5Vz4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "All for One and One for All: A Collaborative FL Framework for Generic Federated Learning with Personalized Plug-ins": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:mWEH9CqjF64C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Harnessing Client Drift with Decoupled Gradient Dissimilarity": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:w0F2JDEymm0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "FedPD: Defying data heterogeneity through privacy distillation": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:FiDNX6EVdGUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Dissecting darknets": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:OBSaB-F7qqsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Practical Random Linear Network Coding on GPUs": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:2tRrZ1ZAMYUC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Design and Implementation of Multiple-precision Integer Library for GPUs": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:LgRImbQfgY4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "FGC-2012 Organizing and Program Committees": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:TIZ-Mc8IlK0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
+    },
+    "Poster: Using Fuzzy PI Controller to Provide QoS on Web Servers": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:ZHo1McVdvXMC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 0
+      },
+      "meta": {}
     }
   }
 }
