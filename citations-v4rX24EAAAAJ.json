@@ -1,0 +1,198 @@
+{
+  "schema": 2,
+  "profile": {
+    "scholar_id": "v4rX24EAAAAJ",
+    "name": "Xiaowen Chu",
+    "metrics": {
+      "2026-09-17": {
+        "citations": 19514,
+        "hindex": 73,
+        "i10": 217
+      }
+    }
+  },
+  "updated": "2026-09-17",
+  "source": "dom",
+  "papers": {
+    "AutoML: A Survey of the State-of-the-Art": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:yqoGN6RLRZoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2865
+      },
+      "meta": {}
+    },
+    "Electric vehicle charging station placement: Formulation, complexity, and solutions": {
+      "year": "2014",
+      "pub_id": "v4rX24EAAAAJ:HE397vMXCloC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 648
+      },
+      "meta": {}
+    },
+    "Highly scalable deep learning training system with mixed-precision: Training imagenet in four minutes": {
+      "year": "2018",
+      "pub_id": "v4rX24EAAAAJ:dBIO0h50nwkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 521
+      },
+      "meta": {}
+    },
+    "Benchmarking state-of-the-art deep learning software tools": {
+      "year": "2016",
+      "pub_id": "v4rX24EAAAAJ:L7CI7m0gUJcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 501
+      },
+      "meta": {}
+    },
+    "Dissecting GPU memory hierarchy through microbenchmarking": {
+      "year": "2017",
+      "pub_id": "v4rX24EAAAAJ:EkHepimYqZsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 361
+      },
+      "meta": {}
+    },
+    "SOAP3: ultra-fast GPU-based parallel alignment tool for short reads": {
+      "year": "2012",
+      "pub_id": "v4rX24EAAAAJ:YFjsv_pBGBYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 343
+      },
+      "meta": {}
+    },
+    "Lora-fa: Memory-efficient low-rank adaptation for large language models fine-tuning": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:YsrPvlHIBpEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 311
+      },
+      "meta": {}
+    },
+    "FMore: An Incentive Scheme of Multi-dimensional Auction for Federated Learning in MEC": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:QD3KBmkZPeQC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 291
+      },
+      "meta": {}
+    },
+    "Deep learning identifies accurate burst locations in water distribution networks": {
+      "year": "2019",
+      "pub_id": "v4rX24EAAAAJ:LhH-TYMQEocC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 289
+      },
+      "meta": {}
+    },
+    "A survey of deep learning techniques for neural machine translation": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:gKiMpY-AVTkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 286
+      },
+      "meta": {}
+    },
+    "Vfchain: Enabling verifiable and auditable federated learning via blockchain systems": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:MhiOAD_qIWkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 277
+      },
+      "meta": {}
+    },
+    "Jump-stay based channel-hopping algorithm with guaranteed rendezvous for cognitive radio networks": {
+      "year": "2011",
+      "pub_id": "v4rX24EAAAAJ:5MTHONV0fEkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 263
+      },
+      "meta": {}
+    },
+    "BurstGPT: A Real-world Workload Dataset to Optimize LLM Serving Systems": {
+      "year": "2025",
+      "pub_id": "v4rX24EAAAAJ:T_ojBgVMvoEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 241
+      },
+      "meta": {}
+    },
+    "Communication-efficient distributed deep learning: A comprehensive survey": {
+      "year": "2020",
+      "pub_id": "v4rX24EAAAAJ:WC9gN4BGCRcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 236
+      },
+      "meta": {}
+    },
+    "GossipFL: A Decentralized Federated Learning Framework with Sparsified and Adaptive Communication": {
+      "year": "2023",
+      "pub_id": "v4rX24EAAAAJ:VN7nJs4JPk0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 235
+      },
+      "meta": {}
+    },
+    "A Distributed Synchronous SGD Algorithm with Global Top- Sparsification for Low Bandwidth Networks": {
+      "year": "2019",
+      "pub_id": "v4rX24EAAAAJ:mNrWkgRL2YcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 230
+      },
+      "meta": {}
+    },
+    "Autonomous-vehicle public transportation system: scheduling and admission control": {
+      "year": "2016",
+      "pub_id": "v4rX24EAAAAJ:edDO8Oi4QzsC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 213
+      },
+      "meta": {}
+    },
+    "Speeding up k-means algorithm by GPUs": {
+      "year": "2010",
+      "pub_id": "v4rX24EAAAAJ:q-HalDI95KYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 209
+      },
+      "meta": {}
+    },
+    "Jump-stay rendezvous algorithm for cognitive radio networks": {
+      "year": "2012",
+      "pub_id": "v4rX24EAAAAJ:GnPB-g6toBAC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 204
+      },
+      "meta": {}
+    },
+    "A comprehensive survey of incentive mechanism for federated learning": {
+      "year": "2021",
+      "pub_id": "v4rX24EAAAAJ:6bLC7aUMtPcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 183
+      },
+      "meta": {}
+    }
+  }
+}
