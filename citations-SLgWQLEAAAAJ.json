@@ -1,0 +1,198 @@
+{
+  "schema": 2,
+  "profile": {
+    "scholar_id": "SLgWQLEAAAAJ",
+    "name": "Bo Li",
+    "metrics": {
+      "2026-09-17": {
+        "citations": 37271,
+        "hindex": 86,
+        "i10": 749
+      }
+    }
+  },
+  "updated": "2026-09-17",
+  "source": "dom",
+  "papers": {
+    "CoolStreaming/DONet: A data-driven overlay network for peer-to-peer live media streaming": {
+      "year": "2005",
+      "pub_id": "SLgWQLEAAAAJ:u5HHmVD_uO8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 2144
+      },
+      "meta": {}
+    },
+    "Cmfl: Mitigating communication overhead for federated learning.": {
+      "year": "2019",
+      "pub_id": "SLgWQLEAAAAJ:1DepXQxl6QcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 691
+      },
+      "meta": {}
+    },
+    "On the optimal placement of web proxies in the internet": {
+      "year": "1999",
+      "pub_id": "SLgWQLEAAAAJ:u-x6o8ySG0sC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 611
+      },
+      "meta": {}
+    },
+    "Opportunities and challenges of peer-to-peer internet video broadcast": {
+      "year": "2008",
+      "pub_id": "SLgWQLEAAAAJ:d1gkVwhDpl0C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 540
+      },
+      "meta": {}
+    },
+    "A survey of transport protocols for wireless sensor networks": {
+      "year": "2006",
+      "pub_id": "SLgWQLEAAAAJ:2osOgNQ5qMEC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 514
+      },
+      "meta": {}
+    },
+    "Gearing resource-poor mobile devices with powerful clouds: architectures, challenges, and applications": {
+      "year": "2013",
+      "pub_id": "SLgWQLEAAAAJ:TA2J6If_vOcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 453
+      },
+      "meta": {}
+    },
+    "Upstream congestion control in wireless sensor networks through cross-layer optimization": {
+      "year": "2007",
+      "pub_id": "SLgWQLEAAAAJ:W7OEmFMy1HYC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 421
+      },
+      "meta": {}
+    },
+    "Design and deployment of a hybrid CDN-P2P system for live video streaming: experiences with LiveSky": {
+      "year": "2009",
+      "pub_id": "SLgWQLEAAAAJ:mel-f30kHHgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 397
+      },
+      "meta": {}
+    },
+    "Inside the new coolstreaming: Principles, measurements and performance implications": {
+      "year": "2008",
+      "pub_id": "SLgWQLEAAAAJ:qjMakFHDy7sC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 375
+      },
+      "meta": {}
+    },
+    "The right to be forgotten in federated learning: An efficient realization with rapid retraining": {
+      "year": "2022",
+      "pub_id": "SLgWQLEAAAAJ:MOzItdknnOoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 361
+      },
+      "meta": {}
+    },
+    "A new collision resolution mechanism to enhance the performance of IEEE 802.11 DCF": {
+      "year": "2004",
+      "pub_id": "SLgWQLEAAAAJ:9yKSN-GCB0IC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 355
+      },
+      "meta": {}
+    },
+    "Lora-fa: Memory-efficient low-rank adaptation for large language models fine-tuning": {
+      "year": "2023",
+      "pub_id": "SLgWQLEAAAAJ:Y2wsZ1s-vmcC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 311
+      },
+      "meta": {}
+    },
+    "A framework for truthful online auctions in cloud computing with heterogeneous user demands": {
+      "year": "2015",
+      "pub_id": "SLgWQLEAAAAJ:sJRvXmEhuqoC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 306
+      },
+      "meta": {}
+    },
+    "Priority-based congestion control in wireless sensor networks": {
+      "year": "2006",
+      "pub_id": "SLgWQLEAAAAJ:hqOjcs7Dif8C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 291
+      },
+      "meta": {}
+    },
+    "Coolstreaming: Design, theory, and practice": {
+      "year": "2007",
+      "pub_id": "SLgWQLEAAAAJ:zYLM7Y9cAGgC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 287
+      },
+      "meta": {}
+    },
+    "A survey on mobile WiMAX [wireless broadband access]": {
+      "year": "2007",
+      "pub_id": "SLgWQLEAAAAJ:Y0pCki6q_DkC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 277
+      },
+      "meta": {}
+    },
+    "Adaptive video multicast over the Internet": {
+      "year": "2003",
+      "pub_id": "SLgWQLEAAAAJ:UeHWp8X0CEIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 246
+      },
+      "meta": {}
+    },
+    "Communication-efficient distributed deep learning: A comprehensive survey": {
+      "year": "2020",
+      "pub_id": "SLgWQLEAAAAJ:6fuCfRS4dzIC",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 236
+      },
+      "meta": {}
+    },
+    "GossipFL: A decentralized federated learning framework with sparsified and adaptive communication": {
+      "year": "2022",
+      "pub_id": "SLgWQLEAAAAJ:kcTtyY6ams4C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 235
+      },
+      "meta": {}
+    },
+    "Harnessing renewable energy in cloud datacenters: opportunities and challenges": {
+      "year": "2014",
+      "pub_id": "SLgWQLEAAAAJ:b1ISl_ktn64C",
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 216
+      },
+      "meta": {}
+    }
+  }
+}
