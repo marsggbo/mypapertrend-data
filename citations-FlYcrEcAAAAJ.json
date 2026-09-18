@@ -4752,7 +4752,7 @@
         "2026-08-05": 0,
         "2026-08-06": 0,
         "2026-08-07": 0,
-        "2026-08-08": 4,
+        "2026-08-08": 0,
         "2026-08-09": 0,
         "2026-08-10": 0,
         "2026-08-11": 0,
@@ -6989,7 +6989,7 @@
       }
     },
     "Clearing MCP Navigation Fog with Economics-Aware Hierarchical Tool Routing": {
-      "year": "",
+      "year": "2026",
       "pub_id": "FlYcrEcAAAAJ:NhqRSupF_l8C",
       "first_seen": "2026-07-19",
       "history": {
