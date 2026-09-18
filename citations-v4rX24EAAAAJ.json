@@ -8,10 +8,20 @@
         "citations": 19514,
         "hindex": 73,
         "i10": 217
+      },
+      "2026-09-18": {
+        "citations": 19514,
+        "hindex": 73,
+        "i10": 217
+      },
+      "2026-09-19": {
+        "citations": 19562,
+        "hindex": 73,
+        "i10": 217
       }
     }
   },
-  "updated": "2026-09-17",
+  "updated": "2026-09-19",
   "source": "dom",
   "papers": {
     "AutoML: A Survey of the State-of-the-Art": {
@@ -19,7 +29,9 @@
       "pub_id": "v4rX24EAAAAJ:yqoGN6RLRZoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2865
+        "2026-09-17": 2865,
+        "2026-09-18": 2865,
+        "2026-09-19": 2869
       },
       "meta": {}
     },
@@ -28,7 +40,9 @@
       "pub_id": "v4rX24EAAAAJ:HE397vMXCloC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 648
+        "2026-09-17": 648,
+        "2026-09-18": 648,
+        "2026-09-19": 649
       },
       "meta": {}
     },
@@ -37,7 +51,9 @@
       "pub_id": "v4rX24EAAAAJ:dBIO0h50nwkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 521
+        "2026-09-17": 521,
+        "2026-09-18": 521,
+        "2026-09-19": 521
       },
       "meta": {}
     },
@@ -46,7 +62,9 @@
       "pub_id": "v4rX24EAAAAJ:L7CI7m0gUJcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 501
+        "2026-09-17": 501,
+        "2026-09-18": 501,
+        "2026-09-19": 502
       },
       "meta": {}
     },
@@ -55,7 +73,9 @@
       "pub_id": "v4rX24EAAAAJ:EkHepimYqZsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 361
+        "2026-09-17": 361,
+        "2026-09-18": 361,
+        "2026-09-19": 361
       },
       "meta": {}
     },
@@ -64,7 +84,9 @@
       "pub_id": "v4rX24EAAAAJ:YFjsv_pBGBYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 343
+        "2026-09-17": 343,
+        "2026-09-18": 343,
+        "2026-09-19": 343
       },
       "meta": {}
     },
@@ -73,7 +95,9 @@
       "pub_id": "v4rX24EAAAAJ:YsrPvlHIBpEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 311
+        "2026-09-17": 311,
+        "2026-09-18": 311,
+        "2026-09-19": 311
       },
       "meta": {}
     },
@@ -82,7 +106,9 @@
       "pub_id": "v4rX24EAAAAJ:QD3KBmkZPeQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 291
+        "2026-09-17": 291,
+        "2026-09-18": 291,
+        "2026-09-19": 291
       },
       "meta": {}
     },
@@ -91,7 +117,9 @@
       "pub_id": "v4rX24EAAAAJ:LhH-TYMQEocC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 289
+        "2026-09-17": 289,
+        "2026-09-18": 289,
+        "2026-09-19": 289
       },
       "meta": {}
     },
@@ -100,7 +128,9 @@
       "pub_id": "v4rX24EAAAAJ:gKiMpY-AVTkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 286
+        "2026-09-17": 286,
+        "2026-09-18": 286,
+        "2026-09-19": 286
       },
       "meta": {}
     },
@@ -109,7 +139,9 @@
       "pub_id": "v4rX24EAAAAJ:MhiOAD_qIWkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 277
+        "2026-09-17": 277,
+        "2026-09-18": 277,
+        "2026-09-19": 277
       },
       "meta": {}
     },
@@ -118,7 +150,9 @@
       "pub_id": "v4rX24EAAAAJ:5MTHONV0fEkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 263
+        "2026-09-17": 263,
+        "2026-09-18": 263,
+        "2026-09-19": 263
       },
       "meta": {}
     },
@@ -127,7 +161,9 @@
       "pub_id": "v4rX24EAAAAJ:T_ojBgVMvoEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 241
+        "2026-09-17": 241,
+        "2026-09-18": 241,
+        "2026-09-19": 245
       },
       "meta": {}
     },
@@ -136,7 +172,9 @@
       "pub_id": "v4rX24EAAAAJ:WC9gN4BGCRcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 236
+        "2026-09-17": 236,
+        "2026-09-18": 236,
+        "2026-09-19": 237
       },
       "meta": {}
     },
@@ -145,7 +183,9 @@
       "pub_id": "v4rX24EAAAAJ:VN7nJs4JPk0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 235
+        "2026-09-17": 235,
+        "2026-09-18": 235,
+        "2026-09-19": 237
       },
       "meta": {}
     },
@@ -154,16 +194,22 @@
       "pub_id": "v4rX24EAAAAJ:mNrWkgRL2YcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 230
+        "2026-09-17": 230,
+        "2026-09-18": 230,
+        "2026-09-19": 231
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-17"
+      }
     },
     "Autonomous-vehicle public transportation system: scheduling and admission control": {
       "year": "2016",
       "pub_id": "v4rX24EAAAAJ:edDO8Oi4QzsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 213
+        "2026-09-17": 213,
+        "2026-09-18": 213,
+        "2026-09-19": 213
       },
       "meta": {}
     },
@@ -172,7 +218,9 @@
       "pub_id": "v4rX24EAAAAJ:q-HalDI95KYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 209
+        "2026-09-17": 209,
+        "2026-09-18": 209,
+        "2026-09-19": 210
       },
       "meta": {}
     },
@@ -181,7 +229,9 @@
       "pub_id": "v4rX24EAAAAJ:GnPB-g6toBAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 204
+        "2026-09-17": 204,
+        "2026-09-18": 204,
+        "2026-09-19": 204
       },
       "meta": {}
     },
@@ -190,16 +240,22 @@
       "pub_id": "v4rX24EAAAAJ:6bLC7aUMtPcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 183
+        "2026-09-17": 183,
+        "2026-09-18": 183,
+        "2026-09-19": 183
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-17"
+      }
     },
     "Wavelength converter placement under different RWA algorithms in wavelength-routed all-optical networks": {
       "year": "2003",
       "pub_id": "v4rX24EAAAAJ:u5HHmVD_uO8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 183
+        "2026-09-17": 183,
+        "2026-09-18": 183,
+        "2026-09-19": 183
       },
       "meta": {}
     },
@@ -208,7 +264,9 @@
       "pub_id": "v4rX24EAAAAJ:8xutWZnSdmoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 178
+        "2026-09-17": 178,
+        "2026-09-18": 178,
+        "2026-09-19": 178
       },
       "meta": {}
     },
@@ -217,7 +275,9 @@
       "pub_id": "v4rX24EAAAAJ:PyEswDtIyv0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 161
+        "2026-09-17": 161,
+        "2026-09-18": 161,
+        "2026-09-19": 161
       },
       "meta": {}
     },
@@ -226,7 +286,9 @@
       "pub_id": "v4rX24EAAAAJ:kVjdVfd2voEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 160
+        "2026-09-17": 160,
+        "2026-09-18": 160,
+        "2026-09-19": 160
       },
       "meta": {}
     },
@@ -235,7 +297,9 @@
       "pub_id": "v4rX24EAAAAJ:5nxA0vEk-isC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 158
+        "2026-09-17": 158,
+        "2026-09-18": 158,
+        "2026-09-19": 158
       },
       "meta": {}
     },
@@ -244,7 +308,9 @@
       "pub_id": "v4rX24EAAAAJ:8d8msizDQcsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 157
+        "2026-09-17": 157,
+        "2026-09-18": 157,
+        "2026-09-19": 157
       },
       "meta": {}
     },
@@ -253,7 +319,9 @@
       "pub_id": "v4rX24EAAAAJ:d1gkVwhDpl0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 157
+        "2026-09-17": 157,
+        "2026-09-18": 157,
+        "2026-09-19": 157
       },
       "meta": {}
     },
@@ -262,16 +330,22 @@
       "pub_id": "v4rX24EAAAAJ:48xauSegjOkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 154
+        "2026-09-17": 154,
+        "2026-09-18": 154,
+        "2026-09-19": 154
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-18"
+      }
     },
     "Adaprop: Learning adaptive propagation for graph neural network based knowledge graph reasoning": {
       "year": "2023",
       "pub_id": "v4rX24EAAAAJ:raTqNPD5sRQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 152
+        "2026-09-17": 152,
+        "2026-09-18": 152,
+        "2026-09-19": 152
       },
       "meta": {}
     },
@@ -280,7 +354,9 @@
       "pub_id": "v4rX24EAAAAJ:bnK-pcrLprsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 152
+        "2026-09-17": 152,
+        "2026-09-18": 152,
+        "2026-09-19": 152
       },
       "meta": {}
     },
@@ -289,7 +365,9 @@
       "pub_id": "v4rX24EAAAAJ:738O_yMBCRsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 152
+        "2026-09-17": 152,
+        "2026-09-18": 152,
+        "2026-09-19": 152
       },
       "meta": {}
     },
@@ -298,7 +376,9 @@
       "pub_id": "v4rX24EAAAAJ:yMeIxYmEMEAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 142
+        "2026-09-17": 142,
+        "2026-09-18": 142,
+        "2026-09-19": 143
       },
       "meta": {}
     },
@@ -307,7 +387,9 @@
       "pub_id": "v4rX24EAAAAJ:1r-w4gtu6w8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 141
+        "2026-09-17": 141,
+        "2026-09-18": 141,
+        "2026-09-19": 142
       },
       "meta": {}
     },
@@ -316,7 +398,9 @@
       "pub_id": "v4rX24EAAAAJ:LPtt_HFRSbwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 139
+        "2026-09-17": 139,
+        "2026-09-18": 139,
+        "2026-09-19": 139
       },
       "meta": {}
     },
@@ -325,7 +409,9 @@
       "pub_id": "v4rX24EAAAAJ:lgwcVrK6X84C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 139
+        "2026-09-17": 139,
+        "2026-09-18": 139,
+        "2026-09-19": 139
       },
       "meta": {}
     },
@@ -334,7 +420,9 @@
       "pub_id": "v4rX24EAAAAJ:KUbvn5osdkgC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 137
+        "2026-09-17": 137,
+        "2026-09-18": 137,
+        "2026-09-19": 137
       },
       "meta": {}
     },
@@ -343,7 +431,9 @@
       "pub_id": "v4rX24EAAAAJ:otzGkya1bYkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 135
+        "2026-09-17": 135,
+        "2026-09-18": 135,
+        "2026-09-19": 135
       },
       "meta": {}
     },
@@ -352,7 +442,9 @@
       "pub_id": "v4rX24EAAAAJ:HJSXoJQnj-YC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 132
+        "2026-09-17": 132,
+        "2026-09-18": 132,
+        "2026-09-19": 132
       },
       "meta": {}
     },
@@ -361,7 +453,9 @@
       "pub_id": "v4rX24EAAAAJ:69ZgNCALVd0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 126
+        "2026-09-17": 126,
+        "2026-09-18": 126,
+        "2026-09-19": 128
       },
       "meta": {}
     },
@@ -370,7 +464,9 @@
       "pub_id": "v4rX24EAAAAJ:FiytvqdAVhgC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 123
+        "2026-09-17": 123,
+        "2026-09-18": 123,
+        "2026-09-19": 123
       },
       "meta": {}
     },
@@ -379,7 +475,9 @@
       "pub_id": "v4rX24EAAAAJ:UuEBAcK4md4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 122
+        "2026-09-17": 122,
+        "2026-09-18": 122,
+        "2026-09-19": 122
       },
       "meta": {}
     },
@@ -388,7 +486,9 @@
       "pub_id": "v4rX24EAAAAJ:QUX0mv85b1cC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 120
+        "2026-09-17": 120,
+        "2026-09-18": 120,
+        "2026-09-19": 120
       },
       "meta": {}
     },
@@ -397,16 +497,22 @@
       "pub_id": "v4rX24EAAAAJ:olpn-zPbct0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 120
+        "2026-09-17": 120,
+        "2026-09-18": 120,
+        "2026-09-19": 120
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-18"
+      }
     },
     "Fedcv: a federated learning framework for diverse computer vision tasks": {
       "year": "2021",
       "pub_id": "v4rX24EAAAAJ:Br1UauaknNIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 119
+        "2026-09-17": 119,
+        "2026-09-18": 119,
+        "2026-09-19": 119
       },
       "meta": {}
     },
@@ -415,7 +521,9 @@
       "pub_id": "v4rX24EAAAAJ:BzfGm06jWhQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 109
+        "2026-09-17": 109,
+        "2026-09-18": 109,
+        "2026-09-19": 109
       },
       "meta": {}
     },
@@ -424,7 +532,9 @@
       "pub_id": "v4rX24EAAAAJ:M7yex6snE4oC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 108
+        "2026-09-17": 108,
+        "2026-09-18": 108,
+        "2026-09-19": 108
       },
       "meta": {}
     },
@@ -433,7 +543,9 @@
       "pub_id": "v4rX24EAAAAJ:IUKN3-7HHlwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 106
+        "2026-09-17": 106,
+        "2026-09-18": 106,
+        "2026-09-19": 106
       },
       "meta": {}
     },
@@ -442,7 +554,9 @@
       "pub_id": "v4rX24EAAAAJ:cK4Rrx0J3m0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 106
+        "2026-09-17": 106,
+        "2026-09-18": 106,
+        "2026-09-19": 106
       },
       "meta": {}
     },
@@ -451,7 +565,9 @@
       "pub_id": "v4rX24EAAAAJ:uVUOdF_882EC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 105
+        "2026-09-17": 105,
+        "2026-09-18": 105,
+        "2026-09-19": 105
       },
       "meta": {}
     },
@@ -460,16 +576,35 @@
       "pub_id": "v4rX24EAAAAJ:a3BOlSfXSfwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 105
+        "2026-09-17": 105,
+        "2026-09-18": 105,
+        "2026-09-19": 105
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Gradient sparsification is a promising technique to significantly reduce the communication overhead in decentralized synchronous stochastic gradient descent (S-SGD) algorithms. Yet, many existing gradient sparsification schemes (e.g., Top-k sparsification) have a communication complexity of O(kP), where k is the number of selected gradients by each worker and P is the number of workers. Recently, the gTop-k sparsification scheme has been proposed to reduce the communication complexity from O(kP) to O(k logP), which significantly boosts the system scalability. However, it remains unclear whether the gTop-k sparsification scheme can converge in theory. In this paper, we first provide theoretical proofs on the convergence of the gTop-k scheme for non-convex objective functions under certain analytic assumptions. We then derive the convergence rate of gTop-k S-SGD, which is at the same order as the vanilla mini-batch SGD. Finally, we conduct extensive experiments on different machine learning models and data sets to verify the soundness of the assumptions and theoretical results, and discuss the impact of the compression ratio on the convergence performance.",
+        "arxiv": "",
+        "authors": [
+          "S. Shi",
+          "Kaiyong Zhao",
+          "Qiang Wang",
+          "Zhenheng Tang",
+          "X. Chu"
+        ],
+        "doi": "10.24963/ijcai.2019/473",
+        "pdf": "https://www.ijcai.org/proceedings/2019/0473.pdf",
+        "s2url": "https://www.semanticscholar.org/paper/966995e660c1b760ccce6e4995bd70020e7484c7",
+        "tldr": "Theoretical proofs on the convergence of the gTop-k scheme for non-convex objective functions under certain analytic assumptions are provided and the convergence rate of g top-k SSGD is derived, which is at the same order as the vanilla minibatch SGD.",
+        "venue": "International Joint Conference on Artificial Intelligence"
+      }
     },
     "G-BLASTN: accelerating nucleotide alignment by graphics processors": {
       "year": "2014",
       "pub_id": "v4rX24EAAAAJ:eMMeJKvmdy0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 105
+        "2026-09-17": 105,
+        "2026-09-18": 105,
+        "2026-09-19": 105
       },
       "meta": {}
     },
@@ -478,7 +613,9 @@
       "pub_id": "v4rX24EAAAAJ:9c2xU6iGI7YC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 103
+        "2026-09-17": 103,
+        "2026-09-18": 103,
+        "2026-09-19": 103
       },
       "meta": {}
     },
@@ -487,7 +624,9 @@
       "pub_id": "v4rX24EAAAAJ:zYLM7Y9cAGgC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 103
+        "2026-09-17": 103,
+        "2026-09-18": 103,
+        "2026-09-19": 103
       },
       "meta": {}
     },
@@ -496,7 +635,9 @@
       "pub_id": "v4rX24EAAAAJ:LdasjJ6CEcoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 102
+        "2026-09-17": 102,
+        "2026-09-18": 102,
+        "2026-09-19": 102
       },
       "meta": {}
     },
@@ -505,7 +646,9 @@
       "pub_id": "v4rX24EAAAAJ:nVrZBo8bIpAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 98
+        "2026-09-17": 98,
+        "2026-09-18": 98,
+        "2026-09-19": 98
       },
       "meta": {}
     },
@@ -514,7 +657,9 @@
       "pub_id": "v4rX24EAAAAJ:5icHVeHT4IsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 94
+        "2026-09-17": 94,
+        "2026-09-18": 94,
+        "2026-09-19": 94
       },
       "meta": {}
     },
@@ -523,7 +668,9 @@
       "pub_id": "v4rX24EAAAAJ:Tyk-4Ss8FVUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 94
+        "2026-09-17": 94,
+        "2026-09-18": 94,
+        "2026-09-19": 94
       },
       "meta": {}
     },
@@ -532,7 +679,9 @@
       "pub_id": "v4rX24EAAAAJ:kWvqk_afx_IC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 92
+        "2026-09-17": 92,
+        "2026-09-18": 92,
+        "2026-09-19": 92
       },
       "meta": {}
     },
@@ -541,7 +690,9 @@
       "pub_id": "v4rX24EAAAAJ:dQ2og3OwTAUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 91
+        "2026-09-17": 91,
+        "2026-09-18": 91,
+        "2026-09-19": 91
       },
       "meta": {}
     },
@@ -550,7 +701,9 @@
       "pub_id": "v4rX24EAAAAJ:qE4H1tSSYIIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 90
+        "2026-09-17": 90,
+        "2026-09-18": 90,
+        "2026-09-19": 91
       },
       "meta": {}
     },
@@ -559,7 +712,9 @@
       "pub_id": "v4rX24EAAAAJ:ufrVoPGSRksC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 89
+        "2026-09-17": 89,
+        "2026-09-18": 89,
+        "2026-09-19": 89
       },
       "meta": {}
     },
@@ -568,7 +723,9 @@
       "pub_id": "v4rX24EAAAAJ:2v_ZtQDX9iAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 85
+        "2026-09-17": 85,
+        "2026-09-18": 85,
+        "2026-09-19": 85
       },
       "meta": {}
     },
@@ -577,7 +734,9 @@
       "pub_id": "v4rX24EAAAAJ:prdVHNxh-e8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 84
+        "2026-09-17": 84,
+        "2026-09-18": 84,
+        "2026-09-19": 84
       },
       "meta": {}
     },
@@ -586,7 +745,9 @@
       "pub_id": "v4rX24EAAAAJ:PaBasH6fAo0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 83
+        "2026-09-17": 83,
+        "2026-09-18": 83,
+        "2026-09-19": 84
       },
       "meta": {}
     },
@@ -595,7 +756,9 @@
       "pub_id": "v4rX24EAAAAJ:kh2fBNsKQNwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 83
+        "2026-09-17": 83,
+        "2026-09-18": 83,
+        "2026-09-19": 83
       },
       "meta": {}
     },
@@ -604,7 +767,9 @@
       "pub_id": "v4rX24EAAAAJ:FAceZFleit8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 82
+        "2026-09-17": 82,
+        "2026-09-18": 82,
+        "2026-09-19": 83
       },
       "meta": {}
     },
@@ -613,7 +778,9 @@
       "pub_id": "v4rX24EAAAAJ:OcBU2YAGkTUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 82
+        "2026-09-17": 82,
+        "2026-09-18": 82,
+        "2026-09-19": 82
       },
       "meta": {}
     },
@@ -622,7 +789,9 @@
       "pub_id": "v4rX24EAAAAJ:UeHWp8X0CEIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 78
+        "2026-09-17": 78,
+        "2026-09-18": 78,
+        "2026-09-19": 78
       },
       "meta": {}
     },
@@ -631,7 +800,9 @@
       "pub_id": "v4rX24EAAAAJ:1yQoGdGgb4wC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 77
+        "2026-09-17": 77,
+        "2026-09-18": 77,
+        "2026-09-19": 77
       },
       "meta": {}
     },
@@ -640,7 +811,9 @@
       "pub_id": "v4rX24EAAAAJ:IaI1MmNe2tcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 75
+        "2026-09-17": 75,
+        "2026-09-18": 75,
+        "2026-09-19": 75
       },
       "meta": {}
     },
@@ -649,7 +822,9 @@
       "pub_id": "v4rX24EAAAAJ:hMod-77fHWUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 75
+        "2026-09-17": 75,
+        "2026-09-18": 75,
+        "2026-09-19": 75
       },
       "meta": {}
     },
@@ -658,7 +833,9 @@
       "pub_id": "v4rX24EAAAAJ:wE-fMHVdjMkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 74
+        "2026-09-17": 74,
+        "2026-09-18": 74,
+        "2026-09-19": 74
       },
       "meta": {}
     },
@@ -667,7 +844,9 @@
       "pub_id": "v4rX24EAAAAJ:JTqpx9DYBaYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 74
+        "2026-09-17": 74,
+        "2026-09-18": 74,
+        "2026-09-19": 78
       },
       "meta": {}
     },
@@ -676,7 +855,9 @@
       "pub_id": "v4rX24EAAAAJ:rbm3iO8VlycC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 71
+        "2026-09-17": 71,
+        "2026-09-18": 71,
+        "2026-09-19": 72
       },
       "meta": {}
     },
@@ -685,7 +866,9 @@
       "pub_id": "v4rX24EAAAAJ:jSAVyFp_754C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 70
+        "2026-09-17": 70,
+        "2026-09-18": 70,
+        "2026-09-19": 72
       },
       "meta": {}
     },
@@ -694,7 +877,9 @@
       "pub_id": "v4rX24EAAAAJ:DBa1UEJaJKAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 70
+        "2026-09-17": 70,
+        "2026-09-18": 70,
+        "2026-09-19": 70
       },
       "meta": {}
     },
@@ -703,7 +888,9 @@
       "pub_id": "v4rX24EAAAAJ:sNmaIFBj_lkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 70
+        "2026-09-17": 70,
+        "2026-09-18": 70,
+        "2026-09-19": 70
       },
       "meta": {}
     },
@@ -712,7 +899,9 @@
       "pub_id": "v4rX24EAAAAJ:qwy9JoKyICEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 69
+        "2026-09-17": 69,
+        "2026-09-18": 69,
+        "2026-09-19": 69
       },
       "meta": {}
     },
@@ -721,7 +910,9 @@
       "pub_id": "v4rX24EAAAAJ:NDuN12AVoxsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 69
+        "2026-09-17": 69,
+        "2026-09-18": 69,
+        "2026-09-19": 70
       },
       "meta": {}
     },
@@ -730,7 +921,9 @@
       "pub_id": "v4rX24EAAAAJ:AXkvAH5U_nMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 69
+        "2026-09-17": 69,
+        "2026-09-18": 69,
+        "2026-09-19": 69
       },
       "meta": {}
     },
@@ -739,7 +932,9 @@
       "pub_id": "v4rX24EAAAAJ:dhFuZR0502QC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 66
+        "2026-09-17": 66,
+        "2026-09-18": 66,
+        "2026-09-19": 66
       },
       "meta": {}
     },
@@ -748,7 +943,9 @@
       "pub_id": "v4rX24EAAAAJ:aqlVkmm33-oC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 66
+        "2026-09-17": 66,
+        "2026-09-18": 66,
+        "2026-09-19": 66
       },
       "meta": {}
     },
@@ -757,7 +954,9 @@
       "pub_id": "v4rX24EAAAAJ:4hFrxpcac9AC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 64
+        "2026-09-17": 64,
+        "2026-09-18": 64,
+        "2026-09-19": 64
       },
       "meta": {}
     },
@@ -766,7 +965,9 @@
       "pub_id": "v4rX24EAAAAJ:YohjEiUPhakC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 63
+        "2026-09-17": 63,
+        "2026-09-18": 63,
+        "2026-09-19": 63
       },
       "meta": {}
     },
@@ -775,7 +976,9 @@
       "pub_id": "v4rX24EAAAAJ:65Yg0jNCQDAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 60
+        "2026-09-17": 60,
+        "2026-09-18": 60,
+        "2026-09-19": 61
       },
       "meta": {}
     },
@@ -784,7 +987,9 @@
       "pub_id": "v4rX24EAAAAJ:WAzi4Gm8nLoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 60
+        "2026-09-17": 60,
+        "2026-09-18": 60,
+        "2026-09-19": 61
       },
       "meta": {}
     },
@@ -793,7 +998,9 @@
       "pub_id": "v4rX24EAAAAJ:8k81kl-MbHgC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 14
+        "2026-09-17": 14,
+        "2026-09-18": 14,
+        "2026-09-19": 14
       },
       "meta": {}
     },
@@ -802,7 +1009,9 @@
       "pub_id": "v4rX24EAAAAJ:AzKEL7Gb_04C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 59
+        "2026-09-17": 59,
+        "2026-09-18": 59,
+        "2026-09-19": 61
       },
       "meta": {}
     },
@@ -811,7 +1020,9 @@
       "pub_id": "v4rX24EAAAAJ:g3aElNc5_aQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 57
+        "2026-09-17": 57,
+        "2026-09-18": 57,
+        "2026-09-19": 57
       },
       "meta": {}
     },
@@ -820,7 +1031,9 @@
       "pub_id": "v4rX24EAAAAJ:WZBGuue-350C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 55
+        "2026-09-17": 55,
+        "2026-09-18": 55,
+        "2026-09-19": 55
       },
       "meta": {}
     },
@@ -829,7 +1042,9 @@
       "pub_id": "v4rX24EAAAAJ:NMlhSUseqAsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 54
+        "2026-09-17": 54,
+        "2026-09-18": 54,
+        "2026-09-19": 55
       },
       "meta": {}
     },
@@ -838,7 +1053,9 @@
       "pub_id": "v4rX24EAAAAJ:DyXnQzXoVgIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 54
+        "2026-09-17": 54,
+        "2026-09-18": 54,
+        "2026-09-19": 54
       },
       "meta": {}
     },
@@ -847,16 +1064,22 @@
       "pub_id": "v4rX24EAAAAJ:O0nohqN1r9EC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 51
+        "2026-09-17": 51,
+        "2026-09-18": 51,
+        "2026-09-19": 51
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-17"
+      }
     },
     "Fusionai: Decentralized training and deploying llms with massive consumer-level gpus": {
       "year": "2023",
       "pub_id": "v4rX24EAAAAJ:kF1pexMAQbMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 50
+        "2026-09-17": 50,
+        "2026-09-18": 50,
+        "2026-09-19": 50
       },
       "meta": {}
     },
@@ -865,7 +1088,9 @@
       "pub_id": "v4rX24EAAAAJ:GFxP56DSvIMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 50
+        "2026-09-17": 50,
+        "2026-09-18": 50,
+        "2026-09-19": 50
       },
       "meta": {}
     },
@@ -874,7 +1099,9 @@
       "pub_id": "v4rX24EAAAAJ:WF5omc3nYNoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 49
+        "2026-09-17": 49,
+        "2026-09-18": 49,
+        "2026-09-19": 49
       },
       "meta": {}
     },
@@ -883,7 +1110,9 @@
       "pub_id": "v4rX24EAAAAJ:e_rmSamDkqQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 47
+        "2026-09-17": 47,
+        "2026-09-18": 47,
+        "2026-09-19": 47
       },
       "meta": {}
     },
@@ -892,7 +1121,9 @@
       "pub_id": "v4rX24EAAAAJ:mVmsd5A6BfQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 47
+        "2026-09-17": 47,
+        "2026-09-18": 47,
+        "2026-09-19": 47
       },
       "meta": {}
     },
@@ -901,7 +1132,9 @@
       "pub_id": "v4rX24EAAAAJ:rTD5ala9j4wC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 46
+        "2026-09-17": 46,
+        "2026-09-18": 46,
+        "2026-09-19": 46
       },
       "meta": {}
     },
@@ -910,7 +1143,9 @@
       "pub_id": "v4rX24EAAAAJ:YlPif8NxrbYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 45
+        "2026-09-17": 45,
+        "2026-09-18": 45,
+        "2026-09-19": 45
       },
       "meta": {}
     },
@@ -919,7 +1154,9 @@
       "pub_id": "v4rX24EAAAAJ:zdjWy_NXXwUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 45
+        "2026-09-17": 45,
+        "2026-09-18": 45,
+        "2026-09-19": 46
       },
       "meta": {}
     },
@@ -928,7 +1165,9 @@
       "pub_id": "v4rX24EAAAAJ:oi2SiIJ9l4AC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 45
+        "2026-09-17": 45,
+        "2026-09-18": 45,
+        "2026-09-19": 46
       },
       "meta": {}
     },
@@ -937,7 +1176,9 @@
       "pub_id": "v4rX24EAAAAJ:WHdLCjDvYFkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 45
+        "2026-09-17": 45,
+        "2026-09-18": 45,
+        "2026-09-19": 45
       },
       "meta": {}
     },
@@ -946,7 +1187,9 @@
       "pub_id": "v4rX24EAAAAJ:EsEWqaRxkBgC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 45
+        "2026-09-17": 45,
+        "2026-09-18": 45,
+        "2026-09-19": 45
       },
       "meta": {}
     },
@@ -955,7 +1198,9 @@
       "pub_id": "v4rX24EAAAAJ:KaMxkj08jr0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 43
+        "2026-09-17": 43,
+        "2026-09-18": 43,
+        "2026-09-19": 43
       },
       "meta": {}
     },
@@ -964,7 +1209,9 @@
       "pub_id": "v4rX24EAAAAJ:OU6Ihb5iCvQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 43
+        "2026-09-17": 43,
+        "2026-09-18": 43,
+        "2026-09-19": 43
       },
       "meta": {}
     },
@@ -973,7 +1220,9 @@
       "pub_id": "v4rX24EAAAAJ:N5tVd3kTz84C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 42
+        "2026-09-17": 42,
+        "2026-09-18": 42,
+        "2026-09-19": 42
       },
       "meta": {}
     },
@@ -982,16 +1231,22 @@
       "pub_id": "v4rX24EAAAAJ:ODE9OILHJdcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 41
+        "2026-09-17": 41,
+        "2026-09-18": 41,
+        "2026-09-19": 41
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-17"
+      }
     },
     "Toward a standard interface for cloud providers: the container as the narrow waist": {
       "year": "2016",
       "pub_id": "v4rX24EAAAAJ:BUYA1_V_uYcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 41
+        "2026-09-17": 41,
+        "2026-09-18": 41,
+        "2026-09-19": 41
       },
       "meta": {}
     },
@@ -1000,7 +1255,9 @@
       "pub_id": "v4rX24EAAAAJ:IsPWOBWtZBwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 40
+        "2026-09-17": 40,
+        "2026-09-18": 40,
+        "2026-09-19": 40
       },
       "meta": {}
     },
@@ -1009,7 +1266,9 @@
       "pub_id": "v4rX24EAAAAJ:Wp0gIr-vW9MC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 40
+        "2026-09-17": 40,
+        "2026-09-18": 40,
+        "2026-09-19": 40
       },
       "meta": {}
     },
@@ -1018,7 +1277,9 @@
       "pub_id": "v4rX24EAAAAJ:-DxkuPiZhfEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 38
+        "2026-09-17": 38,
+        "2026-09-18": 38,
+        "2026-09-19": 38
       },
       "meta": {}
     },
@@ -1027,7 +1288,9 @@
       "pub_id": "v4rX24EAAAAJ:W7OEmFMy1HYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 37
+        "2026-09-17": 37,
+        "2026-09-18": 37,
+        "2026-09-19": 37
       },
       "meta": {}
     },
@@ -1036,7 +1299,9 @@
       "pub_id": "v4rX24EAAAAJ:j3f4tGmQtD8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 35
+        "2026-09-17": 35,
+        "2026-09-18": 35,
+        "2026-09-19": 35
       },
       "meta": {}
     },
@@ -1045,7 +1310,9 @@
       "pub_id": "v4rX24EAAAAJ:mUJArPsKIAAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 34
+        "2026-09-17": 34,
+        "2026-09-18": 34,
+        "2026-09-19": 35
       },
       "meta": {}
     },
@@ -1054,7 +1321,9 @@
       "pub_id": "v4rX24EAAAAJ:wKETBy42zhYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 34
+        "2026-09-17": 34,
+        "2026-09-18": 34,
+        "2026-09-19": 34
       },
       "meta": {}
     },
@@ -1063,7 +1332,9 @@
       "pub_id": "v4rX24EAAAAJ:Z5m8FVwuT1cC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 33
+        "2026-09-17": 33,
+        "2026-09-18": 33,
+        "2026-09-19": 33
       },
       "meta": {}
     },
@@ -1072,7 +1343,9 @@
       "pub_id": "v4rX24EAAAAJ:NxmKEeNBbOMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 32
+        "2026-09-17": 32,
+        "2026-09-18": 32,
+        "2026-09-19": 32
       },
       "meta": {}
     },
@@ -1081,7 +1354,9 @@
       "pub_id": "v4rX24EAAAAJ:w1MjKQ0l0TYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 32
+        "2026-09-17": 32,
+        "2026-09-18": 32,
+        "2026-09-19": 32
       },
       "meta": {}
     },
@@ -1090,7 +1365,9 @@
       "pub_id": "v4rX24EAAAAJ:eAlLMO4JVmQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 31
+        "2026-09-17": 31,
+        "2026-09-18": 31,
+        "2026-09-19": 31
       },
       "meta": {}
     },
@@ -1099,7 +1376,9 @@
       "pub_id": "v4rX24EAAAAJ:pS0ncopqnHgC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 31
+        "2026-09-17": 31,
+        "2026-09-18": 31,
+        "2026-09-19": 31
       },
       "meta": {}
     },
@@ -1108,7 +1387,9 @@
       "pub_id": "v4rX24EAAAAJ:XUvXOeBm_78C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 31
+        "2026-09-17": 31,
+        "2026-09-18": 31,
+        "2026-09-19": 31
       },
       "meta": {}
     },
@@ -1117,7 +1398,9 @@
       "pub_id": "v4rX24EAAAAJ:TQgYirikUcIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 31
+        "2026-09-17": 31,
+        "2026-09-18": 31,
+        "2026-09-19": 31
       },
       "meta": {}
     },
@@ -1126,7 +1409,9 @@
       "pub_id": "v4rX24EAAAAJ:Y0pCki6q_DkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 31
+        "2026-09-17": 31,
+        "2026-09-18": 31,
+        "2026-09-19": 31
       },
       "meta": {}
     },
@@ -1135,7 +1420,9 @@
       "pub_id": "v4rX24EAAAAJ:rHJHxKgnXwkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 30
+        "2026-09-17": 30,
+        "2026-09-18": 30,
+        "2026-09-19": 30
       },
       "meta": {}
     },
@@ -1144,7 +1431,9 @@
       "pub_id": "v4rX24EAAAAJ:ZuybSZzF8UAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 30
+        "2026-09-17": 30,
+        "2026-09-18": 30,
+        "2026-09-19": 30
       },
       "meta": {}
     },
@@ -1153,7 +1442,9 @@
       "pub_id": "v4rX24EAAAAJ:KWzIFqRkAKkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 29
+        "2026-09-17": 29,
+        "2026-09-18": 29,
+        "2026-09-19": 30
       },
       "meta": {}
     },
@@ -1162,7 +1453,9 @@
       "pub_id": "v4rX24EAAAAJ:jgBuDB5drN8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 29
+        "2026-09-17": 29,
+        "2026-09-18": 29,
+        "2026-09-19": 29
       },
       "meta": {}
     },
@@ -1171,7 +1464,9 @@
       "pub_id": "v4rX24EAAAAJ:RJOyoaXV5v8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 28
+        "2026-09-17": 28,
+        "2026-09-18": 28,
+        "2026-09-19": 29
       },
       "meta": {}
     },
@@ -1180,7 +1475,9 @@
       "pub_id": "v4rX24EAAAAJ:CdxZDUztZiMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 28
+        "2026-09-17": 28,
+        "2026-09-18": 28,
+        "2026-09-19": 28
       },
       "meta": {}
     },
@@ -1189,7 +1486,9 @@
       "pub_id": "v4rX24EAAAAJ:ghEM2AJqZyQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 27
+        "2026-09-17": 27,
+        "2026-09-18": 27,
+        "2026-09-19": 27
       },
       "meta": {}
     },
@@ -1198,7 +1497,9 @@
       "pub_id": "v4rX24EAAAAJ:kJDgFkosVoMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 27
+        "2026-09-17": 27,
+        "2026-09-18": 27,
+        "2026-09-19": 27
       },
       "meta": {}
     },
@@ -1207,7 +1508,9 @@
       "pub_id": "v4rX24EAAAAJ:EPG8bYD4jVwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 27
+        "2026-09-17": 27,
+        "2026-09-18": 27,
+        "2026-09-19": 27
       },
       "meta": {}
     },
@@ -1216,7 +1519,9 @@
       "pub_id": "v4rX24EAAAAJ:ALROH1vI_8AC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 27
+        "2026-09-17": 27,
+        "2026-09-18": 27,
+        "2026-09-19": 27
       },
       "meta": {}
     },
@@ -1225,7 +1530,9 @@
       "pub_id": "v4rX24EAAAAJ:nZcligLrVowC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 27
+        "2026-09-17": 27,
+        "2026-09-18": 27,
+        "2026-09-19": 27
       },
       "meta": {}
     },
@@ -1234,7 +1541,9 @@
       "pub_id": "v4rX24EAAAAJ:pAkWuXOU-OoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 26
+        "2026-09-17": 26,
+        "2026-09-18": 26,
+        "2026-09-19": 26
       },
       "meta": {}
     },
@@ -1243,7 +1552,9 @@
       "pub_id": "v4rX24EAAAAJ:HeT0ZceujKMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 26
+        "2026-09-17": 26,
+        "2026-09-18": 26,
+        "2026-09-19": 26
       },
       "meta": {}
     },
@@ -1252,7 +1563,9 @@
       "pub_id": "v4rX24EAAAAJ:MXK_kJrjxJIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 26
+        "2026-09-17": 26,
+        "2026-09-18": 26,
+        "2026-09-19": 26
       },
       "meta": {}
     },
@@ -1261,7 +1574,9 @@
       "pub_id": "v4rX24EAAAAJ:hQUaER0FWQ4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 25
+        "2026-09-17": 25,
+        "2026-09-18": 25,
+        "2026-09-19": 25
       },
       "meta": {}
     },
@@ -1270,7 +1585,9 @@
       "pub_id": "v4rX24EAAAAJ:L_l9e5I586QC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 25
+        "2026-09-17": 25,
+        "2026-09-18": 25,
+        "2026-09-19": 25
       },
       "meta": {}
     },
@@ -1279,7 +1596,9 @@
       "pub_id": "v4rX24EAAAAJ:gVv57TyPmFsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 25
+        "2026-09-17": 25,
+        "2026-09-18": 25,
+        "2026-09-19": 25
       },
       "meta": {}
     },
@@ -1288,7 +1607,9 @@
       "pub_id": "v4rX24EAAAAJ:tKAzc9rXhukC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 25
+        "2026-09-17": 25,
+        "2026-09-18": 25,
+        "2026-09-19": 25
       },
       "meta": {}
     },
@@ -1297,7 +1618,9 @@
       "pub_id": "v4rX24EAAAAJ:ye4kPcJQO24C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 25
+        "2026-09-17": 25,
+        "2026-09-18": 25,
+        "2026-09-19": 25
       },
       "meta": {}
     },
@@ -1306,7 +1629,9 @@
       "pub_id": "v4rX24EAAAAJ:fPk4N6BV_jEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 25
+        "2026-09-17": 25,
+        "2026-09-18": 25,
+        "2026-09-19": 25
       },
       "meta": {}
     },
@@ -1315,7 +1640,9 @@
       "pub_id": "v4rX24EAAAAJ:KNjnJ3z-R6IC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 24
+        "2026-09-17": 24,
+        "2026-09-18": 24,
+        "2026-09-19": 24
       },
       "meta": {}
     },
@@ -1324,7 +1651,9 @@
       "pub_id": "v4rX24EAAAAJ:3NQIlFlcGxIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 24
+        "2026-09-17": 24,
+        "2026-09-18": 24,
+        "2026-09-19": 24
       },
       "meta": {}
     },
@@ -1333,7 +1662,9 @@
       "pub_id": "v4rX24EAAAAJ:KxtntwgDAa4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 24
+        "2026-09-17": 24,
+        "2026-09-18": 24,
+        "2026-09-19": 24
       },
       "meta": {}
     },
@@ -1342,7 +1673,9 @@
       "pub_id": "v4rX24EAAAAJ:LPZeul_q3PIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 24
+        "2026-09-17": 24,
+        "2026-09-18": 24,
+        "2026-09-19": 24
       },
       "meta": {}
     },
@@ -1351,7 +1684,9 @@
       "pub_id": "v4rX24EAAAAJ:ubry08Y2EpUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 23
+        "2026-09-17": 23,
+        "2026-09-18": 23,
+        "2026-09-19": 23
       },
       "meta": {}
     },
@@ -1360,7 +1695,9 @@
       "pub_id": "v4rX24EAAAAJ:3fE2CSJIrl8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 23
+        "2026-09-17": 23,
+        "2026-09-18": 23,
+        "2026-09-19": 23
       },
       "meta": {}
     },
@@ -1369,7 +1706,9 @@
       "pub_id": "v4rX24EAAAAJ:27LrP4qxOz0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 22
+        "2026-09-17": 22,
+        "2026-09-18": 22,
+        "2026-09-19": 22
       },
       "meta": {}
     },
@@ -1378,16 +1717,38 @@
       "pub_id": "v4rX24EAAAAJ:sA9dB-pw3HoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 22
+        "2026-09-17": 22,
+        "2026-09-18": 22,
+        "2026-09-19": 22
       },
-      "meta": {}
+      "meta": {
+        "abstract": "3D multimodal question answering (MQA) plays a crucial role in scene understanding by enabling intelligent agents to comprehend their surroundings in 3D environments. While existing research has primarily focused on indoor household tasks and outdoor roadside autonomous driving tasks, there has been limited exploration of city-level scene understanding tasks. Furthermore, existing research faces challenges in understanding city scenes, due to the absence of spatial semantic information and human-environment interaction information at the city level.To address these challenges, we investigate 3D MQA from both dataset and method perspectives. From the dataset perspective, we introduce a novel 3D MQA dataset named City-3DQA for city-level scene understanding, which is the first dataset to incorporate scene semantic and human-environment interactive tasks within the city. From the method perspective, we propose a Scene graph enhanced City-level Understanding method (Sg-CityU), which utilizes the scene graph to introduce the spatial semantic. A new benchmark is reported and our proposed Sg-CityU achieves accuracy of 63.94 % and 63.76 % in different settings of City-3DQA. Compared to indoor 3D MQA methods and zero-shot using advanced large language models (LLMs), Sg-CityU demonstrates state-of-the-art (SOTA) performance in robustness and generalization.",
+        "arxiv": "2407.17398",
+        "authors": [
+          "Peng-Lei Sun",
+          "Yaoxian Song",
+          "Xiang Liu",
+          "Xiaofei Yang",
+          "Qiang Wang",
+          "Tiefeng Li",
+          "Yang Yang",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.1145/3664647.3681022",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/bc75c405cd54761197dff8f8599daba7326dd267",
+        "tldr": "A novel 3D MQA dataset named City-3DQA is introduced, which is the first dataset to incorporate scene semantic and human-environment interactive tasks within the city, and a Scene graph enhanced City-level Understanding method (Sg-CityU), which utilizes the scene graph to introduce the spatial semantic.",
+        "venue": "ACM Multimedia"
+      }
     },
     "Enhancing AI-generated content efficiency through adaptive multi-edge collaboration": {
       "year": "2024",
       "pub_id": "v4rX24EAAAAJ:Xz60mAmATU4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 22
+        "2026-09-17": 22,
+        "2026-09-18": 22,
+        "2026-09-19": 22
       },
       "meta": {}
     },
@@ -1396,7 +1757,9 @@
       "pub_id": "v4rX24EAAAAJ:2l5NCbZemmgC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 22
+        "2026-09-17": 22,
+        "2026-09-18": 22,
+        "2026-09-19": 22
       },
       "meta": {}
     },
@@ -1405,7 +1768,9 @@
       "pub_id": "v4rX24EAAAAJ:SnGPuo6Feq8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 22
+        "2026-09-17": 22,
+        "2026-09-18": 22,
+        "2026-09-19": 22
       },
       "meta": {}
     },
@@ -1414,7 +1779,9 @@
       "pub_id": "v4rX24EAAAAJ:SpbeaW3--B0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 22
+        "2026-09-17": 22,
+        "2026-09-18": 22,
+        "2026-09-19": 22
       },
       "meta": {}
     },
@@ -1423,7 +1790,9 @@
       "pub_id": "v4rX24EAAAAJ:ZqE1mSdD_DYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 21
+        "2026-09-17": 21,
+        "2026-09-18": 21,
+        "2026-09-19": 21
       },
       "meta": {}
     },
@@ -1432,7 +1801,9 @@
       "pub_id": "v4rX24EAAAAJ:hSRAE-fF4OAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 20
+        "2026-09-17": 20,
+        "2026-09-18": 20,
+        "2026-09-19": 20
       },
       "meta": {}
     },
@@ -1441,7 +1812,9 @@
       "pub_id": "v4rX24EAAAAJ:qe6vwMD2xtsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 20
+        "2026-09-17": 20,
+        "2026-09-18": 20,
+        "2026-09-19": 20
       },
       "meta": {}
     },
@@ -1450,7 +1823,9 @@
       "pub_id": "v4rX24EAAAAJ:kw52XkFRtyQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 20
+        "2026-09-17": 20,
+        "2026-09-18": 20,
+        "2026-09-19": 20
       },
       "meta": {}
     },
@@ -1459,7 +1834,9 @@
       "pub_id": "v4rX24EAAAAJ:fFSKOagxvKUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 20
+        "2026-09-17": 20,
+        "2026-09-18": 20,
+        "2026-09-19": 20
       },
       "meta": {}
     },
@@ -1468,7 +1845,9 @@
       "pub_id": "v4rX24EAAAAJ:UebtZRa9Y70C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 20
+        "2026-09-17": 20,
+        "2026-09-18": 20,
+        "2026-09-19": 20
       },
       "meta": {}
     },
@@ -1477,7 +1856,9 @@
       "pub_id": "v4rX24EAAAAJ:_FxGoFyzp5QC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 20
+        "2026-09-17": 20,
+        "2026-09-18": 20,
+        "2026-09-19": 20
       },
       "meta": {}
     },
@@ -1486,16 +1867,22 @@
       "pub_id": "v4rX24EAAAAJ:UmS_249rOGwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 19
+        "2026-09-17": 19,
+        "2026-09-18": 19,
+        "2026-09-19": 19
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-18"
+      }
     },
     "Can we continually edit language models? On the knowledge attenuation in sequential model editing": {
       "year": "2024",
       "pub_id": "v4rX24EAAAAJ:X9ykpCP0fEIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 19
+        "2026-09-17": 19,
+        "2026-09-18": 19,
+        "2026-09-19": 20
       },
       "meta": {}
     },
@@ -1504,7 +1891,9 @@
       "pub_id": "v4rX24EAAAAJ:jFemdcug13IC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 19
+        "2026-09-17": 19,
+        "2026-09-18": 19,
+        "2026-09-19": 19
       },
       "meta": {}
     },
@@ -1513,7 +1902,9 @@
       "pub_id": "v4rX24EAAAAJ:buQ7SEKw-1sC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 19
+        "2026-09-17": 19,
+        "2026-09-18": 19,
+        "2026-09-19": 19
       },
       "meta": {}
     },
@@ -1522,7 +1913,9 @@
       "pub_id": "v4rX24EAAAAJ:HDshCWvjkbEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 19
+        "2026-09-17": 19,
+        "2026-09-18": 19,
+        "2026-09-19": 19
       },
       "meta": {}
     },
@@ -1531,7 +1924,9 @@
       "pub_id": "v4rX24EAAAAJ:BmWJbWwHJAwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 18
+        "2026-09-17": 18,
+        "2026-09-18": 18,
+        "2026-09-19": 18
       },
       "meta": {}
     },
@@ -1540,7 +1935,9 @@
       "pub_id": "v4rX24EAAAAJ:kzcSZmkxUKAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 18
+        "2026-09-17": 18,
+        "2026-09-18": 18,
+        "2026-09-19": 18
       },
       "meta": {}
     },
@@ -1549,7 +1946,9 @@
       "pub_id": "v4rX24EAAAAJ:ZfRJV9d4-WMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 18
+        "2026-09-17": 18,
+        "2026-09-18": 18,
+        "2026-09-19": 18
       },
       "meta": {}
     },
@@ -1558,7 +1957,9 @@
       "pub_id": "v4rX24EAAAAJ:TFP_iSt0sucC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 18
+        "2026-09-17": 18,
+        "2026-09-18": 18,
+        "2026-09-19": 18
       },
       "meta": {}
     },
@@ -1567,7 +1968,9 @@
       "pub_id": "v4rX24EAAAAJ:FPJr55Dyh1AC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 18
+        "2026-09-17": 18,
+        "2026-09-18": 18,
+        "2026-09-19": 18
       },
       "meta": {}
     },
@@ -1576,7 +1979,9 @@
       "pub_id": "v4rX24EAAAAJ:cFHS6HbyZ2cC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 18
+        "2026-09-17": 18,
+        "2026-09-18": 18,
+        "2026-09-19": 18
       },
       "meta": {}
     },
@@ -1585,7 +1990,9 @@
       "pub_id": "v4rX24EAAAAJ:hGdtkIFZdKAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 17
+        "2026-09-17": 17,
+        "2026-09-18": 17,
+        "2026-09-19": 18
       },
       "meta": {}
     },
@@ -1594,7 +2001,9 @@
       "pub_id": "v4rX24EAAAAJ:CYCckWUYoCcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 17
+        "2026-09-17": 17,
+        "2026-09-18": 17,
+        "2026-09-19": 18
       },
       "meta": {}
     },
@@ -1603,7 +2012,9 @@
       "pub_id": "v4rX24EAAAAJ:wvYxNZNCP7wC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 17
+        "2026-09-17": 17,
+        "2026-09-18": 17,
+        "2026-09-19": 17
       },
       "meta": {}
     },
@@ -1612,7 +2023,9 @@
       "pub_id": "v4rX24EAAAAJ:-mN3Mh-tlDkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 17
+        "2026-09-17": 17,
+        "2026-09-18": 17,
+        "2026-09-19": 17
       },
       "meta": {}
     },
@@ -1621,7 +2034,9 @@
       "pub_id": "v4rX24EAAAAJ:D_tqNUsBuKoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 16
+        "2026-09-17": 16,
+        "2026-09-18": 16,
+        "2026-09-19": 16
       },
       "meta": {}
     },
@@ -1630,7 +2045,9 @@
       "pub_id": "v4rX24EAAAAJ:F2UWTTQJPOcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 16
+        "2026-09-17": 16,
+        "2026-09-18": 16,
+        "2026-09-19": 16
       },
       "meta": {}
     },
@@ -1639,7 +2056,9 @@
       "pub_id": "v4rX24EAAAAJ:1Ye0OR6EYb4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 16
+        "2026-09-17": 16,
+        "2026-09-18": 16,
+        "2026-09-19": 16
       },
       "meta": {}
     },
@@ -1648,7 +2067,9 @@
       "pub_id": "v4rX24EAAAAJ:-FonjvnnhkoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 16
+        "2026-09-17": 16,
+        "2026-09-18": 16,
+        "2026-09-19": 16
       },
       "meta": {}
     },
@@ -1657,7 +2078,9 @@
       "pub_id": "v4rX24EAAAAJ:lmc2jWPfTJgC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 16
+        "2026-09-17": 16,
+        "2026-09-18": 16,
+        "2026-09-19": 16
       },
       "meta": {}
     },
@@ -1666,7 +2089,9 @@
       "pub_id": "v4rX24EAAAAJ:t6usbXjVLHcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 16
+        "2026-09-17": 16,
+        "2026-09-18": 16,
+        "2026-09-19": 16
       },
       "meta": {}
     },
@@ -1675,7 +2100,9 @@
       "pub_id": "v4rX24EAAAAJ:A8cqit5AE6sC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 15
+        "2026-09-17": 15,
+        "2026-09-18": 15,
+        "2026-09-19": 15
       },
       "meta": {}
     },
@@ -1684,7 +2111,9 @@
       "pub_id": "v4rX24EAAAAJ:7BrZ7Jt4UNcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 15
+        "2026-09-17": 15,
+        "2026-09-18": 15,
+        "2026-09-19": 15
       },
       "meta": {}
     },
@@ -1693,7 +2122,9 @@
       "pub_id": "v4rX24EAAAAJ:DUooU5lO8OsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 15
+        "2026-09-17": 15,
+        "2026-09-18": 15,
+        "2026-09-19": 15
       },
       "meta": {}
     },
@@ -1702,7 +2133,9 @@
       "pub_id": "v4rX24EAAAAJ:nRpfm8aw39MC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 15
+        "2026-09-17": 15,
+        "2026-09-18": 15,
+        "2026-09-19": 15
       },
       "meta": {}
     },
@@ -1711,7 +2144,9 @@
       "pub_id": "v4rX24EAAAAJ:v6i8RKmR8ToC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 14
+        "2026-09-17": 14,
+        "2026-09-18": 14,
+        "2026-09-19": 14
       },
       "meta": {}
     },
@@ -1720,7 +2155,9 @@
       "pub_id": "v4rX24EAAAAJ:MIg0yeAD4ggC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 14
+        "2026-09-17": 14,
+        "2026-09-18": 14,
+        "2026-09-19": 14
       },
       "meta": {}
     },
@@ -1729,7 +2166,9 @@
       "pub_id": "v4rX24EAAAAJ:Hck25ST_3aIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 14
+        "2026-09-17": 14,
+        "2026-09-18": 14,
+        "2026-09-19": 14
       },
       "meta": {}
     },
@@ -1738,7 +2177,9 @@
       "pub_id": "v4rX24EAAAAJ:-95Q15plzcUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 14
+        "2026-09-17": 14,
+        "2026-09-18": 14,
+        "2026-09-19": 14
       },
       "meta": {}
     },
@@ -1747,7 +2188,9 @@
       "pub_id": "v4rX24EAAAAJ:-7ulzOJl1JYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 14
+        "2026-09-17": 14,
+        "2026-09-18": 14,
+        "2026-09-19": 14
       },
       "meta": {}
     },
@@ -1756,7 +2199,9 @@
       "pub_id": "v4rX24EAAAAJ:1taIhTC69MYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 14
+        "2026-09-17": 14,
+        "2026-09-18": 14,
+        "2026-09-19": 14
       },
       "meta": {}
     },
@@ -1765,7 +2210,9 @@
       "pub_id": "v4rX24EAAAAJ:KlAtU1dfN6UC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 14
+        "2026-09-17": 14,
+        "2026-09-18": 14,
+        "2026-09-19": 14
       },
       "meta": {}
     },
@@ -1774,7 +2221,9 @@
       "pub_id": "v4rX24EAAAAJ:8dzOF9BpDQoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 13
+        "2026-09-17": 13,
+        "2026-09-18": 13,
+        "2026-09-19": 13
       },
       "meta": {}
     },
@@ -1783,7 +2232,9 @@
       "pub_id": "v4rX24EAAAAJ:P7Ujq4OLJYoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 13
+        "2026-09-17": 13,
+        "2026-09-18": 13,
+        "2026-09-19": 13
       },
       "meta": {}
     },
@@ -1792,7 +2243,9 @@
       "pub_id": "v4rX24EAAAAJ:p2g8aNsByqUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 13
+        "2026-09-17": 13,
+        "2026-09-18": 13,
+        "2026-09-19": 13
       },
       "meta": {}
     },
@@ -1801,7 +2254,9 @@
       "pub_id": "v4rX24EAAAAJ:uWQEDVKXjbEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 13
+        "2026-09-17": 13,
+        "2026-09-18": 13,
+        "2026-09-19": 13
       },
       "meta": {}
     },
@@ -1810,7 +2265,9 @@
       "pub_id": "v4rX24EAAAAJ:kNdYIx-mwKoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 13
+        "2026-09-17": 13,
+        "2026-09-18": 13,
+        "2026-09-19": 13
       },
       "meta": {}
     },
@@ -1819,7 +2276,9 @@
       "pub_id": "v4rX24EAAAAJ:KS-xo-ZNxMsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 12
+        "2026-09-17": 12,
+        "2026-09-18": 12,
+        "2026-09-19": 13
       },
       "meta": {}
     },
@@ -1828,7 +2287,9 @@
       "pub_id": "v4rX24EAAAAJ:g5Ck-dwhA_QC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 12
+        "2026-09-17": 12,
+        "2026-09-18": 12,
+        "2026-09-19": 13
       },
       "meta": {}
     },
@@ -1837,7 +2298,9 @@
       "pub_id": "v4rX24EAAAAJ:Dem6FJhTUoYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 12
+        "2026-09-17": 12,
+        "2026-09-18": 12,
+        "2026-09-19": 12
       },
       "meta": {}
     },
@@ -1846,16 +2309,22 @@
       "pub_id": "v4rX24EAAAAJ:7H_MAutzIkAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 12
+        "2026-09-17": 12,
+        "2026-09-18": 12,
+        "2026-09-19": 12
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-18"
+      }
     },
     "Design of a fuzzy PI controller to guarantee proportional delay differentiation on web servers": {
       "year": "2007",
       "pub_id": "v4rX24EAAAAJ:4DMP91E08xMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 12
+        "2026-09-17": 12,
+        "2026-09-18": 12,
+        "2026-09-19": 12
       },
       "meta": {}
     },
@@ -1864,7 +2333,9 @@
       "pub_id": "v4rX24EAAAAJ:X0DADzN9RKwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 11
+        "2026-09-17": 11,
+        "2026-09-18": 11,
+        "2026-09-19": 11
       },
       "meta": {}
     },
@@ -1873,7 +2344,9 @@
       "pub_id": "v4rX24EAAAAJ:eGYfIraVYiQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 11
+        "2026-09-17": 11,
+        "2026-09-18": 11,
+        "2026-09-19": 11
       },
       "meta": {}
     },
@@ -1882,7 +2355,9 @@
       "pub_id": "v4rX24EAAAAJ:ziOE8S1-AIUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 11
+        "2026-09-17": 11,
+        "2026-09-18": 11,
+        "2026-09-19": 11
       },
       "meta": {}
     },
@@ -1891,7 +2366,9 @@
       "pub_id": "v4rX24EAAAAJ:7Hz3ACDFbsoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 11
+        "2026-09-17": 11,
+        "2026-09-18": 11,
+        "2026-09-19": 11
       },
       "meta": {}
     },
@@ -1900,7 +2377,9 @@
       "pub_id": "v4rX24EAAAAJ:XD-gHx7UXLsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 11
+        "2026-09-17": 11,
+        "2026-09-18": 11,
+        "2026-09-19": 11
       },
       "meta": {}
     },
@@ -1909,7 +2388,9 @@
       "pub_id": "v4rX24EAAAAJ:LI9QrySNdTsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 11
+        "2026-09-17": 11,
+        "2026-09-18": 11,
+        "2026-09-19": 11
       },
       "meta": {}
     },
@@ -1918,7 +2399,9 @@
       "pub_id": "v4rX24EAAAAJ:l7t_Zn2s7bgC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 11
+        "2026-09-17": 11,
+        "2026-09-18": 11,
+        "2026-09-19": 11
       },
       "meta": {}
     },
@@ -1927,7 +2410,9 @@
       "pub_id": "v4rX24EAAAAJ:N4u4nq0IxgcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 10
+        "2026-09-17": 10,
+        "2026-09-18": 10,
+        "2026-09-19": 10
       },
       "meta": {}
     },
@@ -1936,7 +2421,9 @@
       "pub_id": "v4rX24EAAAAJ:c_xDhezhKKUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 10
+        "2026-09-17": 10,
+        "2026-09-18": 10,
+        "2026-09-19": 10
       },
       "meta": {}
     },
@@ -1945,7 +2432,9 @@
       "pub_id": "v4rX24EAAAAJ:_FM0Bhl9EiAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 10
+        "2026-09-17": 10,
+        "2026-09-18": 10,
+        "2026-09-19": 10
       },
       "meta": {}
     },
@@ -1954,7 +2443,9 @@
       "pub_id": "v4rX24EAAAAJ:M3ejUd6NZC8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 10
+        "2026-09-17": 10,
+        "2026-09-18": 10,
+        "2026-09-19": 10
       },
       "meta": {}
     },
@@ -1963,7 +2454,9 @@
       "pub_id": "v4rX24EAAAAJ:QIV2ME_5wuYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 10
+        "2026-09-17": 10,
+        "2026-09-18": 10,
+        "2026-09-19": 10
       },
       "meta": {}
     },
@@ -1972,7 +2465,9 @@
       "pub_id": "v4rX24EAAAAJ:nqdriD65xNoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 9
+        "2026-09-17": 9,
+        "2026-09-18": 9,
+        "2026-09-19": 9
       },
       "meta": {}
     },
@@ -1981,7 +2476,9 @@
       "pub_id": "v4rX24EAAAAJ:YB4bud6kWLwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 9
+        "2026-09-17": 9,
+        "2026-09-18": 9,
+        "2026-09-19": 9
       },
       "meta": {}
     },
@@ -1990,7 +2487,9 @@
       "pub_id": "v4rX24EAAAAJ:4aZ_i-5WJEQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 9
+        "2026-09-17": 9,
+        "2026-09-18": 9,
+        "2026-09-19": 9
       },
       "meta": {}
     },
@@ -1999,7 +2498,9 @@
       "pub_id": "v4rX24EAAAAJ:HGTzPopzzJcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 9
+        "2026-09-17": 9,
+        "2026-09-18": 9,
+        "2026-09-19": 9
       },
       "meta": {}
     },
@@ -2008,7 +2509,9 @@
       "pub_id": "v4rX24EAAAAJ:tH6gc1N1XXoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 9
+        "2026-09-17": 9,
+        "2026-09-18": 9,
+        "2026-09-19": 9
       },
       "meta": {}
     },
@@ -2017,7 +2520,9 @@
       "pub_id": "v4rX24EAAAAJ:QYdC8u9Cj1oC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 9
+        "2026-09-17": 9,
+        "2026-09-18": 9,
+        "2026-09-19": 9
       },
       "meta": {}
     },
@@ -2026,16 +2531,35 @@
       "pub_id": "v4rX24EAAAAJ:ULOm3_A8WrAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 9
+        "2026-09-17": 9,
+        "2026-09-18": 9,
+        "2026-09-19": 9
       },
-      "meta": {}
+      "meta": {
+        "abstract": "",
+        "arxiv": "",
+        "authors": [
+          "Yixin Jiang",
+          "Chuang Lin",
+          "Minghui Shi",
+          "Xuemin Shen",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.1016/j.comcom.2007.04.012",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/5c52747ef571805276b94d707ef2aae3fe6077af",
+        "tldr": "The performance and security analysis show that the communication and computation overhead of the proposed protocol is similar to the existing one, while the security can be enhanced significantly.",
+        "venue": "Computer Communications"
+      }
     },
     "DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization": {
       "year": "2026",
       "pub_id": "v4rX24EAAAAJ:-6RzNnnwWf8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 8
+        "2026-09-17": 8,
+        "2026-09-18": 8,
+        "2026-09-19": 8
       },
       "meta": {}
     },
@@ -2044,7 +2568,9 @@
       "pub_id": "v4rX24EAAAAJ:SxCCDk4iOpsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 8
+        "2026-09-17": 8,
+        "2026-09-18": 8,
+        "2026-09-19": 8
       },
       "meta": {}
     },
@@ -2053,7 +2579,9 @@
       "pub_id": "v4rX24EAAAAJ:R-LXmdHK_14C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 8
+        "2026-09-17": 8,
+        "2026-09-18": 8,
+        "2026-09-19": 8
       },
       "meta": {}
     },
@@ -2062,7 +2590,9 @@
       "pub_id": "v4rX24EAAAAJ:-uzm3Y7AvW0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 8
+        "2026-09-17": 8,
+        "2026-09-18": 8,
+        "2026-09-19": 8
       },
       "meta": {}
     },
@@ -2071,7 +2601,9 @@
       "pub_id": "v4rX24EAAAAJ:JP7YXuLIOvAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 8
+        "2026-09-17": 8,
+        "2026-09-18": 8,
+        "2026-09-19": 8
       },
       "meta": {}
     },
@@ -2080,7 +2612,9 @@
       "pub_id": "v4rX24EAAAAJ:ce2CqMG-AY4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 8
+        "2026-09-17": 8,
+        "2026-09-18": 8,
+        "2026-09-19": 8
       },
       "meta": {}
     },
@@ -2089,7 +2623,9 @@
       "pub_id": "v4rX24EAAAAJ:4TOpqqG69KYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 8
+        "2026-09-17": 8,
+        "2026-09-18": 8,
+        "2026-09-19": 8
       },
       "meta": {}
     },
@@ -2098,7 +2634,9 @@
       "pub_id": "v4rX24EAAAAJ:0aBXIfxlw9sC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 7
+        "2026-09-17": 7,
+        "2026-09-18": 7,
+        "2026-09-19": 7
       },
       "meta": {}
     },
@@ -2107,7 +2645,9 @@
       "pub_id": "v4rX24EAAAAJ:8Xgff_V0N9gC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 7
+        "2026-09-17": 7,
+        "2026-09-18": 7,
+        "2026-09-19": 7
       },
       "meta": {}
     },
@@ -2116,7 +2656,9 @@
       "pub_id": "v4rX24EAAAAJ:Dip1O2bNi0gC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 7
+        "2026-09-17": 7,
+        "2026-09-18": 7,
+        "2026-09-19": 7
       },
       "meta": {}
     },
@@ -2125,7 +2667,9 @@
       "pub_id": "v4rX24EAAAAJ:tYavs44e6CUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 7
+        "2026-09-17": 7,
+        "2026-09-18": 7,
+        "2026-09-19": 7
       },
       "meta": {}
     },
@@ -2134,7 +2678,9 @@
       "pub_id": "v4rX24EAAAAJ:e5wmG9Sq2KIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 7
+        "2026-09-17": 7,
+        "2026-09-18": 7,
+        "2026-09-19": 7
       },
       "meta": {}
     },
@@ -2143,7 +2689,9 @@
       "pub_id": "v4rX24EAAAAJ:anf4URPfarAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 7
+        "2026-09-17": 7,
+        "2026-09-18": 7,
+        "2026-09-19": 7
       },
       "meta": {}
     },
@@ -2152,7 +2700,9 @@
       "pub_id": "v4rX24EAAAAJ:blknAaTinKkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 7
+        "2026-09-17": 7,
+        "2026-09-18": 7,
+        "2026-09-19": 7
       },
       "meta": {}
     },
@@ -2161,7 +2711,9 @@
       "pub_id": "v4rX24EAAAAJ:fQNAKQ3IYiAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 7
+        "2026-09-17": 7,
+        "2026-09-18": 7,
+        "2026-09-19": 7
       },
       "meta": {}
     },
@@ -2170,7 +2722,9 @@
       "pub_id": "v4rX24EAAAAJ:bFI3QPDXJZMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 7
+        "2026-09-17": 7,
+        "2026-09-18": 7,
+        "2026-09-19": 7
       },
       "meta": {}
     },
@@ -2179,16 +2733,35 @@
       "pub_id": "v4rX24EAAAAJ:_kc_bZDykSQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 7
+        "2026-09-17": 7,
+        "2026-09-18": 7,
+        "2026-09-19": 7
       },
-      "meta": {}
+      "meta": {
+        "abstract": "",
+        "arxiv": "",
+        "authors": [
+          "Hao Yin",
+          "Feng Qiu",
+          "Chuang Lin",
+          "G. Min",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.1016/J.COMPELECENG.2005.12.001",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/8fe3d9e52a3618eb69403129cf4edab7b075ae38",
+        "tldr": "The proposed SMDE scheme can provide error resilience, transparence for adaptation mechanism, high accuracy of detecting embedded data and real-time processing capability for video applications.",
+        "venue": "Computers & electrical engineering"
+      }
     },
     "Class-based latency assurances for web servers": {
       "year": "2005",
       "pub_id": "v4rX24EAAAAJ:_Qo2XoVZTnwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 7
+        "2026-09-17": 7,
+        "2026-09-18": 7,
+        "2026-09-19": 7
       },
       "meta": {}
     },
@@ -2197,7 +2770,9 @@
       "pub_id": "v4rX24EAAAAJ:LGlY6t8CeOMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 6
+        "2026-09-17": 6,
+        "2026-09-18": 6,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2206,7 +2781,9 @@
       "pub_id": "v4rX24EAAAAJ:pQTOvowfQioC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 6
+        "2026-09-17": 6,
+        "2026-09-18": 6,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2215,7 +2792,9 @@
       "pub_id": "v4rX24EAAAAJ:s85pQhAUCrAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 6
+        "2026-09-17": 6,
+        "2026-09-18": 6,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2224,7 +2803,9 @@
       "pub_id": "v4rX24EAAAAJ:hvmnpdAuIbkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 6
+        "2026-09-17": 6,
+        "2026-09-18": 6,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2233,7 +2814,9 @@
       "pub_id": "v4rX24EAAAAJ:tHtfpZlB6tUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 6
+        "2026-09-17": 6,
+        "2026-09-18": 6,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2242,7 +2825,9 @@
       "pub_id": "v4rX24EAAAAJ:1DsIQWDZLl8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 6
+        "2026-09-17": 6,
+        "2026-09-18": 6,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2251,7 +2836,9 @@
       "pub_id": "v4rX24EAAAAJ:jL-93Qbq4QoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 6
+        "2026-09-17": 6,
+        "2026-09-18": 6,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2260,7 +2847,9 @@
       "pub_id": "v4rX24EAAAAJ:nrtMV_XWKgEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 6
+        "2026-09-17": 6,
+        "2026-09-18": 6,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2269,7 +2858,9 @@
       "pub_id": "v4rX24EAAAAJ:Mojj43d5GZwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 6
+        "2026-09-17": 6,
+        "2026-09-18": 6,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2278,7 +2869,9 @@
       "pub_id": "v4rX24EAAAAJ:dshw04ExmUIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 6
+        "2026-09-17": 6,
+        "2026-09-18": 6,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2287,7 +2880,9 @@
       "pub_id": "v4rX24EAAAAJ:M3NEmzRMIkIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 6
+        "2026-09-17": 6,
+        "2026-09-18": 6,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2296,7 +2891,9 @@
       "pub_id": "v4rX24EAAAAJ:lYAcb2jw7qUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 5
+        "2026-09-17": 5,
+        "2026-09-18": 5,
+        "2026-09-19": 5
       },
       "meta": {}
     },
@@ -2305,7 +2902,9 @@
       "pub_id": "v4rX24EAAAAJ:BJrgspguQaEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 5
+        "2026-09-17": 5,
+        "2026-09-18": 5,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2314,7 +2913,9 @@
       "pub_id": "v4rX24EAAAAJ:jtI9f0ekYq0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 5
+        "2026-09-17": 5,
+        "2026-09-18": 5,
+        "2026-09-19": 5
       },
       "meta": {}
     },
@@ -2323,7 +2924,9 @@
       "pub_id": "v4rX24EAAAAJ:YTuZlYwrTOUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 5
+        "2026-09-17": 5,
+        "2026-09-18": 5,
+        "2026-09-19": 5
       },
       "meta": {}
     },
@@ -2332,7 +2935,9 @@
       "pub_id": "v4rX24EAAAAJ:oPLKW5k6eA4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 5
+        "2026-09-17": 5,
+        "2026-09-18": 5,
+        "2026-09-19": 5
       },
       "meta": {}
     },
@@ -2341,7 +2946,9 @@
       "pub_id": "v4rX24EAAAAJ:1tZ8xJnm2c8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 5
+        "2026-09-17": 5,
+        "2026-09-18": 5,
+        "2026-09-19": 5
       },
       "meta": {}
     },
@@ -2350,7 +2957,9 @@
       "pub_id": "v4rX24EAAAAJ:uc_IGeMz5qoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 5
+        "2026-09-17": 5,
+        "2026-09-18": 5,
+        "2026-09-19": 5
       },
       "meta": {}
     },
@@ -2359,7 +2968,9 @@
       "pub_id": "v4rX24EAAAAJ:IWHjjKOFINEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 5
+        "2026-09-17": 5,
+        "2026-09-18": 5,
+        "2026-09-19": 5
       },
       "meta": {}
     },
@@ -2368,7 +2979,9 @@
       "pub_id": "v4rX24EAAAAJ:4JMBOYKVnBMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 5
+        "2026-09-17": 5,
+        "2026-09-18": 5,
+        "2026-09-19": 5
       },
       "meta": {}
     },
@@ -2377,7 +2990,9 @@
       "pub_id": "v4rX24EAAAAJ:qmtmRrLr0tkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2386,7 +3001,9 @@
       "pub_id": "v4rX24EAAAAJ:9DLIHnF0jcYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -2395,7 +3012,9 @@
       "pub_id": "v4rX24EAAAAJ:sJPMR1oEGYQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2404,7 +3023,9 @@
       "pub_id": "v4rX24EAAAAJ:ijdKiLOsEJMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2413,7 +3034,9 @@
       "pub_id": "v4rX24EAAAAJ:jmjb1lOE9QIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2422,7 +3045,9 @@
       "pub_id": "v4rX24EAAAAJ:QVtou7C4vgoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2431,7 +3056,9 @@
       "pub_id": "v4rX24EAAAAJ:_AeoHAGD03cC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2440,7 +3067,9 @@
       "pub_id": "v4rX24EAAAAJ:Y0-TYkg6YM4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 6
       },
       "meta": {}
     },
@@ -2449,7 +3078,9 @@
       "pub_id": "v4rX24EAAAAJ:2ywjKiB__4kC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2458,7 +3089,9 @@
       "pub_id": "v4rX24EAAAAJ:TlpoogIpr_IC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2467,7 +3100,9 @@
       "pub_id": "v4rX24EAAAAJ:5bg8sr1QxYwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2476,7 +3111,9 @@
       "pub_id": "v4rX24EAAAAJ:-nhnvRiOwuoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2485,7 +3122,9 @@
       "pub_id": "v4rX24EAAAAJ:7wO8s98CvbsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2494,7 +3133,9 @@
       "pub_id": "v4rX24EAAAAJ:oNZyr7d5Mn4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2503,7 +3144,9 @@
       "pub_id": "v4rX24EAAAAJ:g5m5HwL7SMYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2512,16 +3155,33 @@
       "pub_id": "v4rX24EAAAAJ:NMxIlDl6LWMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
-      "meta": {}
+      "meta": {
+        "abstract": "",
+        "arxiv": "",
+        "authors": [
+          "Xiaowei Chen",
+          "Xiaowen Chu",
+          "Jiangchuan Liu"
+        ],
+        "doi": "10.1109/ICC.2010.5502796",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/48ac49749366f94489602452ef88771d0b2d4a73",
+        "tldr": "",
+        "venue": "IEEE International Conference on Communications"
+      }
     },
     "Incentive framework using Shapley value for BitTorrent-like systems": {
       "year": "2009",
       "pub_id": "v4rX24EAAAAJ:qUcmZB5y_30C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2530,7 +3190,9 @@
       "pub_id": "v4rX24EAAAAJ:t7zJ5fGR-2UC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 4
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4
       },
       "meta": {}
     },
@@ -2539,7 +3201,9 @@
       "pub_id": "v4rX24EAAAAJ:nPT8s1NX_-sC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 3
+        "2026-09-17": 3,
+        "2026-09-18": 3,
+        "2026-09-19": 3
       },
       "meta": {}
     },
@@ -2548,7 +3212,9 @@
       "pub_id": "v4rX24EAAAAJ:JWITY9-sCbMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 3
+        "2026-09-17": 3,
+        "2026-09-18": 3,
+        "2026-09-19": 3
       },
       "meta": {}
     },
@@ -2557,7 +3223,9 @@
       "pub_id": "v4rX24EAAAAJ:m4fbC6XIj1kC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 3
+        "2026-09-17": 3,
+        "2026-09-18": 3,
+        "2026-09-19": 3
       },
       "meta": {}
     },
@@ -2566,7 +3234,9 @@
       "pub_id": "v4rX24EAAAAJ:isU91gLudPYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 3
+        "2026-09-17": 3,
+        "2026-09-18": 3,
+        "2026-09-19": 3
       },
       "meta": {}
     },
@@ -2575,7 +3245,9 @@
       "pub_id": "v4rX24EAAAAJ:C33y2ycGS3YC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 3
+        "2026-09-17": 3,
+        "2026-09-18": 3,
+        "2026-09-19": 3
       },
       "meta": {}
     },
@@ -2584,7 +3256,9 @@
       "pub_id": "v4rX24EAAAAJ:SAZ1SQo2q1kC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 3
+        "2026-09-17": 3,
+        "2026-09-18": 3,
+        "2026-09-19": 3
       },
       "meta": {}
     },
@@ -2593,7 +3267,9 @@
       "pub_id": "v4rX24EAAAAJ:jE2MZjpN3IcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 3
+        "2026-09-17": 3,
+        "2026-09-18": 3,
+        "2026-09-19": 3
       },
       "meta": {}
     },
@@ -2602,7 +3278,9 @@
       "pub_id": "v4rX24EAAAAJ:tOudhMTPpwUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 3
+        "2026-09-17": 3,
+        "2026-09-18": 3,
+        "2026-09-19": 3
       },
       "meta": {}
     },
@@ -2611,7 +3289,9 @@
       "pub_id": "v4rX24EAAAAJ:bEWYMUwI8FkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 3
+        "2026-09-17": 3,
+        "2026-09-18": 3,
+        "2026-09-19": 3
       },
       "meta": {}
     },
@@ -2620,7 +3300,9 @@
       "pub_id": "v4rX24EAAAAJ:ZeXyd9-uunAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 3
+        "2026-09-17": 3,
+        "2026-09-18": 3,
+        "2026-09-19": 3
       },
       "meta": {}
     },
@@ -2629,7 +3311,9 @@
       "pub_id": "v4rX24EAAAAJ:ymY9cBF3mdcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2638,7 +3322,9 @@
       "pub_id": "v4rX24EAAAAJ:lg2tdxc6qMwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2647,7 +3333,9 @@
       "pub_id": "v4rX24EAAAAJ:6VlyvFCUEfcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2656,7 +3344,9 @@
       "pub_id": "v4rX24EAAAAJ:pYKElYtJMmwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2665,7 +3355,9 @@
       "pub_id": "v4rX24EAAAAJ:z8nqeaKD1nsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2674,7 +3366,9 @@
       "pub_id": "v4rX24EAAAAJ:nPTYJWkExTIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2683,7 +3377,9 @@
       "pub_id": "v4rX24EAAAAJ:4Yq6kJLCcecC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2692,7 +3388,9 @@
       "pub_id": "v4rX24EAAAAJ:iyewoVqAXLQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2701,7 +3399,9 @@
       "pub_id": "v4rX24EAAAAJ:RuPIJ_LgqDgC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2710,7 +3410,9 @@
       "pub_id": "v4rX24EAAAAJ:CNPyR2KL9-0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2719,7 +3421,9 @@
       "pub_id": "v4rX24EAAAAJ:FsLZdJ3BAzkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2728,7 +3432,9 @@
       "pub_id": "v4rX24EAAAAJ:aIdbFUkbNIkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2737,7 +3443,9 @@
       "pub_id": "v4rX24EAAAAJ:ILKRHgRFtOwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2746,7 +3454,9 @@
       "pub_id": "v4rX24EAAAAJ:ipzZ9siozwsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2755,7 +3465,9 @@
       "pub_id": "v4rX24EAAAAJ:08ZZubdj9fEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2764,7 +3476,9 @@
       "pub_id": "v4rX24EAAAAJ:CHSYGLWDkRkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2773,7 +3487,9 @@
       "pub_id": "v4rX24EAAAAJ:uDGL6kOW6j0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2782,7 +3498,9 @@
       "pub_id": "v4rX24EAAAAJ:BqipwSGYUEgC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2791,7 +3509,9 @@
       "pub_id": "v4rX24EAAAAJ:maZDTaKrznsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2800,7 +3520,9 @@
       "pub_id": "v4rX24EAAAAJ:U_HPUtbDl20C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 2
+        "2026-09-17": 2,
+        "2026-09-18": 2,
+        "2026-09-19": 2
       },
       "meta": {}
     },
@@ -2809,7 +3531,9 @@
       "pub_id": "v4rX24EAAAAJ:tz746QTLzJkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2818,7 +3542,9 @@
       "pub_id": "v4rX24EAAAAJ:W2uZP3ddy8sC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2827,7 +3553,9 @@
       "pub_id": "v4rX24EAAAAJ:cBPnxVikjH8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2836,7 +3564,9 @@
       "pub_id": "v4rX24EAAAAJ:Azgs6IHzeyYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2845,7 +3575,9 @@
       "pub_id": "v4rX24EAAAAJ:EaFouW7jFu4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2854,7 +3586,9 @@
       "pub_id": "v4rX24EAAAAJ:hNSvKAmkeYkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2863,7 +3597,9 @@
       "pub_id": "v4rX24EAAAAJ:jlhcAiayVhoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2872,7 +3608,9 @@
       "pub_id": "v4rX24EAAAAJ:2vr6o8x5NLkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2881,7 +3619,9 @@
       "pub_id": "v4rX24EAAAAJ:yY3RG6sOEgwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2890,7 +3630,9 @@
       "pub_id": "v4rX24EAAAAJ:wSy_KLzO7YEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2899,7 +3641,9 @@
       "pub_id": "v4rX24EAAAAJ:t-hv7AR41mYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2908,7 +3652,9 @@
       "pub_id": "v4rX24EAAAAJ:TaaCk18tZOkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2917,7 +3663,9 @@
       "pub_id": "v4rX24EAAAAJ:zUl2_INMlC4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2926,7 +3674,9 @@
       "pub_id": "v4rX24EAAAAJ:RoXSNcbkSzsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2935,7 +3685,9 @@
       "pub_id": "v4rX24EAAAAJ:WC23djZS0W4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2944,7 +3696,9 @@
       "pub_id": "v4rX24EAAAAJ:vDZJ-YLwNdEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2953,7 +3707,9 @@
       "pub_id": "v4rX24EAAAAJ:Ehil0879vHcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2962,7 +3718,9 @@
       "pub_id": "v4rX24EAAAAJ:WJVC3Jt7v1AC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2971,7 +3729,9 @@
       "pub_id": "v4rX24EAAAAJ:k8Z6L05lTy4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2980,7 +3740,9 @@
       "pub_id": "v4rX24EAAAAJ:uJ-U7cs_P_0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2989,7 +3751,9 @@
       "pub_id": "v4rX24EAAAAJ:VaXvl8Fpj5cC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -2998,7 +3762,9 @@
       "pub_id": "v4rX24EAAAAJ:dfsIfKJdRG4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -3007,7 +3773,9 @@
       "pub_id": "v4rX24EAAAAJ:JV2RwH3_ST0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -3016,7 +3784,9 @@
       "pub_id": "v4rX24EAAAAJ:k_IJM867U9cC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -3025,7 +3795,9 @@
       "pub_id": "v4rX24EAAAAJ:r0BpntZqJG4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
       "meta": {}
     },
@@ -3034,25 +3806,35 @@
       "pub_id": "v4rX24EAAAAJ:NyGDZy8z5eUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-18"
+      }
     },
     "A key embedded video codec for secure video multicast": {
       "year": "2005",
       "pub_id": "v4rX24EAAAAJ:0CzhzZyukY4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 1
+        "2026-09-17": 1,
+        "2026-09-18": 1,
+        "2026-09-19": 1
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-18"
+      }
     },
     "Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns": {
       "year": "2026",
       "pub_id": "v4rX24EAAAAJ:H7nrzBkawXsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3061,7 +3843,9 @@
       "pub_id": "v4rX24EAAAAJ:TesyEGJKHF4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3070,7 +3854,9 @@
       "pub_id": "v4rX24EAAAAJ:I8rxH6phXEkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3079,7 +3865,9 @@
       "pub_id": "v4rX24EAAAAJ:RMgMIBzvq-4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3088,7 +3876,9 @@
       "pub_id": "v4rX24EAAAAJ:In6cVmBjs0IC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3097,7 +3887,9 @@
       "pub_id": "v4rX24EAAAAJ:7H_jS4BsgvYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3106,7 +3898,9 @@
       "pub_id": "v4rX24EAAAAJ:xGWFX6Gbr9MC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3115,7 +3909,9 @@
       "pub_id": "v4rX24EAAAAJ:rCNdntzdTkkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3124,7 +3920,9 @@
       "pub_id": "v4rX24EAAAAJ:7Frjd3zlGBUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3133,7 +3931,9 @@
       "pub_id": "v4rX24EAAAAJ:xm0LlTxljI0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3142,7 +3942,9 @@
       "pub_id": "v4rX24EAAAAJ:ndLnGcHYRF0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3151,7 +3953,9 @@
       "pub_id": "v4rX24EAAAAJ:x21FZCSn4ZoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3160,7 +3964,9 @@
       "pub_id": "v4rX24EAAAAJ:PQEM9vzQD9gC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3169,7 +3975,9 @@
       "pub_id": "v4rX24EAAAAJ:3_LpOwP6eMYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3178,7 +3986,9 @@
       "pub_id": "v4rX24EAAAAJ:M0leSnx2MbUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3187,7 +3997,9 @@
       "pub_id": "v4rX24EAAAAJ:WwIwg2wKZ0QC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3196,7 +4008,9 @@
       "pub_id": "v4rX24EAAAAJ:Og1tA8FjbJAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3205,7 +4019,9 @@
       "pub_id": "v4rX24EAAAAJ:BOlwja0KXvYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3214,7 +4030,9 @@
       "pub_id": "v4rX24EAAAAJ:Ic1VZgkJnDsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3223,7 +4041,9 @@
       "pub_id": "v4rX24EAAAAJ:OzeSX8-yOCQC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3232,7 +4052,9 @@
       "pub_id": "v4rX24EAAAAJ:LK8CI43ZvvMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3241,7 +4063,9 @@
       "pub_id": "v4rX24EAAAAJ:SIv7DqKytYAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3250,7 +4074,9 @@
       "pub_id": "v4rX24EAAAAJ:bVQMTfhMCi4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3259,7 +4085,9 @@
       "pub_id": "v4rX24EAAAAJ:Ade32sEp0pkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3268,7 +4096,9 @@
       "pub_id": "v4rX24EAAAAJ:MAUkC_7iAq8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3277,7 +4107,9 @@
       "pub_id": "v4rX24EAAAAJ:yeL6HyUMUGUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3286,7 +4118,9 @@
       "pub_id": "v4rX24EAAAAJ:Zh0EY9V9P6UC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3295,16 +4129,22 @@
       "pub_id": "v4rX24EAAAAJ:yTLRzDEmwhEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-17"
+      }
     },
     "Method for achieving rendezvous for cognitive radio networks": {
       "year": "2015",
       "pub_id": "v4rX24EAAAAJ:j8SEvjWlNXcC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3313,7 +4153,9 @@
       "pub_id": "v4rX24EAAAAJ:PVgj2kMGcgYC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3322,7 +4164,9 @@
       "pub_id": "v4rX24EAAAAJ:isC4tDSrTZIC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3331,7 +4175,9 @@
       "pub_id": "v4rX24EAAAAJ:BJbdYPG6LGMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3340,7 +4186,9 @@
       "pub_id": "v4rX24EAAAAJ:sJsF-0ZLhtgC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3349,7 +4197,9 @@
       "pub_id": "v4rX24EAAAAJ:Ak0FvsSvgGUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3358,7 +4208,9 @@
       "pub_id": "v4rX24EAAAAJ:G1UMdFYMoxkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3367,7 +4219,9 @@
       "pub_id": "v4rX24EAAAAJ:F1b5ZUV5XREC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3376,7 +4230,9 @@
       "pub_id": "v4rX24EAAAAJ:a9-T7VOCCH8C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3385,7 +4241,9 @@
       "pub_id": "v4rX24EAAAAJ:z6xuaG2dYH0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3394,7 +4252,9 @@
       "pub_id": "v4rX24EAAAAJ:AHdEip9mkN0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3403,7 +4263,9 @@
       "pub_id": "v4rX24EAAAAJ:4xDN1ZYqzskC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3412,7 +4274,9 @@
       "pub_id": "v4rX24EAAAAJ:9NZAP19TdFAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3421,7 +4285,9 @@
       "pub_id": "v4rX24EAAAAJ:L24QuVWYgZ0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3430,7 +4296,9 @@
       "pub_id": "v4rX24EAAAAJ:QoJ_w57xiyAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3439,7 +4307,9 @@
       "pub_id": "v4rX24EAAAAJ:_tF6a-HnqWAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3448,7 +4318,9 @@
       "pub_id": "v4rX24EAAAAJ:orDZ08hpP44C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3457,7 +4329,9 @@
       "pub_id": "v4rX24EAAAAJ:QsKbpXNoaWkC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3466,7 +4340,9 @@
       "pub_id": "v4rX24EAAAAJ:4e5Qn2KL_jwC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3475,7 +4351,9 @@
       "pub_id": "v4rX24EAAAAJ:wUn16MOA3RoC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3484,7 +4362,9 @@
       "pub_id": "v4rX24EAAAAJ:m92CDrhVnKEC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3493,7 +4373,9 @@
       "pub_id": "v4rX24EAAAAJ:dAp6zn-oMfAC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3502,7 +4384,9 @@
       "pub_id": "v4rX24EAAAAJ:c59VksA5Vz4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3511,7 +4395,9 @@
       "pub_id": "v4rX24EAAAAJ:mWEH9CqjF64C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3520,7 +4406,9 @@
       "pub_id": "v4rX24EAAAAJ:w0F2JDEymm0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3529,7 +4417,9 @@
       "pub_id": "v4rX24EAAAAJ:FiDNX6EVdGUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3538,7 +4428,9 @@
       "pub_id": "v4rX24EAAAAJ:OBSaB-F7qqsC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3547,7 +4439,9 @@
       "pub_id": "v4rX24EAAAAJ:2tRrZ1ZAMYUC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3556,7 +4450,9 @@
       "pub_id": "v4rX24EAAAAJ:LgRImbQfgY4C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3565,7 +4461,9 @@
       "pub_id": "v4rX24EAAAAJ:TIZ-Mc8IlK0C",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
       },
       "meta": {}
     },
@@ -3574,7 +4472,18 @@
       "pub_id": "v4rX24EAAAAJ:ZHo1McVdvXMC",
       "first_seen": "2026-09-17",
       "history": {
-        "2026-09-17": 0
+        "2026-09-17": 0,
+        "2026-09-18": 0,
+        "2026-09-19": 0
+      },
+      "meta": {}
+    },
+    "RayFST: Accelerating Finite-State Transducer Composition with Ray Tracing Cores": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:rOcdG6UcVlcC",
+      "first_seen": "2026-09-19",
+      "history": {
+        "2026-09-19": 0
       },
       "meta": {}
     }
