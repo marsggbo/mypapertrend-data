@@ -716,7 +716,7 @@
         "2026-09-24": 239,
         "2026-09-25": 239,
         "2026-09-26": 240,
-        "2026-09-27": 240
+        "2026-09-27": 242
       },
       "meta": {
         "abstract": "Recently, federated learning (FL) techniques have enabled multiple users to train machine learning models collaboratively without data sharing. However, existing FL algorithms suffer from the communication bottleneck due to network bandwidth pressure and/or low bandwidth utilization of the participating clients in both centralized and decentralized architectures. To deal with the communication problem while preserving the convergence performance, we introduce a communication-efficient decentralized FL framework GossipFL. In GossipFL, we 1) design a novel sparsification algorithm to enable that each client only needs to communicate with one peer with a highly sparsified model, and 2) propose a new and novel gossip matrix generation algorithm that can better utilize the bandwidth resources while preserving the convergence property. We also theoretically prove that GossipFL has convergence guarantees. We conduct experiments with three convolutional neural networks on two datasets (IID and non-IID) under two distributed environments (14 clients and 100 clients) to verify the effectiveness of GossipFL. Experimental results show that GossipFL takes less communication traffic for 38.5% and less communication time for <inline-formula><tex-math notation=\"LaTeX\">$49.8$</tex-math><alternatives><mml:math><mml:mrow><mml:mn>49</mml:mn><mml:mo>.</mml:mo><mml:mn>8</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href=\"chu-ieq1-3230938.gif\"/></alternatives></inline-formula>% than state-of-the-art solutions while achieving comparative model accuracy.",
@@ -808,7 +808,7 @@
         "2026-09-24": 247,
         "2026-09-25": 247,
         "2026-09-26": 249,
-        "2026-09-27": 249
+        "2026-09-27": 251
       },
       "meta": {
         "abstract": "Despite efforts to improve the quality of service (QoS) and throughput in Large Language Model (LLM) serving systems, progress is often limited by the lack of publicly available real-world workloads. Consequently, evaluations usually depend on synthetic or oversimplified load patterns, and systems that appear promising in testing frequently underperform once deployed. This work presents BurstGPT, an LLM serving workload with 10.31 million traces from regional Azure OpenAI GPT services over 213 days. BurstGPT captures LLM serving characteristics from user, model and system perspectives: (1) User request concurrency: burstiness variations of requests in Azure OpenAI GPT services, revealing diversified concurrency patterns in different services and model types. (2) User conversation patterns: counts and intervals within conversations for service optimizations. (3) Model response lengths: auto-regressive serving processes of GPT models, showing statistical relations between requests and their responses. (4) System response failures: failures of conversation and API services, showing intensive resource needs and limited availability of LLM services in Azure. The details of the characteristics can serve multiple purposes in LLM serving optimizations, such as system evaluation and trace provisioning. In our demo evaluation with BurstGPT, frequent variations in BurstGPT reveal declines in efficiency, stability, or reliability in realistic LLM serving. We identify that the generalization of KV cache management, scheduling and disaggregation optimizations can be improved under realistic workload evaluations. BurstGPT is publicly available now at https://github.com/HPMLL/BurstGPT and is widely used to develop prototypes of LLM serving frameworks in the industry.",
@@ -2508,7 +2508,7 @@
         "2026-09-24": 46,
         "2026-09-25": 46,
         "2026-09-26": 46,
-        "2026-09-27": 46
+        "2026-09-27": 47
       },
       "meta": {
         "abstract": "Federated Learning (FL) models often experience client drift caused by heterogeneous data, where the distribution of data differs across clients. To address this issue, advanced research primarily focuses on manipulating the existing gradients to achieve more consistent client models. In this paper, we present an alternative perspective on client drift and aim to mitigate it by generating improved local models. First, we analyze the generalization contribution of local training and conclude that this generalization contribution is bounded by the conditional Wasserstein distance between the data distribution of different clients. Then, we propose FedImpro, to construct similar conditional distributions for local training. Specifically, FedImpro decouples the model into high-level and low-level components, and trains the high-level portion on reconstructed feature distributions. This approach enhances the generalization contribution and reduces the dissimilarity of gradients in FL. Experimental results show that FedImpro can help FL defend against data heterogeneity and enhance the generalization performance of the model.",
@@ -3185,7 +3185,7 @@
         "2026-09-24": 32,
         "2026-09-25": 32,
         "2026-09-26": 32,
-        "2026-09-27": 32
+        "2026-09-27": 33
       },
       "meta": {
         "abstract": "Recent large language models (LLMs) have tended to leverage sparsity to reduce computations, employing the sparsely activated mixture-of-experts (MoE) technique. MoE introduces four modules, including token routing, token communication, expert computation, and expert parallelism, that impact model quality and training efficiency. To enable ver- satile usage of MoE models, we introduce FSMoE, a flexible training system optimizing task scheduling with three novel techniques: 1) Unified abstraction and online profiling of MoE modules for task scheduling across various MoE implementations. 2) Co-scheduling intra-node and inter-node communications with computations to minimize communication overheads. 3) To support near-optimal task scheduling, we design an adaptive gradient partitioning method for gradient aggregation and a schedule to adaptively pipeline communications and computations. We conduct extensive experiments with configured MoE layers and real-world MoE models on two GPU clusters. Experimental results show that 1) our FSMoE supports four popular types of MoE routing functions and is more efficient than existing implementations (with up to a 1.42× speedup), and 2) FSMoE outperforms the state-of-the-art MoE training systems (DeepSpeed-MoE and Tutel) by 1.18×-1.22× on 1458 MoE layers and 1.19×-3.01× on real-world MoE models based on GPT-2 and Mixtral using a popular routing function. In this work, we present a flexible training system named FSMoE to optimize task scheduling. To achieve this goal: 1) we design unified abstraction and online profiling of MoE modules across various MoE implementations, 2) we co-schedule intra-node and inter-node communications with computations to minimize communication overhead, and 3) we design an adaptive gradient partitioning method for gradient aggregation and a schedule to adaptively pipeline communications and computations. Experimental results on two clusters up to 48 GPUs show that our FSMoE outperforms the state-of-the-art MoE training systems (DeepSpeed-MoE and Tutel) with speedups of 1.18x-1.22x on 1458 customized MoE layers and 1.19x-3.01x on real-world MoE models based on GPT-2 and Mixtral.",
@@ -3457,7 +3457,7 @@
         "2026-09-24": 34,
         "2026-09-25": 34,
         "2026-09-26": 34,
-        "2026-09-27": 34
+        "2026-09-27": 36
       },
       "meta": {
         "abstract": "Beyond scratch coding, exploiting large-scale code repositories (e.g., GitHub) for practical tasks is vital in real-world software development, yet current benchmarks rarely evaluate code agents in such authentic, workflow-driven scenarios. \nTo bridge this gap, we introduce GitTaskBench, a benchmark designed to systematically assess this capability via 54 realistic tasks across 7 modalities and 7 domains. \nEach task pairs a relevant repository with an automated, human-curated evaluation harness specifying practical success criteria. Beyond measuring execution and task success, we also propose the alpha-value metric to quantify the economic benefit of agent performance, which integrates task success rates, token cost, and average developer salaries. Experiments across three state-of-the-art agent frameworks with multiple advanced LLMs show that leveraging code repositories for complex task solving remains challenging: even the best-performing system, OpenHands+Claude 3.7, solves only 48.15% of tasks. Error analysis attributes over half of failures to seemingly mundane yet critical steps like environment setup and dependency resolution, highlighting the need for more robust workflow management and increased timeout preparedness.\nBy releasing GitTaskBench, we aim to drive progress and attention toward repository-aware code reasoning, execution, and deployment---moving agents closer to solving complex, end-to-end real-world tasks.",
@@ -5192,7 +5192,7 @@
         "2026-08-05": 0,
         "2026-08-06": 0,
         "2026-08-07": 0,
-        "2026-08-08": 4,
+        "2026-08-08": 0,
         "2026-08-09": 0,
         "2026-08-10": 0,
         "2026-08-11": 0,
