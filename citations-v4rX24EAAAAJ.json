@@ -53,10 +53,15 @@
         "citations": 19622,
         "hindex": 73,
         "i10": 217
+      },
+      "2026-09-27": {
+        "citations": 19641,
+        "hindex": 73,
+        "i10": 217
       }
     }
   },
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "source": "dom",
   "papers": {
     "AutoML: A Survey of the State-of-the-Art": {
@@ -73,9 +78,23 @@
         "2026-09-23": 2879,
         "2026-09-24": 2880,
         "2026-09-25": 2880,
-        "2026-09-26": 2883
+        "2026-09-26": 2883,
+        "2026-09-27": 2885
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Deep learning (DL) techniques have penetrated all aspects of our lives and brought us great convenience. However, building a high-quality DL system for a specific task highly relies on human expertise, hindering the applications of DL to more areas. Automated machine learning (AutoML) becomes a promising solution to build a DL system without human assistance, and a growing number of researchers focus on AutoML. In this paper, we provide a comprehensive and up-to-date review of the state-of-the-art (SOTA) in AutoML. First, we introduce AutoML methods according to the pipeline, covering data preparation, feature engineering, hyperparameter optimization, and neural architecture search (NAS). We focus more on NAS, as it is currently very hot sub-topic of AutoML. We summarize the performance of the representative NAS algorithms on the CIFAR-10 and ImageNet datasets and further discuss several worthy studying directions of NAS methods: one/two-stage NAS, one-shot NAS, and joint hyperparameter and architecture optimization. Finally, we discuss some open problems of the existing AutoML methods for future research.",
+        "arxiv": "1908.00709",
+        "authors": [
+          "Xin He",
+          "Kaiyong Zhao",
+          "X. Chu"
+        ],
+        "doi": "10.1016/j.knosys.2020.106622",
+        "pdf": "https://arxiv.org/pdf/1908.00709",
+        "s2url": "https://www.semanticscholar.org/paper/3a7fa673ff8ec4ec2f322473de005f3cd09ea820",
+        "tldr": "A comprehensive and up-to-date review of the state-of-the-art (SOTA) in AutoML methods according to the pipeline, covering data preparation, feature engineering, hyperparameter optimization, and neural architecture search (NAS).",
+        "venue": "Knowledge-Based Systems"
+      }
     },
     "Electric vehicle charging station placement: Formulation, complexity, and solutions": {
       "year": "2014",
@@ -91,7 +110,8 @@
         "2026-09-23": 651,
         "2026-09-24": 651,
         "2026-09-25": 651,
-        "2026-09-26": 651
+        "2026-09-26": 651,
+        "2026-09-27": 652
       },
       "meta": {}
     },
@@ -109,7 +129,8 @@
         "2026-09-23": 521,
         "2026-09-24": 521,
         "2026-09-25": 521,
-        "2026-09-26": 521
+        "2026-09-26": 521,
+        "2026-09-27": 522
       },
       "meta": {}
     },
@@ -127,7 +148,8 @@
         "2026-09-23": 502,
         "2026-09-24": 502,
         "2026-09-25": 502,
-        "2026-09-26": 502
+        "2026-09-26": 502,
+        "2026-09-27": 502
       },
       "meta": {}
     },
@@ -145,7 +167,8 @@
         "2026-09-23": 362,
         "2026-09-24": 363,
         "2026-09-25": 363,
-        "2026-09-26": 363
+        "2026-09-26": 363,
+        "2026-09-27": 363
       },
       "meta": {}
     },
@@ -163,7 +186,8 @@
         "2026-09-23": 343,
         "2026-09-24": 343,
         "2026-09-25": 343,
-        "2026-09-26": 343
+        "2026-09-26": 343,
+        "2026-09-27": 343
       },
       "meta": {}
     },
@@ -181,7 +205,8 @@
         "2026-09-23": 312,
         "2026-09-24": 312,
         "2026-09-25": 312,
-        "2026-09-26": 312
+        "2026-09-26": 312,
+        "2026-09-27": 314
       },
       "meta": {}
     },
@@ -199,7 +224,8 @@
         "2026-09-23": 292,
         "2026-09-24": 292,
         "2026-09-25": 292,
-        "2026-09-26": 292
+        "2026-09-26": 292,
+        "2026-09-27": 292
       },
       "meta": {}
     },
@@ -217,7 +243,8 @@
         "2026-09-23": 290,
         "2026-09-24": 290,
         "2026-09-25": 290,
-        "2026-09-26": 290
+        "2026-09-26": 290,
+        "2026-09-27": 290
       },
       "meta": {}
     },
@@ -235,7 +262,8 @@
         "2026-09-23": 286,
         "2026-09-24": 286,
         "2026-09-25": 286,
-        "2026-09-26": 286
+        "2026-09-26": 286,
+        "2026-09-27": 285
       },
       "meta": {
         "abstract": "In recent years, natural language processing (NLP) has got great development with deep learning techniques. In the sub-field of machine translation, a new approach named Neural Machine Translation (NMT) has emerged and got massive attention from both academia and industry. However, with a significant number of researches proposed in the past several years, there is little work in investigating the development process of this new technology trend. This literature survey traces back the origin and principal development timeline of NMT, investigates the important branches, categorizes different research orientations, and discusses some future research trends in this field.",
@@ -266,7 +294,8 @@
         "2026-09-23": 279,
         "2026-09-24": 279,
         "2026-09-25": 279,
-        "2026-09-26": 279
+        "2026-09-26": 279,
+        "2026-09-27": 279
       },
       "meta": {}
     },
@@ -284,7 +313,8 @@
         "2026-09-23": 263,
         "2026-09-24": 263,
         "2026-09-25": 263,
-        "2026-09-26": 263
+        "2026-09-26": 263,
+        "2026-09-27": 263
       },
       "meta": {}
     },
@@ -302,7 +332,8 @@
         "2026-09-23": 246,
         "2026-09-24": 247,
         "2026-09-25": 247,
-        "2026-09-26": 249
+        "2026-09-26": 249,
+        "2026-09-27": 251
       },
       "meta": {}
     },
@@ -320,7 +351,8 @@
         "2026-09-23": 237,
         "2026-09-24": 237,
         "2026-09-25": 237,
-        "2026-09-26": 237
+        "2026-09-26": 237,
+        "2026-09-27": 237
       },
       "meta": {}
     },
@@ -338,7 +370,8 @@
         "2026-09-23": 239,
         "2026-09-24": 239,
         "2026-09-25": 239,
-        "2026-09-26": 240
+        "2026-09-26": 240,
+        "2026-09-27": 242
       },
       "meta": {}
     },
@@ -356,7 +389,8 @@
         "2026-09-23": 231,
         "2026-09-24": 231,
         "2026-09-25": 231,
-        "2026-09-26": 231
+        "2026-09-26": 231,
+        "2026-09-27": 231
       },
       "meta": {
         "_tried": "2026-09-17"
@@ -376,9 +410,12 @@
         "2026-09-23": 213,
         "2026-09-24": 213,
         "2026-09-25": 213,
-        "2026-09-26": 213
+        "2026-09-26": 213,
+        "2026-09-27": 213
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-26"
+      }
     },
     "Speeding up k-means algorithm by GPUs": {
       "year": "2010",
@@ -394,7 +431,8 @@
         "2026-09-23": 210,
         "2026-09-24": 210,
         "2026-09-25": 210,
-        "2026-09-26": 211
+        "2026-09-26": 211,
+        "2026-09-27": 211
       },
       "meta": {}
     },
@@ -412,7 +450,8 @@
         "2026-09-23": 204,
         "2026-09-24": 204,
         "2026-09-25": 204,
-        "2026-09-26": 204
+        "2026-09-26": 204,
+        "2026-09-27": 204
       },
       "meta": {}
     },
@@ -430,7 +469,8 @@
         "2026-09-23": 183,
         "2026-09-24": 183,
         "2026-09-25": 183,
-        "2026-09-26": 184
+        "2026-09-26": 184,
+        "2026-09-27": 184
       },
       "meta": {
         "_tried": "2026-09-17"
@@ -450,7 +490,8 @@
         "2026-09-23": 183,
         "2026-09-24": 183,
         "2026-09-25": 183,
-        "2026-09-26": 183
+        "2026-09-26": 183,
+        "2026-09-27": 183
       },
       "meta": {}
     },
@@ -468,7 +509,8 @@
         "2026-09-23": 178,
         "2026-09-24": 178,
         "2026-09-25": 178,
-        "2026-09-26": 178
+        "2026-09-26": 178,
+        "2026-09-27": 178
       },
       "meta": {}
     },
@@ -486,7 +528,8 @@
         "2026-09-23": 161,
         "2026-09-24": 161,
         "2026-09-25": 161,
-        "2026-09-26": 161
+        "2026-09-26": 161,
+        "2026-09-27": 161
       },
       "meta": {}
     },
@@ -504,7 +547,8 @@
         "2026-09-23": 161,
         "2026-09-24": 161,
         "2026-09-25": 161,
-        "2026-09-26": 161
+        "2026-09-26": 161,
+        "2026-09-27": 161
       },
       "meta": {}
     },
@@ -522,7 +566,8 @@
         "2026-09-23": 158,
         "2026-09-24": 158,
         "2026-09-25": 158,
-        "2026-09-26": 158
+        "2026-09-26": 158,
+        "2026-09-27": 158
       },
       "meta": {}
     },
@@ -540,7 +585,8 @@
         "2026-09-23": 157,
         "2026-09-24": 157,
         "2026-09-25": 157,
-        "2026-09-26": 157
+        "2026-09-26": 157,
+        "2026-09-27": 157
       },
       "meta": {}
     },
@@ -558,7 +604,8 @@
         "2026-09-23": 157,
         "2026-09-24": 157,
         "2026-09-25": 157,
-        "2026-09-26": 157
+        "2026-09-26": 157,
+        "2026-09-27": 157
       },
       "meta": {}
     },
@@ -576,7 +623,8 @@
         "2026-09-23": 154,
         "2026-09-24": 154,
         "2026-09-25": 154,
-        "2026-09-26": 154
+        "2026-09-26": 154,
+        "2026-09-27": 154
       },
       "meta": {
         "_tried": "2026-09-18"
@@ -596,7 +644,8 @@
         "2026-09-23": 152,
         "2026-09-24": 152,
         "2026-09-25": 152,
-        "2026-09-26": 152
+        "2026-09-26": 152,
+        "2026-09-27": 152
       },
       "meta": {
         "abstract": "Due to the popularity of Graph Neural Networks (GNNs), various GNN-based methods have been designed to reason on knowledge graphs (KGs). An important design component of GNN-based KG reasoning methods is called the propagation path, which contains a set of involved entities in each propagation step. Existing methods use hand-designed propagation paths, ignoring the correlation between the entities and the query relation. In addition, the number of involved entities will explosively grow at larger propagation steps. In this work, we are motivated to learn an adaptive propagation path in order to filter out irrelevant entities while preserving promising targets. First, we design an incremental sampling mechanism where the nearby targets and layer-wise connections can be preserved with linear complexity. Second, we design a learning-based sampling distribution to identify the semantically related entities. Extensive experiments show that our method is powerful, efficient and semantic-aware. The code is available at https://github.com/LARS-research/AdaProp.",
@@ -629,7 +678,8 @@
         "2026-09-23": 152,
         "2026-09-24": 152,
         "2026-09-25": 152,
-        "2026-09-26": 152
+        "2026-09-26": 152,
+        "2026-09-27": 152
       },
       "meta": {}
     },
@@ -647,7 +697,8 @@
         "2026-09-23": 152,
         "2026-09-24": 152,
         "2026-09-25": 152,
-        "2026-09-26": 152
+        "2026-09-26": 152,
+        "2026-09-27": 152
       },
       "meta": {}
     },
@@ -665,7 +716,8 @@
         "2026-09-23": 143,
         "2026-09-24": 143,
         "2026-09-25": 143,
-        "2026-09-26": 143
+        "2026-09-26": 143,
+        "2026-09-27": 143
       },
       "meta": {}
     },
@@ -683,7 +735,8 @@
         "2026-09-23": 142,
         "2026-09-24": 142,
         "2026-09-25": 142,
-        "2026-09-26": 142
+        "2026-09-26": 142,
+        "2026-09-27": 142
       },
       "meta": {}
     },
@@ -701,7 +754,8 @@
         "2026-09-23": 139,
         "2026-09-24": 139,
         "2026-09-25": 139,
-        "2026-09-26": 139
+        "2026-09-26": 139,
+        "2026-09-27": 139
       },
       "meta": {}
     },
@@ -719,7 +773,8 @@
         "2026-09-23": 140,
         "2026-09-24": 140,
         "2026-09-25": 140,
-        "2026-09-26": 140
+        "2026-09-26": 140,
+        "2026-09-27": 140
       },
       "meta": {}
     },
@@ -737,7 +792,8 @@
         "2026-09-23": 136,
         "2026-09-24": 136,
         "2026-09-25": 136,
-        "2026-09-26": 136
+        "2026-09-26": 136,
+        "2026-09-27": 136
       },
       "meta": {
         "abstract": "Abstract Energy efficiency has become one of the top design criteria for current computing systems. The dynamic voltage and frequency scaling (DVFS) has been widely adopted by laptop computers, servers, and mobile devices to conserve energy, while the GPU DVFS is still at a certain early age. This paper aims at exploring the impact of GPU DVFS on the application performance and power consumption, and furthermore, on energy conservation. We survey the state-of-the-art GPU DVFS characterizations, and then summarize recent research works on GPU power and performance models. We also conduct real GPU DVFS experiments on NVIDIA Fermi and Maxwell GPUs. According to our experimental results, GPU DVFS has significant potential for energy saving. The effect of scaling core voltage/frequency and memory voltage/frequency depends on not only the GPU architectures, but also the characteristic of GPU applications.",
@@ -768,7 +824,8 @@
         "2026-09-23": 135,
         "2026-09-24": 135,
         "2026-09-25": 135,
-        "2026-09-26": 135
+        "2026-09-26": 135,
+        "2026-09-27": 135
       },
       "meta": {}
     },
@@ -786,7 +843,8 @@
         "2026-09-23": 132,
         "2026-09-24": 132,
         "2026-09-25": 132,
-        "2026-09-26": 133
+        "2026-09-26": 133,
+        "2026-09-27": 133
       },
       "meta": {}
     },
@@ -804,7 +862,8 @@
         "2026-09-23": 128,
         "2026-09-24": 129,
         "2026-09-25": 129,
-        "2026-09-26": 130
+        "2026-09-26": 130,
+        "2026-09-27": 130
       },
       "meta": {}
     },
@@ -822,9 +881,29 @@
         "2026-09-23": 123,
         "2026-09-24": 123,
         "2026-09-25": 123,
-        "2026-09-26": 123
+        "2026-09-26": 123,
+        "2026-09-27": 123
       },
-      "meta": {}
+      "meta": {
+        "abstract": "The COVID-19 pandemic has spread globally for several months. Because its transmissibility and high pathogenicity seriously threaten people's lives, it is crucial to accurately and quickly detect COVID-19 infection. Many recent studies have shown that deep learning (DL) based solutions can help detect COVID-19 based on chest CT scans. However, most existing work focuses on 2D datasets, which may result in low quality models as the real CT scans are 3D images. Besides, the reported results span a broad spectrum on different datasets with a relatively unfair comparison. In this paper, we first use three state-of-the-art 3D models (ResNet3D101, DenseNet3D121, and MC3\\_18) to establish the baseline performance on three publicly available chest CT scan datasets. Then we propose a differentiable neural architecture search (DNAS) framework to automatically search the 3D DL models for 3D chest CT scans classification and use the Gumbel Softmax technique to improve the search efficiency. We further exploit the Class Activation Mapping (CAM) technique on our models to provide the interpretability of the results. The experimental results show that our searched models (CovidNet3D) outperform the baseline human-designed models on three datasets with tens of times smaller model size and higher accuracy. Furthermore, the results also verify that CAM can be well applied in CovidNet3D for COVID-19 datasets to provide interpretability for medical diagnosis. Code: https://github.com/HKBU-HPML/CovidNet3D.",
+        "arxiv": "2101.05442",
+        "authors": [
+          "Xin He",
+          "Shihao Wang",
+          "X. Chu",
+          "S. Shi",
+          "Jiangping Tang",
+          "Xin Liu",
+          "C. Yan",
+          "Jiyong Zhang",
+          "G. Ding"
+        ],
+        "doi": "10.1609/aaai.v35i6.16614",
+        "pdf": "https://doi.org/10.1609/aaai.v35i6.16614",
+        "s2url": "https://www.semanticscholar.org/paper/6316b4bc0a8cf6564d0f5a2ea5de007179681777",
+        "tldr": "A differentiable neural architecture search (DNAS) framework is proposed to automatically search the 3D DL models for 3D chest CT scans classification and use the Gumbel Softmax technique to improve the search efficiency and verify that CAM can be well applied in CovidNet3D for COVID-19 datasets to provide interpretability for medical diagnosis.",
+        "venue": "AAAI Conference on Artificial Intelligence"
+      }
     },
     "Pruner-Zero: Evolving Symbolic Pruning Metric from scratch for Large Language Models": {
       "year": "2024",
@@ -840,7 +919,8 @@
         "2026-09-23": 122,
         "2026-09-24": 122,
         "2026-09-25": 122,
-        "2026-09-26": 122
+        "2026-09-26": 122,
+        "2026-09-27": 122
       },
       "meta": {}
     },
@@ -858,7 +938,8 @@
         "2026-09-23": 120,
         "2026-09-24": 120,
         "2026-09-25": 120,
-        "2026-09-26": 120
+        "2026-09-26": 120,
+        "2026-09-27": 120
       },
       "meta": {}
     },
@@ -876,7 +957,8 @@
         "2026-09-23": 120,
         "2026-09-24": 120,
         "2026-09-25": 120,
-        "2026-09-26": 120
+        "2026-09-26": 120,
+        "2026-09-27": 120
       },
       "meta": {
         "_tried": "2026-09-18"
@@ -896,7 +978,8 @@
         "2026-09-23": 119,
         "2026-09-24": 119,
         "2026-09-25": 119,
-        "2026-09-26": 119
+        "2026-09-26": 119,
+        "2026-09-27": 119
       },
       "meta": {}
     },
@@ -914,7 +997,8 @@
         "2026-09-23": 109,
         "2026-09-24": 109,
         "2026-09-25": 109,
-        "2026-09-26": 109
+        "2026-09-26": 109,
+        "2026-09-27": 109
       },
       "meta": {}
     },
@@ -932,7 +1016,8 @@
         "2026-09-23": 108,
         "2026-09-24": 108,
         "2026-09-25": 108,
-        "2026-09-26": 108
+        "2026-09-26": 108,
+        "2026-09-27": 108
       },
       "meta": {}
     },
@@ -950,7 +1035,8 @@
         "2026-09-23": 106,
         "2026-09-24": 106,
         "2026-09-25": 106,
-        "2026-09-26": 106
+        "2026-09-26": 106,
+        "2026-09-27": 106
       },
       "meta": {}
     },
@@ -968,7 +1054,8 @@
         "2026-09-23": 106,
         "2026-09-24": 106,
         "2026-09-25": 106,
-        "2026-09-26": 106
+        "2026-09-26": 106,
+        "2026-09-27": 106
       },
       "meta": {}
     },
@@ -986,7 +1073,8 @@
         "2026-09-23": 105,
         "2026-09-24": 105,
         "2026-09-25": 105,
-        "2026-09-26": 105
+        "2026-09-26": 105,
+        "2026-09-27": 106
       },
       "meta": {}
     },
@@ -1004,7 +1092,8 @@
         "2026-09-23": 105,
         "2026-09-24": 105,
         "2026-09-25": 105,
-        "2026-09-26": 105
+        "2026-09-26": 105,
+        "2026-09-27": 105
       },
       "meta": {
         "abstract": "Gradient sparsification is a promising technique to significantly reduce the communication overhead in decentralized synchronous stochastic gradient descent (S-SGD) algorithms. Yet, many existing gradient sparsification schemes (e.g., Top-k sparsification) have a communication complexity of O(kP), where k is the number of selected gradients by each worker and P is the number of workers. Recently, the gTop-k sparsification scheme has been proposed to reduce the communication complexity from O(kP) to O(k logP), which significantly boosts the system scalability. However, it remains unclear whether the gTop-k sparsification scheme can converge in theory. In this paper, we first provide theoretical proofs on the convergence of the gTop-k scheme for non-convex objective functions under certain analytic assumptions. We then derive the convergence rate of gTop-k S-SGD, which is at the same order as the vanilla mini-batch SGD. Finally, we conduct extensive experiments on different machine learning models and data sets to verify the soundness of the assumptions and theoretical results, and discuss the impact of the compression ratio on the convergence performance.",
@@ -1037,7 +1126,8 @@
         "2026-09-23": 105,
         "2026-09-24": 105,
         "2026-09-25": 105,
-        "2026-09-26": 105
+        "2026-09-26": 105,
+        "2026-09-27": 105
       },
       "meta": {}
     },
@@ -1055,7 +1145,8 @@
         "2026-09-23": 103,
         "2026-09-24": 103,
         "2026-09-25": 103,
-        "2026-09-26": 103
+        "2026-09-26": 103,
+        "2026-09-27": 103
       },
       "meta": {}
     },
@@ -1073,7 +1164,8 @@
         "2026-09-23": 103,
         "2026-09-24": 103,
         "2026-09-25": 103,
-        "2026-09-26": 103
+        "2026-09-26": 103,
+        "2026-09-27": 103
       },
       "meta": {}
     },
@@ -1091,7 +1183,8 @@
         "2026-09-23": 102,
         "2026-09-24": 102,
         "2026-09-25": 102,
-        "2026-09-26": 102
+        "2026-09-26": 102,
+        "2026-09-27": 102
       },
       "meta": {}
     },
@@ -1109,7 +1202,8 @@
         "2026-09-23": 99,
         "2026-09-24": 99,
         "2026-09-25": 99,
-        "2026-09-26": 99
+        "2026-09-26": 99,
+        "2026-09-27": 99
       },
       "meta": {}
     },
@@ -1127,7 +1221,8 @@
         "2026-09-23": 94,
         "2026-09-24": 94,
         "2026-09-25": 94,
-        "2026-09-26": 94
+        "2026-09-26": 94,
+        "2026-09-27": 95
       },
       "meta": {}
     },
@@ -1145,7 +1240,8 @@
         "2026-09-23": 94,
         "2026-09-24": 94,
         "2026-09-25": 94,
-        "2026-09-26": 94
+        "2026-09-26": 94,
+        "2026-09-27": 94
       },
       "meta": {
         "abstract": "",
@@ -1177,7 +1273,8 @@
         "2026-09-23": 92,
         "2026-09-24": 92,
         "2026-09-25": 92,
-        "2026-09-26": 92
+        "2026-09-26": 92,
+        "2026-09-27": 92
       },
       "meta": {}
     },
@@ -1195,7 +1292,8 @@
         "2026-09-23": 91,
         "2026-09-24": 91,
         "2026-09-25": 91,
-        "2026-09-26": 91
+        "2026-09-26": 91,
+        "2026-09-27": 91
       },
       "meta": {}
     },
@@ -1213,7 +1311,8 @@
         "2026-09-23": 91,
         "2026-09-24": 91,
         "2026-09-25": 91,
-        "2026-09-26": 91
+        "2026-09-26": 91,
+        "2026-09-27": 91
       },
       "meta": {}
     },
@@ -1231,7 +1330,8 @@
         "2026-09-23": 89,
         "2026-09-24": 89,
         "2026-09-25": 89,
-        "2026-09-26": 89
+        "2026-09-26": 89,
+        "2026-09-27": 89
       },
       "meta": {}
     },
@@ -1249,7 +1349,8 @@
         "2026-09-23": 86,
         "2026-09-24": 86,
         "2026-09-25": 86,
-        "2026-09-26": 86
+        "2026-09-26": 86,
+        "2026-09-27": 86
       },
       "meta": {}
     },
@@ -1267,7 +1368,8 @@
         "2026-09-23": 84,
         "2026-09-24": 84,
         "2026-09-25": 84,
-        "2026-09-26": 84
+        "2026-09-26": 84,
+        "2026-09-27": 84
       },
       "meta": {}
     },
@@ -1285,7 +1387,8 @@
         "2026-09-23": 84,
         "2026-09-24": 84,
         "2026-09-25": 84,
-        "2026-09-26": 84
+        "2026-09-26": 84,
+        "2026-09-27": 84
       },
       "meta": {}
     },
@@ -1303,7 +1406,8 @@
         "2026-09-23": 83,
         "2026-09-24": 83,
         "2026-09-25": 83,
-        "2026-09-26": 83
+        "2026-09-26": 83,
+        "2026-09-27": 83
       },
       "meta": {
         "_tried": "2026-09-24"
@@ -1323,7 +1427,8 @@
         "2026-09-23": 83,
         "2026-09-24": 83,
         "2026-09-25": 83,
-        "2026-09-26": 83
+        "2026-09-26": 83,
+        "2026-09-27": 83
       },
       "meta": {}
     },
@@ -1341,7 +1446,8 @@
         "2026-09-23": 82,
         "2026-09-24": 82,
         "2026-09-25": 82,
-        "2026-09-26": 82
+        "2026-09-26": 82,
+        "2026-09-27": 82
       },
       "meta": {}
     },
@@ -1359,7 +1465,8 @@
         "2026-09-23": 78,
         "2026-09-24": 78,
         "2026-09-25": 78,
-        "2026-09-26": 79
+        "2026-09-26": 79,
+        "2026-09-27": 79
       },
       "meta": {}
     },
@@ -1377,7 +1484,8 @@
         "2026-09-23": 77,
         "2026-09-24": 77,
         "2026-09-25": 77,
-        "2026-09-26": 77
+        "2026-09-26": 77,
+        "2026-09-27": 77
       },
       "meta": {}
     },
@@ -1395,7 +1503,8 @@
         "2026-09-23": 75,
         "2026-09-24": 75,
         "2026-09-25": 75,
-        "2026-09-26": 75
+        "2026-09-26": 75,
+        "2026-09-27": 75
       },
       "meta": {
         "abstract": "Nowadays, large and complex deep learning (DL) models are increasingly trained in a distributed manner across multiple worker machines, in which extensive communications between workers pose serious scaling problems. In this article, we present a quantitative survey of communication optimization techniques for data parallel distributed DL. We first identify the major communication challenges and classify the existing solutions into three levels, namely the learning algorithm, the system architecture, and the network infrastructure. We present the state-of-the-art communication optimization techniques and conduct a comparative study of seven common lossless distributed DL methods on a 32-GPU cluster with 100Gb/s InfiniBand (IB). We show that the DL models with low model intensity (such as BERT and BERT-Large) are difficult to scale out even with the best available lossless algorithm over 100Gb/s IB; and the system architecture and scheduling algorithms have a critical impact on the scaling property. We conclude the article with discussions of open issues for further investigation.",
@@ -1429,7 +1538,8 @@
         "2026-09-23": 75,
         "2026-09-24": 75,
         "2026-09-25": 75,
-        "2026-09-26": 75
+        "2026-09-26": 75,
+        "2026-09-27": 75
       },
       "meta": {}
     },
@@ -1447,7 +1557,8 @@
         "2026-09-23": 74,
         "2026-09-24": 74,
         "2026-09-25": 74,
-        "2026-09-26": 74
+        "2026-09-26": 74,
+        "2026-09-27": 74
       },
       "meta": {}
     },
@@ -1465,7 +1576,8 @@
         "2026-09-23": 79,
         "2026-09-24": 79,
         "2026-09-25": 79,
-        "2026-09-26": 79
+        "2026-09-26": 79,
+        "2026-09-27": 79
       },
       "meta": {}
     },
@@ -1483,7 +1595,8 @@
         "2026-09-23": 72,
         "2026-09-24": 72,
         "2026-09-25": 72,
-        "2026-09-26": 73
+        "2026-09-26": 73,
+        "2026-09-27": 73
       },
       "meta": {}
     },
@@ -1501,7 +1614,8 @@
         "2026-09-23": 72,
         "2026-09-24": 72,
         "2026-09-25": 72,
-        "2026-09-26": 72
+        "2026-09-26": 72,
+        "2026-09-27": 72
       },
       "meta": {}
     },
@@ -1519,7 +1633,8 @@
         "2026-09-23": 70,
         "2026-09-24": 70,
         "2026-09-25": 70,
-        "2026-09-26": 70
+        "2026-09-26": 70,
+        "2026-09-27": 70
       },
       "meta": {}
     },
@@ -1537,7 +1652,8 @@
         "2026-09-23": 70,
         "2026-09-24": 70,
         "2026-09-25": 70,
-        "2026-09-26": 70
+        "2026-09-26": 70,
+        "2026-09-27": 70
       },
       "meta": {}
     },
@@ -1555,7 +1671,8 @@
         "2026-09-23": 69,
         "2026-09-24": 69,
         "2026-09-25": 69,
-        "2026-09-26": 69
+        "2026-09-26": 69,
+        "2026-09-27": 69
       },
       "meta": {}
     },
@@ -1573,7 +1690,8 @@
         "2026-09-23": 71,
         "2026-09-24": 71,
         "2026-09-25": 71,
-        "2026-09-26": 71
+        "2026-09-26": 71,
+        "2026-09-27": 71
       },
       "meta": {}
     },
@@ -1591,7 +1709,8 @@
         "2026-09-23": 69,
         "2026-09-24": 69,
         "2026-09-25": 69,
-        "2026-09-26": 69
+        "2026-09-26": 69,
+        "2026-09-27": 69
       },
       "meta": {}
     },
@@ -1609,7 +1728,8 @@
         "2026-09-23": 66,
         "2026-09-24": 66,
         "2026-09-25": 66,
-        "2026-09-26": 66
+        "2026-09-26": 66,
+        "2026-09-27": 66
       },
       "meta": {}
     },
@@ -1627,7 +1747,8 @@
         "2026-09-23": 66,
         "2026-09-24": 66,
         "2026-09-25": 66,
-        "2026-09-26": 66
+        "2026-09-26": 66,
+        "2026-09-27": 66
       },
       "meta": {
         "abstract": "",
@@ -1658,7 +1779,8 @@
         "2026-09-23": 64,
         "2026-09-24": 64,
         "2026-09-25": 64,
-        "2026-09-26": 64
+        "2026-09-26": 64,
+        "2026-09-27": 64
       },
       "meta": {}
     },
@@ -1676,7 +1798,8 @@
         "2026-09-23": 63,
         "2026-09-24": 63,
         "2026-09-25": 63,
-        "2026-09-26": 63
+        "2026-09-26": 63,
+        "2026-09-27": 63
       },
       "meta": {}
     },
@@ -1694,9 +1817,12 @@
         "2026-09-23": 62,
         "2026-09-24": 62,
         "2026-09-25": 62,
-        "2026-09-26": 62
+        "2026-09-26": 62,
+        "2026-09-27": 62
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-26"
+      }
     },
     "Pipemoe: Accelerating mixture-of-experts through adaptive pipelining": {
       "year": "2023",
@@ -1712,7 +1838,8 @@
         "2026-09-23": 61,
         "2026-09-24": 61,
         "2026-09-25": 61,
-        "2026-09-26": 62
+        "2026-09-26": 62,
+        "2026-09-27": 62
       },
       "meta": {}
     },
@@ -1730,7 +1857,8 @@
         "2026-09-23": 14,
         "2026-09-24": 14,
         "2026-09-25": 14,
-        "2026-09-26": 14
+        "2026-09-26": 14,
+        "2026-09-27": 14
       },
       "meta": {}
     },
@@ -1748,7 +1876,8 @@
         "2026-09-23": 61,
         "2026-09-24": 61,
         "2026-09-25": 61,
-        "2026-09-26": 61
+        "2026-09-26": 61,
+        "2026-09-27": 61
       },
       "meta": {}
     },
@@ -1766,7 +1895,8 @@
         "2026-09-23": 57,
         "2026-09-24": 57,
         "2026-09-25": 57,
-        "2026-09-26": 57
+        "2026-09-26": 57,
+        "2026-09-27": 57
       },
       "meta": {}
     },
@@ -1784,7 +1914,8 @@
         "2026-09-23": 55,
         "2026-09-24": 55,
         "2026-09-25": 55,
-        "2026-09-26": 55
+        "2026-09-26": 55,
+        "2026-09-27": 55
       },
       "meta": {}
     },
@@ -1802,7 +1933,8 @@
         "2026-09-23": 55,
         "2026-09-24": 55,
         "2026-09-25": 55,
-        "2026-09-26": 56
+        "2026-09-26": 56,
+        "2026-09-27": 56
       },
       "meta": {}
     },
@@ -1820,7 +1952,8 @@
         "2026-09-23": 54,
         "2026-09-24": 54,
         "2026-09-25": 54,
-        "2026-09-26": 54
+        "2026-09-26": 54,
+        "2026-09-27": 54
       },
       "meta": {}
     },
@@ -1838,7 +1971,8 @@
         "2026-09-23": 52,
         "2026-09-24": 52,
         "2026-09-25": 52,
-        "2026-09-26": 52
+        "2026-09-26": 52,
+        "2026-09-27": 52
       },
       "meta": {
         "_tried": "2026-09-17"
@@ -1858,7 +1992,8 @@
         "2026-09-23": 50,
         "2026-09-24": 50,
         "2026-09-25": 50,
-        "2026-09-26": 50
+        "2026-09-26": 50,
+        "2026-09-27": 50
       },
       "meta": {}
     },
@@ -1876,7 +2011,8 @@
         "2026-09-23": 50,
         "2026-09-24": 50,
         "2026-09-25": 50,
-        "2026-09-26": 50
+        "2026-09-26": 50,
+        "2026-09-27": 50
       },
       "meta": {}
     },
@@ -1894,7 +2030,8 @@
         "2026-09-23": 49,
         "2026-09-24": 49,
         "2026-09-25": 49,
-        "2026-09-26": 49
+        "2026-09-26": 49,
+        "2026-09-27": 49
       },
       "meta": {}
     },
@@ -1912,7 +2049,8 @@
         "2026-09-23": 47,
         "2026-09-24": 47,
         "2026-09-25": 47,
-        "2026-09-26": 47
+        "2026-09-26": 47,
+        "2026-09-27": 47
       },
       "meta": {}
     },
@@ -1930,7 +2068,8 @@
         "2026-09-23": 47,
         "2026-09-24": 47,
         "2026-09-25": 47,
-        "2026-09-26": 47
+        "2026-09-26": 47,
+        "2026-09-27": 47
       },
       "meta": {}
     },
@@ -1948,7 +2087,8 @@
         "2026-09-23": 46,
         "2026-09-24": 46,
         "2026-09-25": 46,
-        "2026-09-26": 46
+        "2026-09-26": 46,
+        "2026-09-27": 47
       },
       "meta": {}
     },
@@ -1966,7 +2106,8 @@
         "2026-09-23": 45,
         "2026-09-24": 45,
         "2026-09-25": 45,
-        "2026-09-26": 45
+        "2026-09-26": 45,
+        "2026-09-27": 46
       },
       "meta": {}
     },
@@ -1984,7 +2125,8 @@
         "2026-09-23": 46,
         "2026-09-24": 46,
         "2026-09-25": 46,
-        "2026-09-26": 46
+        "2026-09-26": 46,
+        "2026-09-27": 46
       },
       "meta": {}
     },
@@ -2002,7 +2144,8 @@
         "2026-09-23": 46,
         "2026-09-24": 46,
         "2026-09-25": 46,
-        "2026-09-26": 46
+        "2026-09-26": 46,
+        "2026-09-27": 46
       },
       "meta": {}
     },
@@ -2020,7 +2163,8 @@
         "2026-09-23": 45,
         "2026-09-24": 45,
         "2026-09-25": 45,
-        "2026-09-26": 45
+        "2026-09-26": 45,
+        "2026-09-27": 45
       },
       "meta": {}
     },
@@ -2038,7 +2182,8 @@
         "2026-09-23": 45,
         "2026-09-24": 45,
         "2026-09-25": 45,
-        "2026-09-26": 45
+        "2026-09-26": 45,
+        "2026-09-27": 45
       },
       "meta": {}
     },
@@ -2056,7 +2201,8 @@
         "2026-09-23": 43,
         "2026-09-24": 43,
         "2026-09-25": 43,
-        "2026-09-26": 43
+        "2026-09-26": 43,
+        "2026-09-27": 44
       },
       "meta": {}
     },
@@ -2074,7 +2220,8 @@
         "2026-09-23": 43,
         "2026-09-24": 43,
         "2026-09-25": 43,
-        "2026-09-26": 43
+        "2026-09-26": 43,
+        "2026-09-27": 43
       },
       "meta": {}
     },
@@ -2092,7 +2239,8 @@
         "2026-09-23": 42,
         "2026-09-24": 42,
         "2026-09-25": 42,
-        "2026-09-26": 42
+        "2026-09-26": 42,
+        "2026-09-27": 42
       },
       "meta": {}
     },
@@ -2110,7 +2258,8 @@
         "2026-09-23": 41,
         "2026-09-24": 41,
         "2026-09-25": 41,
-        "2026-09-26": 41
+        "2026-09-26": 41,
+        "2026-09-27": 41
       },
       "meta": {
         "_tried": "2026-09-17"
@@ -2130,7 +2279,8 @@
         "2026-09-23": 41,
         "2026-09-24": 41,
         "2026-09-25": 41,
-        "2026-09-26": 41
+        "2026-09-26": 41,
+        "2026-09-27": 41
       },
       "meta": {}
     },
@@ -2148,7 +2298,8 @@
         "2026-09-23": 40,
         "2026-09-24": 40,
         "2026-09-25": 40,
-        "2026-09-26": 40
+        "2026-09-26": 40,
+        "2026-09-27": 40
       },
       "meta": {}
     },
@@ -2166,7 +2317,8 @@
         "2026-09-23": 40,
         "2026-09-24": 40,
         "2026-09-25": 40,
-        "2026-09-26": 40
+        "2026-09-26": 40,
+        "2026-09-27": 40
       },
       "meta": {}
     },
@@ -2184,7 +2336,8 @@
         "2026-09-23": 44,
         "2026-09-24": 44,
         "2026-09-25": 44,
-        "2026-09-26": 44
+        "2026-09-26": 44,
+        "2026-09-27": 44
       },
       "meta": {}
     },
@@ -2202,7 +2355,8 @@
         "2026-09-23": 37,
         "2026-09-24": 37,
         "2026-09-25": 37,
-        "2026-09-26": 37
+        "2026-09-26": 37,
+        "2026-09-27": 37
       },
       "meta": {}
     },
@@ -2220,7 +2374,8 @@
         "2026-09-23": 35,
         "2026-09-24": 35,
         "2026-09-25": 35,
-        "2026-09-26": 35
+        "2026-09-26": 35,
+        "2026-09-27": 35
       },
       "meta": {}
     },
@@ -2238,7 +2393,8 @@
         "2026-09-23": 35,
         "2026-09-24": 35,
         "2026-09-25": 35,
-        "2026-09-26": 35
+        "2026-09-26": 35,
+        "2026-09-27": 35
       },
       "meta": {}
     },
@@ -2256,9 +2412,12 @@
         "2026-09-23": 34,
         "2026-09-24": 34,
         "2026-09-25": 34,
-        "2026-09-26": 34
+        "2026-09-26": 34,
+        "2026-09-27": 34
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-09-26"
+      }
     },
     "Adjustable rendezvous in multi-radio cognitive radio networks": {
       "year": "2015",
@@ -2274,7 +2433,8 @@
         "2026-09-23": 33,
         "2026-09-24": 33,
         "2026-09-25": 33,
-        "2026-09-26": 33
+        "2026-09-26": 33,
+        "2026-09-27": 33
       },
       "meta": {
         "_tried": "2026-09-24",
@@ -2308,7 +2468,8 @@
         "2026-09-23": 32,
         "2026-09-24": 32,
         "2026-09-25": 32,
-        "2026-09-26": 32
+        "2026-09-26": 32,
+        "2026-09-27": 33
       },
       "meta": {}
     },
@@ -2326,7 +2487,8 @@
         "2026-09-23": 32,
         "2026-09-24": 32,
         "2026-09-25": 32,
-        "2026-09-26": 32
+        "2026-09-26": 32,
+        "2026-09-27": 32
       },
       "meta": {}
     },
@@ -2344,7 +2506,8 @@
         "2026-09-23": 32,
         "2026-09-24": 32,
         "2026-09-25": 32,
-        "2026-09-26": 32
+        "2026-09-26": 32,
+        "2026-09-27": 33
       },
       "meta": {}
     },
@@ -2362,7 +2525,8 @@
         "2026-09-23": 32,
         "2026-09-24": 32,
         "2026-09-25": 32,
-        "2026-09-26": 32
+        "2026-09-26": 32,
+        "2026-09-27": 32
       },
       "meta": {}
     },
@@ -2380,7 +2544,8 @@
         "2026-09-23": 31,
         "2026-09-24": 31,
         "2026-09-25": 31,
-        "2026-09-26": 31
+        "2026-09-26": 31,
+        "2026-09-27": 31
       },
       "meta": {}
     },
@@ -2398,7 +2563,8 @@
         "2026-09-23": 31,
         "2026-09-24": 31,
         "2026-09-25": 31,
-        "2026-09-26": 31
+        "2026-09-26": 31,
+        "2026-09-27": 31
       },
       "meta": {}
     },
@@ -2416,7 +2582,8 @@
         "2026-09-23": 31,
         "2026-09-24": 31,
         "2026-09-25": 31,
-        "2026-09-26": 31
+        "2026-09-26": 31,
+        "2026-09-27": 31
       },
       "meta": {}
     },
@@ -2434,7 +2601,8 @@
         "2026-09-23": 30,
         "2026-09-24": 30,
         "2026-09-25": 30,
-        "2026-09-26": 30
+        "2026-09-26": 30,
+        "2026-09-27": 30
       },
       "meta": {}
     },
@@ -2452,7 +2620,8 @@
         "2026-09-23": 30,
         "2026-09-24": 30,
         "2026-09-25": 30,
-        "2026-09-26": 30
+        "2026-09-26": 30,
+        "2026-09-27": 30
       },
       "meta": {
         "abstract": "Tandem mass spectrometry-based database searching is currently the main method for protein identification in shotgun proteomics. The explosive growth of protein and peptide databases, which is a result of genome translations, enzymatic digestions, and post-translational modifications (PTMs), is making computational efficiency in database searching a serious challenge. Profile analysis shows that most search engines spend 50%-90% of their total time on the scoring module, and that the spectrum dot product (SDP) based scoring module is the most widely used. As a general purpose and high performance parallel hardware, graphics processing units (GPUs) are promising platforms for speeding up database searches in the protein identification process. We designed and implemented a parallel SDP-based scoring module on GPUs that exploits the efficient use of GPU registers, constant memory and shared memory. Compared with the CPU-based version, we achieved a 30 to 60 times speedup using a single GPU. We also implemented our algorithm on a GPU cluster and achieved an approximately favorable speedup. Our GPU-based SDP algorithm can significantly improve the speed of the scoring module in mass spectrometry-based protein identification. The algorithm can be easily implemented in many database search engines such as X!Tandem, SEQUEST, and pFind. A software tool implementing this algorithm is available at http://www.comp.hkbu.edu.hk/~youli/ProteinByGPU.html",
@@ -2484,7 +2653,8 @@
         "2026-09-23": 30,
         "2026-09-24": 30,
         "2026-09-25": 30,
-        "2026-09-26": 30
+        "2026-09-26": 30,
+        "2026-09-27": 30
       },
       "meta": {}
     },
@@ -2502,7 +2672,8 @@
         "2026-09-23": 29,
         "2026-09-24": 29,
         "2026-09-25": 29,
-        "2026-09-26": 29
+        "2026-09-26": 29,
+        "2026-09-27": 29
       },
       "meta": {}
     },
@@ -2520,7 +2691,8 @@
         "2026-09-23": 29,
         "2026-09-24": 29,
         "2026-09-25": 29,
-        "2026-09-26": 29
+        "2026-09-26": 29,
+        "2026-09-27": 29
       },
       "meta": {}
     },
@@ -2538,7 +2710,8 @@
         "2026-09-23": 28,
         "2026-09-24": 28,
         "2026-09-25": 28,
-        "2026-09-26": 28
+        "2026-09-26": 28,
+        "2026-09-27": 28
       },
       "meta": {}
     },
@@ -2556,7 +2729,8 @@
         "2026-09-23": 27,
         "2026-09-24": 27,
         "2026-09-25": 27,
-        "2026-09-26": 27
+        "2026-09-26": 27,
+        "2026-09-27": 27
       },
       "meta": {}
     },
@@ -2574,7 +2748,8 @@
         "2026-09-23": 27,
         "2026-09-24": 27,
         "2026-09-25": 27,
-        "2026-09-26": 27
+        "2026-09-26": 27,
+        "2026-09-27": 27
       },
       "meta": {}
     },
@@ -2592,7 +2767,8 @@
         "2026-09-23": 27,
         "2026-09-24": 27,
         "2026-09-25": 27,
-        "2026-09-26": 27
+        "2026-09-26": 27,
+        "2026-09-27": 27
       },
       "meta": {}
     },
@@ -2610,7 +2786,8 @@
         "2026-09-23": 27,
         "2026-09-24": 27,
         "2026-09-25": 27,
-        "2026-09-26": 27
+        "2026-09-26": 27,
+        "2026-09-27": 27
       },
       "meta": {}
     },
@@ -2628,7 +2805,8 @@
         "2026-09-23": 27,
         "2026-09-24": 27,
         "2026-09-25": 27,
-        "2026-09-26": 27
+        "2026-09-26": 27,
+        "2026-09-27": 27
       },
       "meta": {}
     },
@@ -2646,7 +2824,8 @@
         "2026-09-23": 26,
         "2026-09-24": 26,
         "2026-09-25": 26,
-        "2026-09-26": 26
+        "2026-09-26": 26,
+        "2026-09-27": 26
       },
       "meta": {}
     },
@@ -2664,7 +2843,8 @@
         "2026-09-23": 27,
         "2026-09-24": 27,
         "2026-09-25": 27,
-        "2026-09-26": 27
+        "2026-09-26": 27,
+        "2026-09-27": 27
       },
       "meta": {}
     },
@@ -2682,9 +2862,24 @@
         "2026-09-23": 26,
         "2026-09-24": 26,
         "2026-09-25": 26,
-        "2026-09-26": 26
+        "2026-09-26": 26,
+        "2026-09-27": 26
       },
-      "meta": {}
+      "meta": {
+        "abstract": "",
+        "arxiv": "",
+        "authors": [
+          "Xiaowen Chu",
+          "Kaiyong Zhao",
+          "Zongpeng Li",
+          "Anirban Mahanti"
+        ],
+        "doi": "10.1109/TPDS.2009.40",
+        "pdf": "http://www.cpsc.ucalgary.ca/~zongpeng/publications/tpds-xw.pdf",
+        "s2url": "https://www.semanticscholar.org/paper/aa68e4613ff62099b63858fda4b12b8879fae069",
+        "tldr": "",
+        "venue": "IEEE Transactions on Parallel and Distributed Systems"
+      }
     },
     "The Multi-Round Diagnostic RAG Framework for Emulating Clinical Reasoning": {
       "year": "2025",
@@ -2700,7 +2895,8 @@
         "2026-09-23": 25,
         "2026-09-24": 25,
         "2026-09-25": 25,
-        "2026-09-26": 25
+        "2026-09-26": 25,
+        "2026-09-27": 25
       },
       "meta": {}
     },
@@ -2718,7 +2914,8 @@
         "2026-09-23": 25,
         "2026-09-24": 25,
         "2026-09-25": 25,
-        "2026-09-26": 25
+        "2026-09-26": 25,
+        "2026-09-27": 25
       },
       "meta": {}
     },
@@ -2736,7 +2933,8 @@
         "2026-09-23": 25,
         "2026-09-24": 25,
         "2026-09-25": 25,
-        "2026-09-26": 25
+        "2026-09-26": 25,
+        "2026-09-27": 25
       },
       "meta": {}
     },
@@ -2754,7 +2952,8 @@
         "2026-09-23": 25,
         "2026-09-24": 25,
         "2026-09-25": 25,
-        "2026-09-26": 25
+        "2026-09-26": 25,
+        "2026-09-27": 25
       },
       "meta": {}
     },
@@ -2772,7 +2971,8 @@
         "2026-09-23": 25,
         "2026-09-24": 25,
         "2026-09-25": 25,
-        "2026-09-26": 25
+        "2026-09-26": 25,
+        "2026-09-27": 25
       },
       "meta": {}
     },
@@ -2790,7 +2990,8 @@
         "2026-09-23": 25,
         "2026-09-24": 25,
         "2026-09-25": 25,
-        "2026-09-26": 25
+        "2026-09-26": 25,
+        "2026-09-27": 25
       },
       "meta": {
         "_tried": "2026-09-22"
@@ -2810,7 +3011,8 @@
         "2026-09-23": 24,
         "2026-09-24": 24,
         "2026-09-25": 24,
-        "2026-09-26": 24
+        "2026-09-26": 24,
+        "2026-09-27": 24
       },
       "meta": {}
     },
@@ -2828,7 +3030,8 @@
         "2026-09-23": 24,
         "2026-09-24": 24,
         "2026-09-25": 24,
-        "2026-09-26": 24
+        "2026-09-26": 24,
+        "2026-09-27": 24
       },
       "meta": {}
     },
@@ -2846,7 +3049,8 @@
         "2026-09-23": 24,
         "2026-09-24": 24,
         "2026-09-25": 24,
-        "2026-09-26": 24
+        "2026-09-26": 24,
+        "2026-09-27": 24
       },
       "meta": {}
     },
@@ -2864,7 +3068,8 @@
         "2026-09-23": 24,
         "2026-09-24": 24,
         "2026-09-25": 24,
-        "2026-09-26": 24
+        "2026-09-26": 24,
+        "2026-09-27": 24
       },
       "meta": {}
     },
@@ -2882,7 +3087,8 @@
         "2026-09-23": 23,
         "2026-09-24": 23,
         "2026-09-25": 23,
-        "2026-09-26": 23
+        "2026-09-26": 23,
+        "2026-09-27": 23
       },
       "meta": {
         "_tried": "2026-09-23"
@@ -2902,7 +3108,8 @@
         "2026-09-23": 23,
         "2026-09-24": 23,
         "2026-09-25": 23,
-        "2026-09-26": 23
+        "2026-09-26": 23,
+        "2026-09-27": 23
       },
       "meta": {}
     },
@@ -2920,7 +3127,8 @@
         "2026-09-23": 22,
         "2026-09-24": 22,
         "2026-09-25": 22,
-        "2026-09-26": 22
+        "2026-09-26": 22,
+        "2026-09-27": 22
       },
       "meta": {}
     },
@@ -2938,7 +3146,8 @@
         "2026-09-23": 22,
         "2026-09-24": 22,
         "2026-09-25": 22,
-        "2026-09-26": 22
+        "2026-09-26": 22,
+        "2026-09-27": 22
       },
       "meta": {
         "abstract": "3D multimodal question answering (MQA) plays a crucial role in scene understanding by enabling intelligent agents to comprehend their surroundings in 3D environments. While existing research has primarily focused on indoor household tasks and outdoor roadside autonomous driving tasks, there has been limited exploration of city-level scene understanding tasks. Furthermore, existing research faces challenges in understanding city scenes, due to the absence of spatial semantic information and human-environment interaction information at the city level.To address these challenges, we investigate 3D MQA from both dataset and method perspectives. From the dataset perspective, we introduce a novel 3D MQA dataset named City-3DQA for city-level scene understanding, which is the first dataset to incorporate scene semantic and human-environment interactive tasks within the city. From the method perspective, we propose a Scene graph enhanced City-level Understanding method (Sg-CityU), which utilizes the scene graph to introduce the spatial semantic. A new benchmark is reported and our proposed Sg-CityU achieves accuracy of 63.94 % and 63.76 % in different settings of City-3DQA. Compared to indoor 3D MQA methods and zero-shot using advanced large language models (LLMs), Sg-CityU demonstrates state-of-the-art (SOTA) performance in robustness and generalization.",
@@ -2974,7 +3183,8 @@
         "2026-09-23": 22,
         "2026-09-24": 22,
         "2026-09-25": 22,
-        "2026-09-26": 22
+        "2026-09-26": 22,
+        "2026-09-27": 22
       },
       "meta": {}
     },
@@ -2992,7 +3202,8 @@
         "2026-09-23": 23,
         "2026-09-24": 23,
         "2026-09-25": 23,
-        "2026-09-26": 23
+        "2026-09-26": 23,
+        "2026-09-27": 23
       },
       "meta": {}
     },
@@ -3010,7 +3221,8 @@
         "2026-09-23": 22,
         "2026-09-24": 22,
         "2026-09-25": 22,
-        "2026-09-26": 22
+        "2026-09-26": 22,
+        "2026-09-27": 22
       },
       "meta": {}
     },
@@ -3028,7 +3240,8 @@
         "2026-09-23": 22,
         "2026-09-24": 22,
         "2026-09-25": 22,
-        "2026-09-26": 22
+        "2026-09-26": 22,
+        "2026-09-27": 22
       },
       "meta": {}
     },
@@ -3046,7 +3259,8 @@
         "2026-09-23": 21,
         "2026-09-24": 21,
         "2026-09-25": 21,
-        "2026-09-26": 21
+        "2026-09-26": 21,
+        "2026-09-27": 21
       },
       "meta": {}
     },
@@ -3064,7 +3278,8 @@
         "2026-09-23": 20,
         "2026-09-24": 20,
         "2026-09-25": 20,
-        "2026-09-26": 20
+        "2026-09-26": 20,
+        "2026-09-27": 20
       },
       "meta": {}
     },
@@ -3082,7 +3297,8 @@
         "2026-09-23": 20,
         "2026-09-24": 20,
         "2026-09-25": 20,
-        "2026-09-26": 20
+        "2026-09-26": 20,
+        "2026-09-27": 20
       },
       "meta": {}
     },
@@ -3100,7 +3316,8 @@
         "2026-09-23": 20,
         "2026-09-24": 20,
         "2026-09-25": 20,
-        "2026-09-26": 20
+        "2026-09-26": 20,
+        "2026-09-27": 20
       },
       "meta": {}
     },
@@ -3118,7 +3335,8 @@
         "2026-09-23": 20,
         "2026-09-24": 20,
         "2026-09-25": 20,
-        "2026-09-26": 20
+        "2026-09-26": 20,
+        "2026-09-27": 20
       },
       "meta": {}
     },
@@ -3136,7 +3354,8 @@
         "2026-09-23": 20,
         "2026-09-24": 20,
         "2026-09-25": 20,
-        "2026-09-26": 20
+        "2026-09-26": 20,
+        "2026-09-27": 20
       },
       "meta": {}
     },
@@ -3154,7 +3373,8 @@
         "2026-09-23": 20,
         "2026-09-24": 20,
         "2026-09-25": 20,
-        "2026-09-26": 20
+        "2026-09-26": 20,
+        "2026-09-27": 20
       },
       "meta": {}
     },
@@ -3172,7 +3392,8 @@
         "2026-09-23": 20,
         "2026-09-24": 20,
         "2026-09-25": 20,
-        "2026-09-26": 20
+        "2026-09-26": 20,
+        "2026-09-27": 20
       },
       "meta": {
         "_tried": "2026-09-18"
@@ -3192,7 +3413,8 @@
         "2026-09-23": 20,
         "2026-09-24": 20,
         "2026-09-25": 20,
-        "2026-09-26": 20
+        "2026-09-26": 20,
+        "2026-09-27": 20
       },
       "meta": {}
     },
@@ -3210,7 +3432,8 @@
         "2026-09-23": 19,
         "2026-09-24": 19,
         "2026-09-25": 19,
-        "2026-09-26": 19
+        "2026-09-26": 19,
+        "2026-09-27": 19
       },
       "meta": {}
     },
@@ -3228,7 +3451,8 @@
         "2026-09-23": 19,
         "2026-09-24": 19,
         "2026-09-25": 19,
-        "2026-09-26": 19
+        "2026-09-26": 19,
+        "2026-09-27": 19
       },
       "meta": {}
     },
@@ -3246,7 +3470,8 @@
         "2026-09-23": 19,
         "2026-09-24": 19,
         "2026-09-25": 19,
-        "2026-09-26": 19
+        "2026-09-26": 19,
+        "2026-09-27": 19
       },
       "meta": {}
     },
@@ -3264,7 +3489,8 @@
         "2026-09-23": 18,
         "2026-09-24": 18,
         "2026-09-25": 18,
-        "2026-09-26": 18
+        "2026-09-26": 18,
+        "2026-09-27": 18
       },
       "meta": {
         "abstract": "Knowledge editing (KE) has emerged as a prominent alternative that enables efficient and precise information modification inside language models. However, a critical challenge arises in continuous language model editing — a significant performance decline both in knowledge update and retention when the number of edits increases. By dissecting the perturbation weight of language model in continuous KE, we uncover that disentangled and sparsi-fied knowledge representation can significantly alleviate the performance decline. Building on these insights, we introduce AdaEdit, a novel knowledge editing method. Extensive empirical evaluations on multiple LLMs demonstrate that our proposed methods can enhance the performance of edited LLMs in large-size continuous editing regimes, outperforming existing ones without substantially compromising the general abilities of these models.",
@@ -3294,7 +3520,8 @@
         "2026-09-23": 18,
         "2026-09-24": 18,
         "2026-09-25": 18,
-        "2026-09-26": 18
+        "2026-09-26": 18,
+        "2026-09-27": 18
       },
       "meta": {}
     },
@@ -3312,7 +3539,8 @@
         "2026-09-23": 18,
         "2026-09-24": 18,
         "2026-09-25": 18,
-        "2026-09-26": 18
+        "2026-09-26": 18,
+        "2026-09-27": 18
       },
       "meta": {}
     },
@@ -3330,7 +3558,8 @@
         "2026-09-23": 18,
         "2026-09-24": 18,
         "2026-09-25": 18,
-        "2026-09-26": 18
+        "2026-09-26": 18,
+        "2026-09-27": 18
       },
       "meta": {}
     },
@@ -3348,7 +3577,8 @@
         "2026-09-23": 18,
         "2026-09-24": 18,
         "2026-09-25": 18,
-        "2026-09-26": 18
+        "2026-09-26": 18,
+        "2026-09-27": 18
       },
       "meta": {}
     },
@@ -3366,7 +3596,8 @@
         "2026-09-23": 18,
         "2026-09-24": 18,
         "2026-09-25": 18,
-        "2026-09-26": 18
+        "2026-09-26": 18,
+        "2026-09-27": 18
       },
       "meta": {}
     },
@@ -3384,7 +3615,8 @@
         "2026-09-23": 19,
         "2026-09-24": 19,
         "2026-09-25": 19,
-        "2026-09-26": 19
+        "2026-09-26": 19,
+        "2026-09-27": 19
       },
       "meta": {}
     },
@@ -3402,7 +3634,8 @@
         "2026-09-23": 18,
         "2026-09-24": 18,
         "2026-09-25": 18,
-        "2026-09-26": 18
+        "2026-09-26": 18,
+        "2026-09-27": 18
       },
       "meta": {}
     },
@@ -3420,7 +3653,8 @@
         "2026-09-23": 17,
         "2026-09-24": 17,
         "2026-09-25": 17,
-        "2026-09-26": 17
+        "2026-09-26": 17,
+        "2026-09-27": 17
       },
       "meta": {}
     },
@@ -3438,7 +3672,8 @@
         "2026-09-23": 17,
         "2026-09-24": 17,
         "2026-09-25": 17,
-        "2026-09-26": 17
+        "2026-09-26": 17,
+        "2026-09-27": 17
       },
       "meta": {}
     },
@@ -3456,7 +3691,8 @@
         "2026-09-23": 16,
         "2026-09-24": 16,
         "2026-09-25": 16,
-        "2026-09-26": 16
+        "2026-09-26": 16,
+        "2026-09-27": 16
       },
       "meta": {}
     },
@@ -3474,7 +3710,8 @@
         "2026-09-23": 16,
         "2026-09-24": 16,
         "2026-09-25": 16,
-        "2026-09-26": 16
+        "2026-09-26": 16,
+        "2026-09-27": 16
       },
       "meta": {}
     },
@@ -3492,7 +3729,8 @@
         "2026-09-23": 16,
         "2026-09-24": 16,
         "2026-09-25": 16,
-        "2026-09-26": 16
+        "2026-09-26": 16,
+        "2026-09-27": 16
       },
       "meta": {}
     },
@@ -3510,7 +3748,8 @@
         "2026-09-23": 16,
         "2026-09-24": 16,
         "2026-09-25": 16,
-        "2026-09-26": 16
+        "2026-09-26": 16,
+        "2026-09-27": 16
       },
       "meta": {}
     },
@@ -3528,7 +3767,8 @@
         "2026-09-23": 16,
         "2026-09-24": 16,
         "2026-09-25": 16,
-        "2026-09-26": 16
+        "2026-09-26": 16,
+        "2026-09-27": 16
       },
       "meta": {}
     },
@@ -3546,7 +3786,8 @@
         "2026-09-23": 16,
         "2026-09-24": 16,
         "2026-09-25": 16,
-        "2026-09-26": 16
+        "2026-09-26": 16,
+        "2026-09-27": 16
       },
       "meta": {
         "abstract": "",
@@ -3582,7 +3823,8 @@
         "2026-09-23": 15,
         "2026-09-24": 15,
         "2026-09-25": 15,
-        "2026-09-26": 15
+        "2026-09-26": 15,
+        "2026-09-27": 15
       },
       "meta": {}
     },
@@ -3600,7 +3842,8 @@
         "2026-09-23": 15,
         "2026-09-24": 15,
         "2026-09-25": 15,
-        "2026-09-26": 15
+        "2026-09-26": 15,
+        "2026-09-27": 15
       },
       "meta": {}
     },
@@ -3618,7 +3861,8 @@
         "2026-09-23": 15,
         "2026-09-24": 15,
         "2026-09-25": 15,
-        "2026-09-26": 15
+        "2026-09-26": 15,
+        "2026-09-27": 15
       },
       "meta": {}
     },
@@ -3636,7 +3880,8 @@
         "2026-09-23": 15,
         "2026-09-24": 15,
         "2026-09-25": 15,
-        "2026-09-26": 15
+        "2026-09-26": 15,
+        "2026-09-27": 15
       },
       "meta": {
         "_tried": "2026-09-25",
@@ -3669,7 +3914,8 @@
         "2026-09-23": 15,
         "2026-09-24": 15,
         "2026-09-25": 15,
-        "2026-09-26": 15
+        "2026-09-26": 15,
+        "2026-09-27": 15
       },
       "meta": {}
     },
@@ -3687,7 +3933,8 @@
         "2026-09-23": 14,
         "2026-09-24": 14,
         "2026-09-25": 14,
-        "2026-09-26": 14
+        "2026-09-26": 14,
+        "2026-09-27": 14
       },
       "meta": {}
     },
@@ -3705,7 +3952,8 @@
         "2026-09-23": 15,
         "2026-09-24": 15,
         "2026-09-25": 15,
-        "2026-09-26": 15
+        "2026-09-26": 15,
+        "2026-09-27": 15
       },
       "meta": {}
     },
@@ -3723,7 +3971,8 @@
         "2026-09-23": 14,
         "2026-09-24": 14,
         "2026-09-25": 14,
-        "2026-09-26": 14
+        "2026-09-26": 14,
+        "2026-09-27": 14
       },
       "meta": {}
     },
@@ -3741,7 +3990,8 @@
         "2026-09-23": 14,
         "2026-09-24": 14,
         "2026-09-25": 14,
-        "2026-09-26": 14
+        "2026-09-26": 14,
+        "2026-09-27": 14
       },
       "meta": {}
     },
@@ -3759,7 +4009,8 @@
         "2026-09-23": 14,
         "2026-09-24": 14,
         "2026-09-25": 14,
-        "2026-09-26": 14
+        "2026-09-26": 14,
+        "2026-09-27": 14
       },
       "meta": {}
     },
@@ -3777,7 +4028,8 @@
         "2026-09-23": 14,
         "2026-09-24": 14,
         "2026-09-25": 14,
-        "2026-09-26": 14
+        "2026-09-26": 14,
+        "2026-09-27": 14
       },
       "meta": {}
     },
@@ -3795,7 +4047,8 @@
         "2026-09-23": 13,
         "2026-09-24": 13,
         "2026-09-25": 13,
-        "2026-09-26": 13
+        "2026-09-26": 13,
+        "2026-09-27": 13
       },
       "meta": {}
     },
@@ -3813,7 +4066,8 @@
         "2026-09-23": 13,
         "2026-09-24": 13,
         "2026-09-25": 13,
-        "2026-09-26": 13
+        "2026-09-26": 13,
+        "2026-09-27": 13
       },
       "meta": {}
     },
@@ -3831,7 +4085,8 @@
         "2026-09-23": 13,
         "2026-09-24": 13,
         "2026-09-25": 13,
-        "2026-09-26": 13
+        "2026-09-26": 13,
+        "2026-09-27": 13
       },
       "meta": {}
     },
@@ -3849,7 +4104,8 @@
         "2026-09-23": 13,
         "2026-09-24": 13,
         "2026-09-25": 13,
-        "2026-09-26": 13
+        "2026-09-26": 13,
+        "2026-09-27": 13
       },
       "meta": {
         "_tried": "2026-09-25",
@@ -3896,7 +4152,8 @@
         "2026-09-23": 13,
         "2026-09-24": 13,
         "2026-09-25": 13,
-        "2026-09-26": 13
+        "2026-09-26": 13,
+        "2026-09-27": 13
       },
       "meta": {}
     },
@@ -3914,7 +4171,8 @@
         "2026-09-23": 13,
         "2026-09-24": 13,
         "2026-09-25": 13,
-        "2026-09-26": 13
+        "2026-09-26": 13,
+        "2026-09-27": 13
       },
       "meta": {}
     },
@@ -3932,7 +4190,8 @@
         "2026-09-23": 13,
         "2026-09-24": 13,
         "2026-09-25": 13,
-        "2026-09-26": 13
+        "2026-09-26": 13,
+        "2026-09-27": 13
       },
       "meta": {}
     },
@@ -3950,7 +4209,8 @@
         "2026-09-23": 12,
         "2026-09-24": 12,
         "2026-09-25": 12,
-        "2026-09-26": 12
+        "2026-09-26": 12,
+        "2026-09-27": 12
       },
       "meta": {}
     },
@@ -3968,7 +4228,8 @@
         "2026-09-23": 12,
         "2026-09-24": 12,
         "2026-09-25": 12,
-        "2026-09-26": 12
+        "2026-09-26": 12,
+        "2026-09-27": 12
       },
       "meta": {
         "_tried": "2026-09-18"
@@ -3988,7 +4249,8 @@
         "2026-09-23": 12,
         "2026-09-24": 12,
         "2026-09-25": 12,
-        "2026-09-26": 12
+        "2026-09-26": 12,
+        "2026-09-27": 12
       },
       "meta": {}
     },
@@ -4006,7 +4268,8 @@
         "2026-09-23": 11,
         "2026-09-24": 11,
         "2026-09-25": 11,
-        "2026-09-26": 11
+        "2026-09-26": 11,
+        "2026-09-27": 11
       },
       "meta": {}
     },
@@ -4024,7 +4287,8 @@
         "2026-09-23": 11,
         "2026-09-24": 11,
         "2026-09-25": 11,
-        "2026-09-26": 11
+        "2026-09-26": 11,
+        "2026-09-27": 11
       },
       "meta": {}
     },
@@ -4042,7 +4306,8 @@
         "2026-09-23": 11,
         "2026-09-24": 11,
         "2026-09-25": 11,
-        "2026-09-26": 11
+        "2026-09-26": 11,
+        "2026-09-27": 11
       },
       "meta": {}
     },
@@ -4060,7 +4325,8 @@
         "2026-09-23": 11,
         "2026-09-24": 11,
         "2026-09-25": 11,
-        "2026-09-26": 11
+        "2026-09-26": 11,
+        "2026-09-27": 11
       },
       "meta": {
         "abstract": "",
@@ -4093,7 +4359,8 @@
         "2026-09-23": 11,
         "2026-09-24": 11,
         "2026-09-25": 11,
-        "2026-09-26": 11
+        "2026-09-26": 11,
+        "2026-09-27": 11
       },
       "meta": {}
     },
@@ -4111,7 +4378,8 @@
         "2026-09-23": 11,
         "2026-09-24": 11,
         "2026-09-25": 11,
-        "2026-09-26": 11
+        "2026-09-26": 11,
+        "2026-09-27": 11
       },
       "meta": {}
     },
@@ -4129,7 +4397,8 @@
         "2026-09-23": 11,
         "2026-09-24": 11,
         "2026-09-25": 11,
-        "2026-09-26": 11
+        "2026-09-26": 11,
+        "2026-09-27": 11
       },
       "meta": {}
     },
@@ -4147,7 +4416,8 @@
         "2026-09-23": 10,
         "2026-09-24": 10,
         "2026-09-25": 10,
-        "2026-09-26": 10
+        "2026-09-26": 10,
+        "2026-09-27": 10
       },
       "meta": {}
     },
@@ -4165,9 +4435,23 @@
         "2026-09-23": 10,
         "2026-09-24": 10,
         "2026-09-25": 10,
-        "2026-09-26": 10
+        "2026-09-26": 10,
+        "2026-09-27": 11
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Physics-informed convolutional neural networks (PICNNs) have emerged as a powerful extension of physics-informed neural networks (PINNs), offering superior generalization and efficiency for solving systems of partial differential equations (PDEs) modeling complex physical systems. However, current PICNNs, which rely on manual designs of both network architectures and loss functions tailored to specific PDEs, may fail to solve other types of PDEs that require different architectural designs and loss function formulations. To address these limitations, we propose leveraging automated machine learning (AutoML) to efficiently search for optimal network architectures and loss functions tailored to specific physical problems. By designing specialized search spaces and proposing a two-stage search strategy, our automated method substantially outperforms manually designed state-of-the-art models. It achieves up to a 59.8-fold reduction in prediction error and an average 13.31-fold error reduction across six diverse PDE systems spanning heat transfer, free fluid flow, and porous media flow, significantly enhancing the modeling capabilities for physical systems governed by steady or unsteady PDEs. An advantage of our automated method is that it can help researchers, without expertise in designing neural networks, develop the best models for their scientific problems. Physics-informed convolutional neural networks are effective extensions of physics-informed neural networks for solving systems of partial differential equations modeling complex physical systems. Using automated machine learning, this study offers a framework to achieve optimal network architectures and loss functions that outperform manually designed state-of-the-art models, with a 59.8-fold reduction in prediction error across six systems including heat transfer, incompressible fluid flow, and porous media flow.",
+        "arxiv": "2407.06151",
+        "authors": [
+          "Wanyun Zhou",
+          "Haoze Song",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.1038/s42005-025-02414-5",
+        "pdf": "https://doi.org/10.1038/s42005-025-02414-5",
+        "s2url": "https://www.semanticscholar.org/paper/0e63e11b71c4c3dd53d3430f17c63f425bf7fb48",
+        "tldr": "This study offers a framework to achieve optimal network architectures and loss functions that outperform manually designed state-of-the-art models, with a 59.8-fold reduction in prediction error across six systems including heat transfer, incompressible fluid flow, and porous media flow.",
+        "venue": "Communications Physics"
+      }
     },
     "Maximizing lifetime of sensor-target surveillance in wireless sensor networks": {
       "year": "2009",
@@ -4183,7 +4467,8 @@
         "2026-09-23": 10,
         "2026-09-24": 10,
         "2026-09-25": 10,
-        "2026-09-26": 10
+        "2026-09-26": 10,
+        "2026-09-27": 10
       },
       "meta": {}
     },
@@ -4201,7 +4486,8 @@
         "2026-09-23": 10,
         "2026-09-24": 10,
         "2026-09-25": 10,
-        "2026-09-26": 10
+        "2026-09-26": 10,
+        "2026-09-27": 10
       },
       "meta": {}
     },
@@ -4219,7 +4505,8 @@
         "2026-09-23": 10,
         "2026-09-24": 10,
         "2026-09-25": 10,
-        "2026-09-26": 10
+        "2026-09-26": 10,
+        "2026-09-27": 10
       },
       "meta": {}
     },
@@ -4237,7 +4524,8 @@
         "2026-09-23": 9,
         "2026-09-24": 9,
         "2026-09-25": 9,
-        "2026-09-26": 9
+        "2026-09-26": 9,
+        "2026-09-27": 9
       },
       "meta": {}
     },
@@ -4255,7 +4543,8 @@
         "2026-09-23": 9,
         "2026-09-24": 9,
         "2026-09-25": 9,
-        "2026-09-26": 9
+        "2026-09-26": 9,
+        "2026-09-27": 9
       },
       "meta": {}
     },
@@ -4273,7 +4562,8 @@
         "2026-09-23": 9,
         "2026-09-24": 9,
         "2026-09-25": 9,
-        "2026-09-26": 9
+        "2026-09-26": 9,
+        "2026-09-27": 9
       },
       "meta": {}
     },
@@ -4291,7 +4581,8 @@
         "2026-09-23": 9,
         "2026-09-24": 9,
         "2026-09-25": 9,
-        "2026-09-26": 9
+        "2026-09-26": 9,
+        "2026-09-27": 9
       },
       "meta": {}
     },
@@ -4309,7 +4600,8 @@
         "2026-09-23": 9,
         "2026-09-24": 9,
         "2026-09-25": 9,
-        "2026-09-26": 9
+        "2026-09-26": 9,
+        "2026-09-27": 9
       },
       "meta": {}
     },
@@ -4327,7 +4619,8 @@
         "2026-09-23": 9,
         "2026-09-24": 9,
         "2026-09-25": 9,
-        "2026-09-26": 9
+        "2026-09-26": 9,
+        "2026-09-27": 9
       },
       "meta": {
         "abstract": "Many indoor localization systems rely on a set of reference anchors with known positions. A target's location is estimated from a set of distances between the target and its surrounding anchors, and hence the selection of anchors affects the localization accuracy. However, it remains a challenge to select the best set of anchors. In this paper, we study how to appropriately make use of the surrounding anchors for localizing a target. We first construct different candidate anchor clusters by selecting different number of anchors with the strongest received signals. Then for each candidate cluster, we propose a weighted min-max algorithm to provide a location estimation. Finally, we introduce a weighted geometric dilution of precision (w-GDOP) algorithm that combines the estimations from multiple clusters by quantifying their estimation accuracy. We evaluate the performance of our solution through simulations and real-world experiments. Our results show that the proposed anchor selection scheme and localization algorithm significantly improve the localization accuracy in large indoor environments.",
@@ -4359,7 +4652,8 @@
         "2026-09-23": 9,
         "2026-09-24": 9,
         "2026-09-25": 9,
-        "2026-09-26": 9
+        "2026-09-26": 9,
+        "2026-09-27": 9
       },
       "meta": {
         "abstract": "",
@@ -4392,7 +4686,8 @@
         "2026-09-23": 8,
         "2026-09-24": 8,
         "2026-09-25": 8,
-        "2026-09-26": 8
+        "2026-09-26": 8,
+        "2026-09-27": 8
       },
       "meta": {}
     },
@@ -4410,7 +4705,8 @@
         "2026-09-23": 8,
         "2026-09-24": 8,
         "2026-09-25": 8,
-        "2026-09-26": 8
+        "2026-09-26": 8,
+        "2026-09-27": 8
       },
       "meta": {}
     },
@@ -4428,7 +4724,8 @@
         "2026-09-23": 8,
         "2026-09-24": 8,
         "2026-09-25": 8,
-        "2026-09-26": 8
+        "2026-09-26": 8,
+        "2026-09-27": 8
       },
       "meta": {}
     },
@@ -4446,7 +4743,8 @@
         "2026-09-23": 8,
         "2026-09-24": 8,
         "2026-09-25": 8,
-        "2026-09-26": 8
+        "2026-09-26": 8,
+        "2026-09-27": 8
       },
       "meta": {}
     },
@@ -4464,7 +4762,8 @@
         "2026-09-23": 8,
         "2026-09-24": 8,
         "2026-09-25": 8,
-        "2026-09-26": 8
+        "2026-09-26": 8,
+        "2026-09-27": 8
       },
       "meta": {}
     },
@@ -4482,7 +4781,8 @@
         "2026-09-23": 9,
         "2026-09-24": 9,
         "2026-09-25": 9,
-        "2026-09-26": 9
+        "2026-09-26": 9,
+        "2026-09-27": 9
       },
       "meta": {}
     },
@@ -4500,7 +4800,8 @@
         "2026-09-23": 8,
         "2026-09-24": 8,
         "2026-09-25": 8,
-        "2026-09-26": 8
+        "2026-09-26": 8,
+        "2026-09-27": 8
       },
       "meta": {}
     },
@@ -4518,7 +4819,8 @@
         "2026-09-23": 7,
         "2026-09-24": 7,
         "2026-09-25": 7,
-        "2026-09-26": 7
+        "2026-09-26": 7,
+        "2026-09-27": 7
       },
       "meta": {
         "abstract": "Artificial Intelligence Generated Content (AIGC) has gained significant popularity for creating diverse content. Current AIGC models primarily focus on content quality within a centralized framework, resulting in a high service delay and negative user experiences. However, not only does the workload of an AIGC task depend on the AIGC model's complexity rather than the amount of data, but the large model and its multi-layer encoder structure also result in a huge demand for computational and memory resources. These unique characteristics pose new challenges in its modeling, deployment, and scheduling at edge networks. Thus, we model an offloading problem among edges for providing real AIGC services and propose LAD-TS, a novel Latent Action Diffusion-based Task Scheduling method that orchestrates multiple edge servers for expedited AIGC services. The LAD-TS generates a near-optimal offloading decision by leveraging the diffusion model's conditional generation capability and the reinforcement learning's environment interaction ability, thereby minimizing the service delays under multiple resource constraints. Meanwhile, a latent action diffusion strategy is designed to guide decision generation by utilizing historical action probability, enabling rapid achievement of near-optimal decisions. Furthermore, we develop DEdgeAI, a prototype edge system with a refined AIGC model deployment to implement and evaluate our LAD-TS method. DEdgeAI provides a real AIGC service for users, demonstrating up to 29.18% shorter service delays than the current five representative AIGC platforms. We release our open-source code at https://github.com/ChangfuXu/DEdgeAI/.",
@@ -4554,7 +4856,8 @@
         "2026-09-23": 7,
         "2026-09-24": 7,
         "2026-09-25": 7,
-        "2026-09-26": 7
+        "2026-09-26": 7,
+        "2026-09-27": 7
       },
       "meta": {}
     },
@@ -4572,7 +4875,8 @@
         "2026-09-23": 7,
         "2026-09-24": 7,
         "2026-09-25": 7,
-        "2026-09-26": 7
+        "2026-09-26": 7,
+        "2026-09-27": 7
       },
       "meta": {}
     },
@@ -4590,7 +4894,8 @@
         "2026-09-23": 7,
         "2026-09-24": 7,
         "2026-09-25": 7,
-        "2026-09-26": 7
+        "2026-09-26": 7,
+        "2026-09-27": 7
       },
       "meta": {}
     },
@@ -4608,7 +4913,8 @@
         "2026-09-23": 7,
         "2026-09-24": 7,
         "2026-09-25": 7,
-        "2026-09-26": 7
+        "2026-09-26": 7,
+        "2026-09-27": 7
       },
       "meta": {}
     },
@@ -4626,7 +4932,8 @@
         "2026-09-23": 7,
         "2026-09-24": 7,
         "2026-09-25": 7,
-        "2026-09-26": 7
+        "2026-09-26": 7,
+        "2026-09-27": 7
       },
       "meta": {}
     },
@@ -4644,9 +4951,11 @@
         "2026-09-23": 7,
         "2026-09-24": 7,
         "2026-09-25": 7,
-        "2026-09-26": 7
+        "2026-09-26": 7,
+        "2026-09-27": 7
       },
       "meta": {
+        "_tried": "2026-09-26",
         "abstract": "",
         "arxiv": "",
         "authors": [
@@ -4677,7 +4986,8 @@
         "2026-09-23": 7,
         "2026-09-24": 7,
         "2026-09-25": 7,
-        "2026-09-26": 7
+        "2026-09-26": 7,
+        "2026-09-27": 7
       },
       "meta": {
         "abstract": "",
@@ -4706,7 +5016,8 @@
         "2026-09-23": 7,
         "2026-09-24": 7,
         "2026-09-25": 7,
-        "2026-09-26": 7
+        "2026-09-26": 7,
+        "2026-09-27": 7
       },
       "meta": {}
     },
@@ -4724,7 +5035,8 @@
         "2026-09-23": 7,
         "2026-09-24": 7,
         "2026-09-25": 7,
-        "2026-09-26": 7
+        "2026-09-26": 7,
+        "2026-09-27": 7
       },
       "meta": {
         "abstract": "",
@@ -4757,7 +5069,8 @@
         "2026-09-23": 7,
         "2026-09-24": 7,
         "2026-09-25": 7,
-        "2026-09-26": 7
+        "2026-09-26": 7,
+        "2026-09-27": 7
       },
       "meta": {}
     },
@@ -4775,7 +5088,8 @@
         "2026-09-23": 6,
         "2026-09-24": 6,
         "2026-09-25": 6,
-        "2026-09-26": 6
+        "2026-09-26": 6,
+        "2026-09-27": 6
       },
       "meta": {}
     },
@@ -4793,7 +5107,8 @@
         "2026-09-23": 6,
         "2026-09-24": 6,
         "2026-09-25": 6,
-        "2026-09-26": 6
+        "2026-09-26": 6,
+        "2026-09-27": 6
       },
       "meta": {}
     },
@@ -4811,7 +5126,8 @@
         "2026-09-23": 6,
         "2026-09-24": 6,
         "2026-09-25": 6,
-        "2026-09-26": 6
+        "2026-09-26": 6,
+        "2026-09-27": 6
       },
       "meta": {}
     },
@@ -4829,7 +5145,8 @@
         "2026-09-23": 6,
         "2026-09-24": 6,
         "2026-09-25": 6,
-        "2026-09-26": 6
+        "2026-09-26": 6,
+        "2026-09-27": 6
       },
       "meta": {
         "_tried": "2026-09-25"
@@ -4849,7 +5166,8 @@
         "2026-09-23": 6,
         "2026-09-24": 6,
         "2026-09-25": 6,
-        "2026-09-26": 6
+        "2026-09-26": 6,
+        "2026-09-27": 6
       },
       "meta": {}
     },
@@ -4867,7 +5185,8 @@
         "2026-09-23": 6,
         "2026-09-24": 6,
         "2026-09-25": 6,
-        "2026-09-26": 6
+        "2026-09-26": 6,
+        "2026-09-27": 6
       },
       "meta": {}
     },
@@ -4885,7 +5204,8 @@
         "2026-09-23": 6,
         "2026-09-24": 6,
         "2026-09-25": 6,
-        "2026-09-26": 6
+        "2026-09-26": 6,
+        "2026-09-27": 6
       },
       "meta": {
         "abstract": "Abstract Conventionally, it is a prerequisite to acquire a good number of annotated data to train an accurate classifier. However, the acquisition of such dataset is usually infeasible due to the high annotation cost. Therefore, semi-supervised learning has emerged and attracts increasing research efforts in recent years. Essentially, semi-supervised learning is sensitive to the manner how the unlabeled data is sampled. However, the model performance might be seriously deteriorated if biased unlabeled data is sampled at the early stage. In this paper, an unbiased semi-supervised cluster tree is proposed which is learnt using only very few labeled data. Specifically, a K-means algorithm is adopted to build each level of this hierarchical tree in a decent top-down manner. The number of clusters is determined by the number of classes contained in the labeled data. The confidence error of the cluster tree is theoretically analyzed which is then used to prune the tree. Empirical studies on several datasets have demonstrated that the proposed semi-supervised cluster tree is superior to the state-of-the-art semi-supervised learning algorithms with respect to classification accuracy.",
@@ -4918,7 +5238,8 @@
         "2026-09-23": 6,
         "2026-09-24": 6,
         "2026-09-25": 6,
-        "2026-09-26": 6
+        "2026-09-26": 6,
+        "2026-09-27": 6
       },
       "meta": {}
     },
@@ -4936,7 +5257,8 @@
         "2026-09-23": 6,
         "2026-09-24": 6,
         "2026-09-25": 6,
-        "2026-09-26": 6
+        "2026-09-26": 6,
+        "2026-09-27": 6
       },
       "meta": {}
     },
@@ -4954,7 +5276,8 @@
         "2026-09-23": 6,
         "2026-09-24": 6,
         "2026-09-25": 6,
-        "2026-09-26": 6
+        "2026-09-26": 6,
+        "2026-09-27": 6
       },
       "meta": {}
     },
@@ -4972,7 +5295,8 @@
         "2026-09-23": 6,
         "2026-09-24": 6,
         "2026-09-25": 6,
-        "2026-09-26": 6
+        "2026-09-26": 6,
+        "2026-09-27": 6
       },
       "meta": {}
     },
@@ -4990,7 +5314,8 @@
         "2026-09-23": 5,
         "2026-09-24": 5,
         "2026-09-25": 5,
-        "2026-09-26": 5
+        "2026-09-26": 5,
+        "2026-09-27": 5
       },
       "meta": {}
     },
@@ -5008,7 +5333,8 @@
         "2026-09-23": 7,
         "2026-09-24": 7,
         "2026-09-25": 7,
-        "2026-09-26": 7
+        "2026-09-26": 7,
+        "2026-09-27": 7
       },
       "meta": {}
     },
@@ -5026,7 +5352,8 @@
         "2026-09-23": 5,
         "2026-09-24": 5,
         "2026-09-25": 5,
-        "2026-09-26": 5
+        "2026-09-26": 5,
+        "2026-09-27": 5
       },
       "meta": {}
     },
@@ -5044,7 +5371,8 @@
         "2026-09-23": 5,
         "2026-09-24": 5,
         "2026-09-25": 5,
-        "2026-09-26": 5
+        "2026-09-26": 5,
+        "2026-09-27": 5
       },
       "meta": {}
     },
@@ -5062,7 +5390,8 @@
         "2026-09-23": 5,
         "2026-09-24": 5,
         "2026-09-25": 5,
-        "2026-09-26": 5
+        "2026-09-26": 5,
+        "2026-09-27": 5
       },
       "meta": {}
     },
@@ -5080,7 +5409,8 @@
         "2026-09-23": 5,
         "2026-09-24": 5,
         "2026-09-25": 5,
-        "2026-09-26": 5
+        "2026-09-26": 5,
+        "2026-09-27": 5
       },
       "meta": {}
     },
@@ -5098,7 +5428,8 @@
         "2026-09-23": 5,
         "2026-09-24": 5,
         "2026-09-25": 5,
-        "2026-09-26": 5
+        "2026-09-26": 5,
+        "2026-09-27": 5
       },
       "meta": {}
     },
@@ -5116,7 +5447,8 @@
         "2026-09-23": 5,
         "2026-09-24": 5,
         "2026-09-25": 5,
-        "2026-09-26": 5
+        "2026-09-26": 5,
+        "2026-09-27": 5
       },
       "meta": {}
     },
@@ -5134,7 +5466,8 @@
         "2026-09-23": 5,
         "2026-09-24": 5,
         "2026-09-25": 5,
-        "2026-09-26": 5
+        "2026-09-26": 5,
+        "2026-09-27": 5
       },
       "meta": {
         "abstract": "",
@@ -5166,7 +5499,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5184,7 +5518,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -5202,7 +5537,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5220,7 +5556,8 @@
         "2026-09-23": 5,
         "2026-09-24": 5,
         "2026-09-25": 5,
-        "2026-09-26": 5
+        "2026-09-26": 5,
+        "2026-09-27": 5
       },
       "meta": {}
     },
@@ -5238,7 +5575,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5256,7 +5594,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5274,7 +5613,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5303,7 +5643,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5321,7 +5662,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5339,7 +5681,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5357,7 +5700,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {
         "abstract": "In cognitive radio networks, rendezvous is a fundamental operation by which cognitive users establish communication links. Most of existing works were devoted to shortening the time-to-rendezvous (TTR) but paid little attention to qualities of the channels on which rendezvous is achieved. In fact, qualities of channels, such as resistance to primary users' activities, have a great effect on the rendezvous operation. If users achieve a rendezvous on a low-quality channel, the communication link is unstable and the communication performance is poor. In this case, re- rendezvous is required which results in considerable communication overhead and a large latency. In this paper, we first show that actual TTRs of existing rendezvous solutions increase by 65.40-104.38% if qualities of channels are not perfect. Then we propose a Quality-Aware Rendezvous Framework (QARF) that can be applied to any existing ren-dezvous algorithms to achieve rendezvous on high-quality channels. The basic idea of QARF is to expand the set of available channels by selectively duplicating high-quality channels. We prove that QARF can reduce the expected TTR of any rendezvous algorithm when the expanded ratio $\\lambda$ is smaller than the threshold $(-3+\\sqrt{1+4(\\frac{\\sigma}{\\mu})^{2}}) / 2$, where $\\mu$ and $\\sigma$, respectively, are the mean and the standard deviation of qualities of channels. We further prove that QARF can always reduce the expected TTR of Random algorithm by a factor of $1+(\\frac{\\sigma}{\\mu})^{2}$. Extensive experiments are conducted and the results show that QARF can significantly reduce the TTRs of the existing rendezvous algorithms by 10.50-51.05 % when qualities of channels are taken into account.",
@@ -5391,7 +5735,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5409,7 +5754,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5427,7 +5773,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5445,7 +5792,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {
         "_tried": "2026-09-19",
@@ -5477,7 +5825,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5495,7 +5844,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {
         "_tried": "2026-09-22"
@@ -5515,7 +5865,8 @@
         "2026-09-23": 3,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5533,7 +5884,8 @@
         "2026-09-23": 3,
         "2026-09-24": 3,
         "2026-09-25": 3,
-        "2026-09-26": 3
+        "2026-09-26": 3,
+        "2026-09-27": 3
       },
       "meta": {}
     },
@@ -5551,7 +5903,8 @@
         "2026-09-23": 4,
         "2026-09-24": 4,
         "2026-09-25": 4,
-        "2026-09-26": 4
+        "2026-09-26": 4,
+        "2026-09-27": 4
       },
       "meta": {}
     },
@@ -5569,7 +5922,8 @@
         "2026-09-23": 3,
         "2026-09-24": 3,
         "2026-09-25": 3,
-        "2026-09-26": 3
+        "2026-09-26": 3,
+        "2026-09-27": 3
       },
       "meta": {}
     },
@@ -5587,7 +5941,8 @@
         "2026-09-23": 3,
         "2026-09-24": 3,
         "2026-09-25": 3,
-        "2026-09-26": 3
+        "2026-09-26": 3,
+        "2026-09-27": 3
       },
       "meta": {}
     },
@@ -5605,7 +5960,8 @@
         "2026-09-23": 3,
         "2026-09-24": 3,
         "2026-09-25": 3,
-        "2026-09-26": 3
+        "2026-09-26": 3,
+        "2026-09-27": 3
       },
       "meta": {}
     },
@@ -5623,7 +5979,8 @@
         "2026-09-23": 3,
         "2026-09-24": 3,
         "2026-09-25": 3,
-        "2026-09-26": 3
+        "2026-09-26": 3,
+        "2026-09-27": 3
       },
       "meta": {
         "abstract": "We present GASS, an LLVM-based open-source compiler for NVIDIA GPU's SASS machine assembly. GASS is the first open-source compiler targeting SASS, and it provides a unified toolchain for currently fragmented low-level performance research on NVIDIA GPUs. GASS supports all recent architectures, including Volta, Turing, and Ampere. Our evaluation shows that our specialized optimizations deliver significant speedup over LLVM's algorithms.",
@@ -5654,7 +6011,8 @@
         "2026-09-23": 3,
         "2026-09-24": 3,
         "2026-09-25": 3,
-        "2026-09-26": 3
+        "2026-09-26": 3,
+        "2026-09-27": 3
       },
       "meta": {}
     },
@@ -5672,7 +6030,8 @@
         "2026-09-23": 3,
         "2026-09-24": 3,
         "2026-09-25": 3,
-        "2026-09-26": 3
+        "2026-09-26": 3,
+        "2026-09-27": 3
       },
       "meta": {}
     },
@@ -5690,7 +6049,8 @@
         "2026-09-23": 3,
         "2026-09-24": 3,
         "2026-09-25": 3,
-        "2026-09-26": 3
+        "2026-09-26": 3,
+        "2026-09-27": 3
       },
       "meta": {}
     },
@@ -5708,7 +6068,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5726,7 +6087,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5744,7 +6106,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5762,7 +6125,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5780,7 +6144,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5798,7 +6163,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {
         "abstract": "As Large Language Models (LLMs) become more powerful and autonomous, they increasingly face conflicts and dilemmas in many scenarios. We first summarize and taxonomize these diverse conflicts. Then, we model the LLM's preferences to make different choices as a priority graph, where instructions and values are nodes, and the edges represent context-specific priorities determined by the model's output distribution. This graph reveals that a unified stable LLM alignment is very challenging, because the graph is neither static nor necessarily consistent in different contexts. Besides, it also reveals a potential vulnerability: priority hacking, where adversaries can craft deceptive contexts to manipulate the graph and bypass safety alignments. To counter this, we propose a runtime verification mechanism, enabling LLMs to query external sources to ground their context and resist manipulation. While this approach enhances robustness, we also acknowledge that many ethical and value dilemmas are philosophically irreducible, posing a long-term, open challenge for the future of AI alignment.",
@@ -5832,7 +6198,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5850,7 +6217,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5868,7 +6236,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5886,7 +6255,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5904,7 +6274,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5922,7 +6293,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5940,7 +6312,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5958,7 +6331,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -5976,7 +6350,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {
         "_tried": "2026-09-20"
@@ -5996,7 +6371,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -6014,7 +6390,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {
         "abstract": "",
@@ -6045,7 +6422,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -6063,7 +6441,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {
         "_tried": "2026-09-25",
@@ -6094,7 +6473,8 @@
         "2026-09-23": 2,
         "2026-09-24": 2,
         "2026-09-25": 2,
-        "2026-09-26": 2
+        "2026-09-26": 2,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -6112,7 +6492,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6130,7 +6511,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6148,7 +6530,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6166,7 +6549,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6184,7 +6568,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6202,7 +6587,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6220,7 +6606,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6238,7 +6625,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6256,7 +6644,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6274,7 +6663,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6292,7 +6682,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6310,7 +6701,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6328,7 +6720,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6346,7 +6739,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6364,7 +6758,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6382,7 +6777,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6400,7 +6796,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6418,7 +6815,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6436,7 +6834,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6454,7 +6853,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6472,7 +6872,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6490,7 +6891,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6508,7 +6910,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6526,7 +6929,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6544,7 +6948,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6562,7 +6967,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {
         "_tried": "2026-09-18"
@@ -6582,7 +6988,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {
         "_tried": "2026-09-18"
@@ -6602,7 +7009,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {
         "abstract": "Long-running molecular simulation campaigns require repeated continuation from saved states, provenance-aware progression, adaptive assessment, and occasional interpretation of workflow conditions that cannot be resolved safely by fixed rules. Here, we present Agent-MD, a framework that places large language model (LLM) reasoning selectively at campaign construction and event-triggered review, while routine simulation, analysis, continuation, archiving, and state progression are handled by a persistent rule-based campaign agent using approved policies and explicit state records. Agent-MD was demonstrated in a grand canonical Monte Carlo-molecular dynamics (GCMC-MD) water-vapor desorption campaign comprising five montmorillonite systems and three sequential relative-humidity states (RH = 0.9-0.3-0.1). Across 15 system-RH states, the workflow completed 120 segmented simulation cycles with state-specific sampling lengths and provenance-aware restart inheritance. Routine production required no live reasoning-agent invocation, while one state reached a review boundary; two preserved incidents were subsequently evaluated through blinded reasoning-agent replay, which identified the underlying workflow problems and recommended appropriate follow-up actions. The simulations also revealed distinct composition-dependent low-RH responses, with Ca-bearing montmorillonite retaining more interlayer water and maintaining a larger basal spacing than the Na- and K-bearing systems, while the highest-charge Na system retained more residual water under dry conditions. These results demonstrate that long-running scientific workflows need not place every operation inside an LLM reasoning loop: selective reasoning can instead be combined with deterministic execution, structured evidence, and validated control handoffs to provide reproducible and auditable agent-assisted molecular simulation.",
@@ -6634,7 +7042,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6652,7 +7061,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6670,7 +7080,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6688,7 +7099,8 @@
         "2026-09-23": 1,
         "2026-09-24": 1,
         "2026-09-25": 1,
-        "2026-09-26": 1
+        "2026-09-26": 1,
+        "2026-09-27": 1
       },
       "meta": {}
     },
@@ -6706,7 +7118,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6724,7 +7137,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 2
       },
       "meta": {}
     },
@@ -6742,7 +7156,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6760,7 +7175,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6778,7 +7194,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {
         "abstract": "Reinforcement learning (RL) has become a dominant post-training paradigm, driving the emergence of high-performance RL systems such as veRL for autoregressive large language models (LLMs). In parallel, diffusion-oriented RL algorithms, e.g., DanceGRPO and FlowGRPO, have rapidly expanded the scope of RL from language reasoning to diffusion-based visual and flow-based generation. However, efficient RL systems for diffusion generative LLMs remain underexplored. Existing implementations, e.g., veRL-Omni, still rely on colocated execution, which simplifies synchronization but couples rollout and training resources, limits heterogeneous deployment, and constrains independent scaling. To this end, we introduce DigenRL, a disaggregated RL framework for diffusion-based generative LLMs that supports flexible resource allocation, accommodates heterogeneous GPUs, and facilitates efficient task scheduling. To maximally reduce the execution bubbles in the disaggregated architecture, we propose: 1) a generation-axis pipeline (GAP) and time-step parallelism (TSP) in the diffusion architecture to enable finer-grained pipelining between rollout and training; 2) an elastic trainer-assisted generation (TAG) approach to enable the trainer GPU resources to dynamically assist in executing rollout generations; and 3) a tightly one-step constrained asynchronous strategy to further utilize the tail bubble in the pipeline. Extensive experiments are conducted on three hardware testbeds with 16-32 GPUs using HunyuanVideo-13B, Wan2.1-14B, FLUX.1-12B, and QwenImage-20B generative models. Experimental results show that DigenRL achieves 1.56-2.10x throughput improvements over state-of-the-art diffusion RL systems, veRL-Omni and GenRL.",
@@ -6815,7 +7232,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {
         "_tried": "2026-09-25"
@@ -6835,7 +7253,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {
         "abstract": "Multi-modal large language models (MLLMs) have become a focal point of recent AI research, with numerous works investigating their architectures, training strategies, and real-world applications. Unlike uni-modal LLMs, MLLMs introduce heterogeneous modules with various workloads, including different input modalities, model sizes (parameters can be trainable or frozen), and architectures. This results in significantly reduced scaling efficiency when MLLMs are trained on GPU clusters. Current training systems either place all MLLM modules on the same GPUs to minimize communication overheads or separate different modules onto different GPUs for more flexible task scheduling. However, both approaches underestimate the impacts of model placement and parallelization, leading to sub-optimal training performance on GPU clusters. In this paper, we propose MoPPTrain to adaptively determine a model placement and parallelization strategy to minimize the MLLM training time. To achieve this, we first design a novel pipeline schedule for the colocated placement to enable communication tasks to be well overlapped with computation tasks. Then we theoretically analyze possible model placement and parallelization strategies for any given MLLM on a GPU cluster to formulate an optimization problem. Finally, we develop a cost model for the end-to-end iteration time, which allows us to derive the near-optimal solution to the optimization problem. We implement MoPPTrain atop Megatron-LM and conduct extensive experiments on a 40-GPU cluster. Experimental results show that our MoPPTrain outperforms state-of-the-art baselines (Megatron-LM, DistTrain, and Optimus) by 1.06× ∼ 4.2× in end-to-end training time.",
@@ -6867,7 +7286,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6885,7 +7305,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6903,7 +7324,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6921,7 +7343,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6939,7 +7362,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6957,7 +7381,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6975,7 +7400,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -6993,7 +7419,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7011,7 +7438,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7029,7 +7457,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7047,7 +7476,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7065,7 +7495,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7083,7 +7514,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7101,7 +7533,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7119,7 +7552,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7137,7 +7571,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {
         "_tried": "2026-09-17"
@@ -7157,7 +7592,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7175,7 +7611,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {
         "_tried": "2026-09-25",
@@ -7208,7 +7645,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7226,7 +7664,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {
         "_tried": "2026-09-22"
@@ -7246,7 +7685,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7264,7 +7704,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7282,7 +7723,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7300,7 +7742,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7318,7 +7761,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7336,7 +7780,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7354,7 +7799,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7372,7 +7818,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7390,7 +7837,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7408,7 +7856,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7426,7 +7875,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7444,7 +7894,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7462,7 +7913,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7480,7 +7932,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7498,7 +7951,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7516,7 +7970,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {
         "_tried": "2026-09-23"
@@ -7536,7 +7991,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7554,7 +8010,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7572,7 +8029,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7590,7 +8048,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {
         "_tried": "2026-09-21"
@@ -7610,7 +8069,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7628,7 +8088,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7646,7 +8107,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7664,7 +8126,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7682,7 +8145,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7700,7 +8164,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7718,7 +8183,8 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
       },
       "meta": {}
     },
@@ -7734,7 +8200,17 @@
         "2026-09-23": 0,
         "2026-09-24": 0,
         "2026-09-25": 0,
-        "2026-09-26": 0
+        "2026-09-26": 0,
+        "2026-09-27": 0
+      },
+      "meta": {}
+    },
+    "Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation Enforcement": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:KTwcwpFFj4wC",
+      "first_seen": "2026-09-27",
+      "history": {
+        "2026-09-27": 0
       },
       "meta": {}
     }
