@@ -83,10 +83,15 @@
         "citations": 19768,
         "hindex": 74,
         "i10": 219
+      },
+      "2026-10-08": {
+        "citations": 19794,
+        "hindex": 74,
+        "i10": 220
       }
     }
   },
-  "updated": "2026-10-06",
+  "updated": "2026-10-08",
   "source": "dom",
   "papers": {
     "AutoML: A Survey of the State-of-the-Art": {
@@ -109,7 +114,8 @@
         "2026-09-29": 2888,
         "2026-09-30": 2888,
         "2026-10-01": 2888,
-        "2026-10-06": 2899
+        "2026-10-06": 2899,
+        "2026-10-08": 2906
       },
       "meta": {
         "abstract": "Deep learning (DL) techniques have penetrated all aspects of our lives and brought us great convenience. However, building a high-quality DL system for a specific task highly relies on human expertise, hindering the applications of DL to more areas. Automated machine learning (AutoML) becomes a promising solution to build a DL system without human assistance, and a growing number of researchers focus on AutoML. In this paper, we provide a comprehensive and up-to-date review of the state-of-the-art (SOTA) in AutoML. First, we introduce AutoML methods according to the pipeline, covering data preparation, feature engineering, hyperparameter optimization, and neural architecture search (NAS). We focus more on NAS, as it is currently very hot sub-topic of AutoML. We summarize the performance of the representative NAS algorithms on the CIFAR-10 and ImageNet datasets and further discuss several worthy studying directions of NAS methods: one/two-stage NAS, one-shot NAS, and joint hyperparameter and architecture optimization. Finally, we discuss some open problems of the existing AutoML methods for future research.",
@@ -146,7 +152,8 @@
         "2026-09-29": 653,
         "2026-09-30": 653,
         "2026-10-01": 654,
-        "2026-10-06": 655
+        "2026-10-06": 655,
+        "2026-10-08": 657
       },
       "meta": {}
     },
@@ -170,7 +177,8 @@
         "2026-09-29": 522,
         "2026-09-30": 522,
         "2026-10-01": 522,
-        "2026-10-06": 522
+        "2026-10-06": 522,
+        "2026-10-08": 522
       },
       "meta": {}
     },
@@ -194,7 +202,8 @@
         "2026-09-29": 502,
         "2026-09-30": 502,
         "2026-10-01": 502,
-        "2026-10-06": 503
+        "2026-10-06": 503,
+        "2026-10-08": 504
       },
       "meta": {
         "_tried": "2026-09-27"
@@ -220,7 +229,8 @@
         "2026-09-29": 363,
         "2026-09-30": 363,
         "2026-10-01": 363,
-        "2026-10-06": 363
+        "2026-10-06": 363,
+        "2026-10-08": 364
       },
       "meta": {}
     },
@@ -244,7 +254,8 @@
         "2026-09-29": 343,
         "2026-09-30": 343,
         "2026-10-01": 343,
-        "2026-10-06": 343
+        "2026-10-06": 343,
+        "2026-10-08": 343
       },
       "meta": {}
     },
@@ -268,7 +279,8 @@
         "2026-09-29": 314,
         "2026-09-30": 314,
         "2026-10-01": 314,
-        "2026-10-06": 314
+        "2026-10-06": 314,
+        "2026-10-08": 315
       },
       "meta": {}
     },
@@ -292,7 +304,8 @@
         "2026-09-29": 293,
         "2026-09-30": 293,
         "2026-10-01": 295,
-        "2026-10-06": 295
+        "2026-10-06": 295,
+        "2026-10-08": 295
       },
       "meta": {}
     },
@@ -316,7 +329,8 @@
         "2026-09-29": 291,
         "2026-09-30": 291,
         "2026-10-01": 291,
-        "2026-10-06": 291
+        "2026-10-06": 291,
+        "2026-10-08": 292
       },
       "meta": {}
     },
@@ -340,7 +354,8 @@
         "2026-09-29": 285,
         "2026-09-30": 285,
         "2026-10-01": 285,
-        "2026-10-06": 285
+        "2026-10-06": 285,
+        "2026-10-08": 286
       },
       "meta": {
         "abstract": "In recent years, natural language processing (NLP) has got great development with deep learning techniques. In the sub-field of machine translation, a new approach named Neural Machine Translation (NMT) has emerged and got massive attention from both academia and industry. However, with a significant number of researches proposed in the past several years, there is little work in investigating the development process of this new technology trend. This literature survey traces back the origin and principal development timeline of NMT, investigates the important branches, categorizes different research orientations, and discusses some future research trends in this field.",
@@ -377,7 +392,8 @@
         "2026-09-29": 279,
         "2026-09-30": 279,
         "2026-10-01": 279,
-        "2026-10-06": 280
+        "2026-10-06": 280,
+        "2026-10-08": 280
       },
       "meta": {}
     },
@@ -401,7 +417,8 @@
         "2026-09-29": 263,
         "2026-09-30": 263,
         "2026-10-01": 263,
-        "2026-10-06": 263
+        "2026-10-06": 263,
+        "2026-10-08": 263
       },
       "meta": {}
     },
@@ -425,7 +442,8 @@
         "2026-09-29": 252,
         "2026-09-30": 252,
         "2026-10-01": 252,
-        "2026-10-06": 257
+        "2026-10-06": 257,
+        "2026-10-08": 257
       },
       "meta": {
         "abstract": "Despite efforts to improve the quality of service (QoS) and throughput in Large Language Model (LLM) serving systems, progress is often limited by the lack of publicly available real-world workloads. Consequently, evaluations usually depend on synthetic or oversimplified load patterns, and systems that appear promising in testing frequently underperform once deployed. This work presents BurstGPT, an LLM serving workload with 10.31 million traces from regional Azure OpenAI GPT services over 213 days. BurstGPT captures LLM serving characteristics from user, model and system perspectives: (1) User request concurrency: burstiness variations of requests in Azure OpenAI GPT services, revealing diversified concurrency patterns in different services and model types. (2) User conversation patterns: counts and intervals within conversations for service optimizations. (3) Model response lengths: auto-regressive serving processes of GPT models, showing statistical relations between requests and their responses. (4) System response failures: failures of conversation and API services, showing intensive resource needs and limited availability of LLM services in Azure. The details of the characteristics can serve multiple purposes in LLM serving optimizations, such as system evaluation and trace provisioning. In our demo evaluation with BurstGPT, frequent variations in BurstGPT reveal declines in efficiency, stability, or reliability in realistic LLM serving. We identify that the generalization of KV cache management, scheduling and disaggregation optimizations can be improved under realistic workload evaluations. BurstGPT is publicly available now at https://github.com/HPMLL/BurstGPT and is widely used to develop prototypes of LLM serving frameworks in the industry.",
@@ -473,7 +491,8 @@
         "2026-09-29": 237,
         "2026-09-30": 237,
         "2026-10-01": 237,
-        "2026-10-06": 237
+        "2026-10-06": 237,
+        "2026-10-08": 237
       },
       "meta": {
         "_tried": "2026-09-30"
@@ -499,7 +518,8 @@
         "2026-09-29": 243,
         "2026-09-30": 243,
         "2026-10-01": 243,
-        "2026-10-06": 243
+        "2026-10-06": 243,
+        "2026-10-08": 244
       },
       "meta": {}
     },
@@ -523,7 +543,8 @@
         "2026-09-29": 231,
         "2026-09-30": 231,
         "2026-10-01": 231,
-        "2026-10-06": 231
+        "2026-10-06": 231,
+        "2026-10-08": 231
       },
       "meta": {
         "abstract": "Distributed synchronous stochastic gradient descent (S-SGD) with data parallelism has been widely used in training large-scale deep neural networks (DNNs), but it typically requires very high communication bandwidth between computational workers (e.g., GPUs) to exchange gradients iteratively. Recently, Top-k sparsification techniques have been proposed to reduce the volume of data to be exchanged among workers and thus alleviate the network pressure. Top-k sparsification can zero-out a significant portion of gradients without impacting the model convergence. However, the sparse gradients should be transferred with their indices, and the irregular indices make the sparse gradients aggregation difficult. Current methods that use AllGather to accumulate the sparse gradients have a communication complexity of O(kP), where P is the number of workers, which is inefficient on low bandwidth networks with a large number of workers. We observe that not all top-k gradients from P workers are needed for the model update, and therefore we propose a novel global Top-k (gTop-k) sparsification mechanism to address the difficulty of aggregating sparse gradients. Specifically, we choose global top-k largest absolute values of gradients from P workers, instead of accumulating all local top-k gradients to update the model in each iteration. The gradient aggregation method based on gTop-k sparsification, namely gTopKAllReduce, reduces the communication complexity from O(kP) to O(k log P). Through extensive experiments on different DNNs, we verify that gTop-k S-SGD has nearly consistent convergence performance with S-SGD, and it has only slight degradations on generalization performance. In terms of scaling efficiency, we evaluate gTop-k on a cluster with 32 GPU machines which are interconnected with 1 Gbps Ethernet. The experimental results show that our method achieves 2.7-12× higher scaling efficiency than S-SGD with dense gradients and 1.1-1.7× improvement than the existing Top-k S-SGD.",
@@ -564,7 +585,8 @@
         "2026-09-29": 213,
         "2026-09-30": 213,
         "2026-10-01": 213,
-        "2026-10-06": 213
+        "2026-10-06": 213,
+        "2026-10-08": 213
       },
       "meta": {
         "_tried": "2026-09-26"
@@ -590,7 +612,8 @@
         "2026-09-29": 211,
         "2026-09-30": 211,
         "2026-10-01": 211,
-        "2026-10-06": 211
+        "2026-10-06": 211,
+        "2026-10-08": 211
       },
       "meta": {}
     },
@@ -614,7 +637,8 @@
         "2026-09-29": 204,
         "2026-09-30": 204,
         "2026-10-01": 204,
-        "2026-10-06": 204
+        "2026-10-06": 204,
+        "2026-10-08": 204
       },
       "meta": {}
     },
@@ -638,7 +662,8 @@
         "2026-09-29": 185,
         "2026-09-30": 185,
         "2026-10-01": 185,
-        "2026-10-06": 185
+        "2026-10-06": 185,
+        "2026-10-08": 185
       },
       "meta": {
         "_tried": "2026-09-17"
@@ -664,7 +689,8 @@
         "2026-09-29": 184,
         "2026-09-30": 184,
         "2026-10-01": 184,
-        "2026-10-06": 184
+        "2026-10-06": 184,
+        "2026-10-08": 184
       },
       "meta": {}
     },
@@ -688,7 +714,8 @@
         "2026-09-29": 178,
         "2026-09-30": 178,
         "2026-10-01": 178,
-        "2026-10-06": 180
+        "2026-10-06": 180,
+        "2026-10-08": 180
       },
       "meta": {}
     },
@@ -712,7 +739,8 @@
         "2026-09-29": 162,
         "2026-09-30": 162,
         "2026-10-01": 162,
-        "2026-10-06": 162
+        "2026-10-06": 162,
+        "2026-10-08": 162
       },
       "meta": {}
     },
@@ -736,7 +764,8 @@
         "2026-09-29": 161,
         "2026-09-30": 161,
         "2026-10-01": 161,
-        "2026-10-06": 161
+        "2026-10-06": 161,
+        "2026-10-08": 161
       },
       "meta": {
         "abstract": "Deep learning has become widely used in complex AI applications. Yet, training a deep neural network (DNNs) model requires a considerable amount of calculations, long running time, and much energy. Nowadays, many-core AI accelerators (e.g., GPUs and TPUs) are designed to improve the performance of AI training. However, processors from different vendors perform dissimilarly in terms of performance and energy consumption. To investigate the differences among several popular off-the-shelf processors (i.e., Intel CPU, NVIDIA GPU, AMD GPU, and Google TPU) in training DNNs, we carry out a comprehensive empirical study on the performance and energy efficiency of these processors1 by benchmarking a representative set of deep learning workloads, including computation-intensive operations, classical convolutional neural networks (CNNs), recurrent neural networks (LSTM), Deep Speech 2, and Transformer. Different from the existing end-to-end benchmarks which only present the training time, We try to investigate the impact of hardware, vendor's software library, and deep learning framework on the performance and energy consumption of AI training. Our evaluation methods and results not only provide an informative guide for end users to select proper AI accelerators, but also expose some opportunities for the hardware vendors to improve their software library.",
@@ -777,7 +806,8 @@
         "2026-09-29": 158,
         "2026-09-30": 158,
         "2026-10-01": 158,
-        "2026-10-06": 158
+        "2026-10-06": 158,
+        "2026-10-08": 158
       },
       "meta": {}
     },
@@ -801,7 +831,8 @@
         "2026-09-29": 157,
         "2026-09-30": 157,
         "2026-10-01": 157,
-        "2026-10-06": 157
+        "2026-10-06": 157,
+        "2026-10-08": 157
       },
       "meta": {}
     },
@@ -825,7 +856,8 @@
         "2026-09-29": 158,
         "2026-09-30": 158,
         "2026-10-01": 158,
-        "2026-10-06": 158
+        "2026-10-06": 158,
+        "2026-10-08": 158
       },
       "meta": {}
     },
@@ -849,9 +881,22 @@
         "2026-09-29": 154,
         "2026-09-30": 154,
         "2026-10-01": 154,
-        "2026-10-06": 154
+        "2026-10-06": 154,
+        "2026-10-08": 154
       },
       "meta": {
+        "abstract": "",
+        "arxiv": "",
+        "authors": [
+          "Xiaowen Chu",
+          "B. Li",
+          "Zhen-Sheng Zhang"
+        ],
+        "doi": "10.1109/INFCOM.2003.1209202",
+        "pdf": "http://www.comp.hkbu.edu.hk/~chxw/papers/infocom03.pdf",
+        "s2url": "https://www.semanticscholar.org/paper/48ea338982963f6e3ee0f0ad01a2ebe4e9f591b6",
+        "tldr": "",
+        "venue": "IEEE INFOCOM 2003. Twenty-second Annual Joint Conference of the IEEE Computer and Communications Societies (IEEE Cat. No.03CH37428)",
         "_tried": "2026-09-18"
       }
     },
@@ -875,7 +920,8 @@
         "2026-09-29": 153,
         "2026-09-30": 153,
         "2026-10-01": 153,
-        "2026-10-06": 155
+        "2026-10-06": 155,
+        "2026-10-08": 154
       },
       "meta": {
         "abstract": "Due to the popularity of Graph Neural Networks (GNNs), various GNN-based methods have been designed to reason on knowledge graphs (KGs). An important design component of GNN-based KG reasoning methods is called the propagation path, which contains a set of involved entities in each propagation step. Existing methods use hand-designed propagation paths, ignoring the correlation between the entities and the query relation. In addition, the number of involved entities will explosively grow at larger propagation steps. In this work, we are motivated to learn an adaptive propagation path in order to filter out irrelevant entities while preserving promising targets. First, we design an incremental sampling mechanism where the nearby targets and layer-wise connections can be preserved with linear complexity. Second, we design a learning-based sampling distribution to identify the semantically related entities. Extensive experiments show that our method is powerful, efficient and semantic-aware. The code is available at https://github.com/LARS-research/AdaProp.",
@@ -914,7 +960,8 @@
         "2026-09-29": 152,
         "2026-09-30": 152,
         "2026-10-01": 152,
-        "2026-10-06": 152
+        "2026-10-06": 152,
+        "2026-10-08": 152
       },
       "meta": {}
     },
@@ -938,7 +985,8 @@
         "2026-09-29": 152,
         "2026-09-30": 152,
         "2026-10-01": 152,
-        "2026-10-06": 152
+        "2026-10-06": 152,
+        "2026-10-08": 152
       },
       "meta": {}
     },
@@ -962,7 +1010,8 @@
         "2026-09-29": 144,
         "2026-09-30": 144,
         "2026-10-01": 144,
-        "2026-10-06": 145
+        "2026-10-06": 145,
+        "2026-10-08": 145
       },
       "meta": {}
     },
@@ -986,7 +1035,8 @@
         "2026-09-29": 142,
         "2026-09-30": 142,
         "2026-10-01": 143,
-        "2026-10-06": 143
+        "2026-10-06": 143,
+        "2026-10-08": 143
       },
       "meta": {}
     },
@@ -1010,7 +1060,8 @@
         "2026-09-29": 139,
         "2026-09-30": 139,
         "2026-10-01": 139,
-        "2026-10-06": 140
+        "2026-10-06": 140,
+        "2026-10-08": 140
       },
       "meta": {}
     },
@@ -1034,7 +1085,8 @@
         "2026-09-29": 142,
         "2026-09-30": 142,
         "2026-10-01": 142,
-        "2026-10-06": 142
+        "2026-10-06": 142,
+        "2026-10-08": 142
       },
       "meta": {}
     },
@@ -1058,7 +1110,8 @@
         "2026-09-29": 137,
         "2026-09-30": 137,
         "2026-10-01": 137,
-        "2026-10-06": 137
+        "2026-10-06": 137,
+        "2026-10-08": 137
       },
       "meta": {
         "abstract": "Abstract Energy efficiency has become one of the top design criteria for current computing systems. The dynamic voltage and frequency scaling (DVFS) has been widely adopted by laptop computers, servers, and mobile devices to conserve energy, while the GPU DVFS is still at a certain early age. This paper aims at exploring the impact of GPU DVFS on the application performance and power consumption, and furthermore, on energy conservation. We survey the state-of-the-art GPU DVFS characterizations, and then summarize recent research works on GPU power and performance models. We also conduct real GPU DVFS experiments on NVIDIA Fermi and Maxwell GPUs. According to our experimental results, GPU DVFS has significant potential for energy saving. The effect of scaling core voltage/frequency and memory voltage/frequency depends on not only the GPU architectures, but also the characteristic of GPU applications.",
@@ -1095,7 +1148,8 @@
         "2026-09-29": 136,
         "2026-09-30": 136,
         "2026-10-01": 136,
-        "2026-10-06": 136
+        "2026-10-06": 136,
+        "2026-10-08": 136
       },
       "meta": {}
     },
@@ -1119,7 +1173,8 @@
         "2026-09-29": 133,
         "2026-09-30": 133,
         "2026-10-01": 133,
-        "2026-10-06": 134
+        "2026-10-06": 134,
+        "2026-10-08": 134
       },
       "meta": {}
     },
@@ -1143,7 +1198,8 @@
         "2026-09-29": 131,
         "2026-09-30": 131,
         "2026-10-01": 132,
-        "2026-10-06": 136
+        "2026-10-06": 136,
+        "2026-10-08": 137
       },
       "meta": {
         "_tried": "2026-09-27"
@@ -1169,7 +1225,8 @@
         "2026-09-29": 123,
         "2026-09-30": 123,
         "2026-10-01": 123,
-        "2026-10-06": 123
+        "2026-10-06": 123,
+        "2026-10-08": 123
       },
       "meta": {
         "abstract": "The COVID-19 pandemic has spread globally for several months. Because its transmissibility and high pathogenicity seriously threaten people's lives, it is crucial to accurately and quickly detect COVID-19 infection. Many recent studies have shown that deep learning (DL) based solutions can help detect COVID-19 based on chest CT scans. However, most existing work focuses on 2D datasets, which may result in low quality models as the real CT scans are 3D images. Besides, the reported results span a broad spectrum on different datasets with a relatively unfair comparison. In this paper, we first use three state-of-the-art 3D models (ResNet3D101, DenseNet3D121, and MC3\\_18) to establish the baseline performance on three publicly available chest CT scan datasets. Then we propose a differentiable neural architecture search (DNAS) framework to automatically search the 3D DL models for 3D chest CT scans classification and use the Gumbel Softmax technique to improve the search efficiency. We further exploit the Class Activation Mapping (CAM) technique on our models to provide the interpretability of the results. The experimental results show that our searched models (CovidNet3D) outperform the baseline human-designed models on three datasets with tens of times smaller model size and higher accuracy. Furthermore, the results also verify that CAM can be well applied in CovidNet3D for COVID-19 datasets to provide interpretability for medical diagnosis. Code: https://github.com/HKBU-HPML/CovidNet3D.",
@@ -1212,7 +1269,8 @@
         "2026-09-29": 122,
         "2026-09-30": 122,
         "2026-10-01": 122,
-        "2026-10-06": 122
+        "2026-10-06": 122,
+        "2026-10-08": 123
       },
       "meta": {}
     },
@@ -1236,7 +1294,8 @@
         "2026-09-29": 120,
         "2026-09-30": 120,
         "2026-10-01": 121,
-        "2026-10-06": 124
+        "2026-10-06": 124,
+        "2026-10-08": 124
       },
       "meta": {
         "abstract": "The upscaling of Large Language Models (LLMs) has yielded impressive advances in natural language processing, yet it also poses significant deployment challenges. Weight quantization has emerged as a widely embraced solution to reduce memory and computational demands. This paper introduces BitDistiller, a framework that synergizes Quantization-Aware Training (QAT) with Knowledge Distillation (KD) to boost the performance of LLMs at ultra-low precisions (sub-4-bit). Specifically, BitDistiller first incorporates a tailored asymmetric quantization and clipping technique to maximally preserve the fidelity of quantized weights, and then proposes a novel Confidence-Aware Kullback-Leibler Divergence (CAKLD) objective, which is employed in a self-distillation manner to enable faster convergence and superior model performance. Empirical evaluations demonstrate that BitDistiller significantly surpasses existing methods in both 3-bit and 2-bit configurations on general language understanding and complex reasoning benchmarks. Notably, BitDistiller is shown to be more cost-effective, demanding fewer data and training resources. The code is available at https://github.com/DD-DuDa/BitDistiller.",
@@ -1277,10 +1336,23 @@
         "2026-09-29": 120,
         "2026-09-30": 120,
         "2026-10-01": 120,
-        "2026-10-06": 120
+        "2026-10-06": 120,
+        "2026-10-08": 120
       },
       "meta": {
-        "_tried": "2026-09-18"
+        "abstract": "Nowadays, GPUs are widely used to accelerate many high performance computing applications. Energy conservation of such computing systems has become an important research topic. Dynamic voltage/frequency scaling (DVFS) is proved to be an appealing method for saving energy for traditional computing centers. However, there is still a lack of firsthand study on the effectiveness of GPU DVFS. This paper presents a thorough measurement study that aims to explore how GPU DVFS affects the system energy consumption. We conduct experiments on a real GPU platform with 37 benchmark applications. Our results show that GPU voltage/frequency scaling is an effective approach to conserving energy. For example, by scaling down the GPU core voltage and frequency, we have achieved an average of 19.28% energy reduction compared with the default setting, while giving up no more than 4% of performance. For all tested GPU applications, core voltage scaling is significantly effective to reduce system energy consumption. Meanwhile the effects of scaling core frequency and memory frequency depend on the characteristics of GPU applications.",
+        "arxiv": "",
+        "authors": [
+          "Xinxin Mei",
+          "L. Yung",
+          "Kaiyong Zhao",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.1145/2525526.2525852",
+        "pdf": "http://www.comp.hkbu.edu.hk/%7Echxw/papers/hotpower_2013.pdf",
+        "s2url": "https://www.semanticscholar.org/paper/96f88f867ddd3916cbc990dd083d07825c584318",
+        "tldr": "A thorough measurement study that aims to explore how GPU DVFS affects the system energy consumption and shows that GPU voltage/frequency scaling is an effective approach to conserving energy.",
+        "venue": "Power-Aware Computer Systems"
       }
     },
     "Fedcv: a federated learning framework for diverse computer vision tasks": {
@@ -1303,7 +1375,8 @@
         "2026-09-29": 119,
         "2026-09-30": 119,
         "2026-10-01": 119,
-        "2026-10-06": 119
+        "2026-10-06": 119,
+        "2026-10-08": 119
       },
       "meta": {}
     },
@@ -1327,7 +1400,8 @@
         "2026-09-29": 109,
         "2026-09-30": 109,
         "2026-10-01": 110,
-        "2026-10-06": 110
+        "2026-10-06": 110,
+        "2026-10-08": 110
       },
       "meta": {}
     },
@@ -1351,7 +1425,8 @@
         "2026-09-29": 108,
         "2026-09-30": 108,
         "2026-10-01": 108,
-        "2026-10-06": 108
+        "2026-10-06": 108,
+        "2026-10-08": 108
       },
       "meta": {}
     },
@@ -1375,7 +1450,8 @@
         "2026-09-29": 106,
         "2026-09-30": 106,
         "2026-10-01": 106,
-        "2026-10-06": 106
+        "2026-10-06": 106,
+        "2026-10-08": 106
       },
       "meta": {}
     },
@@ -1399,7 +1475,8 @@
         "2026-09-29": 106,
         "2026-09-30": 106,
         "2026-10-01": 106,
-        "2026-10-06": 106
+        "2026-10-06": 106,
+        "2026-10-08": 106
       },
       "meta": {}
     },
@@ -1423,7 +1500,8 @@
         "2026-09-29": 106,
         "2026-09-30": 106,
         "2026-10-01": 106,
-        "2026-10-06": 106
+        "2026-10-06": 106,
+        "2026-10-08": 106
       },
       "meta": {}
     },
@@ -1447,7 +1525,8 @@
         "2026-09-29": 105,
         "2026-09-30": 105,
         "2026-10-01": 105,
-        "2026-10-06": 105
+        "2026-10-06": 105,
+        "2026-10-08": 105
       },
       "meta": {
         "abstract": "Gradient sparsification is a promising technique to significantly reduce the communication overhead in decentralized synchronous stochastic gradient descent (S-SGD) algorithms. Yet, many existing gradient sparsification schemes (e.g., Top-k sparsification) have a communication complexity of O(kP), where k is the number of selected gradients by each worker and P is the number of workers. Recently, the gTop-k sparsification scheme has been proposed to reduce the communication complexity from O(kP) to O(k logP), which significantly boosts the system scalability. However, it remains unclear whether the gTop-k sparsification scheme can converge in theory. In this paper, we first provide theoretical proofs on the convergence of the gTop-k scheme for non-convex objective functions under certain analytic assumptions. We then derive the convergence rate of gTop-k S-SGD, which is at the same order as the vanilla mini-batch SGD. Finally, we conduct extensive experiments on different machine learning models and data sets to verify the soundness of the assumptions and theoretical results, and discuss the impact of the compression ratio on the convergence performance.",
@@ -1486,7 +1565,8 @@
         "2026-09-29": 105,
         "2026-09-30": 105,
         "2026-10-01": 105,
-        "2026-10-06": 105
+        "2026-10-06": 105,
+        "2026-10-08": 105
       },
       "meta": {}
     },
@@ -1510,7 +1590,8 @@
         "2026-09-29": 103,
         "2026-09-30": 103,
         "2026-10-01": 103,
-        "2026-10-06": 103
+        "2026-10-06": 103,
+        "2026-10-08": 104
       },
       "meta": {}
     },
@@ -1534,7 +1615,8 @@
         "2026-09-29": 103,
         "2026-09-30": 103,
         "2026-10-01": 103,
-        "2026-10-06": 103
+        "2026-10-06": 103,
+        "2026-10-08": 103
       },
       "meta": {}
     },
@@ -1558,7 +1640,8 @@
         "2026-09-29": 103,
         "2026-09-30": 103,
         "2026-10-01": 103,
-        "2026-10-06": 104
+        "2026-10-06": 104,
+        "2026-10-08": 104
       },
       "meta": {}
     },
@@ -1582,7 +1665,8 @@
         "2026-09-29": 99,
         "2026-09-30": 99,
         "2026-10-01": 100,
-        "2026-10-06": 100
+        "2026-10-06": 100,
+        "2026-10-08": 100
       },
       "meta": {
         "abstract": "Distributed synchronous stochastic gradient descent (SGD) algorithms are widely used in large-scale deep learning applications, while it is known that the communication bottleneck limits the scalability of the distributed system. Gradient sparsification is a promising technique to significantly reduce the communication traffic, while pipelining can further overlap the communications with computations. However, gradient sparsification introduces extra computation time, and pipelining requires many layer-wise communications which introduce significant communication startup overheads. Merging gradients from neighbor layers could reduce the startup overheads, but on the other hand it would increase the computation time of sparsification and the waiting time for the gradient computation. In this paper, we formulate the trade-off between communications and computations (including backward computation and gradient sparsification) as an optimization problem, and derive an optimal solution to the problem. We further develop the optimal merged gradient sparsification algorithm with SGD (OMGS-SGD) for distributed training of deep learning. We conduct extensive experiments to verify the convergence properties and scaling performance of OMGS-SGD. Experimental results show that OMGS-SGD achieves up to 31% end-to-end time efficiency improvement over the state-of-the-art sparsified SGD while preserving nearly consistent convergence performance with original SGD without sparsification on a 16-GPU cluster connected with 1Gbps Ethernet.",
@@ -1623,7 +1707,8 @@
         "2026-09-29": 95,
         "2026-09-30": 95,
         "2026-10-01": 95,
-        "2026-10-06": 95
+        "2026-10-06": 95,
+        "2026-10-08": 95
       },
       "meta": {}
     },
@@ -1647,7 +1732,8 @@
         "2026-09-29": 94,
         "2026-09-30": 94,
         "2026-10-01": 94,
-        "2026-10-06": 94
+        "2026-10-06": 94,
+        "2026-10-08": 94
       },
       "meta": {
         "abstract": "",
@@ -1685,7 +1771,8 @@
         "2026-09-29": 93,
         "2026-09-30": 93,
         "2026-10-01": 93,
-        "2026-10-06": 95
+        "2026-10-06": 95,
+        "2026-10-08": 96
       },
       "meta": {}
     },
@@ -1709,7 +1796,8 @@
         "2026-09-29": 91,
         "2026-09-30": 91,
         "2026-10-01": 91,
-        "2026-10-06": 91
+        "2026-10-06": 91,
+        "2026-10-08": 91
       },
       "meta": {}
     },
@@ -1733,7 +1821,8 @@
         "2026-09-29": 91,
         "2026-09-30": 91,
         "2026-10-01": 91,
-        "2026-10-06": 93
+        "2026-10-06": 93,
+        "2026-10-08": 95
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -1759,7 +1848,8 @@
         "2026-09-29": 89,
         "2026-09-30": 89,
         "2026-10-01": 89,
-        "2026-10-06": 89
+        "2026-10-06": 89,
+        "2026-10-08": 89
       },
       "meta": {}
     },
@@ -1783,7 +1873,8 @@
         "2026-09-29": 86,
         "2026-09-30": 86,
         "2026-10-01": 86,
-        "2026-10-06": 87
+        "2026-10-06": 87,
+        "2026-10-08": 87
       },
       "meta": {
         "abstract": "The increasing size of machine learning models, especially deep neural network models, can improve the model generalization capability. However, large models require more training data and more computing resources (such as GPU clusters) to train. In distributed training, the communication overhead of exchanging gradients or models among workers becomes a potential system bottleneck that limits the system scalability. Recently, many research works aim to reduce communication time of two types of distributed deep learning architectures, centralized and decentralized.",
@@ -1820,7 +1911,8 @@
         "2026-09-29": 84,
         "2026-09-30": 84,
         "2026-10-01": 84,
-        "2026-10-06": 84
+        "2026-10-06": 84,
+        "2026-10-08": 84
       },
       "meta": {}
     },
@@ -1844,7 +1936,8 @@
         "2026-09-29": 85,
         "2026-09-30": 85,
         "2026-10-01": 85,
-        "2026-10-06": 85
+        "2026-10-06": 85,
+        "2026-10-08": 85
       },
       "meta": {}
     },
@@ -1868,7 +1961,8 @@
         "2026-09-29": 83,
         "2026-09-30": 83,
         "2026-10-01": 83,
-        "2026-10-06": 83
+        "2026-10-06": 83,
+        "2026-10-08": 83
       },
       "meta": {
         "_tried": "2026-09-24"
@@ -1894,7 +1988,8 @@
         "2026-09-29": 83,
         "2026-09-30": 83,
         "2026-10-01": 83,
-        "2026-10-06": 83
+        "2026-10-06": 83,
+        "2026-10-08": 83
       },
       "meta": {}
     },
@@ -1918,7 +2013,8 @@
         "2026-09-29": 82,
         "2026-09-30": 82,
         "2026-10-01": 82,
-        "2026-10-06": 82
+        "2026-10-06": 82,
+        "2026-10-08": 82
       },
       "meta": {
         "_tried": "2026-09-27"
@@ -1944,7 +2040,8 @@
         "2026-09-29": 79,
         "2026-09-30": 79,
         "2026-10-01": 79,
-        "2026-10-06": 79
+        "2026-10-06": 79,
+        "2026-10-08": 79
       },
       "meta": {}
     },
@@ -1968,7 +2065,8 @@
         "2026-09-29": 77,
         "2026-09-30": 77,
         "2026-10-01": 77,
-        "2026-10-06": 77
+        "2026-10-06": 77,
+        "2026-10-08": 77
       },
       "meta": {}
     },
@@ -1992,7 +2090,8 @@
         "2026-09-29": 75,
         "2026-09-30": 75,
         "2026-10-01": 76,
-        "2026-10-06": 76
+        "2026-10-06": 76,
+        "2026-10-08": 76
       },
       "meta": {
         "abstract": "Nowadays, large and complex deep learning (DL) models are increasingly trained in a distributed manner across multiple worker machines, in which extensive communications between workers pose serious scaling problems. In this article, we present a quantitative survey of communication optimization techniques for data parallel distributed DL. We first identify the major communication challenges and classify the existing solutions into three levels, namely the learning algorithm, the system architecture, and the network infrastructure. We present the state-of-the-art communication optimization techniques and conduct a comparative study of seven common lossless distributed DL methods on a 32-GPU cluster with 100Gb/s InfiniBand (IB). We show that the DL models with low model intensity (such as BERT and BERT-Large) are difficult to scale out even with the best available lossless algorithm over 100Gb/s IB; and the system architecture and scheduling algorithms have a critical impact on the scaling property. We conclude the article with discussions of open issues for further investigation.",
@@ -2032,7 +2131,8 @@
         "2026-09-29": 75,
         "2026-09-30": 75,
         "2026-10-01": 75,
-        "2026-10-06": 75
+        "2026-10-06": 75,
+        "2026-10-08": 75
       },
       "meta": {}
     },
@@ -2056,7 +2156,8 @@
         "2026-09-29": 74,
         "2026-09-30": 74,
         "2026-10-01": 74,
-        "2026-10-06": 74
+        "2026-10-06": 74,
+        "2026-10-08": 74
       },
       "meta": {}
     },
@@ -2080,7 +2181,8 @@
         "2026-09-29": 80,
         "2026-09-30": 80,
         "2026-10-01": 80,
-        "2026-10-06": 81
+        "2026-10-06": 81,
+        "2026-10-08": 81
       },
       "meta": {}
     },
@@ -2104,7 +2206,8 @@
         "2026-09-29": 73,
         "2026-09-30": 73,
         "2026-10-01": 73,
-        "2026-10-06": 74
+        "2026-10-06": 74,
+        "2026-10-08": 74
       },
       "meta": {}
     },
@@ -2128,7 +2231,8 @@
         "2026-09-29": 72,
         "2026-09-30": 72,
         "2026-10-01": 72,
-        "2026-10-06": 72
+        "2026-10-06": 72,
+        "2026-10-08": 72
       },
       "meta": {}
     },
@@ -2152,7 +2256,8 @@
         "2026-09-29": 70,
         "2026-09-30": 70,
         "2026-10-01": 70,
-        "2026-10-06": 70
+        "2026-10-06": 70,
+        "2026-10-08": 70
       },
       "meta": {}
     },
@@ -2176,7 +2281,8 @@
         "2026-09-29": 70,
         "2026-09-30": 70,
         "2026-10-01": 70,
-        "2026-10-06": 70
+        "2026-10-06": 70,
+        "2026-10-08": 70
       },
       "meta": {}
     },
@@ -2200,7 +2306,8 @@
         "2026-09-29": 70,
         "2026-09-30": 70,
         "2026-10-01": 70,
-        "2026-10-06": 71
+        "2026-10-06": 71,
+        "2026-10-08": 71
       },
       "meta": {}
     },
@@ -2224,7 +2331,8 @@
         "2026-09-29": 71,
         "2026-09-30": 71,
         "2026-10-01": 71,
-        "2026-10-06": 73
+        "2026-10-06": 73,
+        "2026-10-08": 73
       },
       "meta": {}
     },
@@ -2248,7 +2356,8 @@
         "2026-09-29": 69,
         "2026-09-30": 69,
         "2026-10-01": 69,
-        "2026-10-06": 69
+        "2026-10-06": 69,
+        "2026-10-08": 70
       },
       "meta": {}
     },
@@ -2272,7 +2381,8 @@
         "2026-09-29": 66,
         "2026-09-30": 66,
         "2026-10-01": 66,
-        "2026-10-06": 66
+        "2026-10-06": 66,
+        "2026-10-08": 66
       },
       "meta": {}
     },
@@ -2296,7 +2406,8 @@
         "2026-09-29": 66,
         "2026-09-30": 66,
         "2026-10-01": 66,
-        "2026-10-06": 66
+        "2026-10-06": 66,
+        "2026-10-08": 66
       },
       "meta": {
         "abstract": "",
@@ -2333,7 +2444,8 @@
         "2026-09-29": 64,
         "2026-09-30": 64,
         "2026-10-01": 64,
-        "2026-10-06": 64
+        "2026-10-06": 64,
+        "2026-10-08": 64
       },
       "meta": {}
     },
@@ -2357,7 +2469,8 @@
         "2026-09-29": 63,
         "2026-09-30": 63,
         "2026-10-01": 63,
-        "2026-10-06": 63
+        "2026-10-06": 63,
+        "2026-10-08": 63
       },
       "meta": {}
     },
@@ -2381,7 +2494,8 @@
         "2026-09-29": 62,
         "2026-09-30": 62,
         "2026-10-01": 62,
-        "2026-10-06": 63
+        "2026-10-06": 63,
+        "2026-10-08": 63
       },
       "meta": {
         "_tried": "2026-09-26"
@@ -2407,7 +2521,8 @@
         "2026-09-29": 62,
         "2026-09-30": 62,
         "2026-10-01": 62,
-        "2026-10-06": 62
+        "2026-10-06": 62,
+        "2026-10-08": 62
       },
       "meta": {}
     },
@@ -2431,7 +2546,8 @@
         "2026-09-29": 14,
         "2026-09-30": 14,
         "2026-10-01": 14,
-        "2026-10-06": 14
+        "2026-10-06": 14,
+        "2026-10-08": 14
       },
       "meta": {}
     },
@@ -2455,7 +2571,8 @@
         "2026-09-29": 62,
         "2026-09-30": 62,
         "2026-10-01": 62,
-        "2026-10-06": 64
+        "2026-10-06": 64,
+        "2026-10-08": 64
       },
       "meta": {}
     },
@@ -2479,7 +2596,8 @@
         "2026-09-29": 57,
         "2026-09-30": 57,
         "2026-10-01": 57,
-        "2026-10-06": 57
+        "2026-10-06": 57,
+        "2026-10-08": 57
       },
       "meta": {
         "_tried": "2026-09-28"
@@ -2505,7 +2623,8 @@
         "2026-09-29": 55,
         "2026-09-30": 55,
         "2026-10-01": 55,
-        "2026-10-06": 55
+        "2026-10-06": 55,
+        "2026-10-08": 55
       },
       "meta": {}
     },
@@ -2529,7 +2648,8 @@
         "2026-09-29": 56,
         "2026-09-30": 56,
         "2026-10-01": 56,
-        "2026-10-06": 56
+        "2026-10-06": 56,
+        "2026-10-08": 55
       },
       "meta": {}
     },
@@ -2553,7 +2673,8 @@
         "2026-09-29": 54,
         "2026-09-30": 54,
         "2026-10-01": 54,
-        "2026-10-06": 54
+        "2026-10-06": 54,
+        "2026-10-08": 55
       },
       "meta": {}
     },
@@ -2577,7 +2698,8 @@
         "2026-09-29": 52,
         "2026-09-30": 52,
         "2026-10-01": 52,
-        "2026-10-06": 52
+        "2026-10-06": 52,
+        "2026-10-08": 52
       },
       "meta": {
         "abstract": "Industrial Internet of Things (IIoT) technology is widely used in modern industrial fields like transportation, but data security remains a major challenge. The blockchain-based access control mechanism can address the data security issue by preventing unauthorized devices from accessing limited IIoT resources. However, most existing blockchain-based access control mechanism for IIoT still has scalability and privacy issues. To deal with the above-mentioned problems, we propose a new scalable and secure strategy for the blockchain-based access control framework for IIoT via sharding, which consists of two components. First, the network sharding scheme based on the access frequency set (N2SAF) is designed to 1) improve the scalability of our proposed strategy by transaction sharding to reduce the storage pressure on nodes, and 2) increase the transaction processing speed on a three-layer architecture based on cloud-edge-device in IIoT. Second, the privacy protection scheme based on a Bloom filter (P2BF) is designed to deal with the privacy leakage problem caused by anonymous address clustering. Simulation results show that our proposed strategy improves the scalability of the system compared to existing methods while ensuring the security of the shard network, especially in large-scale IIoT environments.",
@@ -2616,7 +2738,8 @@
         "2026-09-29": 50,
         "2026-09-30": 50,
         "2026-10-01": 50,
-        "2026-10-06": 50
+        "2026-10-06": 50,
+        "2026-10-08": 50
       },
       "meta": {}
     },
@@ -2640,7 +2763,8 @@
         "2026-09-29": 50,
         "2026-09-30": 50,
         "2026-10-01": 50,
-        "2026-10-06": 50
+        "2026-10-06": 50,
+        "2026-10-08": 50
       },
       "meta": {}
     },
@@ -2664,7 +2788,8 @@
         "2026-09-29": 49,
         "2026-09-30": 49,
         "2026-10-01": 49,
-        "2026-10-06": 49
+        "2026-10-06": 49,
+        "2026-10-08": 49
       },
       "meta": {}
     },
@@ -2688,7 +2813,8 @@
         "2026-09-29": 47,
         "2026-09-30": 47,
         "2026-10-01": 47,
-        "2026-10-06": 47
+        "2026-10-06": 47,
+        "2026-10-08": 47
       },
       "meta": {}
     },
@@ -2712,7 +2838,8 @@
         "2026-09-29": 47,
         "2026-09-30": 47,
         "2026-10-01": 47,
-        "2026-10-06": 47
+        "2026-10-06": 47,
+        "2026-10-08": 47
       },
       "meta": {}
     },
@@ -2736,7 +2863,8 @@
         "2026-09-29": 47,
         "2026-09-30": 47,
         "2026-10-01": 47,
-        "2026-10-06": 48
+        "2026-10-06": 48,
+        "2026-10-08": 48
       },
       "meta": {}
     },
@@ -2759,7 +2887,8 @@
         "2026-09-29": 46,
         "2026-09-30": 46,
         "2026-10-01": 46,
-        "2026-10-06": 46
+        "2026-10-06": 46,
+        "2026-10-08": 46
       },
       "meta": {}
     },
@@ -2782,7 +2911,8 @@
         "2026-09-29": 46,
         "2026-09-30": 46,
         "2026-10-01": 46,
-        "2026-10-06": 46
+        "2026-10-06": 46,
+        "2026-10-08": 46
       },
       "meta": {}
     },
@@ -2805,7 +2935,8 @@
         "2026-09-29": 46,
         "2026-09-30": 46,
         "2026-10-01": 46,
-        "2026-10-06": 46
+        "2026-10-06": 46,
+        "2026-10-08": 46
       },
       "meta": {}
     },
@@ -2828,7 +2959,8 @@
         "2026-09-29": 45,
         "2026-09-30": 45,
         "2026-10-01": 45,
-        "2026-10-06": 45
+        "2026-10-06": 45,
+        "2026-10-08": 45
       },
       "meta": {}
     },
@@ -2851,7 +2983,8 @@
         "2026-09-29": 45,
         "2026-09-30": 45,
         "2026-10-01": 45,
-        "2026-10-06": 45
+        "2026-10-06": 45,
+        "2026-10-08": 45
       },
       "meta": {}
     },
@@ -2874,7 +3007,8 @@
         "2026-09-29": 44,
         "2026-09-30": 44,
         "2026-10-01": 44,
-        "2026-10-06": 44
+        "2026-10-06": 44,
+        "2026-10-08": 44
       },
       "meta": {}
     },
@@ -2897,7 +3031,8 @@
         "2026-09-29": 43,
         "2026-09-30": 43,
         "2026-10-01": 43,
-        "2026-10-06": 43
+        "2026-10-06": 43,
+        "2026-10-08": 43
       },
       "meta": {}
     },
@@ -2920,7 +3055,8 @@
         "2026-09-29": 42,
         "2026-09-30": 42,
         "2026-10-01": 42,
-        "2026-10-06": 42
+        "2026-10-06": 42,
+        "2026-10-08": 42
       },
       "meta": {}
     },
@@ -2943,7 +3079,8 @@
         "2026-09-29": 41,
         "2026-09-30": 41,
         "2026-10-01": 41,
-        "2026-10-06": 41
+        "2026-10-06": 41,
+        "2026-10-08": 41
       },
       "meta": {
         "abstract": "With huge amounts of training data, deep learning has made great breakthroughs in many artificial intelligence (AI) applications. However, such large-scale data sets present computational challenges, requiring training to be distributed on a cluster equipped with accelerators like GPUs. With the fast increase of G PU computing power, the data communications among GPUs have become a potential bottleneck on the overall training performance. In this paper, we first propose a general directed acyclic graph (DAG) model to describe the distributed synchronous stochastic gradient descent (S-SG D) algorithm, which has been widely used in distributed deep learning frameworks. To understand the practical impact of data communications on training performance, we conduct extensive empirical studies on four state-of-the-art distributed deep learning frameworks (i.e., Caffe-MPI, CNTK, MXNet and TensorFlow) over multi-GPU and multi-node environments with different data communication techniques, including PCIe, NVLink, 10GbE, and InfiniBand. Through both analytical and experimental studies, we identify the potential bottlenecks and overheads that could be further optimized. At last, we make the data set of our experimental traces publicly available, which could be used to support simulation-based studies.",
@@ -2980,7 +3117,8 @@
         "2026-09-29": 41,
         "2026-09-30": 41,
         "2026-10-01": 41,
-        "2026-10-06": 41
+        "2026-10-06": 41,
+        "2026-10-08": 41
       },
       "meta": {}
     },
@@ -3003,7 +3141,8 @@
         "2026-09-29": 40,
         "2026-09-30": 40,
         "2026-10-01": 40,
-        "2026-10-06": 40
+        "2026-10-06": 40,
+        "2026-10-08": 40
       },
       "meta": {}
     },
@@ -3026,7 +3165,8 @@
         "2026-09-29": 40,
         "2026-09-30": 40,
         "2026-10-01": 40,
-        "2026-10-06": 40
+        "2026-10-06": 40,
+        "2026-10-08": 40
       },
       "meta": {}
     },
@@ -3049,7 +3189,8 @@
         "2026-09-29": 44,
         "2026-09-30": 44,
         "2026-10-01": 44,
-        "2026-10-06": 46
+        "2026-10-06": 46,
+        "2026-10-08": 46
       },
       "meta": {}
     },
@@ -3072,7 +3213,8 @@
         "2026-09-29": 37,
         "2026-09-30": 37,
         "2026-10-01": 37,
-        "2026-10-06": 37
+        "2026-10-06": 37,
+        "2026-10-08": 37
       },
       "meta": {}
     },
@@ -3095,7 +3237,8 @@
         "2026-09-29": 35,
         "2026-09-30": 35,
         "2026-10-01": 35,
-        "2026-10-06": 35
+        "2026-10-06": 35,
+        "2026-10-08": 35
       },
       "meta": {}
     },
@@ -3118,7 +3261,8 @@
         "2026-09-29": 35,
         "2026-09-30": 35,
         "2026-10-01": 35,
-        "2026-10-06": 35
+        "2026-10-06": 35,
+        "2026-10-08": 35
       },
       "meta": {}
     },
@@ -3141,7 +3285,8 @@
         "2026-09-29": 34,
         "2026-09-30": 34,
         "2026-10-01": 34,
-        "2026-10-06": 34
+        "2026-10-06": 34,
+        "2026-10-08": 34
       },
       "meta": {
         "_tried": "2026-09-26"
@@ -3166,7 +3311,8 @@
         "2026-09-29": 33,
         "2026-09-30": 33,
         "2026-10-01": 33,
-        "2026-10-06": 33
+        "2026-10-06": 33,
+        "2026-10-08": 33
       },
       "meta": {
         "_tried": "2026-09-24",
@@ -3205,7 +3351,8 @@
         "2026-09-29": 34,
         "2026-09-30": 34,
         "2026-10-01": 35,
-        "2026-10-06": 36
+        "2026-10-06": 36,
+        "2026-10-08": 36
       },
       "meta": {}
     },
@@ -3228,7 +3375,8 @@
         "2026-09-29": 32,
         "2026-09-30": 32,
         "2026-10-01": 32,
-        "2026-10-06": 32
+        "2026-10-06": 32,
+        "2026-10-08": 32
       },
       "meta": {}
     },
@@ -3251,7 +3399,8 @@
         "2026-09-29": 33,
         "2026-09-30": 33,
         "2026-10-01": 33,
-        "2026-10-06": 35
+        "2026-10-06": 35,
+        "2026-10-08": 35
       },
       "meta": {}
     },
@@ -3274,7 +3423,8 @@
         "2026-09-29": 32,
         "2026-09-30": 32,
         "2026-10-01": 32,
-        "2026-10-06": 32
+        "2026-10-06": 32,
+        "2026-10-08": 32
       },
       "meta": {}
     },
@@ -3297,7 +3447,8 @@
         "2026-09-29": 31,
         "2026-09-30": 31,
         "2026-10-01": 32,
-        "2026-10-06": 32
+        "2026-10-06": 32,
+        "2026-10-08": 32
       },
       "meta": {}
     },
@@ -3320,7 +3471,8 @@
         "2026-09-29": 31,
         "2026-09-30": 31,
         "2026-10-01": 31,
-        "2026-10-06": 31
+        "2026-10-06": 31,
+        "2026-10-08": 31
       },
       "meta": {}
     },
@@ -3343,7 +3495,8 @@
         "2026-09-29": 31,
         "2026-09-30": 31,
         "2026-10-01": 31,
-        "2026-10-06": 31
+        "2026-10-06": 31,
+        "2026-10-08": 31
       },
       "meta": {}
     },
@@ -3366,7 +3519,8 @@
         "2026-09-29": 30,
         "2026-09-30": 30,
         "2026-10-01": 30,
-        "2026-10-06": 30
+        "2026-10-06": 30,
+        "2026-10-08": 30
       },
       "meta": {}
     },
@@ -3389,7 +3543,8 @@
         "2026-09-29": 30,
         "2026-09-30": 30,
         "2026-10-01": 30,
-        "2026-10-06": 30
+        "2026-10-06": 30,
+        "2026-10-08": 30
       },
       "meta": {
         "abstract": "Tandem mass spectrometry-based database searching is currently the main method for protein identification in shotgun proteomics. The explosive growth of protein and peptide databases, which is a result of genome translations, enzymatic digestions, and post-translational modifications (PTMs), is making computational efficiency in database searching a serious challenge. Profile analysis shows that most search engines spend 50%-90% of their total time on the scoring module, and that the spectrum dot product (SDP) based scoring module is the most widely used. As a general purpose and high performance parallel hardware, graphics processing units (GPUs) are promising platforms for speeding up database searches in the protein identification process. We designed and implemented a parallel SDP-based scoring module on GPUs that exploits the efficient use of GPU registers, constant memory and shared memory. Compared with the CPU-based version, we achieved a 30 to 60 times speedup using a single GPU. We also implemented our algorithm on a GPU cluster and achieved an approximately favorable speedup. Our GPU-based SDP algorithm can significantly improve the speed of the scoring module in mass spectrometry-based protein identification. The algorithm can be easily implemented in many database search engines such as X!Tandem, SEQUEST, and pFind. A software tool implementing this algorithm is available at http://www.comp.hkbu.edu.hk/~youli/ProteinByGPU.html",
@@ -3426,7 +3581,8 @@
         "2026-09-29": 30,
         "2026-09-30": 30,
         "2026-10-01": 30,
-        "2026-10-06": 31
+        "2026-10-06": 31,
+        "2026-10-08": 31
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -3451,7 +3607,8 @@
         "2026-09-29": 29,
         "2026-09-30": 29,
         "2026-10-01": 29,
-        "2026-10-06": 29
+        "2026-10-06": 29,
+        "2026-10-08": 29
       },
       "meta": {}
     },
@@ -3474,7 +3631,8 @@
         "2026-09-29": 29,
         "2026-09-30": 29,
         "2026-10-01": 29,
-        "2026-10-06": 29
+        "2026-10-06": 29,
+        "2026-10-08": 29
       },
       "meta": {}
     },
@@ -3497,7 +3655,8 @@
         "2026-09-29": 28,
         "2026-09-30": 28,
         "2026-10-01": 28,
-        "2026-10-06": 28
+        "2026-10-06": 28,
+        "2026-10-08": 28
       },
       "meta": {}
     },
@@ -3520,7 +3679,8 @@
         "2026-09-29": 27,
         "2026-09-30": 27,
         "2026-10-01": 27,
-        "2026-10-06": 27
+        "2026-10-06": 27,
+        "2026-10-08": 28
       },
       "meta": {
         "_tried": "2026-09-27"
@@ -3545,7 +3705,8 @@
         "2026-09-29": 27,
         "2026-09-30": 27,
         "2026-10-01": 27,
-        "2026-10-06": 27
+        "2026-10-06": 27,
+        "2026-10-08": 27
       },
       "meta": {}
     },
@@ -3568,7 +3729,8 @@
         "2026-09-29": 27,
         "2026-09-30": 27,
         "2026-10-01": 27,
-        "2026-10-06": 27
+        "2026-10-06": 27,
+        "2026-10-08": 27
       },
       "meta": {}
     },
@@ -3591,7 +3753,8 @@
         "2026-09-29": 27,
         "2026-09-30": 27,
         "2026-10-01": 27,
-        "2026-10-06": 27
+        "2026-10-06": 27,
+        "2026-10-08": 27
       },
       "meta": {}
     },
@@ -3614,7 +3777,8 @@
         "2026-09-29": 27,
         "2026-09-30": 27,
         "2026-10-01": 27,
-        "2026-10-06": 27
+        "2026-10-06": 27,
+        "2026-10-08": 27
       },
       "meta": {
         "abstract": "Skin disease is one of the most common types of human diseases, which may happen to everyone regardless of age, gender or race. Due to the high visual diversity, human diagnosis highly relies on personal experience; and there is a serious shortage of experienced dermatologists in many countries. To alleviate this problem, computer-aided diagnosis with state-of-the-art (SOTA) machine learning techniques would be a promising solution. In this paper, we aim at understanding the performance of convolutional neural network (CNN) based approaches. We first build two versions of skin disease datasets from Internet images: (a) Skin -10, which contains 10 common classes of skin disease with a total of 10,218 images; (b) Skin -100, which is a larger dataset that consists of 19,807 images of 100 skin disease classes. Based on these datasets, we benchmark several SOTA CNN models and show that the accuracy of skin -100 is much lower than the accuracy of skin -10. We then implement an ensemble method based on several CNN models and achieve the best accuracy of 79.01% for Skin -10 and 53.54% for Skin -100. We also present an object detection based approach by introducing bounding boxes into the Skin -10 dataset. Our results show that object detection can help improve the accuracy of some skin disease classes.",
@@ -3661,7 +3825,8 @@
         "2026-09-29": 26,
         "2026-09-30": 26,
         "2026-10-01": 26,
-        "2026-10-06": 26
+        "2026-10-06": 26,
+        "2026-10-08": 26
       },
       "meta": {}
     },
@@ -3684,7 +3849,8 @@
         "2026-09-29": 27,
         "2026-09-30": 27,
         "2026-10-01": 27,
-        "2026-10-06": 27
+        "2026-10-06": 27,
+        "2026-10-08": 27
       },
       "meta": {}
     },
@@ -3707,7 +3873,8 @@
         "2026-09-29": 26,
         "2026-09-30": 26,
         "2026-10-01": 26,
-        "2026-10-06": 26
+        "2026-10-06": 26,
+        "2026-10-08": 26
       },
       "meta": {
         "_tried": "2026-09-28",
@@ -3745,7 +3912,8 @@
         "2026-09-29": 25,
         "2026-09-30": 25,
         "2026-10-01": 25,
-        "2026-10-06": 26
+        "2026-10-06": 26,
+        "2026-10-08": 26
       },
       "meta": {}
     },
@@ -3768,7 +3936,8 @@
         "2026-09-29": 25,
         "2026-09-30": 25,
         "2026-10-01": 25,
-        "2026-10-06": 25
+        "2026-10-06": 25,
+        "2026-10-08": 25
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -3793,7 +3962,8 @@
         "2026-09-29": 25,
         "2026-09-30": 25,
         "2026-10-01": 25,
-        "2026-10-06": 25
+        "2026-10-06": 25,
+        "2026-10-08": 25
       },
       "meta": {}
     },
@@ -3816,7 +3986,8 @@
         "2026-09-29": 25,
         "2026-09-30": 25,
         "2026-10-01": 25,
-        "2026-10-06": 25
+        "2026-10-06": 25,
+        "2026-10-08": 25
       },
       "meta": {}
     },
@@ -3839,7 +4010,8 @@
         "2026-09-29": 25,
         "2026-09-30": 25,
         "2026-10-01": 25,
-        "2026-10-06": 25
+        "2026-10-06": 25,
+        "2026-10-08": 25
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -3864,7 +4036,8 @@
         "2026-09-29": 25,
         "2026-09-30": 25,
         "2026-10-01": 25,
-        "2026-10-06": 25
+        "2026-10-06": 25,
+        "2026-10-08": 25
       },
       "meta": {
         "_tried": "2026-09-22"
@@ -3889,7 +4062,8 @@
         "2026-09-29": 24,
         "2026-09-30": 24,
         "2026-10-01": 24,
-        "2026-10-06": 24
+        "2026-10-06": 24,
+        "2026-10-08": 24
       },
       "meta": {}
     },
@@ -3912,7 +4086,8 @@
         "2026-09-29": 24,
         "2026-09-30": 24,
         "2026-10-01": 24,
-        "2026-10-06": 24
+        "2026-10-06": 24,
+        "2026-10-08": 24
       },
       "meta": {}
     },
@@ -3935,7 +4110,8 @@
         "2026-09-29": 25,
         "2026-09-30": 25,
         "2026-10-01": 25,
-        "2026-10-06": 25
+        "2026-10-06": 25,
+        "2026-10-08": 25
       },
       "meta": {}
     },
@@ -3958,7 +4134,8 @@
         "2026-09-29": 24,
         "2026-09-30": 24,
         "2026-10-01": 24,
-        "2026-10-06": 24
+        "2026-10-06": 24,
+        "2026-10-08": 24
       },
       "meta": {
         "_tried": "2026-10-01"
@@ -3983,7 +4160,8 @@
         "2026-09-29": 23,
         "2026-09-30": 23,
         "2026-10-01": 23,
-        "2026-10-06": 23
+        "2026-10-06": 23,
+        "2026-10-08": 23
       },
       "meta": {
         "_tried": "2026-09-23"
@@ -4008,7 +4186,8 @@
         "2026-09-29": 23,
         "2026-09-30": 23,
         "2026-10-01": 23,
-        "2026-10-06": 23
+        "2026-10-06": 23,
+        "2026-10-08": 23
       },
       "meta": {}
     },
@@ -4031,7 +4210,8 @@
         "2026-09-29": 23,
         "2026-09-30": 23,
         "2026-10-01": 23,
-        "2026-10-06": 25
+        "2026-10-06": 25,
+        "2026-10-08": 25
       },
       "meta": {}
     },
@@ -4054,7 +4234,8 @@
         "2026-09-29": 22,
         "2026-09-30": 22,
         "2026-10-01": 22,
-        "2026-10-06": 22
+        "2026-10-06": 22,
+        "2026-10-08": 22
       },
       "meta": {
         "abstract": "3D multimodal question answering (MQA) plays a crucial role in scene understanding by enabling intelligent agents to comprehend their surroundings in 3D environments. While existing research has primarily focused on indoor household tasks and outdoor roadside autonomous driving tasks, there has been limited exploration of city-level scene understanding tasks. Furthermore, existing research faces challenges in understanding city scenes, due to the absence of spatial semantic information and human-environment interaction information at the city level.To address these challenges, we investigate 3D MQA from both dataset and method perspectives. From the dataset perspective, we introduce a novel 3D MQA dataset named City-3DQA for city-level scene understanding, which is the first dataset to incorporate scene semantic and human-environment interactive tasks within the city. From the method perspective, we propose a Scene graph enhanced City-level Understanding method (Sg-CityU), which utilizes the scene graph to introduce the spatial semantic. A new benchmark is reported and our proposed Sg-CityU achieves accuracy of 63.94 % and 63.76 % in different settings of City-3DQA. Compared to indoor 3D MQA methods and zero-shot using advanced large language models (LLMs), Sg-CityU demonstrates state-of-the-art (SOTA) performance in robustness and generalization.",
@@ -4095,7 +4276,8 @@
         "2026-09-29": 22,
         "2026-09-30": 22,
         "2026-10-01": 22,
-        "2026-10-06": 23
+        "2026-10-06": 23,
+        "2026-10-08": 24
       },
       "meta": {}
     },
@@ -4118,7 +4300,8 @@
         "2026-09-29": 23,
         "2026-09-30": 23,
         "2026-10-01": 23,
-        "2026-10-06": 24
+        "2026-10-06": 24,
+        "2026-10-08": 24
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -4143,7 +4326,8 @@
         "2026-09-29": 22,
         "2026-09-30": 22,
         "2026-10-01": 22,
-        "2026-10-06": 24
+        "2026-10-06": 24,
+        "2026-10-08": 24
       },
       "meta": {}
     },
@@ -4166,7 +4350,8 @@
         "2026-09-29": 22,
         "2026-09-30": 22,
         "2026-10-01": 22,
-        "2026-10-06": 22
+        "2026-10-06": 22,
+        "2026-10-08": 22
       },
       "meta": {}
     },
@@ -4189,7 +4374,8 @@
         "2026-09-29": 21,
         "2026-09-30": 21,
         "2026-10-01": 21,
-        "2026-10-06": 21
+        "2026-10-06": 21,
+        "2026-10-08": 21
       },
       "meta": {}
     },
@@ -4212,7 +4398,8 @@
         "2026-09-29": 20,
         "2026-09-30": 20,
         "2026-10-01": 20,
-        "2026-10-06": 20
+        "2026-10-06": 20,
+        "2026-10-08": 20
       },
       "meta": {}
     },
@@ -4235,7 +4422,8 @@
         "2026-09-29": 20,
         "2026-09-30": 20,
         "2026-10-01": 20,
-        "2026-10-06": 20
+        "2026-10-06": 20,
+        "2026-10-08": 20
       },
       "meta": {}
     },
@@ -4258,7 +4446,8 @@
         "2026-09-29": 20,
         "2026-09-30": 20,
         "2026-10-01": 20,
-        "2026-10-06": 20
+        "2026-10-06": 20,
+        "2026-10-08": 20
       },
       "meta": {
         "abstract": "The coronavirus disease 2019 (COVID-19) pandemic has caused an unprecedented health crisis for the global Digital contact tracing, as a transmission intervention measure, has shown its effectiveness on pandemic control Despite intensive research on digital contact tracing, existing solutions can hardly meet users’ requirements on privacy and convenience In this paper, we propose BU - Trace, a novel permissionless mobile system for privacy-preserving intelligent contact tracing based on QR code and NFC technologies First, a user study is conducted to investigate and quantify the user acceptance of a mobile contact tracing system Second, a decentralized system is proposed to enable contact tracing while protecting user privacy Third, an intelligent behavior detection algorithm is designed to ease the use of our system We implement BU - Trace and conduct extensive experiments in several real-world scenarios The experimental results show that BU - Trace achieves a privacy-preserving and intelligent mobile system for contact tracing without requesting location or other privacy-related permissions © 2021, Springer Nature Switzerland AG",
@@ -4302,7 +4491,8 @@
         "2026-09-29": 20,
         "2026-09-30": 20,
         "2026-10-01": 20,
-        "2026-10-06": 20
+        "2026-10-06": 20,
+        "2026-10-08": 20
       },
       "meta": {}
     },
@@ -4325,7 +4515,8 @@
         "2026-09-29": 20,
         "2026-09-30": 20,
         "2026-10-01": 20,
-        "2026-10-06": 20
+        "2026-10-06": 20,
+        "2026-10-08": 20
       },
       "meta": {}
     },
@@ -4348,7 +4539,8 @@
         "2026-09-29": 20,
         "2026-09-30": 20,
         "2026-10-01": 20,
-        "2026-10-06": 20
+        "2026-10-06": 20,
+        "2026-10-08": 20
       },
       "meta": {}
     },
@@ -4371,7 +4563,8 @@
         "2026-09-29": 20,
         "2026-09-30": 20,
         "2026-10-01": 20,
-        "2026-10-06": 21
+        "2026-10-06": 21,
+        "2026-10-08": 21
       },
       "meta": {
         "_tried": "2026-09-18"
@@ -4396,7 +4589,8 @@
         "2026-09-29": 20,
         "2026-09-30": 20,
         "2026-10-01": 20,
-        "2026-10-06": 21
+        "2026-10-06": 21,
+        "2026-10-08": 21
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -4421,7 +4615,8 @@
         "2026-09-29": 19,
         "2026-09-30": 19,
         "2026-10-01": 19,
-        "2026-10-06": 19
+        "2026-10-06": 19,
+        "2026-10-08": 19
       },
       "meta": {}
     },
@@ -4444,7 +4639,8 @@
         "2026-09-29": 19,
         "2026-09-30": 19,
         "2026-10-01": 19,
-        "2026-10-06": 19
+        "2026-10-06": 19,
+        "2026-10-08": 19
       },
       "meta": {
         "abstract": "Distributed Deep Learning (DDL) has rapidly grown its popularity since it helps boost the training performance on high-performance GPU clusters. Efficient job scheduling is indispensable to maximize the overall performance of the cluster when training multiple jobs simultaneously. However, existing schedulers do not consider the communication contention of multiple communication tasks from different distributed training jobs, which could deteriorate the system performance and prolong the job completion time. In this paper, we first establish a new DDL job scheduling framework which organizes DDL jobs as Directed Acyclic Graphs (DAGs) and considers communication contention between nodes. We then propose an efficient algorithm, LWF-$\\kappa$, to balance the GPU utilization and consolidate the allocated GPUs for each job. When scheduling those communication tasks, we observe that neither avoiding all the contention nor blindly accepting them is optimal to minimize the job completion time. We thus propose a provable algorithm, AdaDUAL, to efficiently schedule those communication tasks. Based on AdaDUAL, we finally propose Ada-SRSF for the DDL job scheduling problem. Simulations on a 64-GPU cluster connected with 10 Gbps Ethernet show that LWF-$\\kappa$ achieves up to $1.59\\times$ improvement over the classical first-fit algorithms. More importantly, Ada-SRSF reduces the average job completion time by $20.1\\%$ and $36.7\\%$, as compared to the SRSF(1) scheme (avoiding all the contention) and the SRSF(2) scheme (blindly accepting all of two-way communication contention) respectively.",
@@ -4481,7 +4677,8 @@
         "2026-09-29": 19,
         "2026-09-30": 19,
         "2026-10-01": 19,
-        "2026-10-06": 19
+        "2026-10-06": 19,
+        "2026-10-08": 19
       },
       "meta": {}
     },
@@ -4504,7 +4701,8 @@
         "2026-09-29": 18,
         "2026-09-30": 18,
         "2026-10-01": 18,
-        "2026-10-06": 18
+        "2026-10-06": 18,
+        "2026-10-08": 18
       },
       "meta": {
         "abstract": "Knowledge editing (KE) has emerged as a prominent alternative that enables efficient and precise information modification inside language models. However, a critical challenge arises in continuous language model editing — a significant performance decline both in knowledge update and retention when the number of edits increases. By dissecting the perturbation weight of language model in continuous KE, we uncover that disentangled and sparsi-fied knowledge representation can significantly alleviate the performance decline. Building on these insights, we introduce AdaEdit, a novel knowledge editing method. Extensive empirical evaluations on multiple LLMs demonstrate that our proposed methods can enhance the performance of edited LLMs in large-size continuous editing regimes, outperforming existing ones without substantially compromising the general abilities of these models.",
@@ -4539,7 +4737,8 @@
         "2026-09-29": 18,
         "2026-09-30": 18,
         "2026-10-01": 18,
-        "2026-10-06": 18
+        "2026-10-06": 18,
+        "2026-10-08": 18
       },
       "meta": {}
     },
@@ -4562,7 +4761,8 @@
         "2026-09-29": 18,
         "2026-09-30": 18,
         "2026-10-01": 18,
-        "2026-10-06": 19
+        "2026-10-06": 19,
+        "2026-10-08": 19
       },
       "meta": {}
     },
@@ -4585,7 +4785,8 @@
         "2026-09-29": 18,
         "2026-09-30": 18,
         "2026-10-01": 18,
-        "2026-10-06": 18
+        "2026-10-06": 18,
+        "2026-10-08": 18
       },
       "meta": {}
     },
@@ -4608,7 +4809,8 @@
         "2026-09-29": 18,
         "2026-09-30": 18,
         "2026-10-01": 18,
-        "2026-10-06": 18
+        "2026-10-06": 18,
+        "2026-10-08": 18
       },
       "meta": {}
     },
@@ -4631,7 +4833,8 @@
         "2026-09-29": 18,
         "2026-09-30": 18,
         "2026-10-01": 18,
-        "2026-10-06": 18
+        "2026-10-06": 18,
+        "2026-10-08": 18
       },
       "meta": {}
     },
@@ -4654,7 +4857,8 @@
         "2026-09-29": 20,
         "2026-09-30": 20,
         "2026-10-01": 20,
-        "2026-10-06": 20
+        "2026-10-06": 20,
+        "2026-10-08": 20
       },
       "meta": {}
     },
@@ -4677,7 +4881,8 @@
         "2026-09-29": 18,
         "2026-09-30": 18,
         "2026-10-01": 18,
-        "2026-10-06": 19
+        "2026-10-06": 19,
+        "2026-10-08": 19
       },
       "meta": {
         "_tried": "2026-09-27"
@@ -4702,7 +4907,8 @@
         "2026-09-29": 17,
         "2026-09-30": 17,
         "2026-10-01": 17,
-        "2026-10-06": 17
+        "2026-10-06": 17,
+        "2026-10-08": 17
       },
       "meta": {}
     },
@@ -4725,7 +4931,8 @@
         "2026-09-29": 17,
         "2026-09-30": 17,
         "2026-10-01": 17,
-        "2026-10-06": 17
+        "2026-10-06": 17,
+        "2026-10-08": 17
       },
       "meta": {}
     },
@@ -4748,7 +4955,8 @@
         "2026-09-29": 16,
         "2026-09-30": 16,
         "2026-10-01": 16,
-        "2026-10-06": 17
+        "2026-10-06": 17,
+        "2026-10-08": 17
       },
       "meta": {}
     },
@@ -4771,7 +4979,8 @@
         "2026-09-29": 16,
         "2026-09-30": 16,
         "2026-10-01": 16,
-        "2026-10-06": 16
+        "2026-10-06": 16,
+        "2026-10-08": 16
       },
       "meta": {}
     },
@@ -4794,7 +5003,8 @@
         "2026-09-29": 16,
         "2026-09-30": 16,
         "2026-10-01": 16,
-        "2026-10-06": 16
+        "2026-10-06": 16,
+        "2026-10-08": 16
       },
       "meta": {}
     },
@@ -4817,7 +5027,8 @@
         "2026-09-29": 16,
         "2026-09-30": 16,
         "2026-10-01": 16,
-        "2026-10-06": 16
+        "2026-10-06": 16,
+        "2026-10-08": 16
       },
       "meta": {}
     },
@@ -4840,7 +5051,8 @@
         "2026-09-29": 16,
         "2026-09-30": 16,
         "2026-10-01": 16,
-        "2026-10-06": 16
+        "2026-10-06": 16,
+        "2026-10-08": 16
       },
       "meta": {}
     },
@@ -4863,7 +5075,8 @@
         "2026-09-29": 16,
         "2026-09-30": 16,
         "2026-10-01": 16,
-        "2026-10-06": 16
+        "2026-10-06": 16,
+        "2026-10-08": 16
       },
       "meta": {
         "abstract": "",
@@ -4904,7 +5117,8 @@
         "2026-09-29": 15,
         "2026-09-30": 15,
         "2026-10-01": 15,
-        "2026-10-06": 15
+        "2026-10-06": 15,
+        "2026-10-08": 15
       },
       "meta": {}
     },
@@ -4927,7 +5141,8 @@
         "2026-09-29": 15,
         "2026-09-30": 15,
         "2026-10-01": 15,
-        "2026-10-06": 16
+        "2026-10-06": 16,
+        "2026-10-08": 16
       },
       "meta": {}
     },
@@ -4950,7 +5165,8 @@
         "2026-09-29": 15,
         "2026-09-30": 15,
         "2026-10-01": 15,
-        "2026-10-06": 15
+        "2026-10-06": 15,
+        "2026-10-08": 15
       },
       "meta": {}
     },
@@ -4973,7 +5189,8 @@
         "2026-09-29": 15,
         "2026-09-30": 15,
         "2026-10-01": 15,
-        "2026-10-06": 15
+        "2026-10-06": 15,
+        "2026-10-08": 15
       },
       "meta": {
         "_tried": "2026-09-25",
@@ -5011,7 +5228,8 @@
         "2026-09-29": 15,
         "2026-09-30": 15,
         "2026-10-01": 15,
-        "2026-10-06": 15
+        "2026-10-06": 15,
+        "2026-10-08": 15
       },
       "meta": {}
     },
@@ -5034,7 +5252,8 @@
         "2026-09-29": 14,
         "2026-09-30": 14,
         "2026-10-01": 14,
-        "2026-10-06": 14
+        "2026-10-06": 14,
+        "2026-10-08": 14
       },
       "meta": {}
     },
@@ -5057,7 +5276,8 @@
         "2026-09-29": 15,
         "2026-09-30": 15,
         "2026-10-01": 15,
-        "2026-10-06": 15
+        "2026-10-06": 15,
+        "2026-10-08": 15
       },
       "meta": {}
     },
@@ -5080,7 +5300,8 @@
         "2026-09-29": 14,
         "2026-09-30": 14,
         "2026-10-01": 14,
-        "2026-10-06": 14
+        "2026-10-06": 14,
+        "2026-10-08": 14
       },
       "meta": {}
     },
@@ -5103,7 +5324,8 @@
         "2026-09-29": 14,
         "2026-09-30": 14,
         "2026-10-01": 14,
-        "2026-10-06": 14
+        "2026-10-06": 14,
+        "2026-10-08": 14
       },
       "meta": {}
     },
@@ -5126,7 +5348,8 @@
         "2026-09-29": 14,
         "2026-09-30": 14,
         "2026-10-01": 14,
-        "2026-10-06": 14
+        "2026-10-06": 14,
+        "2026-10-08": 14
       },
       "meta": {}
     },
@@ -5149,7 +5372,8 @@
         "2026-09-29": 14,
         "2026-09-30": 14,
         "2026-10-01": 14,
-        "2026-10-06": 14
+        "2026-10-06": 14,
+        "2026-10-08": 14
       },
       "meta": {}
     },
@@ -5172,7 +5396,8 @@
         "2026-09-29": 13,
         "2026-09-30": 13,
         "2026-10-01": 13,
-        "2026-10-06": 14
+        "2026-10-06": 14,
+        "2026-10-08": 14
       },
       "meta": {}
     },
@@ -5195,7 +5420,8 @@
         "2026-09-29": 13,
         "2026-09-30": 13,
         "2026-10-01": 13,
-        "2026-10-06": 13
+        "2026-10-06": 13,
+        "2026-10-08": 13
       },
       "meta": {}
     },
@@ -5218,7 +5444,8 @@
         "2026-09-29": 13,
         "2026-09-30": 13,
         "2026-10-01": 13,
-        "2026-10-06": 13
+        "2026-10-06": 13,
+        "2026-10-08": 13
       },
       "meta": {}
     },
@@ -5241,7 +5468,8 @@
         "2026-09-29": 13,
         "2026-09-30": 13,
         "2026-10-01": 13,
-        "2026-10-06": 13
+        "2026-10-06": 13,
+        "2026-10-08": 13
       },
       "meta": {
         "_tried": "2026-09-25",
@@ -5293,7 +5521,8 @@
         "2026-09-29": 13,
         "2026-09-30": 13,
         "2026-10-01": 13,
-        "2026-10-06": 13
+        "2026-10-06": 13,
+        "2026-10-08": 13
       },
       "meta": {}
     },
@@ -5316,7 +5545,8 @@
         "2026-09-29": 13,
         "2026-09-30": 13,
         "2026-10-01": 13,
-        "2026-10-06": 13
+        "2026-10-06": 13,
+        "2026-10-08": 13
       },
       "meta": {}
     },
@@ -5339,7 +5569,8 @@
         "2026-09-29": 13,
         "2026-09-30": 13,
         "2026-10-01": 13,
-        "2026-10-06": 13
+        "2026-10-06": 13,
+        "2026-10-08": 13
       },
       "meta": {}
     },
@@ -5362,7 +5593,8 @@
         "2026-09-29": 12,
         "2026-09-30": 12,
         "2026-10-01": 12,
-        "2026-10-06": 12
+        "2026-10-06": 12,
+        "2026-10-08": 12
       },
       "meta": {}
     },
@@ -5385,7 +5617,8 @@
         "2026-09-29": 12,
         "2026-09-30": 12,
         "2026-10-01": 12,
-        "2026-10-06": 12
+        "2026-10-06": 12,
+        "2026-10-08": 12
       },
       "meta": {
         "_tried": "2026-09-18"
@@ -5410,7 +5643,8 @@
         "2026-09-29": 12,
         "2026-09-30": 12,
         "2026-10-01": 12,
-        "2026-10-06": 12
+        "2026-10-06": 12,
+        "2026-10-08": 12
       },
       "meta": {}
     },
@@ -5433,7 +5667,8 @@
         "2026-09-29": 11,
         "2026-09-30": 11,
         "2026-10-01": 11,
-        "2026-10-06": 11
+        "2026-10-06": 11,
+        "2026-10-08": 11
       },
       "meta": {}
     },
@@ -5456,7 +5691,8 @@
         "2026-09-29": 11,
         "2026-09-30": 11,
         "2026-10-01": 11,
-        "2026-10-06": 11
+        "2026-10-06": 11,
+        "2026-10-08": 11
       },
       "meta": {}
     },
@@ -5479,7 +5715,8 @@
         "2026-09-29": 11,
         "2026-09-30": 11,
         "2026-10-01": 11,
-        "2026-10-06": 11
+        "2026-10-06": 11,
+        "2026-10-08": 12
       },
       "meta": {}
     },
@@ -5502,7 +5739,8 @@
         "2026-09-29": 11,
         "2026-09-30": 11,
         "2026-10-01": 11,
-        "2026-10-06": 11
+        "2026-10-06": 11,
+        "2026-10-08": 11
       },
       "meta": {
         "abstract": "",
@@ -5540,7 +5778,8 @@
         "2026-09-29": 11,
         "2026-09-30": 11,
         "2026-10-01": 11,
-        "2026-10-06": 11
+        "2026-10-06": 11,
+        "2026-10-08": 11
       },
       "meta": {}
     },
@@ -5563,7 +5802,8 @@
         "2026-09-29": 11,
         "2026-09-30": 11,
         "2026-10-01": 11,
-        "2026-10-06": 11
+        "2026-10-06": 11,
+        "2026-10-08": 11
       },
       "meta": {}
     },
@@ -5586,7 +5826,8 @@
         "2026-09-29": 11,
         "2026-09-30": 11,
         "2026-10-01": 11,
-        "2026-10-06": 11
+        "2026-10-06": 11,
+        "2026-10-08": 11
       },
       "meta": {}
     },
@@ -5609,7 +5850,8 @@
         "2026-09-29": 10,
         "2026-09-30": 10,
         "2026-10-01": 10,
-        "2026-10-06": 11
+        "2026-10-06": 11,
+        "2026-10-08": 12
       },
       "meta": {}
     },
@@ -5632,7 +5874,8 @@
         "2026-09-29": 11,
         "2026-09-30": 11,
         "2026-10-01": 11,
-        "2026-10-06": 12
+        "2026-10-06": 12,
+        "2026-10-08": 12
       },
       "meta": {
         "abstract": "Physics-informed convolutional neural networks (PICNNs) have emerged as a powerful extension of physics-informed neural networks (PINNs), offering superior generalization and efficiency for solving systems of partial differential equations (PDEs) modeling complex physical systems. However, current PICNNs, which rely on manual designs of both network architectures and loss functions tailored to specific PDEs, may fail to solve other types of PDEs that require different architectural designs and loss function formulations. To address these limitations, we propose leveraging automated machine learning (AutoML) to efficiently search for optimal network architectures and loss functions tailored to specific physical problems. By designing specialized search spaces and proposing a two-stage search strategy, our automated method substantially outperforms manually designed state-of-the-art models. It achieves up to a 59.8-fold reduction in prediction error and an average 13.31-fold error reduction across six diverse PDE systems spanning heat transfer, free fluid flow, and porous media flow, significantly enhancing the modeling capabilities for physical systems governed by steady or unsteady PDEs. An advantage of our automated method is that it can help researchers, without expertise in designing neural networks, develop the best models for their scientific problems. Physics-informed convolutional neural networks are effective extensions of physics-informed neural networks for solving systems of partial differential equations modeling complex physical systems. Using automated machine learning, this study offers a framework to achieve optimal network architectures and loss functions that outperform manually designed state-of-the-art models, with a 59.8-fold reduction in prediction error across six systems including heat transfer, incompressible fluid flow, and porous media flow.",
@@ -5668,7 +5911,8 @@
         "2026-09-29": 10,
         "2026-09-30": 10,
         "2026-10-01": 10,
-        "2026-10-06": 10
+        "2026-10-06": 10,
+        "2026-10-08": 10
       },
       "meta": {}
     },
@@ -5691,7 +5935,8 @@
         "2026-09-29": 10,
         "2026-09-30": 10,
         "2026-10-01": 10,
-        "2026-10-06": 10
+        "2026-10-06": 10,
+        "2026-10-08": 10
       },
       "meta": {}
     },
@@ -5714,7 +5959,8 @@
         "2026-09-29": 10,
         "2026-09-30": 10,
         "2026-10-01": 10,
-        "2026-10-06": 10
+        "2026-10-06": 10,
+        "2026-10-08": 10
       },
       "meta": {}
     },
@@ -5737,7 +5983,8 @@
         "2026-09-29": 9,
         "2026-09-30": 9,
         "2026-10-01": 9,
-        "2026-10-06": 10
+        "2026-10-06": 10,
+        "2026-10-08": 10
       },
       "meta": {}
     },
@@ -5760,7 +6007,8 @@
         "2026-09-29": 9,
         "2026-09-30": 9,
         "2026-10-01": 9,
-        "2026-10-06": 9
+        "2026-10-06": 9,
+        "2026-10-08": 9
       },
       "meta": {}
     },
@@ -5783,7 +6031,8 @@
         "2026-09-29": 9,
         "2026-09-30": 9,
         "2026-10-01": 9,
-        "2026-10-06": 10
+        "2026-10-06": 10,
+        "2026-10-08": 10
       },
       "meta": {}
     },
@@ -5806,7 +6055,8 @@
         "2026-09-29": 9,
         "2026-09-30": 9,
         "2026-10-01": 9,
-        "2026-10-06": 9
+        "2026-10-06": 9,
+        "2026-10-08": 9
       },
       "meta": {}
     },
@@ -5829,7 +6079,8 @@
         "2026-09-29": 9,
         "2026-09-30": 9,
         "2026-10-01": 9,
-        "2026-10-06": 9
+        "2026-10-06": 9,
+        "2026-10-08": 9
       },
       "meta": {}
     },
@@ -5852,7 +6103,8 @@
         "2026-09-29": 9,
         "2026-09-30": 9,
         "2026-10-01": 9,
-        "2026-10-06": 9
+        "2026-10-06": 9,
+        "2026-10-08": 9
       },
       "meta": {
         "abstract": "Many indoor localization systems rely on a set of reference anchors with known positions. A target's location is estimated from a set of distances between the target and its surrounding anchors, and hence the selection of anchors affects the localization accuracy. However, it remains a challenge to select the best set of anchors. In this paper, we study how to appropriately make use of the surrounding anchors for localizing a target. We first construct different candidate anchor clusters by selecting different number of anchors with the strongest received signals. Then for each candidate cluster, we propose a weighted min-max algorithm to provide a location estimation. Finally, we introduce a weighted geometric dilution of precision (w-GDOP) algorithm that combines the estimations from multiple clusters by quantifying their estimation accuracy. We evaluate the performance of our solution through simulations and real-world experiments. Our results show that the proposed anchor selection scheme and localization algorithm significantly improve the localization accuracy in large indoor environments.",
@@ -5889,7 +6141,8 @@
         "2026-09-29": 9,
         "2026-09-30": 9,
         "2026-10-01": 9,
-        "2026-10-06": 9
+        "2026-10-06": 9,
+        "2026-10-08": 9
       },
       "meta": {
         "abstract": "",
@@ -5927,7 +6180,8 @@
         "2026-09-29": 8,
         "2026-09-30": 8,
         "2026-10-01": 8,
-        "2026-10-06": 8
+        "2026-10-06": 8,
+        "2026-10-08": 8
       },
       "meta": {}
     },
@@ -5950,7 +6204,8 @@
         "2026-09-29": 8,
         "2026-09-30": 8,
         "2026-10-01": 8,
-        "2026-10-06": 8
+        "2026-10-06": 8,
+        "2026-10-08": 8
       },
       "meta": {}
     },
@@ -5973,7 +6228,8 @@
         "2026-09-29": 8,
         "2026-09-30": 8,
         "2026-10-01": 8,
-        "2026-10-06": 8
+        "2026-10-06": 8,
+        "2026-10-08": 8
       },
       "meta": {}
     },
@@ -5996,7 +6252,8 @@
         "2026-09-29": 8,
         "2026-09-30": 8,
         "2026-10-01": 8,
-        "2026-10-06": 8
+        "2026-10-06": 8,
+        "2026-10-08": 8
       },
       "meta": {}
     },
@@ -6019,7 +6276,8 @@
         "2026-09-29": 8,
         "2026-09-30": 8,
         "2026-10-01": 8,
-        "2026-10-06": 8
+        "2026-10-06": 8,
+        "2026-10-08": 8
       },
       "meta": {}
     },
@@ -6042,7 +6300,8 @@
         "2026-09-29": 9,
         "2026-09-30": 9,
         "2026-10-01": 9,
-        "2026-10-06": 9
+        "2026-10-06": 9,
+        "2026-10-08": 10
       },
       "meta": {}
     },
@@ -6065,7 +6324,8 @@
         "2026-09-29": 8,
         "2026-09-30": 8,
         "2026-10-01": 8,
-        "2026-10-06": 8
+        "2026-10-06": 8,
+        "2026-10-08": 8
       },
       "meta": {}
     },
@@ -6088,7 +6348,8 @@
         "2026-09-29": 7,
         "2026-09-30": 7,
         "2026-10-01": 7,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {
         "abstract": "Artificial Intelligence Generated Content (AIGC) has gained significant popularity for creating diverse content. Current AIGC models primarily focus on content quality within a centralized framework, resulting in a high service delay and negative user experiences. However, not only does the workload of an AIGC task depend on the AIGC model's complexity rather than the amount of data, but the large model and its multi-layer encoder structure also result in a huge demand for computational and memory resources. These unique characteristics pose new challenges in its modeling, deployment, and scheduling at edge networks. Thus, we model an offloading problem among edges for providing real AIGC services and propose LAD-TS, a novel Latent Action Diffusion-based Task Scheduling method that orchestrates multiple edge servers for expedited AIGC services. The LAD-TS generates a near-optimal offloading decision by leveraging the diffusion model's conditional generation capability and the reinforcement learning's environment interaction ability, thereby minimizing the service delays under multiple resource constraints. Meanwhile, a latent action diffusion strategy is designed to guide decision generation by utilizing historical action probability, enabling rapid achievement of near-optimal decisions. Furthermore, we develop DEdgeAI, a prototype edge system with a refined AIGC model deployment to implement and evaluate our LAD-TS method. DEdgeAI provides a real AIGC service for users, demonstrating up to 29.18% shorter service delays than the current five representative AIGC platforms. We release our open-source code at https://github.com/ChangfuXu/DEdgeAI/.",
@@ -6129,7 +6390,8 @@
         "2026-09-29": 7,
         "2026-09-30": 7,
         "2026-10-01": 7,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {}
     },
@@ -6152,7 +6414,8 @@
         "2026-09-29": 7,
         "2026-09-30": 7,
         "2026-10-01": 7,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {}
     },
@@ -6175,7 +6438,8 @@
         "2026-09-29": 7,
         "2026-09-30": 7,
         "2026-10-01": 7,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {}
     },
@@ -6198,7 +6462,8 @@
         "2026-09-29": 7,
         "2026-09-30": 7,
         "2026-10-01": 7,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {}
     },
@@ -6221,7 +6486,8 @@
         "2026-09-29": 7,
         "2026-09-30": 7,
         "2026-10-01": 7,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {}
     },
@@ -6244,7 +6510,8 @@
         "2026-09-29": 7,
         "2026-09-30": 7,
         "2026-10-01": 7,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {
         "_tried": "2026-09-26",
@@ -6283,7 +6550,8 @@
         "2026-09-29": 7,
         "2026-09-30": 7,
         "2026-10-01": 7,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {
         "abstract": "",
@@ -6317,7 +6585,8 @@
         "2026-09-29": 7,
         "2026-09-30": 7,
         "2026-10-01": 7,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {}
     },
@@ -6340,7 +6609,8 @@
         "2026-09-29": 7,
         "2026-09-30": 7,
         "2026-10-01": 7,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {
         "abstract": "",
@@ -6378,7 +6648,8 @@
         "2026-09-29": 7,
         "2026-09-30": 7,
         "2026-10-01": 7,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {
         "abstract": "",
@@ -6416,7 +6687,8 @@
         "2026-09-29": 6,
         "2026-09-30": 6,
         "2026-10-01": 6,
-        "2026-10-06": 6
+        "2026-10-06": 6,
+        "2026-10-08": 6
       },
       "meta": {}
     },
@@ -6439,7 +6711,8 @@
         "2026-09-29": 6,
         "2026-09-30": 6,
         "2026-10-01": 6,
-        "2026-10-06": 6
+        "2026-10-06": 6,
+        "2026-10-08": 6
       },
       "meta": {}
     },
@@ -6462,7 +6735,8 @@
         "2026-09-29": 6,
         "2026-09-30": 6,
         "2026-10-01": 6,
-        "2026-10-06": 6
+        "2026-10-06": 6,
+        "2026-10-08": 6
       },
       "meta": {}
     },
@@ -6485,7 +6759,8 @@
         "2026-09-29": 6,
         "2026-09-30": 6,
         "2026-10-01": 6,
-        "2026-10-06": 6
+        "2026-10-06": 6,
+        "2026-10-08": 6
       },
       "meta": {
         "_tried": "2026-09-25"
@@ -6510,7 +6785,8 @@
         "2026-09-29": 6,
         "2026-09-30": 6,
         "2026-10-01": 6,
-        "2026-10-06": 6
+        "2026-10-06": 6,
+        "2026-10-08": 6
       },
       "meta": {}
     },
@@ -6533,7 +6809,8 @@
         "2026-09-29": 6,
         "2026-09-30": 6,
         "2026-10-01": 6,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {}
     },
@@ -6556,7 +6833,8 @@
         "2026-09-29": 6,
         "2026-09-30": 6,
         "2026-10-01": 6,
-        "2026-10-06": 6
+        "2026-10-06": 6,
+        "2026-10-08": 6
       },
       "meta": {
         "abstract": "Abstract Conventionally, it is a prerequisite to acquire a good number of annotated data to train an accurate classifier. However, the acquisition of such dataset is usually infeasible due to the high annotation cost. Therefore, semi-supervised learning has emerged and attracts increasing research efforts in recent years. Essentially, semi-supervised learning is sensitive to the manner how the unlabeled data is sampled. However, the model performance might be seriously deteriorated if biased unlabeled data is sampled at the early stage. In this paper, an unbiased semi-supervised cluster tree is proposed which is learnt using only very few labeled data. Specifically, a K-means algorithm is adopted to build each level of this hierarchical tree in a decent top-down manner. The number of clusters is determined by the number of classes contained in the labeled data. The confidence error of the cluster tree is theoretically analyzed which is then used to prune the tree. Empirical studies on several datasets have demonstrated that the proposed semi-supervised cluster tree is superior to the state-of-the-art semi-supervised learning algorithms with respect to classification accuracy.",
@@ -6594,7 +6872,8 @@
         "2026-09-29": 6,
         "2026-09-30": 6,
         "2026-10-01": 6,
-        "2026-10-06": 6
+        "2026-10-06": 6,
+        "2026-10-08": 6
       },
       "meta": {}
     },
@@ -6617,7 +6896,8 @@
         "2026-09-29": 6,
         "2026-09-30": 6,
         "2026-10-01": 6,
-        "2026-10-06": 6
+        "2026-10-06": 6,
+        "2026-10-08": 6
       },
       "meta": {}
     },
@@ -6640,7 +6920,8 @@
         "2026-09-29": 6,
         "2026-09-30": 6,
         "2026-10-01": 6,
-        "2026-10-06": 6
+        "2026-10-06": 6,
+        "2026-10-08": 6
       },
       "meta": {}
     },
@@ -6663,7 +6944,8 @@
         "2026-09-29": 6,
         "2026-09-30": 6,
         "2026-10-01": 6,
-        "2026-10-06": 6
+        "2026-10-06": 6,
+        "2026-10-08": 6
       },
       "meta": {}
     },
@@ -6686,7 +6968,8 @@
         "2026-09-29": 5,
         "2026-09-30": 5,
         "2026-10-01": 5,
-        "2026-10-06": 5
+        "2026-10-06": 5,
+        "2026-10-08": 5
       },
       "meta": {}
     },
@@ -6709,7 +6992,8 @@
         "2026-09-29": 7,
         "2026-09-30": 7,
         "2026-10-01": 7,
-        "2026-10-06": 7
+        "2026-10-06": 7,
+        "2026-10-08": 7
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -6734,7 +7018,8 @@
         "2026-09-29": 6,
         "2026-09-30": 6,
         "2026-10-01": 6,
-        "2026-10-06": 6
+        "2026-10-06": 6,
+        "2026-10-08": 6
       },
       "meta": {}
     },
@@ -6757,7 +7042,8 @@
         "2026-09-29": 5,
         "2026-09-30": 5,
         "2026-10-01": 5,
-        "2026-10-06": 5
+        "2026-10-06": 5,
+        "2026-10-08": 5
       },
       "meta": {}
     },
@@ -6780,7 +7066,8 @@
         "2026-09-29": 5,
         "2026-09-30": 5,
         "2026-10-01": 5,
-        "2026-10-06": 5
+        "2026-10-06": 5,
+        "2026-10-08": 5
       },
       "meta": {}
     },
@@ -6803,7 +7090,8 @@
         "2026-09-29": 5,
         "2026-09-30": 5,
         "2026-10-01": 5,
-        "2026-10-06": 5
+        "2026-10-06": 5,
+        "2026-10-08": 5
       },
       "meta": {}
     },
@@ -6826,7 +7114,8 @@
         "2026-09-29": 5,
         "2026-09-30": 5,
         "2026-10-01": 5,
-        "2026-10-06": 5
+        "2026-10-06": 5,
+        "2026-10-08": 5
       },
       "meta": {}
     },
@@ -6849,7 +7138,8 @@
         "2026-09-29": 5,
         "2026-09-30": 5,
         "2026-10-01": 5,
-        "2026-10-06": 5
+        "2026-10-06": 5,
+        "2026-10-08": 5
       },
       "meta": {}
     },
@@ -6872,7 +7162,8 @@
         "2026-09-29": 5,
         "2026-09-30": 5,
         "2026-10-01": 5,
-        "2026-10-06": 5
+        "2026-10-06": 5,
+        "2026-10-08": 5
       },
       "meta": {
         "abstract": "",
@@ -6909,7 +7200,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -6932,7 +7224,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -6955,7 +7248,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -6978,7 +7272,8 @@
         "2026-09-29": 5,
         "2026-09-30": 5,
         "2026-10-01": 5,
-        "2026-10-06": 5
+        "2026-10-06": 5,
+        "2026-10-08": 5
       },
       "meta": {}
     },
@@ -7001,7 +7296,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -7024,7 +7320,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -7047,7 +7344,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -7081,7 +7379,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -7104,7 +7403,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -7127,7 +7427,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -7150,7 +7451,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {
         "abstract": "In cognitive radio networks, rendezvous is a fundamental operation by which cognitive users establish communication links. Most of existing works were devoted to shortening the time-to-rendezvous (TTR) but paid little attention to qualities of the channels on which rendezvous is achieved. In fact, qualities of channels, such as resistance to primary users' activities, have a great effect on the rendezvous operation. If users achieve a rendezvous on a low-quality channel, the communication link is unstable and the communication performance is poor. In this case, re- rendezvous is required which results in considerable communication overhead and a large latency. In this paper, we first show that actual TTRs of existing rendezvous solutions increase by 65.40-104.38% if qualities of channels are not perfect. Then we propose a Quality-Aware Rendezvous Framework (QARF) that can be applied to any existing ren-dezvous algorithms to achieve rendezvous on high-quality channels. The basic idea of QARF is to expand the set of available channels by selectively duplicating high-quality channels. We prove that QARF can reduce the expected TTR of any rendezvous algorithm when the expanded ratio $\\lambda$ is smaller than the threshold $(-3+\\sqrt{1+4(\\frac{\\sigma}{\\mu})^{2}}) / 2$, where $\\mu$ and $\\sigma$, respectively, are the mean and the standard deviation of qualities of channels. We further prove that QARF can always reduce the expected TTR of Random algorithm by a factor of $1+(\\frac{\\sigma}{\\mu})^{2}$. Extensive experiments are conducted and the results show that QARF can significantly reduce the TTRs of the existing rendezvous algorithms by 10.50-51.05 % when qualities of channels are taken into account.",
@@ -7189,7 +7491,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -7212,7 +7515,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -7235,7 +7539,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -7258,7 +7563,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {
         "_tried": "2026-09-19",
@@ -7295,7 +7601,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -7318,7 +7625,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {
         "_tried": "2026-09-22"
@@ -7343,7 +7651,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 5
+        "2026-10-06": 5,
+        "2026-10-08": 5
       },
       "meta": {}
     },
@@ -7366,7 +7675,8 @@
         "2026-09-29": 3,
         "2026-09-30": 3,
         "2026-10-01": 3,
-        "2026-10-06": 3
+        "2026-10-06": 3,
+        "2026-10-08": 3
       },
       "meta": {}
     },
@@ -7389,7 +7699,8 @@
         "2026-09-29": 4,
         "2026-09-30": 4,
         "2026-10-01": 4,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -7412,7 +7723,8 @@
         "2026-09-29": 3,
         "2026-09-30": 3,
         "2026-10-01": 3,
-        "2026-10-06": 3
+        "2026-10-06": 3,
+        "2026-10-08": 3
       },
       "meta": {}
     },
@@ -7435,7 +7747,8 @@
         "2026-09-29": 3,
         "2026-09-30": 3,
         "2026-10-01": 3,
-        "2026-10-06": 3
+        "2026-10-06": 3,
+        "2026-10-08": 3
       },
       "meta": {}
     },
@@ -7458,7 +7771,8 @@
         "2026-09-29": 3,
         "2026-09-30": 3,
         "2026-10-01": 3,
-        "2026-10-06": 3
+        "2026-10-06": 3,
+        "2026-10-08": 3
       },
       "meta": {}
     },
@@ -7481,7 +7795,8 @@
         "2026-09-29": 3,
         "2026-09-30": 3,
         "2026-10-01": 3,
-        "2026-10-06": 3
+        "2026-10-06": 3,
+        "2026-10-08": 3
       },
       "meta": {
         "abstract": "We present GASS, an LLVM-based open-source compiler for NVIDIA GPU's SASS machine assembly. GASS is the first open-source compiler targeting SASS, and it provides a unified toolchain for currently fragmented low-level performance research on NVIDIA GPUs. GASS supports all recent architectures, including Volta, Turing, and Ampere. Our evaluation shows that our specialized optimizations deliver significant speedup over LLVM's algorithms.",
@@ -7517,7 +7832,8 @@
         "2026-09-29": 3,
         "2026-09-30": 3,
         "2026-10-01": 3,
-        "2026-10-06": 3
+        "2026-10-06": 3,
+        "2026-10-08": 3
       },
       "meta": {}
     },
@@ -7540,7 +7856,8 @@
         "2026-09-29": 3,
         "2026-09-30": 3,
         "2026-10-01": 3,
-        "2026-10-06": 3
+        "2026-10-06": 3,
+        "2026-10-08": 3
       },
       "meta": {}
     },
@@ -7563,7 +7880,8 @@
         "2026-09-29": 3,
         "2026-09-30": 3,
         "2026-10-01": 3,
-        "2026-10-06": 3
+        "2026-10-06": 3,
+        "2026-10-08": 3
       },
       "meta": {}
     },
@@ -7586,7 +7904,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -7609,7 +7928,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 3
+        "2026-10-06": 3,
+        "2026-10-08": 3
       },
       "meta": {}
     },
@@ -7632,7 +7952,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {}
     },
@@ -7655,7 +7976,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -7678,7 +8000,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -7701,7 +8024,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {
         "abstract": "As Large Language Models (LLMs) become more powerful and autonomous, they increasingly face conflicts and dilemmas in many scenarios. We first summarize and taxonomize these diverse conflicts. Then, we model the LLM's preferences to make different choices as a priority graph, where instructions and values are nodes, and the edges represent context-specific priorities determined by the model's output distribution. This graph reveals that a unified stable LLM alignment is very challenging, because the graph is neither static nor necessarily consistent in different contexts. Besides, it also reveals a potential vulnerability: priority hacking, where adversaries can craft deceptive contexts to manipulate the graph and bypass safety alignments. To counter this, we propose a runtime verification mechanism, enabling LLMs to query external sources to ground their context and resist manipulation. While this approach enhances robustness, we also acknowledge that many ethical and value dilemmas are philosophically irreducible, posing a long-term, open challenge for the future of AI alignment.",
@@ -7740,7 +8064,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -7763,7 +8088,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -7786,7 +8112,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -7809,7 +8136,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {
         "abstract": "The pandemic of coronavirus disease 2019 (COVID-19) has had a significant global impact, and computed tomography (CT) scans play a crucial role in diagnosing COVID-19, where the research of deep learning-based lung infection segmentation attracts more and more attention. However, existing segmentation methods often struggle with challenges unique to COVID-19 CT images, such as scattered regions, varying numbers of infected areas, diverse sizes, intricate backgrounds, and indistinct boundaries. To address these challenges, we propose a cascaded aggregation network (CANet) which incorporates a multi-level feature encoder, a cascaded decoding module, and a pyramid aggregation module. First, the multilevel feature encoder captures and enhances high-level semantic cues across multiple levels, allowing CANet to effectively deal with the spatial variability of infection areas. Then, the cascaded decoding module combines multilevel deep features using a hierarchical structure. It progressively fuses information from different levels through two partial decoder (PD) blocks and a dense feature aggregation (DFA) block. In this way, we can ensure detailed feature refinement and global semantic consistency. After that, the pyramid aggregation module further refines the fused features. By using three attention-aware feature integration (AFI) units, it dynamically adjusts feature importance across different spatial scales, improving the segmentation accuracy of infection regions with varying sizes and complex backgrounds. By following this approach, we can achieve the final premium segmentation results. Extensive experiments show that CANet outperforms 13 state-of-the-art methods. Specifically, CANet achieves improvements over the top-level model BS-Net in sensitivity (2.2%), $F1$ -score (0.5%), and Hausdorff distance (HD) (10.5%), demonstrating its superior performance in segmenting COVID-19 lung infections.",
@@ -7849,7 +8177,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 3
+        "2026-10-06": 3,
+        "2026-10-08": 3
       },
       "meta": {}
     },
@@ -7872,7 +8201,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -7895,7 +8225,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -7918,7 +8249,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -7941,7 +8273,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {
         "_tried": "2026-09-20"
@@ -7966,7 +8299,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -7989,7 +8323,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {
         "abstract": "",
@@ -8025,7 +8360,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -8048,7 +8384,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {
         "_tried": "2026-09-25",
@@ -8084,7 +8421,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -8107,7 +8445,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8130,7 +8469,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8153,7 +8493,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8176,7 +8517,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8199,7 +8541,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {
         "abstract": "Overlapping communication and computation operators is a common practice to hide communication overheads, accelerating large language models (LLMs) training on GPU clusters. Existing systems achieve this through either intra-operator fusion (IntraFusion), which packs operators into a single large kernel, or inter-operator decomposition (InterDecom), which splits a tensor into multiple parts for pipelined execution. However, current IntraFusion methods underutilize network topology, causing suboptimal bandwidth usage on multiGPU systems, while InterDecom struggles to determine the optimal number of decomposed parts for peak performance. To address these issues, we introduce Compass, which employs systematic optimization and comprehensive modeling. First, we design a novel IntraFusion algorithm leveraging double-ring communications to maximize bandwidth utilization in hybrid NVLink-PCIe systems, achieving 1.5x-2.5x speedups. Second, we develop a decomposition model that mathematically derives the optimal tensor decomposition degree for InterDecom, improving performance by up to 1.3x. Finally, we develop a unified performance framework that accurately determines the best strategy for different scenarios. We validate Compass through extensive evaluation across 288 configurations and end-to-end experiments on real-world applications. The results demonstrate that Compass consistently selects the optimal strategy, achieving up to a 1.42x end-to-end speedup compared to the Megatron-LM baseline.",
@@ -8238,7 +8581,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8261,7 +8605,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 2,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -8284,7 +8629,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8307,7 +8653,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -8330,7 +8677,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8353,7 +8701,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8376,7 +8725,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8399,7 +8749,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8422,7 +8773,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8445,7 +8797,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8468,7 +8821,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8491,7 +8845,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8514,7 +8869,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8537,7 +8893,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8560,7 +8917,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8583,7 +8941,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8606,7 +8965,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8629,7 +8989,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8652,7 +9013,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8675,7 +9037,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {}
     },
@@ -8698,10 +9061,24 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {
-        "_tried": "2026-09-18"
+        "abstract": "",
+        "arxiv": "",
+        "authors": [
+          "Hao Yin",
+          "Xiaowen Chu",
+          "Chuang Lin",
+          "Feng Qiu",
+          "G. Min"
+        ],
+        "doi": "10.1007/11582267_22",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/1d89914fa6e2d5d58774d002d388d2c8f5260f94",
+        "tldr": "This paper proposes a novel and scalable Media-dependent Key Management and Distribution (MKMD) solution that embeds key management messages in video data so as to save network bandwidth and enhance the security level, and most importantly, without sacrificing the quality of video content too much.",
+        "venue": "Pacific Rim Conference on Multimedia"
       }
     },
     "A key embedded video codec for secure video multicast": {
@@ -8723,7 +9100,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {
         "_tried": "2026-09-18"
@@ -8748,7 +9126,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 1
+        "2026-10-06": 1,
+        "2026-10-08": 1
       },
       "meta": {
         "abstract": "Long-running molecular simulation campaigns require repeated continuation from saved states, provenance-aware progression, adaptive assessment, and occasional interpretation of workflow conditions that cannot be resolved safely by fixed rules. Here, we present Agent-MD, a framework that places large language model (LLM) reasoning selectively at campaign construction and event-triggered review, while routine simulation, analysis, continuation, archiving, and state progression are handled by a persistent rule-based campaign agent using approved policies and explicit state records. Agent-MD was demonstrated in a grand canonical Monte Carlo-molecular dynamics (GCMC-MD) water-vapor desorption campaign comprising five montmorillonite systems and three sequential relative-humidity states (RH = 0.9-0.3-0.1). Across 15 system-RH states, the workflow completed 120 segmented simulation cycles with state-specific sampling lengths and provenance-aware restart inheritance. Routine production required no live reasoning-agent invocation, while one state reached a review boundary; two preserved incidents were subsequently evaluated through blinded reasoning-agent replay, which identified the underlying workflow problems and recommended appropriate follow-up actions. The simulations also revealed distinct composition-dependent low-RH responses, with Ca-bearing montmorillonite retaining more interlayer water and maintaining a larger basal spacing than the Na- and K-bearing systems, while the highest-charge Na system retained more residual water under dry conditions. These results demonstrate that long-running scientific workflows need not place every operation inside an LLM reasoning loop: selective reasoning can instead be combined with deterministic execution, structured evidence, and validated control handoffs to provide reproducible and auditable agent-assisted molecular simulation.",
@@ -8785,7 +9164,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -8808,7 +9188,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -8831,7 +9212,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -8854,7 +9236,8 @@
         "2026-09-29": 1,
         "2026-09-30": 1,
         "2026-10-01": 1,
-        "2026-10-06": 2
+        "2026-10-06": 2,
+        "2026-10-08": 2
       },
       "meta": {}
     },
@@ -8877,7 +9260,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "abstract": "Evaluating Large Language Models (LLMs) incurs prohibitive computational overhead during continuous development processes. While coreset selection accelerates evaluation, existing methods either suffer from a severe ``cold start''bottleneck requiring massive historical logs (e.g., Item Response Theory) or exhibit a surface lexical bias that misses the underlying reasoning manifold of tasks. We propose CoT-Core, a novel training-free core question selection framework. Recognizing that lexically disparate questions can share equivalent underlying logic, CoT-Core prompts LLMs to unroll zero-shot Chain-of-Thought (CoT) reasoning trajectories. Projecting these paths into a latent space effectively clusters questions by intrinsic logical equivalence rather than superficial text similarity. Extensive experiments on GSM8K, MMLU, MMLU-Pro, and GPQA demonstrate that CoT-Core drastically reduces evaluation costs while maintaining high-fidelity score estimation, and delineate the boundary conditions of reasoning-aware pruning, revealing that its efficacy is intrinsically gated by task complexity.",
@@ -8917,7 +9301,8 @@
         "2026-09-29": 2,
         "2026-09-30": 2,
         "2026-10-01": 2,
-        "2026-10-06": 4
+        "2026-10-06": 4,
+        "2026-10-08": 4
       },
       "meta": {
         "abstract": "It is well established that the reasoning capabilities of large language models (LLMs) can be improved by applying reinforcement learning (RL) in a post-training stage. In a standard RL iteration, the current model (the policy) generates experience through rollouts, and the resulting data is then used to update the policy during training. High-performance RL frameworks such as StreamRL and AReaL employ a disaggregated architecture and asynchronous rollouts to better exploit both rollout and training resources, thereby increasing overall system throughput. Nonetheless, across varying RL setups (e.g., hardware configurations, model scales, staleness levels, and hyperparameters) and under changing workloads, it remains common for both rollout and training resources to experience idle periods. In this paper, we present BiDiRL, a hybrid time-space multiplexing architecture for asynchronous, disaggregated RL designed to reduce resource idleness. First, we develop a hot-switch runtime that enables rapid switching between rollout and training resources with negligible overhead. Second, we propose a static, scheduling-aware planner based on time-performance modeling that chooses a hot-switch-friendly resource partition, so that rollout and training durations are roughly balanced at a coarse level. Third, at execution time, we introduce a bidirectional scheduler that further exploits runtime bubbles through fine-grained resource switching, allowing the bottleneck stage to temporarily borrow idle resources from the other pool. Across a wide range of workloads, datasets, and models on two 32-GPU testbeds, BiDiRL increases RL training throughput by up to 1.94x compared with RL systems including veRL, AReaL, and ROLL, without affecting convergence behavior.",
@@ -8957,7 +9342,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -8980,7 +9366,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9003,7 +9390,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "abstract": "Reinforcement learning (RL) has become a dominant post-training paradigm, driving the emergence of high-performance RL systems such as veRL for autoregressive large language models (LLMs). In parallel, diffusion-oriented RL algorithms, e.g., DanceGRPO and FlowGRPO, have rapidly expanded the scope of RL from language reasoning to diffusion-based visual and flow-based generation. However, efficient RL systems for diffusion generative LLMs remain underexplored. Existing implementations, e.g., veRL-Omni, still rely on colocated execution, which simplifies synchronization but couples rollout and training resources, limits heterogeneous deployment, and constrains independent scaling. To this end, we introduce DigenRL, a disaggregated RL framework for diffusion-based generative LLMs that supports flexible resource allocation, accommodates heterogeneous GPUs, and facilitates efficient task scheduling. To maximally reduce the execution bubbles in the disaggregated architecture, we propose: 1) a generation-axis pipeline (GAP) and time-step parallelism (TSP) in the diffusion architecture to enable finer-grained pipelining between rollout and training; 2) an elastic trainer-assisted generation (TAG) approach to enable the trainer GPU resources to dynamically assist in executing rollout generations; and 3) a tightly one-step constrained asynchronous strategy to further utilize the tail bubble in the pipeline. Extensive experiments are conducted on three hardware testbeds with 16-32 GPUs using HunyuanVideo-13B, Wan2.1-14B, FLUX.1-12B, and QwenImage-20B generative models. Experimental results show that DigenRL achieves 1.56-2.10x throughput improvements over state-of-the-art diffusion RL systems, veRL-Omni and GenRL.",
@@ -9045,7 +9433,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "_tried": "2026-09-25"
@@ -9070,7 +9459,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "abstract": "Multi-modal large language models (MLLMs) have become a focal point of recent AI research, with numerous works investigating their architectures, training strategies, and real-world applications. Unlike uni-modal LLMs, MLLMs introduce heterogeneous modules with various workloads, including different input modalities, model sizes (parameters can be trainable or frozen), and architectures. This results in significantly reduced scaling efficiency when MLLMs are trained on GPU clusters. Current training systems either place all MLLM modules on the same GPUs to minimize communication overheads or separate different modules onto different GPUs for more flexible task scheduling. However, both approaches underestimate the impacts of model placement and parallelization, leading to sub-optimal training performance on GPU clusters. In this paper, we propose MoPPTrain to adaptively determine a model placement and parallelization strategy to minimize the MLLM training time. To achieve this, we first design a novel pipeline schedule for the colocated placement to enable communication tasks to be well overlapped with computation tasks. Then we theoretically analyze possible model placement and parallelization strategies for any given MLLM on a GPU cluster to formulate an optimization problem. Finally, we develop a cost model for the end-to-end iteration time, which allows us to derive the near-optimal solution to the optimization problem. We implement MoPPTrain atop Megatron-LM and conduct extensive experiments on a 40-GPU cluster. Experimental results show that our MoPPTrain outperforms state-of-the-art baselines (Megatron-LM, DistTrain, and Optimus) by 1.06× ∼ 4.2× in end-to-end training time.",
@@ -9107,7 +9497,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9130,7 +9521,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9153,7 +9545,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9176,7 +9569,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9199,7 +9593,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9222,7 +9617,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9245,7 +9641,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9268,7 +9665,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9291,7 +9689,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9314,7 +9713,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9337,7 +9737,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9360,7 +9761,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9383,7 +9785,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9406,7 +9809,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9429,7 +9833,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9452,7 +9857,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "abstract": "Abstract Energy efficiency has become one of the top design criteria for current computing systems. The dynamic voltage and frequency scaling (DVFS) has been widely adopted by laptop computers, servers, and mobile devices to conserve energy, while the GPU DVFS is still at a certain early age. This paper aims at exploring the impact of GPU DVFS on the application performance and power consumption, and furthermore, on energy conservation. We survey the state-of-the-art GPU DVFS characterizations, and then summarize recent research works on GPU power and performance models. We also conduct real GPU DVFS experiments on NVIDIA Fermi and Maxwell GPUs. According to our experimental results, GPU DVFS has significant potential for energy saving. The effect of scaling core voltage/frequency and memory voltage/frequency depends on not only the GPU architectures, but also the characteristic of GPU applications.",
@@ -9488,7 +9894,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9511,7 +9918,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "_tried": "2026-09-25",
@@ -9549,7 +9957,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9572,7 +9981,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "_tried": "2026-09-22"
@@ -9597,7 +10007,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9620,7 +10031,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9643,7 +10055,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9666,7 +10079,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "_tried": "2026-10-01"
@@ -9691,7 +10105,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9714,7 +10129,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9737,7 +10153,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9760,7 +10177,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9783,7 +10201,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "_tried": "2026-09-27"
@@ -9808,7 +10227,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9831,7 +10251,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9854,7 +10275,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9877,7 +10299,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9900,7 +10323,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "_tried": "2026-09-28"
@@ -9925,7 +10349,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -9950,7 +10375,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "_tried": "2026-09-23"
@@ -9975,7 +10401,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -9998,7 +10425,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -10021,7 +10449,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -10044,7 +10473,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "_tried": "2026-09-21"
@@ -10069,7 +10499,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -10092,7 +10523,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -10115,7 +10547,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -10138,7 +10571,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -10161,7 +10595,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -10184,7 +10619,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -10207,7 +10643,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -10228,7 +10665,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -10241,7 +10679,8 @@
         "2026-09-29": 0,
         "2026-09-30": 0,
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {}
     },
@@ -10251,7 +10690,8 @@
       "first_seen": "2026-10-01",
       "history": {
         "2026-10-01": 0,
-        "2026-10-06": 0
+        "2026-10-06": 0,
+        "2026-10-08": 0
       },
       "meta": {
         "abstract": "Hyperledger Fabric is a popular permissioned blockchain platform. Although many existing works on the overall performance of Hyperledger Fabric are available, a decomposition of each phase in Hyperledger Fabric remains to be explored. While the overall performance of Hyperledger Fabric might provide an end-user with sufficient performance information when processing a transaction, it is far from informative when deploying a distributed system with specific performance goals, except for understanding each decomposition phase in Hyperledger Fabric. This paper presents a client-driven measurement framework to characterize the transactions of each decomposition phase in Hyperledger Fabric, based on the Fabric SDK Node.js. We evaluate the Hyperledger Fabric performance and have some interesting observations, e.g., 1) The number of CPU cores linearly impacts the throughput of an endorsing peer. 2) Raft-based ordering service shows good scalability with the number of ordering service nodes. 3) Waiting time dominates a transaction’s latency in the order phase when encountering unfit block-setting parameters. We then identify the dominant resource in each decomposition phase, propose a stochastic computation model and an alpha-beta communication model to analyze the performance of each decomposition phase. Finally, we validate the performance model’s accuracy in two clusters. And we propose a strategy to reduce waiting time when it dominates transaction latency in the order phase under unfit block-setting parameters, by automatically adjusting block-setting parameters, achieving at least 20% reductions in waiting time.",
