@@ -123,10 +123,15 @@
         "citations": 19889,
         "hindex": 74,
         "i10": 220
+      },
+      "2026-10-19": {
+        "citations": 19993,
+        "hindex": 74,
+        "i10": 220
       }
     }
   },
-  "updated": "2026-10-15",
+  "updated": "2026-10-19",
   "source": "dom",
   "papers": {
     "AutoML: A Survey of the State-of-the-Art": {
@@ -157,7 +162,8 @@
         "2026-10-12": 2907,
         "2026-10-13": 2912,
         "2026-10-14": 2912,
-        "2026-10-15": 2915
+        "2026-10-15": 2915,
+        "2026-10-19": 2932
       },
       "meta": {
         "abstract": "Deep learning (DL) techniques have penetrated all aspects of our lives and brought us great convenience. However, building a high-quality DL system for a specific task highly relies on human expertise, hindering the applications of DL to more areas. Automated machine learning (AutoML) becomes a promising solution to build a DL system without human assistance, and a growing number of researchers focus on AutoML. In this paper, we provide a comprehensive and up-to-date review of the state-of-the-art (SOTA) in AutoML. First, we introduce AutoML methods according to the pipeline, covering data preparation, feature engineering, hyperparameter optimization, and neural architecture search (NAS). We focus more on NAS, as it is currently very hot sub-topic of AutoML. We summarize the performance of the representative NAS algorithms on the CIFAR-10 and ImageNet datasets and further discuss several worthy studying directions of NAS methods: one/two-stage NAS, one-shot NAS, and joint hyperparameter and architecture optimization. Finally, we discuss some open problems of the existing AutoML methods for future research.",
@@ -202,7 +208,8 @@
         "2026-10-12": 658,
         "2026-10-13": 659,
         "2026-10-14": 659,
-        "2026-10-15": 659
+        "2026-10-15": 659,
+        "2026-10-19": 661
       },
       "meta": {}
     },
@@ -234,7 +241,8 @@
         "2026-10-12": 522,
         "2026-10-13": 523,
         "2026-10-14": 523,
-        "2026-10-15": 523
+        "2026-10-15": 523,
+        "2026-10-19": 524
       },
       "meta": {}
     },
@@ -266,7 +274,8 @@
         "2026-10-12": 504,
         "2026-10-13": 504,
         "2026-10-14": 504,
-        "2026-10-15": 504
+        "2026-10-15": 504,
+        "2026-10-19": 504
       },
       "meta": {
         "_tried": "2026-09-27"
@@ -300,7 +309,8 @@
         "2026-10-12": 366,
         "2026-10-13": 365,
         "2026-10-14": 365,
-        "2026-10-15": 366
+        "2026-10-15": 366,
+        "2026-10-19": 368
       },
       "meta": {}
     },
@@ -332,7 +342,8 @@
         "2026-10-12": 343,
         "2026-10-13": 343,
         "2026-10-14": 343,
-        "2026-10-15": 343
+        "2026-10-15": 343,
+        "2026-10-19": 343
       },
       "meta": {}
     },
@@ -364,7 +375,8 @@
         "2026-10-12": 319,
         "2026-10-13": 321,
         "2026-10-14": 321,
-        "2026-10-15": 322
+        "2026-10-15": 322,
+        "2026-10-19": 324
       },
       "meta": {}
     },
@@ -396,7 +408,8 @@
         "2026-10-12": 296,
         "2026-10-13": 296,
         "2026-10-14": 296,
-        "2026-10-15": 296
+        "2026-10-15": 296,
+        "2026-10-19": 296
       },
       "meta": {}
     },
@@ -428,7 +441,8 @@
         "2026-10-12": 292,
         "2026-10-13": 292,
         "2026-10-14": 292,
-        "2026-10-15": 292
+        "2026-10-15": 292,
+        "2026-10-19": 292
       },
       "meta": {
         "_tried": "2026-10-14"
@@ -462,7 +476,8 @@
         "2026-10-12": 287,
         "2026-10-13": 287,
         "2026-10-14": 287,
-        "2026-10-15": 287
+        "2026-10-15": 287,
+        "2026-10-19": 288
       },
       "meta": {
         "abstract": "In recent years, natural language processing (NLP) has got great development with deep learning techniques. In the sub-field of machine translation, a new approach named Neural Machine Translation (NMT) has emerged and got massive attention from both academia and industry. However, with a significant number of researches proposed in the past several years, there is little work in investigating the development process of this new technology trend. This literature survey traces back the origin and principal development timeline of NMT, investigates the important branches, categorizes different research orientations, and discusses some future research trends in this field.",
@@ -507,7 +522,8 @@
         "2026-10-12": 281,
         "2026-10-13": 281,
         "2026-10-14": 281,
-        "2026-10-15": 281
+        "2026-10-15": 281,
+        "2026-10-19": 282
       },
       "meta": {}
     },
@@ -539,7 +555,8 @@
         "2026-10-12": 263,
         "2026-10-13": 263,
         "2026-10-14": 263,
-        "2026-10-15": 263
+        "2026-10-15": 263,
+        "2026-10-19": 263
       },
       "meta": {}
     },
@@ -571,7 +588,8 @@
         "2026-10-12": 259,
         "2026-10-13": 262,
         "2026-10-14": 262,
-        "2026-10-15": 263
+        "2026-10-15": 263,
+        "2026-10-19": 268
       },
       "meta": {
         "abstract": "Despite efforts to improve the quality of service (QoS) and throughput in Large Language Model (LLM) serving systems, progress is often limited by the lack of publicly available real-world workloads. Consequently, evaluations usually depend on synthetic or oversimplified load patterns, and systems that appear promising in testing frequently underperform once deployed. This work presents BurstGPT, an LLM serving workload with 10.31 million traces from regional Azure OpenAI GPT services over 213 days. BurstGPT captures LLM serving characteristics from user, model and system perspectives: (1) User request concurrency: burstiness variations of requests in Azure OpenAI GPT services, revealing diversified concurrency patterns in different services and model types. (2) User conversation patterns: counts and intervals within conversations for service optimizations. (3) Model response lengths: auto-regressive serving processes of GPT models, showing statistical relations between requests and their responses. (4) System response failures: failures of conversation and API services, showing intensive resource needs and limited availability of LLM services in Azure. The details of the characteristics can serve multiple purposes in LLM serving optimizations, such as system evaluation and trace provisioning. In our demo evaluation with BurstGPT, frequent variations in BurstGPT reveal declines in efficiency, stability, or reliability in realistic LLM serving. We identify that the generalization of KV cache management, scheduling and disaggregation optimizations can be improved under realistic workload evaluations. BurstGPT is publicly available now at https://github.com/HPMLL/BurstGPT and is widely used to develop prototypes of LLM serving frameworks in the industry.",
@@ -627,7 +645,8 @@
         "2026-10-12": 237,
         "2026-10-13": 237,
         "2026-10-14": 237,
-        "2026-10-15": 237
+        "2026-10-15": 237,
+        "2026-10-19": 239
       },
       "meta": {
         "abstract": "",
@@ -674,7 +693,8 @@
         "2026-10-12": 245,
         "2026-10-13": 245,
         "2026-10-14": 245,
-        "2026-10-15": 245
+        "2026-10-15": 245,
+        "2026-10-19": 247
       },
       "meta": {}
     },
@@ -706,7 +726,8 @@
         "2026-10-12": 231,
         "2026-10-13": 232,
         "2026-10-14": 232,
-        "2026-10-15": 232
+        "2026-10-15": 232,
+        "2026-10-19": 233
       },
       "meta": {
         "abstract": "Distributed synchronous stochastic gradient descent (S-SGD) with data parallelism has been widely used in training large-scale deep neural networks (DNNs), but it typically requires very high communication bandwidth between computational workers (e.g., GPUs) to exchange gradients iteratively. Recently, Top-k sparsification techniques have been proposed to reduce the volume of data to be exchanged among workers and thus alleviate the network pressure. Top-k sparsification can zero-out a significant portion of gradients without impacting the model convergence. However, the sparse gradients should be transferred with their indices, and the irregular indices make the sparse gradients aggregation difficult. Current methods that use AllGather to accumulate the sparse gradients have a communication complexity of O(kP), where P is the number of workers, which is inefficient on low bandwidth networks with a large number of workers. We observe that not all top-k gradients from P workers are needed for the model update, and therefore we propose a novel global Top-k (gTop-k) sparsification mechanism to address the difficulty of aggregating sparse gradients. Specifically, we choose global top-k largest absolute values of gradients from P workers, instead of accumulating all local top-k gradients to update the model in each iteration. The gradient aggregation method based on gTop-k sparsification, namely gTopKAllReduce, reduces the communication complexity from O(kP) to O(k log P). Through extensive experiments on different DNNs, we verify that gTop-k S-SGD has nearly consistent convergence performance with S-SGD, and it has only slight degradations on generalization performance. In terms of scaling efficiency, we evaluate gTop-k on a cluster with 32 GPU machines which are interconnected with 1 Gbps Ethernet. The experimental results show that our method achieves 2.7-12× higher scaling efficiency than S-SGD with dense gradients and 1.1-1.7× improvement than the existing Top-k S-SGD.",
@@ -755,7 +776,8 @@
         "2026-10-12": 213,
         "2026-10-13": 213,
         "2026-10-14": 213,
-        "2026-10-15": 213
+        "2026-10-15": 213,
+        "2026-10-19": 214
       },
       "meta": {
         "_tried": "2026-09-26"
@@ -789,7 +811,8 @@
         "2026-10-12": 211,
         "2026-10-13": 211,
         "2026-10-14": 211,
-        "2026-10-15": 211
+        "2026-10-15": 211,
+        "2026-10-19": 211
       },
       "meta": {}
     },
@@ -821,7 +844,8 @@
         "2026-10-12": 204,
         "2026-10-13": 204,
         "2026-10-14": 204,
-        "2026-10-15": 204
+        "2026-10-15": 204,
+        "2026-10-19": 205
       },
       "meta": {}
     },
@@ -853,10 +877,24 @@
         "2026-10-12": 187,
         "2026-10-13": 187,
         "2026-10-14": 187,
-        "2026-10-15": 187
+        "2026-10-15": 187,
+        "2026-10-19": 187
       },
       "meta": {
-        "_tried": "2026-09-17"
+        "abstract": "Federated learning utilizes various resources provided by participants to collaboratively train a global model, which potentially address the data privacy issue of machine learning. In such promising paradigm, the performance will be deteriorated without sufficient training data and other resources in the learning process. Thus, it is quite crucial to inspire more participants to contribute their valuable resources with some payments for federated learning. In this paper, we present a comprehensive survey of incentive schemes for federate learning. Specifically, we identify the incentive problem in federated learning and then provide a taxonomy for various schemes. Subsequently, we summarize the existing incentive mechanisms in terms of the main techniques, such as Stackelberg game, auction, contract theory, Shapley value, reinforcement learning, blockchain. By reviewing and comparing some impressive results, we figure out three directions for the future study.",
+        "arxiv": "2106.15406",
+        "authors": [
+          "Rongfei Zeng",
+          "Chaobing Zeng",
+          "Xingwei Wang",
+          "Bo Li",
+          "Xiao-Wen Chu"
+        ],
+        "doi": "",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/46fa2ef11417b75250945f98a538742de8ea99c4",
+        "tldr": "This paper identifies the incentive problem in federated learning and then provides a taxonomy for various schemes, and summarizes the existing incentive mechanisms in terms of the main techniques, such as Stackelberg game, auction, contract theory, Shapley value, reinforcement learning, blockchain.",
+        "venue": "arXiv.org"
       }
     },
     "Wavelength converter placement under different RWA algorithms in wavelength-routed all-optical networks": {
@@ -2738,7 +2776,9 @@
         "2026-10-14": 75,
         "2026-10-15": 75
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-10-15"
+      }
     },
     "Dtc-spmm: Bridging the gap in accelerating general sparse matrix multiplication with tensor cores": {
       "year": "2024",
@@ -3137,7 +3177,9 @@
         "2026-10-14": 63,
         "2026-10-15": 63
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-10-15"
+      }
     },
     "Asteroid: Resource-Efficient Hybrid Pipeline Parallelism for Collaborative DNN Training on Heterogeneous Edge Devices": {
       "year": "2024",
@@ -7225,7 +7267,9 @@
         "2026-10-14": 12,
         "2026-10-15": 12
       },
-      "meta": {}
+      "meta": {
+        "_tried": "2026-10-15"
+      }
     },
     "Diffusion models for reinforcement learning: Foundations, taxonomy, and development": {
       "year": "2025",
@@ -7256,7 +7300,27 @@
         "2026-10-14": 11,
         "2026-10-15": 11
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Diffusion Models (DMs), as a leading class of generative models, offer key advantages for reinforcement learning (RL), including multi-modal expressiveness, stable training, and trajectory-level planning. This survey delivers a comprehensive and up-to-date synthesis of diffusion-based RL. We first provide an overview of RL, highlighting its challenges, and then introduce the fundamental concepts of DMs, investigating how they are integrated into RL frameworks to address key challenges in this research field. We establish a dual-axis taxonomy that organizes the field along two orthogonal dimensions: a function-oriented taxonomy that clarifies the roles DMs play within the RL pipeline, and a technique-oriented taxonomy that situates implementations across online versus offline learning regimes. We also provide a comprehensive examination of this progression from single-agent to multi-agent domains, thereby forming several frameworks for DM-RL integration and highlighting their practical utility. Furthermore, we outline several categories of successful applications of diffusion-based RL across diverse domains, discuss open research issues of current methodologies, and highlight key directions for future research to advance the field. Finally, we summarize the survey to identify promising future development directions. We are actively maintaining a GitHub repository (https://github.com/ChangfuXu/D4RL-FTD) for papers and other related resources to apply DMs for RL.",
+        "arxiv": "2510.12253",
+        "authors": [
+          "Changfu Xu",
+          "Jian-Xiong Guo",
+          "Yu-Zhu Liang",
+          "Hai-Yang Huang",
+          "Hao-Dong Zou",
+          "Xi Zheng",
+          "Shui Yu",
+          "Xiaowen Chu",
+          "Jiannong Cao",
+          "Tian Wang"
+        ],
+        "doi": "10.48550/arXiv.2510.12253",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/186d907d331396b2a67c9882696ace8f2fef3a91",
+        "tldr": "A dual-axis taxonomy is established that organizes the field along two orthogonal dimensions: a function-oriented taxonomy that clarifies the roles DMs play within the RL pipeline, and a technique-oriented taxonomy that situates implementations across online versus offline learning regimes.",
+        "venue": "arXiv.org"
+      }
     },
     "Network embedding: The bridge between water distribution network hydraulics and machine learning": {
       "year": "2025",
@@ -7656,7 +7720,21 @@
         "2026-10-14": 10,
         "2026-10-15": 10
       },
-      "meta": {}
+      "meta": {
+        "abstract": "Recent reasoning Large Language Models (LLMs) demonstrate remarkable problem-solving abilities but often generate long thinking traces whose utility is unclear. Our work aims to improve their efficiency, enabling them to reach high performance without overthinking. First, we analyze the entropy of token probabilities in reasoning traces. Across three models, we observe a consistent U-shaped entropy pattern: high entropy on easy problems despite high accuracy, low entropy on problems with medium difficulty, and high entropy on hard problems reflecting uncertainty. Specifically, we notice 22--25\\% entropy reduction from easy to medium difficulty regions, suggesting an {overthinking} phenomenon on easy instances. Building on these insights, we introduce \\textbf{DiffAdapt}, a lightweight framework that selects Easy/Normal/Hard inference strategies per question based on their difficulty and reasoning trace entropy. Each inference strategy consists of a fixed prompt, temperature and maximum token length. In contrast to existing efficiency optimization methods, our approach does not fine-tune base LLM but a small probe that classifies LLM's final hidden state, allowing inexpensive adaptation. We comprehensively evaluate our method on five models and eight benchmarks. Our method achieves comparable or improved accuracy while reducing token usage by up to 22.4\\%, establishing a practical path toward compute-efficient reasoning.",
+        "arxiv": "2510.19669",
+        "authors": [
+          "Xiang Liu",
+          "Xu-Ming Hu",
+          "Xiaowen Chu",
+          "Eunsol Choi"
+        ],
+        "doi": "10.48550/arXiv.2510.19669",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/77d2ab404c83a4da827ee5e55ed1049e3d3d85c6",
+        "tldr": "The entropy of token probabilities in reasoning traces is analyzed and a lightweight framework that selects Easy/Normal/Hard inference strategies per question based on their difficulty and reasoning trace entropy is introduced, establishing a practical path toward compute-efficient reasoning.",
+        "venue": "arXiv.org"
+      }
     },
     "Ghost in the cloud: Your geo-distributed large language models training is easily manipulated": {
       "year": "2026",
