@@ -484,10 +484,15 @@
         "citations": 3961,
         "hindex": 15,
         "i10": 16
+      },
+      "2026-10-26": {
+        "citations": 3961,
+        "hindex": 15,
+        "i10": 16
       }
     }
   },
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "source": "dom",
   "papers": {
     "AutoML: A survey of the state-of-the-art": {
@@ -696,7 +701,8 @@
         "2026-10-22": 2934,
         "2026-10-23": 2934,
         "2026-10-24": 2938,
-        "2026-10-25": 2938
+        "2026-10-25": 2938,
+        "2026-10-26": 2938
       },
       "meta": {
         "authors": [
@@ -919,7 +925,8 @@
         "2026-10-22": 164,
         "2026-10-23": 164,
         "2026-10-24": 165,
-        "2026-10-25": 165
+        "2026-10-25": 165,
+        "2026-10-26": 165
       },
       "meta": {
         "authors": [
@@ -1145,7 +1152,8 @@
         "2026-10-22": 142,
         "2026-10-23": 142,
         "2026-10-24": 142,
-        "2026-10-25": 142
+        "2026-10-25": 142,
+        "2026-10-26": 142
       },
       "meta": {
         "authors": [
@@ -1372,7 +1380,8 @@
         "2026-10-22": 269,
         "2026-10-23": 272,
         "2026-10-24": 274,
-        "2026-10-25": 274
+        "2026-10-25": 274,
+        "2026-10-26": 274
       },
       "meta": {
         "authors": [
@@ -1606,7 +1615,8 @@
         "2026-10-22": 68,
         "2026-10-23": 68,
         "2026-10-24": 68,
-        "2026-10-25": 68
+        "2026-10-25": 68,
+        "2026-10-26": 68
       },
       "meta": {
         "authors": [
@@ -1835,7 +1845,8 @@
         "2026-10-22": 59,
         "2026-10-23": 59,
         "2026-10-24": 59,
-        "2026-10-25": 59
+        "2026-10-25": 59,
+        "2026-10-26": 59
       },
       "meta": {
         "authors": [
@@ -2064,7 +2075,8 @@
         "2026-10-22": 50,
         "2026-10-23": 50,
         "2026-10-24": 50,
-        "2026-10-25": 50
+        "2026-10-25": 50,
+        "2026-10-26": 50
       },
       "meta": {
         "authors": [
@@ -2295,7 +2307,8 @@
         "2026-10-22": 44,
         "2026-10-23": 44,
         "2026-10-24": 44,
-        "2026-10-25": 44
+        "2026-10-25": 44,
+        "2026-10-26": 44
       },
       "meta": {
         "authors": [
@@ -2520,7 +2533,8 @@
         "2026-10-22": 47,
         "2026-10-23": 48,
         "2026-10-24": 48,
-        "2026-10-25": 48
+        "2026-10-25": 48,
+        "2026-10-26": 48
       },
       "meta": {
         "authors": [
@@ -3047,7 +3061,8 @@
         "2026-10-22": 24,
         "2026-10-23": 24,
         "2026-10-24": 24,
-        "2026-10-25": 24
+        "2026-10-25": 24,
+        "2026-10-26": 24
       },
       "meta": {
         "authors": [
@@ -3275,7 +3290,8 @@
         "2026-10-22": 21,
         "2026-10-23": 21,
         "2026-10-24": 21,
-        "2026-10-25": 21
+        "2026-10-25": 21,
+        "2026-10-26": 21
       },
       "meta": {
         "authors": [
@@ -3506,7 +3522,8 @@
         "2026-10-22": 20,
         "2026-10-23": 20,
         "2026-10-24": 20,
-        "2026-10-25": 20
+        "2026-10-25": 20,
+        "2026-10-26": 20
       },
       "meta": {
         "authors": [
@@ -3740,7 +3757,8 @@
         "2026-10-22": 12,
         "2026-10-23": 12,
         "2026-10-24": 12,
-        "2026-10-25": 12
+        "2026-10-25": 12,
+        "2026-10-26": 12
       },
       "meta": {
         "authors": [
@@ -3962,7 +3980,8 @@
         "2026-10-22": 16,
         "2026-10-23": 16,
         "2026-10-24": 16,
-        "2026-10-25": 16
+        "2026-10-25": 16,
+        "2026-10-26": 16
       },
       "meta": {
         "authors": [
@@ -4188,7 +4207,8 @@
         "2026-10-22": 9,
         "2026-10-23": 9,
         "2026-10-24": 9,
-        "2026-10-25": 9
+        "2026-10-25": 9,
+        "2026-10-26": 9
       },
       "meta": {
         "_tried": "2026-07-19"
@@ -4400,7 +4420,8 @@
         "2026-10-22": 4,
         "2026-10-23": 4,
         "2026-10-24": 4,
-        "2026-10-25": 4
+        "2026-10-25": 4,
+        "2026-10-26": 4
       },
       "meta": {
         "authors": [
@@ -4628,7 +4649,8 @@
         "2026-10-22": 5,
         "2026-10-23": 5,
         "2026-10-24": 5,
-        "2026-10-25": 5
+        "2026-10-25": 5,
+        "2026-10-26": 5
       },
       "meta": {
         "authors": [
@@ -5323,7 +5345,8 @@
         "2026-10-22": 4,
         "2026-10-23": 4,
         "2026-10-24": 4,
-        "2026-10-25": 4
+        "2026-10-25": 4,
+        "2026-10-26": 4
       },
       "meta": {
         "_tried": "2026-07-27"
@@ -5415,7 +5438,8 @@
         "2026-10-22": 28,
         "2026-10-23": 28,
         "2026-10-24": 28,
-        "2026-10-25": 28
+        "2026-10-25": 28,
+        "2026-10-26": 28
       },
       "meta": {
         "abstract": "The COVID-19 pandemic has threatened global health. Many studies have applied deep convolutional neural networks (CNN) to recognize COVID-19 based on chest 3D computed tomography (CT). Recent works show that no model generalizes well across CT datasets from different countries, and manually designing models for specific datasets requires expertise;thus, neural architecture search (NAS) that aims to search models automatically has become an attractive solution. To reduce the search cost on large 3D CT datasets, most NAS-based works use the weight-sharing (WS) strategy to make all models share weights within a supernet;however, WS inevitably incurs search instability, leading to inaccurate model estimation. In this work, we propose an efficient Evolutionary Multi-objective ARchitecture Search (EMARS) framework. We propose a new objective, namely potential, which can help exploit promising models to indirectly reduce the number of models involved in weights training, thus alleviating search instability. We demonstrate that under objectives of accuracy and potential, EMARS can balance exploitation and exploration, i.e., reducing search time and finding better models. Our searched models are small and perform better than prior works on three public COVID-19 3D CT datasets.",
@@ -5519,7 +5543,8 @@
         "2026-10-22": 27,
         "2026-10-23": 27,
         "2026-10-24": 27,
-        "2026-10-25": 27
+        "2026-10-25": 27,
+        "2026-10-26": 27
       },
       "meta": {
         "abstract": "Skin disease is one of the most common types of human diseases, which may happen to everyone regardless of age, gender or race. Due to the high visual diversity, human diagnosis highly relies on personal experience; and there is a serious shortage of experienced dermatologists in many countries. To alleviate this problem, computer-aided diagnosis with state-of-the-art (SOTA) machine learning techniques would be a promising solution. In this paper, we aim at understanding the performance of convolutional neural network (CNN) based approaches. We first build two versions of skin disease datasets from Internet images: (a) Skin -10, which contains 10 common classes of skin disease with a total of 10,218 images; (b) Skin -100, which is a larger dataset that consists of 19,807 images of 100 skin disease classes. Based on these datasets, we benchmark several SOTA CNN models and show that the accuracy of skin -100 is much lower than the accuracy of skin -10. We then implement an ensemble method based on several CNN models and achieve the best accuracy of 79.01% for Skin -10 and 53.54% for Skin -100. We also present an object detection based approach by introducing bounding boxes into the Skin -10 dataset. Our results show that object detection can help improve the accuracy of some skin disease classes.",
