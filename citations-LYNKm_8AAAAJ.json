@@ -6019,6 +6019,15 @@
         "tldr": "The results show that object detection can help improve the accuracy of some skin disease classes and an object detection based approach by introducing bounding boxes into the Skin -10 dataset is presented.",
         "venue": "2019 IEEE International Conference on Big Data (Big Data)"
       }
+    },
+    "Physical AI: A Survey of Models, Learning, Systems, and Open Challenges": {
+      "year": "2026",
+      "pub_id": "LYNKm_8AAAAJ:Zph67rFs4hoC",
+      "first_seen": "2026-11-10",
+      "history": {
+        "2026-11-10": 0
+      },
+      "meta": {}
     }
   }
 }
