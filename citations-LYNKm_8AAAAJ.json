@@ -579,10 +579,15 @@
         "citations": 4045,
         "hindex": 15,
         "i10": 16
+      },
+      "2026-11-14": {
+        "citations": 4052,
+        "hindex": 15,
+        "i10": 16
       }
     }
   },
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "source": "dom",
   "papers": {
     "AutoML: A survey of the state-of-the-art": {
@@ -698,11 +703,11 @@
         "2026-07-18": 2803,
         "2026-07-19": 2808,
         "2026-07-20": 2808,
-        "2026-07-21": 2808,
+        "2026-07-21": 2812,
         "2026-07-22": 2812,
-        "2026-07-23": 2812,
+        "2026-07-23": 2814,
         "2026-07-24": 2814,
-        "2026-07-25": 2814,
+        "2026-07-25": 2816,
         "2026-07-26": 2816,
         "2026-07-27": 2816,
         "2026-07-28": 2816,
@@ -710,19 +715,19 @@
         "2026-07-30": 2816,
         "2026-07-31": 2816,
         "2026-08-01": 2816,
-        "2026-08-02": 2816,
+        "2026-08-02": 2780,
         "2026-08-03": 2780,
-        "2026-08-04": 2780,
+        "2026-08-04": 2787,
         "2026-08-05": 2787,
         "2026-08-06": 2787,
         "2026-08-07": 2793,
-        "2026-08-08": 2793,
+        "2026-08-08": 2801,
         "2026-08-09": 2801,
         "2026-08-10": 2804,
         "2026-08-11": 2804,
         "2026-08-12": 2806,
         "2026-08-13": 2808,
-        "2026-08-14": 2808,
+        "2026-08-14": 2811,
         "2026-08-15": 2812,
         "2026-08-16": 2812,
         "2026-08-17": 2818,
@@ -742,31 +747,31 @@
         "2026-09-01": 2840,
         "2026-09-02": 2840,
         "2026-09-03": 2840,
-        "2026-09-04": 2840,
-        "2026-09-05": 2841,
+        "2026-09-04": 2841,
+        "2026-09-05": 2842,
         "2026-09-06": 2842,
         "2026-09-07": 2848,
         "2026-09-08": 2848,
         "2026-09-09": 2848,
-        "2026-09-10": 2850,
+        "2026-09-10": 2854,
         "2026-09-11": 2854,
         "2026-09-12": 2856,
         "2026-09-13": 2859,
         "2026-09-14": 2859,
-        "2026-09-15": 2863,
-        "2026-09-16": 2863,
+        "2026-09-15": 2859,
+        "2026-09-16": 2865,
         "2026-09-17": 2865,
-        "2026-09-18": 2865,
-        "2026-09-19": 2869,
+        "2026-09-18": 2869,
+        "2026-09-19": 2871,
         "2026-09-20": 2871,
         "2026-09-21": 2876,
         "2026-09-22": 2879,
-        "2026-09-23": 2879,
+        "2026-09-23": 2880,
         "2026-09-24": 2880,
-        "2026-09-25": 2880,
+        "2026-09-25": 2883,
         "2026-09-26": 2883,
         "2026-09-27": 2885,
-        "2026-09-28": 2885,
+        "2026-09-28": 2888,
         "2026-09-29": 2888,
         "2026-09-30": 2888,
         "2026-10-01": 2888,
@@ -774,13 +779,13 @@
         "2026-10-03": 2894,
         "2026-10-04": 2896,
         "2026-10-05": 2899,
-        "2026-10-06": 2899,
-        "2026-10-07": 2904,
+        "2026-10-06": 2904,
+        "2026-10-07": 2906,
         "2026-10-08": 2906,
         "2026-10-09": 2906,
         "2026-10-10": 2907,
         "2026-10-11": 2907,
-        "2026-10-12": 2907,
+        "2026-10-12": 2912,
         "2026-10-13": 2912,
         "2026-10-14": 2915,
         "2026-10-15": 2915,
@@ -796,21 +801,22 @@
         "2026-10-27": 2939,
         "2026-10-28": 2943,
         "2026-10-29": 2950,
-        "2026-10-30": 2950,
+        "2026-10-30": 2953,
         "2026-10-31": 2953,
-        "2026-11-01": 2953,
+        "2026-11-01": 2960,
         "2026-11-02": 2960,
         "2026-11-03": 2962,
-        "2026-11-04": 2962,
+        "2026-11-04": 2963,
         "2026-11-05": 2963,
-        "2026-11-06": 2963,
+        "2026-11-06": 2968,
         "2026-11-07": 2968,
         "2026-11-08": 2972,
         "2026-11-09": 2970,
         "2026-11-10": 2976,
         "2026-11-11": 2976,
-        "2026-11-12": 2976,
-        "2026-11-13": 2978
+        "2026-11-12": 2978,
+        "2026-11-13": 2978,
+        "2026-11-14": 2982
       },
       "meta": {
         "authors": [
@@ -940,7 +946,7 @@
         "2026-07-18": 153,
         "2026-07-19": 153,
         "2026-07-20": 153,
-        "2026-07-21": 153,
+        "2026-07-21": 154,
         "2026-07-22": 154,
         "2026-07-23": 154,
         "2026-07-24": 154,
@@ -958,13 +964,13 @@
         "2026-08-05": 154,
         "2026-08-06": 154,
         "2026-08-07": 155,
-        "2026-08-08": 155,
+        "2026-08-08": 156,
         "2026-08-09": 156,
         "2026-08-10": 156,
         "2026-08-11": 156,
         "2026-08-12": 156,
         "2026-08-13": 156,
-        "2026-08-14": 156,
+        "2026-08-14": 157,
         "2026-08-15": 158,
         "2026-08-16": 158,
         "2026-08-17": 158,
@@ -1008,7 +1014,7 @@
         "2026-09-25": 161,
         "2026-09-26": 161,
         "2026-09-27": 161,
-        "2026-09-28": 161,
+        "2026-09-28": 162,
         "2026-09-29": 162,
         "2026-09-30": 162,
         "2026-10-01": 162,
@@ -1021,7 +1027,7 @@
         "2026-10-08": 162,
         "2026-10-09": 162,
         "2026-10-10": 163,
-        "2026-10-11": 163,
+        "2026-10-11": 164,
         "2026-10-12": 164,
         "2026-10-13": 164,
         "2026-10-14": 164,
@@ -1038,7 +1044,7 @@
         "2026-10-27": 165,
         "2026-10-28": 165,
         "2026-10-29": 166,
-        "2026-10-30": 166,
+        "2026-10-30": 168,
         "2026-10-31": 168,
         "2026-11-01": 168,
         "2026-11-02": 168,
@@ -1052,7 +1058,8 @@
         "2026-11-10": 169,
         "2026-11-11": 169,
         "2026-11-12": 169,
-        "2026-11-13": 169
+        "2026-11-13": 169,
+        "2026-11-14": 169
       },
       "meta": {
         "authors": [
@@ -1185,7 +1192,7 @@
         "2026-07-18": 139,
         "2026-07-19": 139,
         "2026-07-20": 139,
-        "2026-07-21": 139,
+        "2026-07-21": 140,
         "2026-07-22": 140,
         "2026-07-23": 140,
         "2026-07-24": 140,
@@ -1197,9 +1204,9 @@
         "2026-07-30": 140,
         "2026-07-31": 140,
         "2026-08-01": 140,
-        "2026-08-02": 140,
+        "2026-08-02": 137,
         "2026-08-03": 137,
-        "2026-08-04": 137,
+        "2026-08-04": 139,
         "2026-08-05": 139,
         "2026-08-06": 139,
         "2026-08-07": 139,
@@ -1285,7 +1292,7 @@
         "2026-10-29": 142,
         "2026-10-30": 142,
         "2026-10-31": 142,
-        "2026-11-01": 142,
+        "2026-11-01": 144,
         "2026-11-02": 144,
         "2026-11-03": 144,
         "2026-11-04": 144,
@@ -1297,7 +1304,8 @@
         "2026-11-10": 144,
         "2026-11-11": 144,
         "2026-11-12": 144,
-        "2026-11-13": 144
+        "2026-11-13": 144,
+        "2026-11-14": 144
       },
       "meta": {
         "authors": [
@@ -1433,9 +1441,9 @@
         "2026-07-20": 189,
         "2026-07-21": 189,
         "2026-07-22": 189,
-        "2026-07-23": 189,
+        "2026-07-23": 191,
         "2026-07-24": 191,
-        "2026-07-25": 191,
+        "2026-07-25": 192,
         "2026-07-26": 192,
         "2026-07-27": 194,
         "2026-07-28": 194,
@@ -1445,17 +1453,17 @@
         "2026-08-01": 194,
         "2026-08-02": 194,
         "2026-08-03": 194,
-        "2026-08-04": 194,
+        "2026-08-04": 197,
         "2026-08-05": 197,
         "2026-08-06": 197,
         "2026-08-07": 197,
-        "2026-08-08": 197,
+        "2026-08-08": 201,
         "2026-08-09": 201,
         "2026-08-10": 209,
         "2026-08-11": 209,
         "2026-08-12": 211,
         "2026-08-13": 211,
-        "2026-08-14": 211,
+        "2026-08-14": 212,
         "2026-08-15": 213,
         "2026-08-16": 213,
         "2026-08-17": 214,
@@ -1475,8 +1483,8 @@
         "2026-09-01": 229,
         "2026-09-02": 229,
         "2026-09-03": 229,
-        "2026-09-04": 229,
-        "2026-09-05": 230,
+        "2026-09-04": 230,
+        "2026-09-05": 231,
         "2026-09-06": 231,
         "2026-09-07": 234,
         "2026-09-08": 234,
@@ -1486,20 +1494,20 @@
         "2026-09-12": 235,
         "2026-09-13": 239,
         "2026-09-14": 239,
-        "2026-09-15": 240,
-        "2026-09-16": 240,
+        "2026-09-15": 239,
+        "2026-09-16": 241,
         "2026-09-17": 241,
-        "2026-09-18": 241,
+        "2026-09-18": 245,
         "2026-09-19": 245,
         "2026-09-20": 245,
         "2026-09-21": 246,
         "2026-09-22": 246,
-        "2026-09-23": 246,
+        "2026-09-23": 247,
         "2026-09-24": 247,
-        "2026-09-25": 247,
+        "2026-09-25": 249,
         "2026-09-26": 249,
         "2026-09-27": 251,
-        "2026-09-28": 251,
+        "2026-09-28": 252,
         "2026-09-29": 252,
         "2026-09-30": 252,
         "2026-10-01": 252,
@@ -1512,8 +1520,8 @@
         "2026-10-08": 257,
         "2026-10-09": 257,
         "2026-10-10": 258,
-        "2026-10-11": 258,
-        "2026-10-12": 259,
+        "2026-10-11": 259,
+        "2026-10-12": 262,
         "2026-10-13": 262,
         "2026-10-14": 263,
         "2026-10-15": 263,
@@ -1529,21 +1537,22 @@
         "2026-10-27": 275,
         "2026-10-28": 276,
         "2026-10-29": 276,
-        "2026-10-30": 276,
+        "2026-10-30": 281,
         "2026-10-31": 281,
-        "2026-11-01": 281,
+        "2026-11-01": 283,
         "2026-11-02": 283,
         "2026-11-03": 288,
         "2026-11-04": 288,
         "2026-11-05": 288,
-        "2026-11-06": 288,
+        "2026-11-06": 292,
         "2026-11-07": 292,
         "2026-11-08": 293,
         "2026-11-09": 295,
         "2026-11-10": 298,
         "2026-11-11": 298,
         "2026-11-12": 298,
-        "2026-11-13": 298
+        "2026-11-13": 298,
+        "2026-11-14": 301
       },
       "meta": {
         "authors": [
@@ -1684,9 +1693,9 @@
         "2026-07-18": 69,
         "2026-07-19": 69,
         "2026-07-20": 69,
-        "2026-07-21": 69,
+        "2026-07-21": 70,
         "2026-07-22": 70,
-        "2026-07-23": 70,
+        "2026-07-23": 71,
         "2026-07-24": 71,
         "2026-07-25": 71,
         "2026-07-26": 71,
@@ -1696,7 +1705,7 @@
         "2026-07-30": 71,
         "2026-07-31": 71,
         "2026-08-01": 71,
-        "2026-08-02": 71,
+        "2026-08-02": 68,
         "2026-08-03": 68,
         "2026-08-04": 68,
         "2026-08-05": 68,
@@ -1796,7 +1805,8 @@
         "2026-11-10": 68,
         "2026-11-11": 68,
         "2026-11-12": 68,
-        "2026-11-13": 68
+        "2026-11-13": 68,
+        "2026-11-14": 68
       },
       "meta": {
         "authors": [
@@ -1944,7 +1954,7 @@
         "2026-07-30": 58,
         "2026-07-31": 58,
         "2026-08-01": 58,
-        "2026-08-02": 58,
+        "2026-08-02": 59,
         "2026-08-03": 59,
         "2026-08-04": 59,
         "2026-08-05": 59,
@@ -2044,7 +2054,8 @@
         "2026-11-10": 59,
         "2026-11-11": 59,
         "2026-11-12": 59,
-        "2026-11-13": 59
+        "2026-11-13": 59,
+        "2026-11-14": 59
       },
       "meta": {
         "authors": [
@@ -2192,7 +2203,7 @@
         "2026-07-30": 47,
         "2026-07-31": 47,
         "2026-08-01": 47,
-        "2026-08-02": 47,
+        "2026-08-02": 49,
         "2026-08-03": 49,
         "2026-08-04": 49,
         "2026-08-05": 49,
@@ -2292,7 +2303,8 @@
         "2026-11-10": 51,
         "2026-11-11": 51,
         "2026-11-12": 51,
-        "2026-11-13": 51
+        "2026-11-13": 51,
+        "2026-11-14": 51
       },
       "meta": {
         "authors": [
@@ -2542,7 +2554,8 @@
         "2026-11-10": 44,
         "2026-11-11": 44,
         "2026-11-12": 44,
-        "2026-11-13": 44
+        "2026-11-13": 44,
+        "2026-11-14": 44
       },
       "meta": {
         "authors": [
@@ -2686,7 +2699,7 @@
         "2026-07-30": 36,
         "2026-07-31": 36,
         "2026-08-01": 36,
-        "2026-08-02": 36,
+        "2026-08-02": 38,
         "2026-08-03": 38,
         "2026-08-04": 38,
         "2026-08-05": 38,
@@ -2730,9 +2743,9 @@
         "2026-09-13": 41,
         "2026-09-14": 41,
         "2026-09-15": 41,
-        "2026-09-16": 41,
+        "2026-09-16": 42,
         "2026-09-17": 42,
-        "2026-09-18": 42,
+        "2026-09-18": 44,
         "2026-09-19": 44,
         "2026-09-20": 44,
         "2026-09-21": 44,
@@ -2756,7 +2769,7 @@
         "2026-10-09": 46,
         "2026-10-10": 46,
         "2026-10-11": 46,
-        "2026-10-12": 46,
+        "2026-10-12": 47,
         "2026-10-13": 47,
         "2026-10-14": 47,
         "2026-10-15": 47,
@@ -2772,7 +2785,7 @@
         "2026-10-27": 49,
         "2026-10-28": 50,
         "2026-10-29": 51,
-        "2026-10-30": 51,
+        "2026-10-30": 52,
         "2026-10-31": 52,
         "2026-11-01": 52,
         "2026-11-02": 52,
@@ -2786,7 +2799,8 @@
         "2026-11-10": 56,
         "2026-11-11": 56,
         "2026-11-12": 56,
-        "2026-11-13": 56
+        "2026-11-13": 56,
+        "2026-11-14": 56
       },
       "meta": {
         "authors": [
@@ -3332,7 +3346,8 @@
         "2026-11-10": 24,
         "2026-11-11": 24,
         "2026-11-12": 24,
-        "2026-11-13": 24
+        "2026-11-13": 24,
+        "2026-11-14": 24
       },
       "meta": {
         "authors": [
@@ -3479,7 +3494,7 @@
         "2026-07-30": 19,
         "2026-07-31": 19,
         "2026-08-01": 19,
-        "2026-08-02": 19,
+        "2026-08-02": 21,
         "2026-08-03": 21,
         "2026-08-04": 21,
         "2026-08-05": 21,
@@ -3579,7 +3594,8 @@
         "2026-11-10": 21,
         "2026-11-11": 21,
         "2026-11-12": 21,
-        "2026-11-13": 21
+        "2026-11-13": 21,
+        "2026-11-14": 21
       },
       "meta": {
         "authors": [
@@ -3729,7 +3745,7 @@
         "2026-07-30": 15,
         "2026-07-31": 15,
         "2026-08-01": 15,
-        "2026-08-02": 15,
+        "2026-08-02": 18,
         "2026-08-03": 18,
         "2026-08-04": 18,
         "2026-08-05": 18,
@@ -3829,7 +3845,8 @@
         "2026-11-10": 20,
         "2026-11-11": 20,
         "2026-11-12": 20,
-        "2026-11-13": 20
+        "2026-11-13": 20,
+        "2026-11-14": 20
       },
       "meta": {
         "authors": [
@@ -3982,7 +3999,7 @@
         "2026-07-30": 11,
         "2026-07-31": 11,
         "2026-08-01": 11,
-        "2026-08-02": 11,
+        "2026-08-02": 12,
         "2026-08-03": 12,
         "2026-08-04": 12,
         "2026-08-05": 12,
@@ -4082,7 +4099,8 @@
         "2026-11-10": 12,
         "2026-11-11": 12,
         "2026-11-12": 12,
-        "2026-11-13": 12
+        "2026-11-13": 12,
+        "2026-11-14": 12
       },
       "meta": {
         "authors": [
@@ -4229,7 +4247,7 @@
         "2026-08-05": 11,
         "2026-08-06": 11,
         "2026-08-07": 11,
-        "2026-08-08": 11,
+        "2026-08-08": 12,
         "2026-08-09": 12,
         "2026-08-10": 12,
         "2026-08-11": 12,
@@ -4276,7 +4294,7 @@
         "2026-09-22": 12,
         "2026-09-23": 12,
         "2026-09-24": 12,
-        "2026-09-25": 12,
+        "2026-09-25": 13,
         "2026-09-26": 13,
         "2026-09-27": 14,
         "2026-09-28": 14,
@@ -4323,7 +4341,8 @@
         "2026-11-10": 18,
         "2026-11-11": 18,
         "2026-11-12": 18,
-        "2026-11-13": 18
+        "2026-11-13": 18,
+        "2026-11-14": 18
       },
       "meta": {
         "authors": [
@@ -4468,7 +4487,7 @@
         "2026-07-30": 6,
         "2026-07-31": 6,
         "2026-08-01": 6,
-        "2026-08-02": 6,
+        "2026-08-02": 9,
         "2026-08-03": 9,
         "2026-08-04": 9,
         "2026-08-05": 9,
@@ -4568,7 +4587,8 @@
         "2026-11-10": 9,
         "2026-11-11": 9,
         "2026-11-12": 9,
-        "2026-11-13": 9
+        "2026-11-13": 9,
+        "2026-11-14": 9
       },
       "meta": {
         "_tried": "2026-07-19",
@@ -4816,7 +4836,8 @@
         "2026-11-10": 4,
         "2026-11-11": 4,
         "2026-11-12": 4,
-        "2026-11-13": 4
+        "2026-11-13": 4,
+        "2026-11-14": 4
       },
       "meta": {
         "authors": [
@@ -5063,7 +5084,8 @@
         "2026-11-10": 5,
         "2026-11-11": 5,
         "2026-11-12": 5,
-        "2026-11-13": 5
+        "2026-11-13": 5,
+        "2026-11-14": 5
       },
       "meta": {
         "authors": [
@@ -5266,7 +5288,8 @@
         "2026-11-10": 2,
         "2026-11-11": 2,
         "2026-11-12": 2,
-        "2026-11-13": 2
+        "2026-11-13": 2,
+        "2026-11-14": 2
       },
       "meta": {
         "authors": [
@@ -5445,7 +5468,8 @@
         "2026-11-10": 0,
         "2026-11-11": 0,
         "2026-11-12": 0,
-        "2026-11-13": 0
+        "2026-11-13": 0,
+        "2026-11-14": 0
       },
       "meta": {
         "_tried": "2026-07-19"
@@ -5502,7 +5526,8 @@
         "2026-07-24": 4,
         "2026-07-25": 4,
         "2026-11-12": 6,
-        "2026-11-13": 6
+        "2026-11-13": 6,
+        "2026-11-14": 6
       },
       "meta": {
         "abstract": "Large language models (LLMs) face significant challenges in sustaining long-term memory for agentic applications due to limited context windows. To address this limitation, many work has proposed diverse memory mechanisms to support long-term, multi-turn interactions, leveraging different approaches tailored to distinct memory storage objects, such as KV caches. In this survey, we present a unified taxonomy that organizes memory systems for long-context scenarios by decoupling memory abstractions from model-specific inference and training methods. We categorize LLM memory into three primary paradigms: natural language tokens, intermediate representations and parameters. For each paradigm, we organize existing methods by three management stages, including memory construction, update, and query, so that long-context memory mechanisms can be described in a consistent way across system designs, with their implementation choices and constraints made explicit. Finally, we outline key research directions for long-context memory system design.",
@@ -5590,7 +5615,7 @@
         "2026-09-04": 0,
         "2026-09-05": 0,
         "2026-09-06": 0,
-        "2026-09-07": 1,
+        "2026-09-07": 0,
         "2026-09-08": 1,
         "2026-09-09": 1,
         "2026-09-10": 1,
@@ -5651,7 +5676,8 @@
         "2026-11-10": 1,
         "2026-11-11": 1,
         "2026-11-12": 1,
-        "2026-11-13": 1
+        "2026-11-13": 1,
+        "2026-11-14": 1
       },
       "meta": {
         "abstract": "Classical models of opinion dynamics assume human participants with bounded rationality and limited coordination. The rise of LLM-based agents introduces a qualitative shift: agents can now participate in online discussions at scale, maintain consistent persuasion strategies, and coordinate systematically. This paper argues that LLM agents make collective belief dynamics programmable, enabling deliberate steering of population-level beliefs. We term this emerging problem programmable collective belief control. Through controlled multi-agent simulations, we provide proof-of-concept evidence that coordinated AI agents can induce measurable belief shifts that stabilize within a few interaction rounds. We identify four structural properties (indistinguishability, persistence, contextuality, and configurability) that make detection and defense fundamentally difficult. Based on these findings, we outline a research agenda spanning theoretical foundations for adversarial belief dynamics, operational methods for system-level detection and intervention, and simulation infrastructure for scalable experimentation. Our goal is not to present a complete solution, but to articulate why this problem demands urgent attention and to provide a conceptual foundation for future work.",
@@ -5786,7 +5812,8 @@
         "2026-11-10": 0,
         "2026-11-11": 0,
         "2026-11-12": 0,
-        "2026-11-13": 0
+        "2026-11-13": 0,
+        "2026-11-14": 0
       },
       "meta": {
         "_tried": "2026-07-20"
@@ -5805,7 +5832,7 @@
         "2026-07-30": 3,
         "2026-07-31": 3,
         "2026-08-01": 3,
-        "2026-08-02": 3,
+        "2026-08-02": 4,
         "2026-08-03": 4,
         "2026-08-04": 4,
         "2026-08-05": 4,
@@ -5898,7 +5925,7 @@
         "2026-11-03": 4,
         "2026-11-04": 4,
         "2026-11-05": 4,
-        "2026-11-06": 4,
+        "2026-11-06": 6,
         "2026-11-07": 6,
         "2026-11-08": 6,
         "2026-11-09": 6,
@@ -6044,7 +6071,8 @@
         "2026-11-10": 28,
         "2026-11-11": 28,
         "2026-11-12": 28,
-        "2026-11-13": 28
+        "2026-11-13": 28,
+        "2026-11-14": 28
       },
       "meta": {
         "abstract": "The COVID-19 pandemic has threatened global health. Many studies have applied deep convolutional neural networks (CNN) to recognize COVID-19 based on chest 3D computed tomography (CT). Recent works show that no model generalizes well across CT datasets from different countries, and manually designing models for specific datasets requires expertise;thus, neural architecture search (NAS) that aims to search models automatically has become an attractive solution. To reduce the search cost on large 3D CT datasets, most NAS-based works use the weight-sharing (WS) strategy to make all models share weights within a supernet;however, WS inevitably incurs search instability, leading to inaccurate model estimation. In this work, we propose an efficient Evolutionary Multi-objective ARchitecture Search (EMARS) framework. We propose a new objective, namely potential, which can help exploit promising models to indirectly reduce the number of models involved in weights training, thus alleviating search instability. We demonstrate that under objectives of accuracy and potential, EMARS can balance exploitation and exploration, i.e., reducing search time and finding better models. Our searched models are small and perform better than prior works on three public COVID-19 3D CT datasets.",
@@ -6167,7 +6195,8 @@
         "2026-11-10": 28,
         "2026-11-11": 28,
         "2026-11-12": 28,
-        "2026-11-13": 28
+        "2026-11-13": 28,
+        "2026-11-14": 28
       },
       "meta": {
         "abstract": "Skin disease is one of the most common types of human diseases, which may happen to everyone regardless of age, gender or race. Due to the high visual diversity, human diagnosis highly relies on personal experience; and there is a serious shortage of experienced dermatologists in many countries. To alleviate this problem, computer-aided diagnosis with state-of-the-art (SOTA) machine learning techniques would be a promising solution. In this paper, we aim at understanding the performance of convolutional neural network (CNN) based approaches. We first build two versions of skin disease datasets from Internet images: (a) Skin -10, which contains 10 common classes of skin disease with a total of 10,218 images; (b) Skin -100, which is a larger dataset that consists of 19,807 images of 100 skin disease classes. Based on these datasets, we benchmark several SOTA CNN models and show that the accuracy of skin -100 is much lower than the accuracy of skin -10. We then implement an ensemble method based on several CNN models and achieve the best accuracy of 79.01% for Skin -10 and 53.54% for Skin -100. We also present an object detection based approach by introducing bounding boxes into the Skin -10 dataset. Our results show that object detection can help improve the accuracy of some skin disease classes.",
@@ -6203,7 +6232,8 @@
         "2026-11-10": 0,
         "2026-11-11": 0,
         "2026-11-12": 0,
-        "2026-11-13": 0
+        "2026-11-13": 0,
+        "2026-11-14": 0
       },
       "meta": {
         "abstract": "Physical AI aims to enable intelligent systems to perceive, reason, act, and learn through interaction with the physical world. Unlike purely digital intelligence, physical agents must operate under partial observability, uncertain dynamics, embodiment constraints, and real-time requirements, while their actions continuously reshape the environment and subsequent observations. Recent advances in foundation models and robot learning have expanded the capabilities of physical agents, yet achieving reliable autonomy requires more than improvements in individual models. This survey presents a comprehensive, system-level review of Physical AI, organized around the closed-loop process of physical interaction. We examine the foundations and recent developments in task representations and memory, predictive and action-generating models, data and learning methods, embodiment and control, computing systems, evaluation, and safety. Beyond reviewing individual advances, we investigate how these components interact and collectively shape the capabilities and limitations of Physical AI systems. Building on this integrated perspective, we identify fundamental challenges in generalization, resource-efficient learning and execution, reliable state tracking, safety, recovery, and continual adaptation. We argue that advancing Physical AI requires moving beyond isolated model performance toward integrated systems capable of robust, efficient, safe, and autonomous physical interaction under changing real-world conditions.",
