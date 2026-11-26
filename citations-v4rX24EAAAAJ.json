@@ -288,10 +288,15 @@
         "citations": 20512,
         "hindex": 75,
         "i10": 224
+      },
+      "2026-11-27": {
+        "citations": 20546,
+        "hindex": 75,
+        "i10": 225
       }
     }
   },
-  "updated": "2026-11-25",
+  "updated": "2026-11-27",
   "source": "dom",
   "papers": {
     "AutoML: A Survey of the State-of-the-Art": {
@@ -355,7 +360,8 @@
         "2026-11-22": 2996,
         "2026-11-23": 2996,
         "2026-11-24": 2996,
-        "2026-11-25": 2996
+        "2026-11-25": 2996,
+        "2026-11-27": 2999
       },
       "meta": {
         "abstract": "Deep learning (DL) techniques have penetrated all aspects of our lives and brought us great convenience. However, building a high-quality DL system for a specific task highly relies on human expertise, hindering the applications of DL to more areas. Automated machine learning (AutoML) becomes a promising solution to build a DL system without human assistance, and a growing number of researchers focus on AutoML. In this paper, we provide a comprehensive and up-to-date review of the state-of-the-art (SOTA) in AutoML. First, we introduce AutoML methods according to the pipeline, covering data preparation, feature engineering, hyperparameter optimization, and neural architecture search (NAS). We focus more on NAS, as it is currently very hot sub-topic of AutoML. We summarize the performance of the representative NAS algorithms on the CIFAR-10 and ImageNet datasets and further discuss several worthy studying directions of NAS methods: one/two-stage NAS, one-shot NAS, and joint hyperparameter and architecture optimization. Finally, we discuss some open problems of the existing AutoML methods for future research.",
@@ -433,7 +439,8 @@
         "2026-11-22": 665,
         "2026-11-23": 665,
         "2026-11-24": 665,
-        "2026-11-25": 665
+        "2026-11-25": 665,
+        "2026-11-27": 666
       },
       "meta": {
         "_tried": "2026-11-08"
@@ -500,7 +507,8 @@
         "2026-11-22": 527,
         "2026-11-23": 527,
         "2026-11-24": 527,
-        "2026-11-25": 527
+        "2026-11-25": 527,
+        "2026-11-27": 527
       },
       "meta": {}
     },
@@ -565,7 +573,8 @@
         "2026-11-22": 507,
         "2026-11-23": 507,
         "2026-11-24": 507,
-        "2026-11-25": 507
+        "2026-11-25": 507,
+        "2026-11-27": 505
       },
       "meta": {
         "abstract": "Deep learning has been shown as a successful machine learning method for a variety of tasks, and its popularity results in numerous open-source deep learning software tools coming to public. Training a deep network is usually a very time-consuming process. To address the huge computational challenge in deep learning, many tools exploit hardware features such as multi-core CPUs and many-core GPUs to shorten the training and inference time. However, different tools exhibit different features and running performance when they train different types of deep networks on different hardware platforms, making it difficult for end users to select an appropriate pair of software and hardware. In this paper, we present our attempt to benchmark several state-of-the-art GPU-accelerated deep learning software tools, including Caffe, CNTK, TensorFlow, and Torch. We focus on evaluating the running time performance (i.e., speed) of these tools with three popular types of neural networks on two representative CPU platforms and three representative GPU platforms. Our contribution is two-fold. First, for end users of deep learning software tools, our benchmarking results can serve as a reference to selecting appropriate hardware platforms and software tools. Second, for developers of deep learning software tools, our in-depth analysis points out possible future directions to further optimize the running performance.",
@@ -644,7 +653,8 @@
         "2026-11-22": 375,
         "2026-11-23": 375,
         "2026-11-24": 375,
-        "2026-11-25": 375
+        "2026-11-25": 375,
+        "2026-11-27": 375
       },
       "meta": {
         "_tried": "2026-10-31"
@@ -711,7 +721,8 @@
         "2026-11-22": 343,
         "2026-11-23": 343,
         "2026-11-24": 343,
-        "2026-11-25": 343
+        "2026-11-25": 343,
+        "2026-11-27": 343
       },
       "meta": {}
     },
@@ -776,7 +787,8 @@
         "2026-11-22": 329,
         "2026-11-23": 329,
         "2026-11-24": 332,
-        "2026-11-25": 332
+        "2026-11-25": 332,
+        "2026-11-27": 332
       },
       "meta": {}
     },
@@ -841,7 +853,8 @@
         "2026-11-22": 309,
         "2026-11-23": 309,
         "2026-11-24": 312,
-        "2026-11-25": 312
+        "2026-11-25": 312,
+        "2026-11-27": 312
       },
       "meta": {
         "abstract": "Despite efforts to improve the quality of service (QoS) and throughput in Large Language Model (LLM) serving systems, progress is often limited by the lack of publicly available real-world workloads. Consequently, evaluations usually depend on synthetic or oversimplified load patterns, and systems that appear promising in testing frequently underperform once deployed. This work presents BurstGPT, an LLM serving workload with 10.31 million traces from regional Azure OpenAI GPT services over 213 days. BurstGPT captures LLM serving characteristics from user, model and system perspectives: (1) User request concurrency: burstiness variations of requests in Azure OpenAI GPT services, revealing diversified concurrency patterns in different services and model types. (2) User conversation patterns: counts and intervals within conversations for service optimizations. (3) Model response lengths: auto-regressive serving processes of GPT models, showing statistical relations between requests and their responses. (4) System response failures: failures of conversation and API services, showing intensive resource needs and limited availability of LLM services in Azure. The details of the characteristics can serve multiple purposes in LLM serving optimizations, such as system evaluation and trace provisioning. In our demo evaluation with BurstGPT, frequent variations in BurstGPT reveal declines in efficiency, stability, or reliability in realistic LLM serving. We identify that the generalization of KV cache management, scheduling and disaggregation optimizations can be improved under realistic workload evaluations. BurstGPT is publicly available now at https://github.com/HPMLL/BurstGPT and is widely used to develop prototypes of LLM serving frameworks in the industry.",
@@ -930,7 +943,8 @@
         "2026-11-22": 300,
         "2026-11-23": 300,
         "2026-11-24": 300,
-        "2026-11-25": 300
+        "2026-11-25": 300,
+        "2026-11-27": 300
       },
       "meta": {
         "abstract": "Pipe bursts in water distribution networks lead to considerable water loss and pose risks of bacteria and pollutant contamination. Pipe burst localisation methods help water service providers repair the burst pipes and restore water supply timely and efficiently. Although methods have been reported on burst detection and localisation, there is a lack of studies on accurate localisation of a burst within a potential district by accessible meters. To address this, a novel Burst Location Identification Framework by Fully-linear DenseNet (BLIFF) is proposed. In this framework, additional pressure meters are placed at limited, optimised places for a short period (minutes to hours) to monitor system behaviour after the burst. The fully-linear DenseNet (FL-DenseNet) newly developed in this study modifies the state-of-the-art deep learning algorithm to effectively extract features in the limited pressure signals for accurate burst localisation. BLIFF was tested on a benchmark network with different parameter settings, which showed that accurate burst localisation results can be achieved even with high model uncertainties. The framework was also applied to a real-life network, in which 57 of the total 58 synthetic bursts in the potential burst district were correctly located when the top five most possible pipes are considered and among them, 37 were successfully located when considering only the top one. Only one failed because of the very small pipe diameter and remote location. Comparisons with DenseNet and the traditional fully linear neural network demonstrate that the framework can effectively narrow the potential burst district to one or several pipes with good robustness and applicability. Codes are available at https://github.com/wizard1203/waternn.",
@@ -1012,7 +1026,8 @@
         "2026-11-22": 298,
         "2026-11-23": 298,
         "2026-11-24": 298,
-        "2026-11-25": 298
+        "2026-11-25": 298,
+        "2026-11-27": 300
       },
       "meta": {}
     },
@@ -1077,7 +1092,8 @@
         "2026-11-22": 291,
         "2026-11-23": 291,
         "2026-11-24": 291,
-        "2026-11-25": 291
+        "2026-11-25": 291,
+        "2026-11-27": 291
       },
       "meta": {
         "abstract": "In recent years, natural language processing (NLP) has got great development with deep learning techniques. In the sub-field of machine translation, a new approach named Neural Machine Translation (NMT) has emerged and got massive attention from both academia and industry. However, with a significant number of researches proposed in the past several years, there is little work in investigating the development process of this new technology trend. This literature survey traces back the origin and principal development timeline of NMT, investigates the important branches, categorizes different research orientations, and discusses some future research trends in this field.",
@@ -1155,7 +1171,8 @@
         "2026-11-22": 286,
         "2026-11-23": 286,
         "2026-11-24": 286,
-        "2026-11-25": 286
+        "2026-11-25": 286,
+        "2026-11-27": 286
       },
       "meta": {}
     },
@@ -1220,7 +1237,8 @@
         "2026-11-22": 263,
         "2026-11-23": 263,
         "2026-11-24": 263,
-        "2026-11-25": 263
+        "2026-11-25": 263,
+        "2026-11-27": 263
       },
       "meta": {}
     },
@@ -1285,7 +1303,8 @@
         "2026-11-22": 253,
         "2026-11-23": 253,
         "2026-11-24": 255,
-        "2026-11-25": 255
+        "2026-11-25": 255,
+        "2026-11-27": 256
       },
       "meta": {}
     },
@@ -1350,7 +1369,8 @@
         "2026-11-22": 242,
         "2026-11-23": 242,
         "2026-11-24": 243,
-        "2026-11-25": 243
+        "2026-11-25": 243,
+        "2026-11-27": 243
       },
       "meta": {
         "abstract": "",
@@ -1430,7 +1450,8 @@
         "2026-11-22": 234,
         "2026-11-23": 234,
         "2026-11-24": 234,
-        "2026-11-25": 234
+        "2026-11-25": 234,
+        "2026-11-27": 234
       },
       "meta": {
         "abstract": "Distributed synchronous stochastic gradient descent (S-SGD) with data parallelism has been widely used in training large-scale deep neural networks (DNNs), but it typically requires very high communication bandwidth between computational workers (e.g., GPUs) to exchange gradients iteratively. Recently, Top-k sparsification techniques have been proposed to reduce the volume of data to be exchanged among workers and thus alleviate the network pressure. Top-k sparsification can zero-out a significant portion of gradients without impacting the model convergence. However, the sparse gradients should be transferred with their indices, and the irregular indices make the sparse gradients aggregation difficult. Current methods that use AllGather to accumulate the sparse gradients have a communication complexity of O(kP), where P is the number of workers, which is inefficient on low bandwidth networks with a large number of workers. We observe that not all top-k gradients from P workers are needed for the model update, and therefore we propose a novel global Top-k (gTop-k) sparsification mechanism to address the difficulty of aggregating sparse gradients. Specifically, we choose global top-k largest absolute values of gradients from P workers, instead of accumulating all local top-k gradients to update the model in each iteration. The gradient aggregation method based on gTop-k sparsification, namely gTopKAllReduce, reduces the communication complexity from O(kP) to O(k log P). Through extensive experiments on different DNNs, we verify that gTop-k S-SGD has nearly consistent convergence performance with S-SGD, and it has only slight degradations on generalization performance. In terms of scaling efficiency, we evaluate gTop-k on a cluster with 32 GPU machines which are interconnected with 1 Gbps Ethernet. The experimental results show that our method achieves 2.7-12× higher scaling efficiency than S-SGD with dense gradients and 1.1-1.7× improvement than the existing Top-k S-SGD.",
@@ -1512,7 +1533,8 @@
         "2026-11-22": 215,
         "2026-11-23": 215,
         "2026-11-24": 215,
-        "2026-11-25": 215
+        "2026-11-25": 215,
+        "2026-11-27": 215
       },
       "meta": {
         "abstract": "Technology of autonomous vehicles (AVs) is becoming mature, and many AVs will appear on roads in the near future. AVs become connected with the support of various vehicular communication technologies, and they possess a high degree of control to respond to instantaneous situations cooperatively with high efficiency and flexibility. In this paper, we propose a new public transportation system based on AVs. It manages a fleet of AVs to accommodate transportation requests, offering point-to-point services with ride sharing. We focus on the two major problems of the system: scheduling and admission control. The former is to configure the most economical schedules and routes for the AVs to satisfy the admissible requests, whereas the latter is to determine the set of admissible requests among all requests to produce maximum profit. The scheduling problem is formulated as a mixed-integer linear program, and the admission control problem is cast as a bilevel optimization, which embeds the scheduling problem as the major constraint. By utilizing the analytical properties of the problem, we develop an effective genetic-algorithm-based method to tackle the admission control problem. We validate the performance of the algorithm with real-world transportation service data.",
@@ -1590,7 +1612,8 @@
         "2026-11-22": 212,
         "2026-11-23": 212,
         "2026-11-24": 212,
-        "2026-11-25": 212
+        "2026-11-25": 212,
+        "2026-11-27": 212
       },
       "meta": {}
     },
@@ -1655,7 +1678,8 @@
         "2026-11-22": 205,
         "2026-11-23": 205,
         "2026-11-24": 205,
-        "2026-11-25": 205
+        "2026-11-25": 205,
+        "2026-11-27": 205
       },
       "meta": {}
     },
@@ -1720,7 +1744,8 @@
         "2026-11-22": 190,
         "2026-11-23": 190,
         "2026-11-24": 190,
-        "2026-11-25": 190
+        "2026-11-25": 190,
+        "2026-11-27": 190
       },
       "meta": {
         "abstract": "Federated learning utilizes various resources provided by participants to collaboratively train a global model, which potentially address the data privacy issue of machine learning. In such promising paradigm, the performance will be deteriorated without sufficient training data and other resources in the learning process. Thus, it is quite crucial to inspire more participants to contribute their valuable resources with some payments for federated learning. In this paper, we present a comprehensive survey of incentive schemes for federate learning. Specifically, we identify the incentive problem in federated learning and then provide a taxonomy for various schemes. Subsequently, we summarize the existing incentive mechanisms in terms of the main techniques, such as Stackelberg game, auction, contract theory, Shapley value, reinforcement learning, blockchain. By reviewing and comparing some impressive results, we figure out three directions for the future study.",
@@ -1799,7 +1824,8 @@
         "2026-11-22": 186,
         "2026-11-23": 186,
         "2026-11-24": 186,
-        "2026-11-25": 186
+        "2026-11-25": 186,
+        "2026-11-27": 186
       },
       "meta": {}
     },
@@ -1863,7 +1889,8 @@
         "2026-11-22": 184,
         "2026-11-23": 184,
         "2026-11-24": 184,
-        "2026-11-25": 184
+        "2026-11-25": 184,
+        "2026-11-27": 184
       },
       "meta": {}
     },
@@ -1927,7 +1954,8 @@
         "2026-11-22": 169,
         "2026-11-23": 169,
         "2026-11-24": 169,
-        "2026-11-25": 169
+        "2026-11-25": 169,
+        "2026-11-27": 169
       },
       "meta": {}
     },
@@ -1991,7 +2019,8 @@
         "2026-11-22": 167,
         "2026-11-23": 167,
         "2026-11-24": 167,
-        "2026-11-25": 167
+        "2026-11-25": 167,
+        "2026-11-27": 167
       },
       "meta": {
         "abstract": "Due to the popularity of Graph Neural Networks (GNNs), various GNN-based methods have been designed to reason on knowledge graphs (KGs). An important design component of GNN-based KG reasoning methods is called the propagation path, which contains a set of involved entities in each propagation step. Existing methods use hand-designed propagation paths, ignoring the correlation between the entities and the query relation. In addition, the number of involved entities will explosively grow at larger propagation steps. In this work, we are motivated to learn an adaptive propagation path in order to filter out irrelevant entities while preserving promising targets. First, we design an incremental sampling mechanism where the nearby targets and layer-wise connections can be preserved with linear complexity. Second, we design a learning-based sampling distribution to identify the semantically related entities. Extensive experiments show that our method is powerful, efficient and semantic-aware. The code is available at https://github.com/LARS-research/AdaProp.",
@@ -2070,7 +2099,8 @@
         "2026-11-22": 164,
         "2026-11-23": 164,
         "2026-11-24": 164,
-        "2026-11-25": 164
+        "2026-11-25": 164,
+        "2026-11-27": 165
       },
       "meta": {
         "abstract": "Deep learning has become widely used in complex AI applications. Yet, training a deep neural network (DNNs) model requires a considerable amount of calculations, long running time, and much energy. Nowadays, many-core AI accelerators (e.g., GPUs and TPUs) are designed to improve the performance of AI training. However, processors from different vendors perform dissimilarly in terms of performance and energy consumption. To investigate the differences among several popular off-the-shelf processors (i.e., Intel CPU, NVIDIA GPU, AMD GPU, and Google TPU) in training DNNs, we carry out a comprehensive empirical study on the performance and energy efficiency of these processors1 by benchmarking a representative set of deep learning workloads, including computation-intensive operations, classical convolutional neural networks (CNNs), recurrent neural networks (LSTM), Deep Speech 2, and Transformer. Different from the existing end-to-end benchmarks which only present the training time, We try to investigate the impact of hardware, vendor's software library, and deep learning framework on the performance and energy consumption of AI training. Our evaluation methods and results not only provide an informative guide for end users to select proper AI accelerators, but also expose some opportunities for the hardware vendors to improve their software library.",
@@ -2151,7 +2181,8 @@
         "2026-11-22": 161,
         "2026-11-23": 161,
         "2026-11-24": 161,
-        "2026-11-25": 161
+        "2026-11-25": 161,
+        "2026-11-27": 161
       },
       "meta": {
         "_tried": "2026-11-03",
@@ -2228,7 +2259,8 @@
         "2026-11-22": 160,
         "2026-11-23": 160,
         "2026-11-24": 160,
-        "2026-11-25": 160
+        "2026-11-25": 160,
+        "2026-11-27": 160
       },
       "meta": {}
     },
@@ -2292,7 +2324,8 @@
         "2026-11-22": 158,
         "2026-11-23": 158,
         "2026-11-24": 158,
-        "2026-11-25": 158
+        "2026-11-25": 158,
+        "2026-11-27": 158
       },
       "meta": {
         "_tried": "2026-11-07"
@@ -2358,7 +2391,8 @@
         "2026-11-22": 158,
         "2026-11-23": 158,
         "2026-11-24": 158,
-        "2026-11-25": 158
+        "2026-11-25": 158,
+        "2026-11-27": 159
       },
       "meta": {}
     },
@@ -2422,7 +2456,8 @@
         "2026-11-22": 154,
         "2026-11-23": 154,
         "2026-11-24": 154,
-        "2026-11-25": 154
+        "2026-11-25": 154,
+        "2026-11-27": 154
       },
       "meta": {
         "_tried": "2026-09-18",
@@ -2500,7 +2535,8 @@
         "2026-11-22": 152,
         "2026-11-23": 152,
         "2026-11-24": 153,
-        "2026-11-25": 153
+        "2026-11-25": 153,
+        "2026-11-27": 156
       },
       "meta": {
         "abstract": "Graphics processing units (GPUs) are continually evolving to cater to the computational demands of contemporary general-purpose workloads, particularly those driven by artificial intelligence (AI) utilizing deep learning techniques. A substantial body of studies have been dedicated to dissecting the microarchitectural metrics characterizing diverse GPU generations, which helps researchers understand the hardware details and leverage them to optimize the GPU programs. However, the latest Hopper GPUs present a set of novel attributes, including new tensor cores supporting FP8, DPX, and distributed shared memory. Their details still remain mysterious in terms of performance and operational characteristics. In this research, we propose an extensive benchmarking study focused on the Hopper GPU. The objective is to unveil its microarchitectural intricacies through an examination of the new instruction-set architecture (ISA) of Nvidia GPUs and the utilization of new CUDA APIs. Our approach involves two main aspects. Firstly, we conduct conventional latency and throughput comparison benchmarks across the three most recent GPU architectures, namely Hopper, Ada, and Ampere. Secondly, we delve into a comprehensive discussion and benchmarking of the latest Hopper features, encompassing the Hopper DPX dynamic programming (DP) instruction set, distributed shared memory, and the availability of FP8 tensor cores. The microbenchmarking results we present offer a deeper understanding of the novel GPU AI function units and programming features introduced by the Hopper architecture. This newfound understanding is expected to greatly facilitate software optimization and modeling efforts for GPU architectures. To the best of our knowledge, this study makes the first attempt to demystify the tensor core performance and programming instruction sets unique to Hopper GPUs.",
@@ -2580,7 +2616,8 @@
         "2026-11-22": 153,
         "2026-11-23": 153,
         "2026-11-24": 153,
-        "2026-11-25": 153
+        "2026-11-25": 153,
+        "2026-11-27": 153
       },
       "meta": {
         "_tried": "2026-11-09"
@@ -2646,7 +2683,8 @@
         "2026-11-22": 152,
         "2026-11-23": 152,
         "2026-11-24": 153,
-        "2026-11-25": 153
+        "2026-11-25": 153,
+        "2026-11-27": 152
       },
       "meta": {}
     },
@@ -2710,7 +2748,8 @@
         "2026-11-22": 147,
         "2026-11-23": 147,
         "2026-11-24": 147,
-        "2026-11-25": 147
+        "2026-11-25": 147,
+        "2026-11-27": 148
       },
       "meta": {}
     },
@@ -2774,7 +2813,8 @@
         "2026-11-22": 145,
         "2026-11-23": 145,
         "2026-11-24": 145,
-        "2026-11-25": 145
+        "2026-11-25": 145,
+        "2026-11-27": 145
       },
       "meta": {}
     },
@@ -2838,7 +2878,8 @@
         "2026-11-22": 144,
         "2026-11-23": 144,
         "2026-11-24": 144,
-        "2026-11-25": 144
+        "2026-11-25": 144,
+        "2026-11-27": 144
       },
       "meta": {}
     },
@@ -2902,7 +2943,8 @@
         "2026-11-22": 143,
         "2026-11-23": 143,
         "2026-11-24": 144,
-        "2026-11-25": 144
+        "2026-11-25": 144,
+        "2026-11-27": 144
       },
       "meta": {}
     },
@@ -2966,7 +3008,8 @@
         "2026-11-22": 142,
         "2026-11-23": 142,
         "2026-11-24": 142,
-        "2026-11-25": 142
+        "2026-11-25": 142,
+        "2026-11-27": 143
       },
       "meta": {
         "abstract": "Abstract Energy efficiency has become one of the top design criteria for current computing systems. The dynamic voltage and frequency scaling (DVFS) has been widely adopted by laptop computers, servers, and mobile devices to conserve energy, while the GPU DVFS is still at a certain early age. This paper aims at exploring the impact of GPU DVFS on the application performance and power consumption, and furthermore, on energy conservation. We survey the state-of-the-art GPU DVFS characterizations, and then summarize recent research works on GPU power and performance models. We also conduct real GPU DVFS experiments on NVIDIA Fermi and Maxwell GPUs. According to our experimental results, GPU DVFS has significant potential for energy saving. The effect of scaling core voltage/frequency and memory voltage/frequency depends on not only the GPU architectures, but also the characteristic of GPU applications.",
@@ -3043,7 +3086,8 @@
         "2026-11-22": 140,
         "2026-11-23": 140,
         "2026-11-24": 141,
-        "2026-11-25": 141
+        "2026-11-25": 141,
+        "2026-11-27": 142
       },
       "meta": {
         "abstract": "Half-precision matrix multiply has played a key role in the training of deep learning models. The newly designed Nvidia Tensor Cores offer the native instructions for half-precision small matrix multiply, based on which Half-precision General Matrix Multiply (HGEMM) routines are developed and can be accessed through high-level APIs. In this paper, we, for the first time, demystify how Tensor Cores on NVIDIA Turing architecture work in great details, including the instructions used, the registers and data layout required, as well as the throughput and latency of Tensor Core operations. We further benchmark the memory system of Turing GPUs and conduct quantitative analysis of the performance. Our analysis shows that the bandwidth of DRAM, L2 cache and shared memory is the new bottleneck for HGEMM, whose performance is previously believed to be bound by computation. Based on our newly discovered features of Tensor Cores, we apply a series of optimization techniques on the Tensor Core-based HGEMM, including blocking size optimization, data layout redesign, data prefetching, and instruction scheduling. Extensive evaluation results show that our optimized HGEMM routine achieves an average of 1.73× and 1.46× speedup over the native implementation of cuBLAS 10.1 on NVIDIA Turing RTX2070 and T4 GPUs, respectively. The code of our implementation is written in native hardware assembly (SASS).",
@@ -3120,7 +3164,8 @@
         "2026-11-22": 136,
         "2026-11-23": 136,
         "2026-11-24": 136,
-        "2026-11-25": 136
+        "2026-11-25": 136,
+        "2026-11-27": 137
       },
       "meta": {
         "abstract": "The upscaling of Large Language Models (LLMs) has yielded impressive advances in natural language processing, yet it also poses significant deployment challenges. Weight quantization has emerged as a widely embraced solution to reduce memory and computational demands. This paper introduces BitDistiller, a framework that synergizes Quantization-Aware Training (QAT) with Knowledge Distillation (KD) to boost the performance of LLMs at ultra-low precisions (sub-4-bit). Specifically, BitDistiller first incorporates a tailored asymmetric quantization and clipping technique to maximally preserve the fidelity of quantized weights, and then proposes a novel Confidence-Aware Kullback-Leibler Divergence (CAKLD) objective, which is employed in a self-distillation manner to enable faster convergence and superior model performance. Empirical evaluations demonstrate that BitDistiller significantly surpasses existing methods in both 3-bit and 2-bit configurations on general language understanding and complex reasoning benchmarks. Notably, BitDistiller is shown to be more cost-effective, demanding fewer data and training resources. The code is available at https://github.com/DD-DuDa/BitDistiller.",
@@ -3201,7 +3246,8 @@
         "2026-11-22": 129,
         "2026-11-23": 129,
         "2026-11-24": 129,
-        "2026-11-25": 129
+        "2026-11-25": 129,
+        "2026-11-27": 130
       },
       "meta": {}
     },
@@ -3265,7 +3311,8 @@
         "2026-11-22": 123,
         "2026-11-23": 123,
         "2026-11-24": 123,
-        "2026-11-25": 123
+        "2026-11-25": 123,
+        "2026-11-27": 123
       },
       "meta": {
         "abstract": "The COVID-19 pandemic has spread globally for several months. Because its transmissibility and high pathogenicity seriously threaten people's lives, it is crucial to accurately and quickly detect COVID-19 infection. Many recent studies have shown that deep learning (DL) based solutions can help detect COVID-19 based on chest CT scans. However, most existing work focuses on 2D datasets, which may result in low quality models as the real CT scans are 3D images. Besides, the reported results span a broad spectrum on different datasets with a relatively unfair comparison. In this paper, we first use three state-of-the-art 3D models (ResNet3D101, DenseNet3D121, and MC3\\_18) to establish the baseline performance on three publicly available chest CT scan datasets. Then we propose a differentiable neural architecture search (DNAS) framework to automatically search the 3D DL models for 3D chest CT scans classification and use the Gumbel Softmax technique to improve the search efficiency. We further exploit the Class Activation Mapping (CAM) technique on our models to provide the interpretability of the results. The experimental results show that our searched models (CovidNet3D) outperform the baseline human-designed models on three datasets with tens of times smaller model size and higher accuracy. Furthermore, the results also verify that CAM can be well applied in CovidNet3D for COVID-19 datasets to provide interpretability for medical diagnosis. Code: https://github.com/HKBU-HPML/CovidNet3D.",
@@ -3348,7 +3395,8 @@
         "2026-11-22": 121,
         "2026-11-23": 121,
         "2026-11-24": 122,
-        "2026-11-25": 122
+        "2026-11-25": 122,
+        "2026-11-27": 122
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -3414,7 +3462,8 @@
         "2026-11-22": 121,
         "2026-11-23": 121,
         "2026-11-24": 121,
-        "2026-11-25": 121
+        "2026-11-25": 121,
+        "2026-11-27": 121
       },
       "meta": {
         "abstract": "Nowadays, GPUs are widely used to accelerate many high performance computing applications. Energy conservation of such computing systems has become an important research topic. Dynamic voltage/frequency scaling (DVFS) is proved to be an appealing method for saving energy for traditional computing centers. However, there is still a lack of firsthand study on the effectiveness of GPU DVFS. This paper presents a thorough measurement study that aims to explore how GPU DVFS affects the system energy consumption. We conduct experiments on a real GPU platform with 37 benchmark applications. Our results show that GPU voltage/frequency scaling is an effective approach to conserving energy. For example, by scaling down the GPU core voltage and frequency, we have achieved an average of 19.28% energy reduction compared with the default setting, while giving up no more than 4% of performance. For all tested GPU applications, core voltage scaling is significantly effective to reduce system energy consumption. Meanwhile the effects of scaling core frequency and memory frequency depend on the characteristics of GPU applications.",
@@ -3492,7 +3541,8 @@
         "2026-11-22": 121,
         "2026-11-23": 121,
         "2026-11-24": 121,
-        "2026-11-25": 121
+        "2026-11-25": 121,
+        "2026-11-27": 121
       },
       "meta": {}
     },
@@ -3556,7 +3606,8 @@
         "2026-11-22": 114,
         "2026-11-23": 114,
         "2026-11-24": 114,
-        "2026-11-25": 114
+        "2026-11-25": 114,
+        "2026-11-27": 114
       },
       "meta": {}
     },
@@ -3620,7 +3671,8 @@
         "2026-11-22": 110,
         "2026-11-23": 110,
         "2026-11-24": 110,
-        "2026-11-25": 110
+        "2026-11-25": 110,
+        "2026-11-27": 110
       },
       "meta": {
         "_tried": "2026-11-10",
@@ -3700,7 +3752,8 @@
         "2026-11-22": 108,
         "2026-11-23": 108,
         "2026-11-24": 108,
-        "2026-11-25": 108
+        "2026-11-25": 108,
+        "2026-11-27": 108
       },
       "meta": {
         "abstract": "Bitcoin network is one of the most popular blockchain systems. Mining pools are the main components of the Bitcoin network that invest a large amount of computing power to maximize their expected mining payoffs, which guarantees the security of the Bitcoin network. Although many existing works about mining pools are available, the long-term evolution of mining pools, and their effects on both the Bitcoin system and end-users, remain to be investigated. To fill this gap, we trace over 2.54 hundred thousand blocks from Feb 2016 to Nov 2020 and collect over 12 million unconfirmed transactions from Mar 2018 to Nov 2020. We then conduct a broad range of analyses, including the pool evolution, labeled transactions, and labeled blocks. We make the following observations from our measured data: 1) A few mining pools control most of the peer-to-peer network's computing power. 2) The long-term computing power of top mining pools grows exponentially while its continuous-time mining strategy decreases linearly. 3) The computing power of the Bitcoin network converges to the Nash equilibrium. We then propose game-based strategies for mining activity analysis, i.e., the best-response strategies for mining pools when the mining revenue increases or decreases sharply. Moreover, we study the transaction fee dilemma of mining pools and the transaction fee strategies for end-users. Our models and analysis can help to understand and improve the Bitcoin system quantitatively.",
@@ -3777,10 +3830,22 @@
         "2026-11-22": 107,
         "2026-11-23": 107,
         "2026-11-24": 107,
-        "2026-11-25": 107
+        "2026-11-25": 107,
+        "2026-11-27": 107
       },
       "meta": {
-        "_tried": "2026-11-07"
+        "abstract": "Transportation electrification is one of the essential components in the future smart city planning and electric vehicles (EVs) will be integrated into the transportation system seamlessly. Charging stations are the main source of energy for EVs and their locations are critical to the accessibility of EVs in a city. They should be carefully situated so that an EV can access a charging station within its driving range and cruise around anywhere in the city upon being recharged. In this paper, we formulate the Electric Vehicle Charging Station Placement Problem, in which we minimize the total construction cost subject to the constraints for the charging station coverage and the convenience of the drivers for EV charging. We study the properties of the problem, especially its NP-hardness, and propose an efficient greedy algorithm to tackle the problem. We perform a series of simulation whose results show that the greedy algorithm can result in solutions comparable to the mixed-integer programming approach and its computation time is much shorter.",
+        "arxiv": "",
+        "authors": [
+          "Albert Y. S. Lam",
+          "Yiu-Wing Leung",
+          "Xiaowen Chu"
+        ],
+        "doi": "10.1109/SmartGridComm.2013.6688009",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/d6e8f2e77d9e0ec9b03610a28dd3d564bcda0d13",
+        "tldr": "",
+        "venue": "IEEE International Conference on Smart Grid Communications"
       }
     },
     "Performance Characterization and Bottleneck Analysis of Hyperledger Fabric": {
@@ -3843,7 +3908,8 @@
         "2026-11-22": 107,
         "2026-11-23": 107,
         "2026-11-24": 107,
-        "2026-11-25": 107
+        "2026-11-25": 107,
+        "2026-11-27": 107
       },
       "meta": {}
     },
@@ -3907,7 +3973,8 @@
         "2026-11-22": 106,
         "2026-11-23": 106,
         "2026-11-24": 106,
-        "2026-11-25": 106
+        "2026-11-25": 106,
+        "2026-11-27": 106
       },
       "meta": {
         "abstract": "Gradient sparsification is a promising technique to significantly reduce the communication overhead in decentralized synchronous stochastic gradient descent (S-SGD) algorithms. Yet, many existing gradient sparsification schemes (e.g., Top-k sparsification) have a communication complexity of O(kP), where k is the number of selected gradients by each worker and P is the number of workers. Recently, the gTop-k sparsification scheme has been proposed to reduce the communication complexity from O(kP) to O(k logP), which significantly boosts the system scalability. However, it remains unclear whether the gTop-k sparsification scheme can converge in theory. In this paper, we first provide theoretical proofs on the convergence of the gTop-k scheme for non-convex objective functions under certain analytic assumptions. We then derive the convergence rate of gTop-k S-SGD, which is at the same order as the vanilla mini-batch SGD. Finally, we conduct extensive experiments on different machine learning models and data sets to verify the soundness of the assumptions and theoretical results, and discuss the impact of the compression ratio on the convergence performance.",
@@ -3986,7 +4053,8 @@
         "2026-11-22": 106,
         "2026-11-23": 106,
         "2026-11-24": 106,
-        "2026-11-25": 106
+        "2026-11-25": 106,
+        "2026-11-27": 106
       },
       "meta": {}
     },
@@ -4050,7 +4118,8 @@
         "2026-11-22": 106,
         "2026-11-23": 106,
         "2026-11-24": 106,
-        "2026-11-25": 106
+        "2026-11-25": 106,
+        "2026-11-27": 106
       },
       "meta": {}
     },
@@ -4114,7 +4183,8 @@
         "2026-11-22": 105,
         "2026-11-23": 105,
         "2026-11-24": 105,
-        "2026-11-25": 105
+        "2026-11-25": 105,
+        "2026-11-27": 105
       },
       "meta": {}
     },
@@ -4178,7 +4248,8 @@
         "2026-11-22": 103,
         "2026-11-23": 103,
         "2026-11-24": 103,
-        "2026-11-25": 103
+        "2026-11-25": 103,
+        "2026-11-27": 103
       },
       "meta": {}
     },
@@ -4242,7 +4313,8 @@
         "2026-11-22": 101,
         "2026-11-23": 101,
         "2026-11-24": 101,
-        "2026-11-25": 101
+        "2026-11-25": 101,
+        "2026-11-27": 101
       },
       "meta": {
         "abstract": "Distributed synchronous stochastic gradient descent (SGD) algorithms are widely used in large-scale deep learning applications, while it is known that the communication bottleneck limits the scalability of the distributed system. Gradient sparsification is a promising technique to significantly reduce the communication traffic, while pipelining can further overlap the communications with computations. However, gradient sparsification introduces extra computation time, and pipelining requires many layer-wise communications which introduce significant communication startup overheads. Merging gradients from neighbor layers could reduce the startup overheads, but on the other hand it would increase the computation time of sparsification and the waiting time for the gradient computation. In this paper, we formulate the trade-off between communications and computations (including backward computation and gradient sparsification) as an optimization problem, and derive an optimal solution to the problem. We further develop the optimal merged gradient sparsification algorithm with SGD (OMGS-SGD) for distributed training of deep learning. We conduct extensive experiments to verify the convergence properties and scaling performance of OMGS-SGD. Experimental results show that OMGS-SGD achieves up to 31% end-to-end time efficiency improvement over the state-of-the-art sparsified SGD while preserving nearly consistent convergence performance with original SGD without sparsification on a 16-GPU cluster connected with 1Gbps Ethernet.",
@@ -4323,7 +4395,8 @@
         "2026-11-22": 99,
         "2026-11-23": 99,
         "2026-11-24": 99,
-        "2026-11-25": 99
+        "2026-11-25": 99,
+        "2026-11-27": 101
       },
       "meta": {
         "abstract": "Sparse Matrix-Matrix Multiplication (SpMM) is a building-block operation in scientific computing and machine learning applications. Recent advancements in hardware, notably Tensor Cores (TCs), have created promising opportunities for accelerating SpMM. However, harnessing these hardware accelerators to speed up general SpMM necessitates considerable effort. In this paper, we undertake a comprehensive analysis of the state-of-the-art techniques for accelerating TC-based SpMM and identify crucial performance gaps. Drawing upon these insights, we propose DTC-SpMM, a novel approach with systematic optimizations tailored for accelerating general SpMM on TCs. DTC-SpMM encapsulates diverse aspects, including efficient compression formats, reordering methods, and runtime pipeline optimizations. Our extensive experiments on modern GPUs with a diverse range of benchmark matrices demonstrate remarkable performance improvements in SpMM acceleration by TCs in conjunction with our proposed optimizations. The case study also shows that DTC-SpMM speeds up end-to-end GNN training by up to 1.91× against popular GNN frameworks.",
@@ -4400,7 +4473,8 @@
         "2026-11-22": 99,
         "2026-11-23": 99,
         "2026-11-24": 99,
-        "2026-11-25": 99
+        "2026-11-25": 99,
+        "2026-11-27": 99
       },
       "meta": {}
     },
@@ -4464,7 +4538,8 @@
         "2026-11-22": 97,
         "2026-11-23": 97,
         "2026-11-24": 97,
-        "2026-11-25": 97
+        "2026-11-25": 97,
+        "2026-11-27": 97
       },
       "meta": {}
     },
@@ -4528,7 +4603,8 @@
         "2026-11-22": 95,
         "2026-11-23": 95,
         "2026-11-24": 95,
-        "2026-11-25": 95
+        "2026-11-25": 95,
+        "2026-11-27": 95
       },
       "meta": {
         "abstract": "",
@@ -4606,7 +4682,8 @@
         "2026-11-22": 91,
         "2026-11-23": 91,
         "2026-11-24": 91,
-        "2026-11-25": 91
+        "2026-11-25": 91,
+        "2026-11-27": 91
       },
       "meta": {}
     },
@@ -4670,7 +4747,8 @@
         "2026-11-22": 89,
         "2026-11-23": 89,
         "2026-11-24": 89,
-        "2026-11-25": 89
+        "2026-11-25": 89,
+        "2026-11-27": 89
       },
       "meta": {
         "abstract": "The increasing size of machine learning models, especially deep neural network models, can improve the model generalization capability. However, large models require more training data and more computing resources (such as GPU clusters) to train. In distributed training, the communication overhead of exchanging gradients or models among workers becomes a potential system bottleneck that limits the system scalability. Recently, many research works aim to reduce communication time of two types of distributed deep learning architectures, centralized and decentralized.",
@@ -4747,7 +4825,8 @@
         "2026-11-22": 89,
         "2026-11-23": 89,
         "2026-11-24": 89,
-        "2026-11-25": 89
+        "2026-11-25": 89,
+        "2026-11-27": 89
       },
       "meta": {}
     },
@@ -4811,7 +4890,8 @@
         "2026-11-22": 87,
         "2026-11-23": 87,
         "2026-11-24": 87,
-        "2026-11-25": 87
+        "2026-11-25": 87,
+        "2026-11-27": 86
       },
       "meta": {}
     },
@@ -4875,7 +4955,8 @@
         "2026-11-22": 86,
         "2026-11-23": 86,
         "2026-11-24": 86,
-        "2026-11-25": 86
+        "2026-11-25": 86,
+        "2026-11-27": 86
       },
       "meta": {
         "abstract": "Memory access efficiency is a key factor for fully exploiting the computational power of Graphics Processing Units (GPUs). However, many details of the GPU memory hierarchy are not released by the vendors. We propose a novel fine-grained benchmarking approach and apply it on two popular GPUs, namely Fermi and Kepler, to expose the previously unknown characteristics of their memory hierarchies. Specifically, we investigate the structures of different cache systems, such as data cache, texture cache, and the translation lookaside buffer (TLB). We also investigate the impact of bank conflict on shared memory access latency. Our benchmarking results offer a better understanding on the mysterious GPU memory hierarchy, which can help in the software optimization and the modelling of GPU architectures. Our source code and experimental results are publicly available.",
@@ -4953,7 +5034,8 @@
         "2026-11-22": 86,
         "2026-11-23": 86,
         "2026-11-24": 86,
-        "2026-11-25": 86
+        "2026-11-25": 86,
+        "2026-11-27": 86
       },
       "meta": {}
     },
@@ -5017,7 +5099,8 @@
         "2026-11-22": 83,
         "2026-11-23": 83,
         "2026-11-24": 83,
-        "2026-11-25": 83
+        "2026-11-25": 83,
+        "2026-11-27": 83
       },
       "meta": {
         "_tried": "2026-09-24",
@@ -5095,7 +5178,8 @@
         "2026-11-22": 83,
         "2026-11-23": 83,
         "2026-11-24": 83,
-        "2026-11-25": 83
+        "2026-11-25": 83,
+        "2026-11-27": 83
       },
       "meta": {}
     },
@@ -5159,7 +5243,8 @@
         "2026-11-22": 80,
         "2026-11-23": 80,
         "2026-11-24": 80,
-        "2026-11-25": 80
+        "2026-11-25": 80,
+        "2026-11-27": 80
       },
       "meta": {
         "abstract": "Nowadays, large and complex deep learning (DL) models are increasingly trained in a distributed manner across multiple worker machines, in which extensive communications between workers pose serious scaling problems. In this article, we present a quantitative survey of communication optimization techniques for data parallel distributed DL. We first identify the major communication challenges and classify the existing solutions into three levels, namely the learning algorithm, the system architecture, and the network infrastructure. We present the state-of-the-art communication optimization techniques and conduct a comparative study of seven common lossless distributed DL methods on a 32-GPU cluster with 100Gb/s InfiniBand (IB). We show that the DL models with low model intensity (such as BERT and BERT-Large) are difficult to scale out even with the best available lossless algorithm over 100Gb/s IB; and the system architecture and scheduling algorithms have a critical impact on the scaling property. We conclude the article with discussions of open issues for further investigation.",
@@ -5239,7 +5324,8 @@
         "2026-11-22": 78,
         "2026-11-23": 78,
         "2026-11-24": 80,
-        "2026-11-25": 80
+        "2026-11-25": 80,
+        "2026-11-27": 81
       },
       "meta": {}
     },
@@ -5303,7 +5389,8 @@
         "2026-11-22": 79,
         "2026-11-23": 79,
         "2026-11-24": 79,
-        "2026-11-25": 79
+        "2026-11-25": 79,
+        "2026-11-27": 79
       },
       "meta": {}
     },
@@ -5367,7 +5454,8 @@
         "2026-11-22": 78,
         "2026-11-23": 78,
         "2026-11-24": 78,
-        "2026-11-25": 78
+        "2026-11-25": 78,
+        "2026-11-27": 79
       },
       "meta": {
         "_tried": "2026-10-15"
@@ -5433,7 +5521,8 @@
         "2026-11-22": 77,
         "2026-11-23": 77,
         "2026-11-24": 78,
-        "2026-11-25": 78
+        "2026-11-25": 78,
+        "2026-11-27": 78
       },
       "meta": {}
     },
@@ -5497,7 +5586,8 @@
         "2026-11-22": 75,
         "2026-11-23": 75,
         "2026-11-24": 77,
-        "2026-11-25": 77
+        "2026-11-25": 77,
+        "2026-11-27": 77
       },
       "meta": {}
     },
@@ -5561,7 +5651,8 @@
         "2026-11-22": 77,
         "2026-11-23": 77,
         "2026-11-24": 77,
-        "2026-11-25": 77
+        "2026-11-25": 77,
+        "2026-11-27": 77
       },
       "meta": {}
     },
@@ -5625,7 +5716,8 @@
         "2026-11-22": 75,
         "2026-11-23": 75,
         "2026-11-24": 75,
-        "2026-11-25": 75
+        "2026-11-25": 75,
+        "2026-11-27": 75
       },
       "meta": {
         "_tried": "2026-11-09"
@@ -5691,7 +5783,8 @@
         "2026-11-22": 75,
         "2026-11-23": 75,
         "2026-11-24": 75,
-        "2026-11-25": 75
+        "2026-11-25": 75,
+        "2026-11-27": 75
       },
       "meta": {}
     },
@@ -5755,7 +5848,8 @@
         "2026-11-22": 73,
         "2026-11-23": 73,
         "2026-11-24": 73,
-        "2026-11-25": 73
+        "2026-11-25": 73,
+        "2026-11-27": 73
       },
       "meta": {
         "abstract": "Abstract Pipeline leak identification method using transient frequency response (TFR) has been researched in the past two decades. To extend this method to a more general water pipeline system with hydraulic uncertainties, this work (1) introduces deep learning (DL) into the TFR-based leak identification framework and (2) develops extended TFR equations in matrix form for DL learning set generation. In this framework, TFR equations are firstly solved in a pre-calibrated hydraulic model of the system to extract frequency response function (FRF) for the training set preparation. Then the simulated FRFs are fed to train fully linear DenseNet (FL-DenseNet) for feature recognition. Finally, the measured FRF of the system is fed to the trained FL-DenseNet to identify a leak to a pipe in the suspected leak area. A study on a hypothetical small system shows that the proposed framework has robustness against uncertainties of friction coefficient, wave speed, and leak flow. A significant advantage is also observed over the existing method with an inaccurate model. Then the framework is applied to a larger network. Over 90% of the synthetic leaks are identified in 5 of the 149 pipes. These results presented in the paper indicate the potential of applying this framework to a water pipeline system.",
@@ -5834,7 +5928,8 @@
         "2026-11-22": 73,
         "2026-11-23": 73,
         "2026-11-24": 73,
-        "2026-11-25": 73
+        "2026-11-25": 73,
+        "2026-11-27": 75
       },
       "meta": {}
     },
@@ -5898,7 +5993,8 @@
         "2026-11-22": 71,
         "2026-11-23": 71,
         "2026-11-24": 71,
-        "2026-11-25": 71
+        "2026-11-25": 71,
+        "2026-11-27": 71
       },
       "meta": {}
     },
@@ -5962,7 +6058,8 @@
         "2026-11-22": 70,
         "2026-11-23": 70,
         "2026-11-24": 70,
-        "2026-11-25": 70
+        "2026-11-25": 70,
+        "2026-11-27": 70
       },
       "meta": {}
     },
@@ -6026,7 +6123,8 @@
         "2026-11-22": 67,
         "2026-11-23": 67,
         "2026-11-24": 67,
-        "2026-11-25": 67
+        "2026-11-25": 67,
+        "2026-11-27": 67
       },
       "meta": {
         "_tried": "2026-09-26"
@@ -6092,7 +6190,8 @@
         "2026-11-22": 66,
         "2026-11-23": 66,
         "2026-11-24": 67,
-        "2026-11-25": 67
+        "2026-11-25": 67,
+        "2026-11-27": 68
       },
       "meta": {}
     },
@@ -6156,7 +6255,8 @@
         "2026-11-22": 66,
         "2026-11-23": 66,
         "2026-11-24": 66,
-        "2026-11-25": 66
+        "2026-11-25": 66,
+        "2026-11-27": 66
       },
       "meta": {
         "abstract": "",
@@ -6233,7 +6333,8 @@
         "2026-11-22": 66,
         "2026-11-23": 66,
         "2026-11-24": 66,
-        "2026-11-25": 66
+        "2026-11-25": 66,
+        "2026-11-27": 66
       },
       "meta": {}
     },
@@ -6297,7 +6398,8 @@
         "2026-11-22": 64,
         "2026-11-23": 64,
         "2026-11-24": 65,
-        "2026-11-25": 65
+        "2026-11-25": 65,
+        "2026-11-27": 65
       },
       "meta": {}
     },
@@ -6361,7 +6463,8 @@
         "2026-11-22": 64,
         "2026-11-23": 64,
         "2026-11-24": 64,
-        "2026-11-25": 64
+        "2026-11-25": 64,
+        "2026-11-27": 64
       },
       "meta": {}
     },
@@ -6425,7 +6528,8 @@
         "2026-11-22": 63,
         "2026-11-23": 63,
         "2026-11-24": 63,
-        "2026-11-25": 63
+        "2026-11-25": 63,
+        "2026-11-27": 63
       },
       "meta": {
         "_tried": "2026-10-15"
@@ -6490,7 +6594,8 @@
         "2026-11-22": 58,
         "2026-11-23": 58,
         "2026-11-24": 58,
-        "2026-11-25": 58
+        "2026-11-25": 58,
+        "2026-11-27": 59
       },
       "meta": {}
     },
@@ -6554,7 +6659,8 @@
         "2026-11-22": 57,
         "2026-11-23": 57,
         "2026-11-24": 57,
-        "2026-11-25": 57
+        "2026-11-25": 57,
+        "2026-11-27": 57
       },
       "meta": {
         "_tried": "2026-09-28",
@@ -6634,7 +6740,8 @@
         "2026-11-22": 57,
         "2026-11-23": 57,
         "2026-11-24": 57,
-        "2026-11-25": 57
+        "2026-11-25": 57,
+        "2026-11-27": 57
       },
       "meta": {}
     },
@@ -6698,7 +6805,8 @@
         "2026-11-22": 55,
         "2026-11-23": 55,
         "2026-11-24": 55,
-        "2026-11-25": 55
+        "2026-11-25": 55,
+        "2026-11-27": 55
       },
       "meta": {}
     },
@@ -6762,7 +6870,8 @@
         "2026-11-22": 53,
         "2026-11-23": 53,
         "2026-11-24": 53,
-        "2026-11-25": 53
+        "2026-11-25": 53,
+        "2026-11-27": 54
       },
       "meta": {
         "abstract": "Industrial Internet of Things (IIoT) technology is widely used in modern industrial fields like transportation, but data security remains a major challenge. The blockchain-based access control mechanism can address the data security issue by preventing unauthorized devices from accessing limited IIoT resources. However, most existing blockchain-based access control mechanism for IIoT still has scalability and privacy issues. To deal with the above-mentioned problems, we propose a new scalable and secure strategy for the blockchain-based access control framework for IIoT via sharding, which consists of two components. First, the network sharding scheme based on the access frequency set (N2SAF) is designed to 1) improve the scalability of our proposed strategy by transaction sharding to reduce the storage pressure on nodes, and 2) increase the transaction processing speed on a three-layer architecture based on cloud-edge-device in IIoT. Second, the privacy protection scheme based on a Bloom filter (P2BF) is designed to deal with the privacy leakage problem caused by anonymous address clustering. Simulation results show that our proposed strategy improves the scalability of the system compared to existing methods while ensuring the security of the shard network, especially in large-scale IIoT environments.",
@@ -6841,7 +6950,8 @@
         "2026-11-22": 51,
         "2026-11-23": 51,
         "2026-11-24": 51,
-        "2026-11-25": 51
+        "2026-11-25": 51,
+        "2026-11-27": 51
       },
       "meta": {}
     },
@@ -6905,7 +7015,8 @@
         "2026-11-22": 51,
         "2026-11-23": 51,
         "2026-11-24": 51,
-        "2026-11-25": 51
+        "2026-11-25": 51,
+        "2026-11-27": 51
       },
       "meta": {}
     },
@@ -6969,7 +7080,8 @@
         "2026-11-22": 51,
         "2026-11-23": 51,
         "2026-11-24": 51,
-        "2026-11-25": 51
+        "2026-11-25": 51,
+        "2026-11-27": 51
       },
       "meta": {}
     },
@@ -7033,7 +7145,8 @@
         "2026-11-22": 49,
         "2026-11-23": 49,
         "2026-11-24": 49,
-        "2026-11-25": 49
+        "2026-11-25": 49,
+        "2026-11-27": 49
       },
       "meta": {
         "_tried": "2026-11-09"
@@ -7098,7 +7211,8 @@
         "2026-11-22": 49,
         "2026-11-23": 49,
         "2026-11-24": 49,
-        "2026-11-25": 49
+        "2026-11-25": 49,
+        "2026-11-27": 49
       },
       "meta": {}
     },
@@ -7161,7 +7275,8 @@
         "2026-11-22": 47,
         "2026-11-23": 47,
         "2026-11-24": 47,
-        "2026-11-25": 47
+        "2026-11-25": 47,
+        "2026-11-27": 47
       },
       "meta": {
         "abstract": "Communication scheduling has been shown to be effective in accelerating distributed training, which enables all-reduce communications to be overlapped with backpropagation computations. This has been commonly adopted in popular distributed deep learning frameworks. However, there exist two fundamental problems: (1) excessive startup latency proportional to the number of workers for each all-reduce operation; (2) it only achieves sub-optimal training performance due to the dependency and synchronization requirement of the feed-forward computation in the next iteration. We propose a novel scheduling algorithm, DeAR, that decouples the all-reduce primitive into two continuous operations, which overlaps with both backpropagation and feed-forward computations without extra communications. We further design a practical tensor fusion algorithm to improve the training performance. Experimental results with five popular models show that DeAR achieves up to 83% and 15% training speedup over the state-of-the-art solutions on a 64-GPU cluster with 10Gb/s Ethernet and 100Gb/s InfiniBand interconnects, respectively.",
@@ -7241,10 +7356,23 @@
         "2026-11-22": 47,
         "2026-11-23": 47,
         "2026-11-24": 47,
-        "2026-11-25": 47
+        "2026-11-25": 47,
+        "2026-11-27": 47
       },
       "meta": {
-        "_tried": "2026-11-09"
+        "abstract": "",
+        "arxiv": "",
+        "authors": [
+          "Vincent Chau",
+          "Xiaowen Chu",
+          "Hai Liu",
+          "Yiu-Wing Leung"
+        ],
+        "doi": "10.1145/3077839.3077855",
+        "pdf": "",
+        "s2url": "https://www.semanticscholar.org/paper/185106f0c66cb6d0707ae0ce054d8fccec440995",
+        "tldr": "This paper proposes a heuristic algorithm for the case when processors can scale to any continuous speed, and extends this heuristic to the online case where jobs arrive over time, and shows that the proposed heuristic algorithms are effective and can achieve near-optimal performance.",
+        "venue": "Energy-Efficient Computing and Networking"
       }
     },
     "Learning 6-dof fine-grained grasp detection based on part affordance grounding": {
@@ -7306,7 +7434,8 @@
         "2026-11-22": 47,
         "2026-11-23": 47,
         "2026-11-24": 47,
-        "2026-11-25": 47
+        "2026-11-25": 47,
+        "2026-11-27": 47
       },
       "meta": {}
     },
@@ -7370,7 +7499,8 @@
         "2026-11-22": 47,
         "2026-11-23": 47,
         "2026-11-24": 47,
-        "2026-11-25": 47
+        "2026-11-25": 47,
+        "2026-11-27": 47
       },
       "meta": {}
     },
@@ -7433,7 +7563,8 @@
         "2026-11-22": 46,
         "2026-11-23": 46,
         "2026-11-24": 46,
-        "2026-11-25": 46
+        "2026-11-25": 46,
+        "2026-11-27": 46
       },
       "meta": {}
     },
@@ -7496,7 +7627,8 @@
         "2026-11-22": 46,
         "2026-11-23": 46,
         "2026-11-24": 46,
-        "2026-11-25": 46
+        "2026-11-25": 46,
+        "2026-11-27": 46
       },
       "meta": {}
     },
@@ -7559,7 +7691,8 @@
         "2026-11-22": 44,
         "2026-11-23": 44,
         "2026-11-24": 44,
-        "2026-11-25": 44
+        "2026-11-25": 44,
+        "2026-11-27": 44
       },
       "meta": {
         "_tried": "2026-11-02"
@@ -7624,7 +7757,8 @@
         "2026-11-22": 43,
         "2026-11-23": 43,
         "2026-11-24": 44,
-        "2026-11-25": 44
+        "2026-11-25": 44,
+        "2026-11-27": 44
       },
       "meta": {}
     },
@@ -7687,7 +7821,8 @@
         "2026-11-22": 43,
         "2026-11-23": 43,
         "2026-11-24": 43,
-        "2026-11-25": 43
+        "2026-11-25": 43,
+        "2026-11-27": 42
       },
       "meta": {
         "abstract": "Post-training compression reduces the computational and memory costs of large language models (LLMs), enabling resource-efficient deployment. However, existing compression benchmarks only focus on language modeling (e.g., perplexity) and natural language understanding tasks (e.g., GLUE accuracy), ignoring the agentic capabilities - workflow, tool use/function call, long-context understanding and real-world application. We introduce the Agent Compression Benchmark (ACBench), the first comprehensive benchmark for evaluating how compression impacts LLMs' agentic abilities. ACBench spans (1) 12 tasks across 4 capabilities (e.g., WorfBench for workflow generation, Needle-in-Haystack for long-context retrieval), (2) quantization (GPTQ, AWQ) and pruning (Wanda, SparseGPT), and (3) 15 models, including small (Gemma-2B), standard (Qwen2.5 7B-32B), and distilled reasoning LLMs (DeepSeek-R1-Distill). Our experiments reveal compression tradeoffs: 4-bit quantization preserves workflow generation and tool use (1%-3% drop) but degrades real-world application accuracy by 10%-15%. We introduce ERank, Top-k Ranking Correlation and Energy to systematize analysis. ACBench provides actionable insights for optimizing LLM compression in agentic scenarios. The code can be found in https://github.com/pprp/ACBench.",
@@ -7766,7 +7901,8 @@
         "2026-11-22": 43,
         "2026-11-23": 43,
         "2026-11-24": 43,
-        "2026-11-25": 43
+        "2026-11-25": 43,
+        "2026-11-27": 43
       },
       "meta": {}
     },
@@ -7829,7 +7965,8 @@
         "2026-11-22": 42,
         "2026-11-23": 42,
         "2026-11-24": 42,
-        "2026-11-25": 42
+        "2026-11-25": 42,
+        "2026-11-27": 42
       },
       "meta": {
         "_tried": "2026-10-12"
@@ -7894,7 +8031,8 @@
         "2026-11-22": 42,
         "2026-11-23": 42,
         "2026-11-24": 42,
-        "2026-11-25": 42
+        "2026-11-25": 42,
+        "2026-11-27": 42
       },
       "meta": {}
     },
@@ -7957,7 +8095,8 @@
         "2026-11-22": 41,
         "2026-11-23": 41,
         "2026-11-24": 41,
-        "2026-11-25": 41
+        "2026-11-25": 41,
+        "2026-11-27": 41
       },
       "meta": {
         "abstract": "With huge amounts of training data, deep learning has made great breakthroughs in many artificial intelligence (AI) applications. However, such large-scale data sets present computational challenges, requiring training to be distributed on a cluster equipped with accelerators like GPUs. With the fast increase of G PU computing power, the data communications among GPUs have become a potential bottleneck on the overall training performance. In this paper, we first propose a general directed acyclic graph (DAG) model to describe the distributed synchronous stochastic gradient descent (S-SG D) algorithm, which has been widely used in distributed deep learning frameworks. To understand the practical impact of data communications on training performance, we conduct extensive empirical studies on four state-of-the-art distributed deep learning frameworks (i.e., Caffe-MPI, CNTK, MXNet and TensorFlow) over multi-GPU and multi-node environments with different data communication techniques, including PCIe, NVLink, 10GbE, and InfiniBand. Through both analytical and experimental studies, we identify the potential bottlenecks and overheads that could be further optimized. At last, we make the data set of our experimental traces publicly available, which could be used to support simulation-based studies.",
@@ -8034,7 +8173,8 @@
         "2026-11-22": 41,
         "2026-11-23": 41,
         "2026-11-24": 41,
-        "2026-11-25": 41
+        "2026-11-25": 41,
+        "2026-11-27": 41
       },
       "meta": {}
     },
@@ -8097,7 +8237,8 @@
         "2026-11-22": 41,
         "2026-11-23": 41,
         "2026-11-24": 41,
-        "2026-11-25": 41
+        "2026-11-25": 41,
+        "2026-11-27": 41
       },
       "meta": {}
     },
@@ -8160,7 +8301,8 @@
         "2026-11-22": 40,
         "2026-11-23": 40,
         "2026-11-24": 40,
-        "2026-11-25": 40
+        "2026-11-25": 40,
+        "2026-11-27": 40
       },
       "meta": {}
     },
@@ -8223,7 +8365,8 @@
         "2026-11-22": 37,
         "2026-11-23": 37,
         "2026-11-24": 38,
-        "2026-11-25": 38
+        "2026-11-25": 38,
+        "2026-11-27": 39
       },
       "meta": {
         "abstract": "This study presents a comprehensive multi-level analysis of the NVIDIA Hopper GPU architecture, focusing on its performance characteristics and novel features. We benchmark Hopper’s memory subsystem, highlighting improvements in the L2 partitioned cache and global memory access compared to Ampere and Ada Lovelace. The evaluation of Hopper’s fourth-generation tensor cores reveals the benefits of FP8 precision and asynchronous wgmma instructions for matrix operations. Additionally, we investigate the performance of DPX instructions for dynamic programming, distributed shared memory (DSM) for inter-SM communication, and the Tensor Memory Accelerator (TMA) for asynchronous data movement. Through multi-level evaluation, we discover that the Hopper architecture demonstrates significant acceleration potential in real-world applications. For instance, the asynchronous programming model supported by TMA achieves a 1.5× speedup in matrix multiplication, FP8 delivers nearly double the performance of FP16, and DPX instructions accelerate a computational biology algorithm by at least 4.75×. Our findings provide actionable insights for optimizing compute-intensive workloads, from AI training to bioinformatics, on Hopper GPUs.",
@@ -8303,7 +8446,8 @@
         "2026-11-22": 37,
         "2026-11-23": 37,
         "2026-11-24": 37,
-        "2026-11-25": 37
+        "2026-11-25": 37,
+        "2026-11-27": 37
       },
       "meta": {
         "_tried": "2026-10-12"
@@ -8368,7 +8512,8 @@
         "2026-11-22": 35,
         "2026-11-23": 35,
         "2026-11-24": 35,
-        "2026-11-25": 35
+        "2026-11-25": 35,
+        "2026-11-27": 35
       },
       "meta": {}
     },
@@ -8431,7 +8576,8 @@
         "2026-11-22": 35,
         "2026-11-23": 35,
         "2026-11-24": 35,
-        "2026-11-25": 35
+        "2026-11-25": 35,
+        "2026-11-27": 35
       },
       "meta": {}
     },
@@ -8494,7 +8640,8 @@
         "2026-11-22": 34,
         "2026-11-23": 34,
         "2026-11-24": 34,
-        "2026-11-25": 34
+        "2026-11-25": 34,
+        "2026-11-27": 34
       },
       "meta": {
         "_tried": "2026-09-26"
@@ -8559,7 +8706,8 @@
         "2026-11-22": 33,
         "2026-11-23": 33,
         "2026-11-24": 33,
-        "2026-11-25": 33
+        "2026-11-25": 33,
+        "2026-11-27": 33
       },
       "meta": {
         "_tried": "2026-09-24",
@@ -8638,7 +8786,8 @@
         "2026-11-22": 33,
         "2026-11-23": 33,
         "2026-11-24": 33,
-        "2026-11-25": 33
+        "2026-11-25": 33,
+        "2026-11-27": 33
       },
       "meta": {}
     },
@@ -8701,7 +8850,8 @@
         "2026-11-22": 33,
         "2026-11-23": 33,
         "2026-11-24": 33,
-        "2026-11-25": 33
+        "2026-11-25": 33,
+        "2026-11-27": 34
       },
       "meta": {}
     },
@@ -8764,7 +8914,8 @@
         "2026-11-22": 32,
         "2026-11-23": 32,
         "2026-11-24": 32,
-        "2026-11-25": 32
+        "2026-11-25": 32,
+        "2026-11-27": 32
       },
       "meta": {
         "abstract": "",
@@ -8844,7 +8995,8 @@
         "2026-11-22": 32,
         "2026-11-23": 32,
         "2026-11-24": 32,
-        "2026-11-25": 32
+        "2026-11-25": 32,
+        "2026-11-27": 32
       },
       "meta": {}
     },
@@ -8907,7 +9059,8 @@
         "2026-11-22": 31,
         "2026-11-23": 31,
         "2026-11-24": 31,
-        "2026-11-25": 31
+        "2026-11-25": 31,
+        "2026-11-27": 31
       },
       "meta": {}
     },
@@ -8970,7 +9123,8 @@
         "2026-11-22": 31,
         "2026-11-23": 31,
         "2026-11-24": 31,
-        "2026-11-25": 31
+        "2026-11-25": 31,
+        "2026-11-27": 31
       },
       "meta": {}
     },
@@ -9033,7 +9187,8 @@
         "2026-11-22": 30,
         "2026-11-23": 30,
         "2026-11-24": 30,
-        "2026-11-25": 30
+        "2026-11-25": 30,
+        "2026-11-27": 30
       },
       "meta": {
         "abstract": "Tandem mass spectrometry-based database searching is currently the main method for protein identification in shotgun proteomics. The explosive growth of protein and peptide databases, which is a result of genome translations, enzymatic digestions, and post-translational modifications (PTMs), is making computational efficiency in database searching a serious challenge. Profile analysis shows that most search engines spend 50%-90% of their total time on the scoring module, and that the spectrum dot product (SDP) based scoring module is the most widely used. As a general purpose and high performance parallel hardware, graphics processing units (GPUs) are promising platforms for speeding up database searches in the protein identification process. We designed and implemented a parallel SDP-based scoring module on GPUs that exploits the efficient use of GPU registers, constant memory and shared memory. Compared with the CPU-based version, we achieved a 30 to 60 times speedup using a single GPU. We also implemented our algorithm on a GPU cluster and achieved an approximately favorable speedup. Our GPU-based SDP algorithm can significantly improve the speed of the scoring module in mass spectrometry-based protein identification. The algorithm can be easily implemented in many database search engines such as X!Tandem, SEQUEST, and pFind. A software tool implementing this algorithm is available at http://www.comp.hkbu.edu.hk/~youli/ProteinByGPU.html",
@@ -9110,7 +9265,8 @@
         "2026-11-22": 29,
         "2026-11-23": 29,
         "2026-11-24": 29,
-        "2026-11-25": 29
+        "2026-11-25": 29,
+        "2026-11-27": 30
       },
       "meta": {
         "abstract": "Multiplication of a sparse matrix to a dense matrix (SpDM) is widely used in many areas like scientific computing and machine learning. However, existing work under-looks the performance optimization of SpDM on modern manycore architectures like GPUs. The storage data structures help sparse matrices store in a memory-saving format, but they bring difficulties in optimizing the performance of SpDM on modern GPUs due to irregular data access of the sparse structure, which results in lower resource utilization and poorer performance. In this paper, we refer to the roofline performance model of GPUs to design an efficient SpDM algorithm called GCOOSpDM, in which we exploit coalescent global memory access, fast shared memory reuse, and more operations per byte of global memory traffic. Experiments are evaluated on three Nvidia GPUs (i.e., GTX 980, GTX Titan X Pascal, and Tesla P100) using a large number of matrices including a public dataset and randomly generated matrices. Experimental results show that GCOOSpDM achieves 1.5-8x speedup over Nvidia's library cuSPARSE in many matrices.",
@@ -9186,7 +9342,8 @@
         "2026-11-22": 29,
         "2026-11-23": 29,
         "2026-11-24": 29,
-        "2026-11-25": 29
+        "2026-11-25": 29,
+        "2026-11-27": 29
       },
       "meta": {}
     },
@@ -9249,7 +9406,8 @@
         "2026-11-22": 28,
         "2026-11-23": 28,
         "2026-11-24": 28,
-        "2026-11-25": 28
+        "2026-11-25": 28,
+        "2026-11-27": 29
       },
       "meta": {
         "_tried": "2026-09-27",
@@ -9329,7 +9487,8 @@
         "2026-11-22": 28,
         "2026-11-23": 28,
         "2026-11-24": 28,
-        "2026-11-25": 28
+        "2026-11-25": 28,
+        "2026-11-27": 28
       },
       "meta": {
         "abstract": "Skin disease is one of the most common types of human diseases, which may happen to everyone regardless of age, gender or race. Due to the high visual diversity, human diagnosis highly relies on personal experience; and there is a serious shortage of experienced dermatologists in many countries. To alleviate this problem, computer-aided diagnosis with state-of-the-art (SOTA) machine learning techniques would be a promising solution. In this paper, we aim at understanding the performance of convolutional neural network (CNN) based approaches. We first build two versions of skin disease datasets from Internet images: (a) Skin -10, which contains 10 common classes of skin disease with a total of 10,218 images; (b) Skin -100, which is a larger dataset that consists of 19,807 images of 100 skin disease classes. Based on these datasets, we benchmark several SOTA CNN models and show that the accuracy of skin -100 is much lower than the accuracy of skin -10. We then implement an ensemble method based on several CNN models and achieve the best accuracy of 79.01% for Skin -10 and 53.54% for Skin -100. We also present an object detection based approach by introducing bounding boxes into the Skin -10 dataset. Our results show that object detection can help improve the accuracy of some skin disease classes.",
@@ -9416,7 +9575,8 @@
         "2026-11-22": 28,
         "2026-11-23": 28,
         "2026-11-24": 28,
-        "2026-11-25": 28
+        "2026-11-25": 28,
+        "2026-11-27": 28
       },
       "meta": {}
     },
@@ -9479,7 +9639,8 @@
         "2026-11-22": 27,
         "2026-11-23": 27,
         "2026-11-24": 27,
-        "2026-11-25": 27
+        "2026-11-25": 27,
+        "2026-11-27": 28
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -9544,7 +9705,8 @@
         "2026-11-22": 27,
         "2026-11-23": 27,
         "2026-11-24": 27,
-        "2026-11-25": 27
+        "2026-11-25": 27,
+        "2026-11-27": 27
       },
       "meta": {
         "abstract": "Large Language Models (LLMs) have seen great advance in both academia and industry, and their popularity results in numerous open-source frameworks and techniques in accelerating LLM pre-training, fine-tuning, and inference. Training and deploying LLMs are expensive as it requires considerable computing resources and memory, hence many efficient approaches have been developed for improving system pipelines as well as operators. However, the runtime performance can vary significantly across hardware and software stacks, which makes it difficult to choose the best configuration. In this work, we aim to benchmark the performance from both macro and micro perspectives. First, we benchmark the end-to-end performance of pre-training, fine-tuning, and serving LLMs in different sizes , i.e., 7, 13, and 70 billion parameters (7B, 13B, and 70B) on three 8-GPU platforms with and without individual optimization techniques, including ZeRO, quantization, recomputation, FlashAttention. Then, we dive deeper to provide a detailed runtime analysis of the sub-modules, including computing and communication operators in LLMs. For end users, our benchmark and findings help better understand different optimization techniques, training and inference frameworks, together with hardware platforms in choosing configurations for deploying LLMs. For researchers, our in-depth module-wise analyses discover potential opportunities for future work to further optimize the runtime performance of LLMs.",
@@ -9628,7 +9790,8 @@
         "2026-11-22": 27,
         "2026-11-23": 27,
         "2026-11-24": 27,
-        "2026-11-25": 27
+        "2026-11-25": 27,
+        "2026-11-27": 27
       },
       "meta": {}
     },
@@ -9691,7 +9854,8 @@
         "2026-11-22": 27,
         "2026-11-23": 27,
         "2026-11-24": 27,
-        "2026-11-25": 27
+        "2026-11-25": 27,
+        "2026-11-27": 27
       },
       "meta": {}
     },
@@ -9754,7 +9918,8 @@
         "2026-11-22": 27,
         "2026-11-23": 27,
         "2026-11-24": 27,
-        "2026-11-25": 27
+        "2026-11-25": 27,
+        "2026-11-27": 27
       },
       "meta": {}
     },
@@ -9817,7 +9982,8 @@
         "2026-11-22": 27,
         "2026-11-23": 27,
         "2026-11-24": 27,
-        "2026-11-25": 27
+        "2026-11-25": 27,
+        "2026-11-27": 27
       },
       "meta": {}
     },
@@ -9880,7 +10046,8 @@
         "2026-11-22": 27,
         "2026-11-23": 27,
         "2026-11-24": 27,
-        "2026-11-25": 27
+        "2026-11-25": 27,
+        "2026-11-27": 27
       },
       "meta": {}
     },
@@ -9943,7 +10110,8 @@
         "2026-11-22": 27,
         "2026-11-23": 27,
         "2026-11-24": 27,
-        "2026-11-25": 27
+        "2026-11-25": 27,
+        "2026-11-27": 26
       },
       "meta": {}
     },
@@ -10006,7 +10174,8 @@
         "2026-11-22": 26,
         "2026-11-23": 26,
         "2026-11-24": 26,
-        "2026-11-25": 26
+        "2026-11-25": 26,
+        "2026-11-27": 26
       },
       "meta": {
         "_tried": "2026-09-28",
@@ -10084,7 +10253,8 @@
         "2026-11-22": 26,
         "2026-11-23": 26,
         "2026-11-24": 26,
-        "2026-11-25": 26
+        "2026-11-25": 26,
+        "2026-11-27": 26
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -10149,7 +10319,8 @@
         "2026-11-22": 26,
         "2026-11-23": 26,
         "2026-11-24": 26,
-        "2026-11-25": 26
+        "2026-11-25": 26,
+        "2026-11-27": 26
       },
       "meta": {}
     },
@@ -10212,7 +10383,8 @@
         "2026-11-22": 25,
         "2026-11-23": 25,
         "2026-11-24": 25,
-        "2026-11-25": 25
+        "2026-11-25": 25,
+        "2026-11-27": 25
       },
       "meta": {
         "abstract": "3D multimodal question answering (MQA) plays a crucial role in scene understanding by enabling intelligent agents to comprehend their surroundings in 3D environments. While existing research has primarily focused on indoor household tasks and outdoor roadside autonomous driving tasks, there has been limited exploration of city-level scene understanding tasks. Furthermore, existing research faces challenges in understanding city scenes, due to the absence of spatial semantic information and human-environment interaction information at the city level.To address these challenges, we investigate 3D MQA from both dataset and method perspectives. From the dataset perspective, we introduce a novel 3D MQA dataset named City-3DQA for city-level scene understanding, which is the first dataset to incorporate scene semantic and human-environment interactive tasks within the city. From the method perspective, we propose a Scene graph enhanced City-level Understanding method (Sg-CityU), which utilizes the scene graph to introduce the spatial semantic. A new benchmark is reported and our proposed Sg-CityU achieves accuracy of 63.94 % and 63.76 % in different settings of City-3DQA. Compared to indoor 3D MQA methods and zero-shot using advanced large language models (LLMs), Sg-CityU demonstrates state-of-the-art (SOTA) performance in robustness and generalization.",
@@ -10293,7 +10465,8 @@
         "2026-11-22": 25,
         "2026-11-23": 25,
         "2026-11-24": 25,
-        "2026-11-25": 25
+        "2026-11-25": 25,
+        "2026-11-27": 25
       },
       "meta": {
         "_tried": "2026-09-22"
@@ -10358,7 +10531,8 @@
         "2026-11-22": 25,
         "2026-11-23": 25,
         "2026-11-24": 25,
-        "2026-11-25": 25
+        "2026-11-25": 25,
+        "2026-11-27": 25
       },
       "meta": {
         "abstract": "Model editing has become a promising approach for precisely and effectively updating knowledge within language models. In this paper, we investigate knowledge attenuation , in which the retention of updated knowledge within the language model decreases as the number of edits increases after sequential editing. Through empirical study, we discovered that existing editing methods generally suffer from knowledge attenuation. We attribute this phenomenon to two aspects: (1) redundant parameters interference and (2) update weight disentanglement. To this end, we propose the AdaPLE method. It not only mitigates the knowledge attenuation issue but also improves the performance on existing benchmarks. To the best of our knowledge, we are the first to investigate the cause and mitigation of knowledge attenuation in sequential LLM editing.",
@@ -10433,7 +10607,8 @@
         "2026-11-22": 25,
         "2026-11-23": 25,
         "2026-11-24": 25,
-        "2026-11-25": 25
+        "2026-11-25": 25,
+        "2026-11-27": 25
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -10498,7 +10673,8 @@
         "2026-11-22": 25,
         "2026-11-23": 25,
         "2026-11-24": 25,
-        "2026-11-25": 25
+        "2026-11-25": 25,
+        "2026-11-27": 25
       },
       "meta": {}
     },
@@ -10561,7 +10737,8 @@
         "2026-11-22": 25,
         "2026-11-23": 25,
         "2026-11-24": 25,
-        "2026-11-25": 25
+        "2026-11-25": 25,
+        "2026-11-27": 25
       },
       "meta": {}
     },
@@ -10624,7 +10801,8 @@
         "2026-11-22": 24,
         "2026-11-23": 24,
         "2026-11-24": 24,
-        "2026-11-25": 24
+        "2026-11-25": 24,
+        "2026-11-27": 24
       },
       "meta": {
         "_tried": "2026-09-23"
@@ -10689,7 +10867,8 @@
         "2026-11-22": 24,
         "2026-11-23": 24,
         "2026-11-24": 24,
-        "2026-11-25": 24
+        "2026-11-25": 24,
+        "2026-11-27": 24
       },
       "meta": {
         "_tried": "2026-10-01",
@@ -10768,7 +10947,8 @@
         "2026-11-22": 24,
         "2026-11-23": 24,
         "2026-11-24": 24,
-        "2026-11-25": 24
+        "2026-11-25": 24,
+        "2026-11-27": 24
       },
       "meta": {
         "abstract": "Existing state-of-the-art disparity estimation works mostly leverage the 4D concatenation volume and construct a very deep 3D convolution neural network (CNN) for disparity regression, which is inefficient due to the high memory consumption and slow inference speed. In this paper, we propose a network named EDNet for efficient disparity estimation. Firstly, we construct a combined volume which incorporates contextual information from the squeezed concatenation volume and feature similarity measurement from the correlation volume. The combined volume can be next aggregated by 2D convolutions which are faster and require less memory than 3D convolutions. Secondly, we propose an attention-based spatial residual module to generate attention-aware residual features. The attention mechanism is applied to provide intuitive spatial evidence about inaccurate regions with the help of error maps at multiple scales and thus improve the residual learning efficiency. Extensive experiments on the Scene Flow and KITTI datasets show that EDNet outperforms the previous 3D CNN based works and achieves state-of-the-art performance with significantly faster speed and less memory consumption.",
@@ -10847,7 +11027,8 @@
         "2026-11-22": 24,
         "2026-11-23": 24,
         "2026-11-24": 24,
-        "2026-11-25": 24
+        "2026-11-25": 24,
+        "2026-11-27": 24
       },
       "meta": {}
     },
@@ -10910,7 +11091,8 @@
         "2026-11-22": 24,
         "2026-11-23": 24,
         "2026-11-24": 24,
-        "2026-11-25": 24
+        "2026-11-25": 24,
+        "2026-11-27": 24
       },
       "meta": {}
     },
@@ -10973,7 +11155,8 @@
         "2026-11-22": 24,
         "2026-11-23": 24,
         "2026-11-24": 24,
-        "2026-11-25": 24
+        "2026-11-25": 24,
+        "2026-11-27": 24
       },
       "meta": {}
     },
@@ -11036,7 +11219,8 @@
         "2026-11-22": 24,
         "2026-11-23": 24,
         "2026-11-24": 24,
-        "2026-11-25": 24
+        "2026-11-25": 24,
+        "2026-11-27": 24
       },
       "meta": {}
     },
@@ -11099,7 +11283,8 @@
         "2026-11-22": 23,
         "2026-11-23": 23,
         "2026-11-24": 23,
-        "2026-11-25": 23
+        "2026-11-25": 23,
+        "2026-11-27": 23
       },
       "meta": {
         "abstract": "Knowledge editing (KE) has emerged as a prominent alternative that enables efficient and precise information modification inside language models. However, a critical challenge arises in continuous language model editing — a significant performance decline both in knowledge update and retention when the number of edits increases. By dissecting the perturbation weight of language model in continuous KE, we uncover that disentangled and sparsi-fied knowledge representation can significantly alleviate the performance decline. Building on these insights, we introduce AdaEdit, a novel knowledge editing method. Extensive empirical evaluations on multiple LLMs demonstrate that our proposed methods can enhance the performance of edited LLMs in large-size continuous editing regimes, outperforming existing ones without substantially compromising the general abilities of these models.",
@@ -11174,7 +11359,8 @@
         "2026-11-22": 22,
         "2026-11-23": 22,
         "2026-11-24": 22,
-        "2026-11-25": 22
+        "2026-11-25": 22,
+        "2026-11-27": 22
       },
       "meta": {
         "_tried": "2026-09-18",
@@ -11253,7 +11439,8 @@
         "2026-11-22": 22,
         "2026-11-23": 22,
         "2026-11-24": 22,
-        "2026-11-25": 22
+        "2026-11-25": 22,
+        "2026-11-27": 22
       },
       "meta": {}
     },
@@ -11316,7 +11503,8 @@
         "2026-11-22": 22,
         "2026-11-23": 22,
         "2026-11-24": 22,
-        "2026-11-25": 22
+        "2026-11-25": 22,
+        "2026-11-27": 22
       },
       "meta": {}
     },
@@ -11379,7 +11567,8 @@
         "2026-11-22": 21,
         "2026-11-23": 21,
         "2026-11-24": 21,
-        "2026-11-25": 21
+        "2026-11-25": 21,
+        "2026-11-27": 21
       },
       "meta": {}
     },
@@ -11442,7 +11631,8 @@
         "2026-11-22": 20,
         "2026-11-23": 20,
         "2026-11-24": 20,
-        "2026-11-25": 20
+        "2026-11-25": 20,
+        "2026-11-27": 20
       },
       "meta": {
         "abstract": "The coronavirus disease 2019 (COVID-19) pandemic has caused an unprecedented health crisis for the global Digital contact tracing, as a transmission intervention measure, has shown its effectiveness on pandemic control Despite intensive research on digital contact tracing, existing solutions can hardly meet users’ requirements on privacy and convenience In this paper, we propose BU - Trace, a novel permissionless mobile system for privacy-preserving intelligent contact tracing based on QR code and NFC technologies First, a user study is conducted to investigate and quantify the user acceptance of a mobile contact tracing system Second, a decentralized system is proposed to enable contact tracing while protecting user privacy Third, an intelligent behavior detection algorithm is designed to ease the use of our system We implement BU - Trace and conduct extensive experiments in several real-world scenarios The experimental results show that BU - Trace achieves a privacy-preserving and intelligent mobile system for contact tracing without requesting location or other privacy-related permissions © 2021, Springer Nature Switzerland AG",
@@ -11526,7 +11716,8 @@
         "2026-11-22": 20,
         "2026-11-23": 20,
         "2026-11-24": 20,
-        "2026-11-25": 20
+        "2026-11-25": 20,
+        "2026-11-27": 20
       },
       "meta": {
         "abstract": "Current data compression methods, such as sparsification in Federated Averaging (FedAvg), effectively enhance the communication efficiency of Federated Learning (FL). However, these methods encounter challenges such as the straggler problem and diminished model performance due to heterogeneous bandwidth and non-IID (Independently and Identically Distributed) data. To address these issues, we introduce a bandwidth-aware compression framework for FL, aimed at improving communication efficiency while mitigating the problems associated with non-IID data. First, our strategy dynamically adjusts compression ratios according to bandwidth, enabling clients to upload their models at a close pace, thus exploiting the otherwise wasted time to transmit more data. Second, we identify the non-overlapped pattern of retained parameters after compression, which results in diminished client update signals due to uniformly averaged weights. Based on this finding, we propose a parameter mask to adjust the client-averaging coefficients at the parameter level, thereby more closely approximating the original updates, and improving the training convergence under heterogeneous environments. Our evaluations reveal that our method significantly boosts model accuracy, with a maximum improvement of 13% over the uncompressed FedAvg. Moreover, it achieves a 3.37 × speedup in reaching the target accuracy compared to FedAvg with a Top-K compressor, demonstrating its effectiveness in accelerating convergence with compression. The integration of common compression techniques into our framework further establishes its potential as a versatile foundation for future cross-device, communication-efficient FL research, addressing critical challenges in FL and advancing the field of distributed machine learning.",
@@ -11607,7 +11798,8 @@
         "2026-11-22": 20,
         "2026-11-23": 20,
         "2026-11-24": 20,
-        "2026-11-25": 20
+        "2026-11-25": 20,
+        "2026-11-27": 20
       },
       "meta": {}
     },
@@ -11670,7 +11862,8 @@
         "2026-11-22": 20,
         "2026-11-23": 20,
         "2026-11-24": 20,
-        "2026-11-25": 20
+        "2026-11-25": 20,
+        "2026-11-27": 20
       },
       "meta": {}
     },
@@ -11733,7 +11926,8 @@
         "2026-11-22": 20,
         "2026-11-23": 20,
         "2026-11-24": 20,
-        "2026-11-25": 20
+        "2026-11-25": 20,
+        "2026-11-27": 21
       },
       "meta": {}
     },
@@ -11796,7 +11990,8 @@
         "2026-11-22": 20,
         "2026-11-23": 20,
         "2026-11-24": 20,
-        "2026-11-25": 20
+        "2026-11-25": 20,
+        "2026-11-27": 20
       },
       "meta": {}
     },
@@ -11859,7 +12054,8 @@
         "2026-11-22": 20,
         "2026-11-23": 20,
         "2026-11-24": 20,
-        "2026-11-25": 20
+        "2026-11-25": 20,
+        "2026-11-27": 20
       },
       "meta": {}
     },
@@ -11922,7 +12118,8 @@
         "2026-11-22": 20,
         "2026-11-23": 20,
         "2026-11-24": 20,
-        "2026-11-25": 20
+        "2026-11-25": 20,
+        "2026-11-27": 20
       },
       "meta": {}
     },
@@ -11985,7 +12182,8 @@
         "2026-11-22": 19,
         "2026-11-23": 19,
         "2026-11-24": 19,
-        "2026-11-25": 19
+        "2026-11-25": 19,
+        "2026-11-27": 19
       },
       "meta": {
         "abstract": "Distributed Deep Learning (DDL) has rapidly grown its popularity since it helps boost the training performance on high-performance GPU clusters. Efficient job scheduling is indispensable to maximize the overall performance of the cluster when training multiple jobs simultaneously. However, existing schedulers do not consider the communication contention of multiple communication tasks from different distributed training jobs, which could deteriorate the system performance and prolong the job completion time. In this paper, we first establish a new DDL job scheduling framework which organizes DDL jobs as Directed Acyclic Graphs (DAGs) and considers communication contention between nodes. We then propose an efficient algorithm, LWF-$\\kappa$, to balance the GPU utilization and consolidate the allocated GPUs for each job. When scheduling those communication tasks, we observe that neither avoiding all the contention nor blindly accepting them is optimal to minimize the job completion time. We thus propose a provable algorithm, AdaDUAL, to efficiently schedule those communication tasks. Based on AdaDUAL, we finally propose Ada-SRSF for the DDL job scheduling problem. Simulations on a 64-GPU cluster connected with 10 Gbps Ethernet show that LWF-$\\kappa$ achieves up to $1.59\\times$ improvement over the classical first-fit algorithms. More importantly, Ada-SRSF reduces the average job completion time by $20.1\\%$ and $36.7\\%$, as compared to the SRSF(1) scheme (avoiding all the contention) and the SRSF(2) scheme (blindly accepting all of two-way communication contention) respectively.",
@@ -12062,7 +12260,8 @@
         "2026-11-22": 19,
         "2026-11-23": 19,
         "2026-11-24": 19,
-        "2026-11-25": 19
+        "2026-11-25": 19,
+        "2026-11-27": 19
       },
       "meta": {}
     },
@@ -12125,7 +12324,8 @@
         "2026-11-22": 19,
         "2026-11-23": 19,
         "2026-11-24": 19,
-        "2026-11-25": 19
+        "2026-11-25": 19,
+        "2026-11-27": 19
       },
       "meta": {}
     },
@@ -12188,7 +12388,8 @@
         "2026-11-22": 18,
         "2026-11-23": 18,
         "2026-11-24": 18,
-        "2026-11-25": 18
+        "2026-11-25": 18,
+        "2026-11-27": 18
       },
       "meta": {
         "abstract": "",
@@ -12266,7 +12467,8 @@
         "2026-11-22": 18,
         "2026-11-23": 18,
         "2026-11-24": 18,
-        "2026-11-25": 18
+        "2026-11-25": 18,
+        "2026-11-27": 18
       },
       "meta": {}
     },
@@ -12329,7 +12531,8 @@
         "2026-11-22": 18,
         "2026-11-23": 18,
         "2026-11-24": 18,
-        "2026-11-25": 18
+        "2026-11-25": 18,
+        "2026-11-27": 18
       },
       "meta": {}
     },
@@ -12392,7 +12595,8 @@
         "2026-11-22": 18,
         "2026-11-23": 18,
         "2026-11-24": 18,
-        "2026-11-25": 18
+        "2026-11-25": 18,
+        "2026-11-27": 18
       },
       "meta": {}
     },
@@ -12455,7 +12659,8 @@
         "2026-11-22": 18,
         "2026-11-23": 18,
         "2026-11-24": 18,
-        "2026-11-25": 18
+        "2026-11-25": 18,
+        "2026-11-27": 18
       },
       "meta": {}
     },
@@ -12518,7 +12723,8 @@
         "2026-11-22": 17,
         "2026-11-23": 17,
         "2026-11-24": 17,
-        "2026-11-25": 17
+        "2026-11-25": 17,
+        "2026-11-27": 17
       },
       "meta": {
         "abstract": "Inference-as-a-service (IAAS) has been recently launched by cloud service providers to support on-demand AI applications. Many natural language processing (NLP) services are based on the Transformer Sequence Transduction model. However, the inference process of the Transformer model consumes a significant amount of energy due to the large model size (e.g., billions of parameters) and tremendous computations. How to reduce the energy consumption of IAAS without violating the service-level agreement (SLA) becomes a practical challenge for service providers. In this work, we conduct a comprehensive study on the inference performance and energy efficiency of a Transformer model trained for the language translation service. First, we empirically characterize some essential performance metrics, including latency, throughput, and energy consumption on three different GPUs with diversified workload configurations. The detailed workload separation facilitates a thorough and deep understanding of the inference process of the Transformer model. Second, we provide an energy consumption model for the Transformer based on the observed data. Finally, we propose the Aligned scheduling scheme that optimizes throughput and energy efficiency with up to 2.86× and 2.73× improvement at the cost of 40% average latency loss. Our findings provide a full scope of Transformer inference, and suggest that the workload balancing and scheduling have great potentials to offer energy-efficient Transformer inference services.",
@@ -12594,7 +12800,8 @@
         "2026-11-22": 17,
         "2026-11-23": 17,
         "2026-11-24": 17,
-        "2026-11-25": 17
+        "2026-11-25": 17,
+        "2026-11-27": 17
       },
       "meta": {}
     },
@@ -12657,7 +12864,8 @@
         "2026-11-22": 17,
         "2026-11-23": 17,
         "2026-11-24": 17,
-        "2026-11-25": 17
+        "2026-11-25": 17,
+        "2026-11-27": 17
       },
       "meta": {}
     },
@@ -12720,7 +12928,8 @@
         "2026-11-22": 17,
         "2026-11-23": 17,
         "2026-11-24": 17,
-        "2026-11-25": 17
+        "2026-11-25": 17,
+        "2026-11-27": 17
       },
       "meta": {}
     },
@@ -12783,7 +12992,8 @@
         "2026-11-22": 17,
         "2026-11-23": 17,
         "2026-11-24": 17,
-        "2026-11-25": 17
+        "2026-11-25": 17,
+        "2026-11-27": 17
       },
       "meta": {}
     },
@@ -12846,7 +13056,8 @@
         "2026-11-22": 16,
         "2026-11-23": 16,
         "2026-11-24": 16,
-        "2026-11-25": 16
+        "2026-11-25": 16,
+        "2026-11-27": 16
       },
       "meta": {
         "abstract": "",
@@ -12927,7 +13138,8 @@
         "2026-11-22": 16,
         "2026-11-23": 16,
         "2026-11-24": 16,
-        "2026-11-25": 16
+        "2026-11-25": 16,
+        "2026-11-27": 16
       },
       "meta": {
         "_tried": "2026-11-02"
@@ -13023,7 +13235,8 @@
         "2026-11-22": 16,
         "2026-11-23": 16,
         "2026-11-24": 16,
-        "2026-11-25": 16
+        "2026-11-25": 16,
+        "2026-11-27": 16
       },
       "meta": {}
     },
@@ -13086,7 +13299,8 @@
         "2026-11-22": 16,
         "2026-11-23": 16,
         "2026-11-24": 16,
-        "2026-11-25": 16
+        "2026-11-25": 16,
+        "2026-11-27": 17
       },
       "meta": {}
     },
@@ -13149,7 +13363,8 @@
         "2026-11-22": 15,
         "2026-11-23": 15,
         "2026-11-24": 15,
-        "2026-11-25": 15
+        "2026-11-25": 15,
+        "2026-11-27": 15
       },
       "meta": {
         "_tried": "2026-09-25",
@@ -13227,7 +13442,8 @@
         "2026-11-22": 15,
         "2026-11-23": 15,
         "2026-11-24": 15,
-        "2026-11-25": 15
+        "2026-11-25": 15,
+        "2026-11-27": 15
       },
       "meta": {}
     },
@@ -13290,7 +13506,8 @@
         "2026-11-22": 15,
         "2026-11-23": 15,
         "2026-11-24": 15,
-        "2026-11-25": 15
+        "2026-11-25": 15,
+        "2026-11-27": 15
       },
       "meta": {}
     },
@@ -13353,7 +13570,8 @@
         "2026-11-22": 15,
         "2026-11-23": 15,
         "2026-11-24": 15,
-        "2026-11-25": 15
+        "2026-11-25": 15,
+        "2026-11-27": 15
       },
       "meta": {}
     },
@@ -13416,7 +13634,8 @@
         "2026-11-22": 15,
         "2026-11-23": 15,
         "2026-11-24": 15,
-        "2026-11-25": 15
+        "2026-11-25": 15,
+        "2026-11-27": 15
       },
       "meta": {}
     },
@@ -13479,7 +13698,8 @@
         "2026-11-22": 15,
         "2026-11-23": 15,
         "2026-11-24": 15,
-        "2026-11-25": 15
+        "2026-11-25": 15,
+        "2026-11-27": 15
       },
       "meta": {}
     },
@@ -13542,7 +13762,8 @@
         "2026-11-22": 15,
         "2026-11-23": 15,
         "2026-11-24": 15,
-        "2026-11-25": 15
+        "2026-11-25": 15,
+        "2026-11-27": 15
       },
       "meta": {}
     },
@@ -13605,7 +13826,8 @@
         "2026-11-22": 15,
         "2026-11-23": 15,
         "2026-11-24": 15,
-        "2026-11-25": 15
+        "2026-11-25": 15,
+        "2026-11-27": 15
       },
       "meta": {}
     },
@@ -13668,7 +13890,8 @@
         "2026-11-22": 14,
         "2026-11-23": 14,
         "2026-11-24": 14,
-        "2026-11-25": 14
+        "2026-11-25": 14,
+        "2026-11-27": 14
       },
       "meta": {
         "abstract": "Physics-informed convolutional neural networks (PICNNs) have emerged as a powerful extension of physics-informed neural networks (PINNs), offering superior generalization and efficiency for solving systems of partial differential equations (PDEs) modeling complex physical systems. However, current PICNNs, which rely on manual designs of both network architectures and loss functions tailored to specific PDEs, may fail to solve other types of PDEs that require different architectural designs and loss function formulations. To address these limitations, we propose leveraging automated machine learning (AutoML) to efficiently search for optimal network architectures and loss functions tailored to specific physical problems. By designing specialized search spaces and proposing a two-stage search strategy, our automated method substantially outperforms manually designed state-of-the-art models. It achieves up to a 59.8-fold reduction in prediction error and an average 13.31-fold error reduction across six diverse PDE systems spanning heat transfer, free fluid flow, and porous media flow, significantly enhancing the modeling capabilities for physical systems governed by steady or unsteady PDEs. An advantage of our automated method is that it can help researchers, without expertise in designing neural networks, develop the best models for their scientific problems. Physics-informed convolutional neural networks are effective extensions of physics-informed neural networks for solving systems of partial differential equations modeling complex physical systems. Using automated machine learning, this study offers a framework to achieve optimal network architectures and loss functions that outperform manually designed state-of-the-art models, with a 59.8-fold reduction in prediction error across six systems including heat transfer, incompressible fluid flow, and porous media flow.",
@@ -13743,7 +13966,8 @@
         "2026-11-22": 14,
         "2026-11-23": 14,
         "2026-11-24": 14,
-        "2026-11-25": 14
+        "2026-11-25": 14,
+        "2026-11-27": 14
       },
       "meta": {
         "_tried": "2026-11-07"
@@ -13808,7 +14032,8 @@
         "2026-11-22": 14,
         "2026-11-23": 14,
         "2026-11-24": 14,
-        "2026-11-25": 14
+        "2026-11-25": 14,
+        "2026-11-27": 14
       },
       "meta": {}
     },
@@ -13872,7 +14097,8 @@
         "2026-11-22": 14,
         "2026-11-23": 14,
         "2026-11-24": 14,
-        "2026-11-25": 14
+        "2026-11-25": 14,
+        "2026-11-27": 14
       },
       "meta": {}
     },
@@ -13935,7 +14161,8 @@
         "2026-11-22": 14,
         "2026-11-23": 14,
         "2026-11-24": 14,
-        "2026-11-25": 14
+        "2026-11-25": 14,
+        "2026-11-27": 14
       },
       "meta": {}
     },
@@ -13998,7 +14225,8 @@
         "2026-11-22": 14,
         "2026-11-23": 14,
         "2026-11-24": 14,
-        "2026-11-25": 14
+        "2026-11-25": 14,
+        "2026-11-27": 14
       },
       "meta": {}
     },
@@ -14060,7 +14288,8 @@
         "2026-11-22": 14,
         "2026-11-23": 14,
         "2026-11-24": 14,
-        "2026-11-25": 14
+        "2026-11-25": 14,
+        "2026-11-27": 14
       },
       "meta": {}
     },
@@ -14122,7 +14351,8 @@
         "2026-11-22": 13,
         "2026-11-23": 13,
         "2026-11-24": 13,
-        "2026-11-25": 13
+        "2026-11-25": 13,
+        "2026-11-27": 13
       },
       "meta": {
         "_tried": "2026-09-25",
@@ -14213,7 +14443,8 @@
         "2026-11-22": 13,
         "2026-11-23": 13,
         "2026-11-24": 13,
-        "2026-11-25": 13
+        "2026-11-25": 13,
+        "2026-11-27": 13
       },
       "meta": {
         "abstract": "Recent reasoning Large Language Models (LLMs) demonstrate remarkable problem-solving abilities but often generate long thinking traces whose utility is unclear. Our work aims to improve their efficiency, enabling them to reach high performance without overthinking. First, we analyze the entropy of token probabilities in reasoning traces. Across three models, we observe a consistent U-shaped entropy pattern: high entropy on easy problems despite high accuracy, low entropy on problems with medium difficulty, and high entropy on hard problems reflecting uncertainty. Specifically, we notice 22--25\\% entropy reduction from easy to medium difficulty regions, suggesting an {overthinking} phenomenon on easy instances. Building on these insights, we introduce \\textbf{DiffAdapt}, a lightweight framework that selects Easy/Normal/Hard inference strategies per question based on their difficulty and reasoning trace entropy. Each inference strategy consists of a fixed prompt, temperature and maximum token length. In contrast to existing efficiency optimization methods, our approach does not fine-tune base LLM but a small probe that classifies LLM's final hidden state, allowing inexpensive adaptation. We comprehensively evaluate our method on five models and eight benchmarks. Our method achieves comparable or improved accuracy while reducing token usage by up to 22.4\\%, establishing a practical path toward compute-efficient reasoning.",
@@ -14289,7 +14520,8 @@
         "2026-11-22": 13,
         "2026-11-23": 13,
         "2026-11-24": 13,
-        "2026-11-25": 13
+        "2026-11-25": 13,
+        "2026-11-27": 13
       },
       "meta": {}
     },
@@ -14351,7 +14583,8 @@
         "2026-11-22": 13,
         "2026-11-23": 13,
         "2026-11-24": 13,
-        "2026-11-25": 13
+        "2026-11-25": 13,
+        "2026-11-27": 13
       },
       "meta": {}
     },
@@ -14413,7 +14646,8 @@
         "2026-11-22": 12,
         "2026-11-23": 12,
         "2026-11-24": 13,
-        "2026-11-25": 13
+        "2026-11-25": 13,
+        "2026-11-27": 13
       },
       "meta": {}
     },
@@ -14475,7 +14709,8 @@
         "2026-11-22": 13,
         "2026-11-23": 13,
         "2026-11-24": 13,
-        "2026-11-25": 13
+        "2026-11-25": 13,
+        "2026-11-27": 13
       },
       "meta": {}
     },
@@ -14537,7 +14772,8 @@
         "2026-11-22": 12,
         "2026-11-23": 12,
         "2026-11-24": 12,
-        "2026-11-25": 12
+        "2026-11-25": 12,
+        "2026-11-27": 12
       },
       "meta": {
         "abstract": "Blockchain is essentially a distributed ledger shared by all nodes in the system. All nodes in blockchain are equal, and each node holds all transactions and blocks in the network. As the network continues to expand, the data rises linearly. Participates are about to face the problem of storage limitation. Blockchain is hard to scale.This paper introduces ICIStrategy, a multi-node collaborative storage strategy based on intra-cluster integrity. In ICIStrategy, we divide all participates into several clusters. Each cluster requires holding all data of the network, whereas a node within the cluster does not need to maintain data integrity. It aims to solve the storage pressure by reducing the amount data that each participate need to store and reduce communication overhead by collaboratively storing and verifying blocks through in-cluster nodes. Moreover, the ICIStrategy could greatly save the overhead of bootstrapping. We show the mode of operation in our strategy. We further analysis the performance of ICIStrategy and conduct simulation experiments. The results of several comparative experiments show that our strategy just needs 25% of storage space needed by Rapidchain, which indeed solve the problem of storage limitation and improve the blockchain performance.",
@@ -14613,7 +14849,8 @@
         "2026-11-22": 12,
         "2026-11-23": 12,
         "2026-11-24": 12,
-        "2026-11-25": 12
+        "2026-11-25": 12,
+        "2026-11-27": 12
       },
       "meta": {
         "_tried": "2026-10-15"
@@ -14677,7 +14914,8 @@
         "2026-11-22": 11,
         "2026-11-23": 11,
         "2026-11-24": 12,
-        "2026-11-25": 12
+        "2026-11-25": 12,
+        "2026-11-27": 12
       },
       "meta": {
         "_tried": "2026-11-02"
@@ -14741,7 +14979,8 @@
         "2026-11-22": 12,
         "2026-11-23": 12,
         "2026-11-24": 12,
-        "2026-11-25": 12
+        "2026-11-25": 12,
+        "2026-11-27": 12
       },
       "meta": {}
     },
@@ -14803,7 +15042,8 @@
         "2026-11-22": 12,
         "2026-11-23": 12,
         "2026-11-24": 12,
-        "2026-11-25": 12
+        "2026-11-25": 12,
+        "2026-11-27": 12
       },
       "meta": {}
     },
@@ -14865,7 +15105,8 @@
         "2026-11-22": 12,
         "2026-11-23": 12,
         "2026-11-24": 12,
-        "2026-11-25": 12
+        "2026-11-25": 12,
+        "2026-11-27": 12
       },
       "meta": {}
     },
@@ -14927,7 +15168,8 @@
         "2026-11-22": 11,
         "2026-11-23": 11,
         "2026-11-24": 11,
-        "2026-11-25": 11
+        "2026-11-25": 11,
+        "2026-11-27": 11
       },
       "meta": {
         "abstract": "",
@@ -15004,7 +15246,8 @@
         "2026-11-22": 11,
         "2026-11-23": 11,
         "2026-11-24": 11,
-        "2026-11-25": 11
+        "2026-11-25": 11,
+        "2026-11-27": 11
       },
       "meta": {
         "abstract": "Diffusion Models (DMs), as a leading class of generative models, offer key advantages for reinforcement learning (RL), including multi-modal expressiveness, stable training, and trajectory-level planning. This survey delivers a comprehensive and up-to-date synthesis of diffusion-based RL. We first provide an overview of RL, highlighting its challenges, and then introduce the fundamental concepts of DMs, investigating how they are integrated into RL frameworks to address key challenges in this research field. We establish a dual-axis taxonomy that organizes the field along two orthogonal dimensions: a function-oriented taxonomy that clarifies the roles DMs play within the RL pipeline, and a technique-oriented taxonomy that situates implementations across online versus offline learning regimes. We also provide a comprehensive examination of this progression from single-agent to multi-agent domains, thereby forming several frameworks for DM-RL integration and highlighting their practical utility. Furthermore, we outline several categories of successful applications of diffusion-based RL across diverse domains, discuss open research issues of current methodologies, and highlight key directions for future research to advance the field. Finally, we summarize the survey to identify promising future development directions. We are actively maintaining a GitHub repository (https://github.com/ChangfuXu/D4RL-FTD) for papers and other related resources to apply DMs for RL.",
@@ -15086,7 +15329,8 @@
         "2026-11-22": 11,
         "2026-11-23": 11,
         "2026-11-24": 11,
-        "2026-11-25": 11
+        "2026-11-25": 11,
+        "2026-11-27": 11
       },
       "meta": {
         "_tried": "2026-11-02"
@@ -15150,7 +15394,8 @@
         "2026-11-22": 11,
         "2026-11-23": 11,
         "2026-11-24": 11,
-        "2026-11-25": 11
+        "2026-11-25": 11,
+        "2026-11-27": 11
       },
       "meta": {}
     },
@@ -15212,7 +15457,8 @@
         "2026-11-22": 11,
         "2026-11-23": 11,
         "2026-11-24": 11,
-        "2026-11-25": 11
+        "2026-11-25": 11,
+        "2026-11-27": 11
       },
       "meta": {}
     },
@@ -15274,7 +15520,8 @@
         "2026-11-22": 11,
         "2026-11-23": 11,
         "2026-11-24": 11,
-        "2026-11-25": 11
+        "2026-11-25": 11,
+        "2026-11-27": 11
       },
       "meta": {}
     },
@@ -15336,7 +15583,8 @@
         "2026-11-22": 10,
         "2026-11-23": 10,
         "2026-11-24": 10,
-        "2026-11-25": 10
+        "2026-11-25": 10,
+        "2026-11-27": 10
       },
       "meta": {}
     },
@@ -15398,7 +15646,8 @@
         "2026-11-22": 10,
         "2026-11-23": 10,
         "2026-11-24": 10,
-        "2026-11-25": 10
+        "2026-11-25": 10,
+        "2026-11-27": 10
       },
       "meta": {}
     },
@@ -15460,7 +15709,8 @@
         "2026-11-22": 10,
         "2026-11-23": 10,
         "2026-11-24": 10,
-        "2026-11-25": 10
+        "2026-11-25": 10,
+        "2026-11-27": 10
       },
       "meta": {}
     },
@@ -15522,7 +15772,8 @@
         "2026-11-22": 10,
         "2026-11-23": 10,
         "2026-11-24": 10,
-        "2026-11-25": 10
+        "2026-11-25": 10,
+        "2026-11-27": 10
       },
       "meta": {}
     },
@@ -15584,7 +15835,8 @@
         "2026-11-22": 10,
         "2026-11-23": 10,
         "2026-11-24": 10,
-        "2026-11-25": 10
+        "2026-11-25": 10,
+        "2026-11-27": 10
       },
       "meta": {}
     },
@@ -15646,7 +15898,8 @@
         "2026-11-22": 9,
         "2026-11-23": 9,
         "2026-11-24": 9,
-        "2026-11-25": 9
+        "2026-11-25": 9,
+        "2026-11-27": 9
       },
       "meta": {
         "abstract": "",
@@ -15723,7 +15976,8 @@
         "2026-11-22": 9,
         "2026-11-23": 9,
         "2026-11-24": 9,
-        "2026-11-25": 9
+        "2026-11-25": 9,
+        "2026-11-27": 9
       },
       "meta": {
         "abstract": "Many indoor localization systems rely on a set of reference anchors with known positions. A target's location is estimated from a set of distances between the target and its surrounding anchors, and hence the selection of anchors affects the localization accuracy. However, it remains a challenge to select the best set of anchors. In this paper, we study how to appropriately make use of the surrounding anchors for localizing a target. We first construct different candidate anchor clusters by selecting different number of anchors with the strongest received signals. Then for each candidate cluster, we propose a weighted min-max algorithm to provide a location estimation. Finally, we introduce a weighted geometric dilution of precision (w-GDOP) algorithm that combines the estimations from multiple clusters by quantifying their estimation accuracy. We evaluate the performance of our solution through simulations and real-world experiments. Our results show that the proposed anchor selection scheme and localization algorithm significantly improve the localization accuracy in large indoor environments.",
@@ -15799,7 +16053,8 @@
         "2026-11-22": 9,
         "2026-11-23": 9,
         "2026-11-24": 9,
-        "2026-11-25": 9
+        "2026-11-25": 9,
+        "2026-11-27": 9
       },
       "meta": {
         "abstract": "Scene understanding enables intelligent agents to interpret and comprehend their environment. While existing large vision-language models (LVLMs) for scene understanding have primarily focused on indoor household tasks, they face two significant limitations when applied to outdoor large-scale scene understanding. First, outdoor scenarios typically encompass larger-scale environments observed through various sensors from multiple viewpoints (e.g., bird view and terrestrial view), while existing indoor LVLMs mainly analyze single visual modalities within building-scale contexts from humanoid viewpoints. Second, existing LVLMs suffer from missing multidomain perception outdoor data and struggle to effectively integrate 2D and 3D visual information. To address the aforementioned limitations, we build the first multidomain perception outdoor scene understanding dataset, named SVM-City, deriving from multi-Scale scenarios with multi-View and multi-Modal instruction tuning data. It contains 420k images and 4, 811M point clouds with 567k question-answering pairs from vehicles, low-altitude drones, high-altitude aerial planes, and satellite. To effectively fuse multimodal data in the absence of one modality, we introduce incomplete multimodal learning to model outdoor scene understanding and design the LVLM named City-VLM. Multimodal fusion is realized by constructed as a joint probabilistic distribution space rather than implementing directly explicit fusion operations (e.g., concatenation). Experimental results on three typical outdoor scene understanding tasks show City-VLM achieves 18.14 % performance surpassing existing LVLMs in question-answering tasks averagely. Our method demonstrates pragmatic and generalization performance across multiple outdoor scenes.",
@@ -15881,7 +16136,8 @@
         "2026-11-22": 9,
         "2026-11-23": 9,
         "2026-11-24": 9,
-        "2026-11-25": 9
+        "2026-11-25": 9,
+        "2026-11-27": 10
       },
       "meta": {
         "abstract": "Cloud service providers are deploying Transformer-based deep learning models on GPU servers to support many online inference-as-a-service (IAAS) applications, given the predominant performance of Transformers in natural language processing (NLP) tasks. However, Transformers’ inherent high complexity and large model size (e.g., billions to hundreds of billions of parameters) tax the resource-constrained GPU servers. Improving the energy efficiency and payload capability of IAAS without violating the service-level agreement (SLA) becomes a practical challenge for service providers. This work conducts a comprehensive study on the inference performance and energy efficiency of Transformer models. First, we empirically characterize essential performance metrics, including latency, throughput, and energy consumption on NVIDIA GPUs under various workload configurations. Second, we establish a performance and energy consumption model for Transformer that facilitates energy-efficient scheduling policies. Finally, we propose an online batch inference scheduling scheme for Transformer on GPU servers, which we refer to as the Mixed Aligned Scheduling (MAS) scheme. Compared with the existing scheduling schemes, the MAS improves the throughput and energy efficiency by up to 61.56% and 69.79% on the V100 GPU servers. Our findings expose a full scope of the characteristics of Transformer inference on GPU servers with various input shapes and workload balancing degrees. We show that merging the online batch inference with robust scheduling schemes can improve the energy efficiency and the overall inference performance under latency constraints.",
@@ -15956,7 +16212,8 @@
         "2026-11-22": 9,
         "2026-11-23": 9,
         "2026-11-24": 9,
-        "2026-11-25": 9
+        "2026-11-25": 9,
+        "2026-11-27": 9
       },
       "meta": {}
     },
@@ -16018,7 +16275,8 @@
         "2026-11-22": 9,
         "2026-11-23": 9,
         "2026-11-24": 9,
-        "2026-11-25": 9
+        "2026-11-25": 9,
+        "2026-11-27": 9
       },
       "meta": {}
     },
@@ -16080,7 +16338,8 @@
         "2026-11-22": 9,
         "2026-11-23": 9,
         "2026-11-24": 9,
-        "2026-11-25": 9
+        "2026-11-25": 9,
+        "2026-11-27": 9
       },
       "meta": {}
     },
@@ -16142,7 +16401,8 @@
         "2026-11-22": 8,
         "2026-11-23": 8,
         "2026-11-24": 8,
-        "2026-11-25": 8
+        "2026-11-25": 8,
+        "2026-11-27": 8
       },
       "meta": {
         "_tried": "2026-09-25"
@@ -16285,7 +16545,8 @@
         "2026-11-22": 8,
         "2026-11-23": 8,
         "2026-11-24": 8,
-        "2026-11-25": 8
+        "2026-11-25": 8,
+        "2026-11-27": 8
       },
       "meta": {
         "abstract": "The lead-lag effect, where the price movement of one asset systematically precedes that of another, has been widely observed in financial markets and conveys valuable predictive signals for trading. However, traditional lead-lag detection methods are limited by their reliance on statistical analysis methods and by the assumption of persistent lead-lag patterns, which are often invalid in dynamic market conditions. In this paper, we propose DeltaLag, the first end-to-end deep learning method that discovers and exploits dynamic lead-lag structures with pair-specific lag values in financial markets for portfolio construction. Specifically, DeltaLag employs a sparsified cross-attention mechanism to identify relevant lead-lag pairs. These lead-lag signals are then leveraged to extract lag-aligned raw features from the leading stocks for predicting the lagger stock’s future return. Empirical evaluations show that DeltaLag substantially outperforms both fixed-lag and self-lead-lag baselines. In addition, its adaptive mechanism for identifying lead-lag relationships consistently surpasses precomputed lead-lag graphs based on statistical methods. Furthermore, DeltaLag outperforms a wide range of temporal and spatio-temporal deep learning models designed for stock prediction or time series forecasting, offering both better trading performance and enhanced interpretability.",
@@ -16365,7 +16626,8 @@
         "2026-11-22": 8,
         "2026-11-23": 8,
         "2026-11-24": 8,
-        "2026-11-25": 8
+        "2026-11-25": 8,
+        "2026-11-27": 8
       },
       "meta": {
         "abstract": "The growth of large language models (LLMs) increases challenges of accelerating distributed training across multiple GPUs in different data centers. Moreover, concerns about data privacy and data exhaustion have heightened interest in geo-distributed data centers. Communication in geo-distributed data parallel training (DDP) with stochastic gradient descent (S-SGD) is the main bottleneck in low-bandwidth environments. Local SGD mitigates communication overhead by reducing synchronization frequency, and recent studies have successfully applied it to geo-distributedly pre-train LLMs. However, we identify that its model synchronization mechanism prevents overlapping communication and computation, which makes the system lose opportunities to overlap communication and computation. To overcome this limitation, we expand the design space of local SGD by layer-wisely decoupling model synchronization. In each iteration, only some layers are synchronized instead of the entire model after a specific number of iterations. Leveraging this methodology, we introduce DreamDDP, a training framework to accelerate low-bandwidth distributed training with three key innovations: (1) partial local SGD with theoretical assurances of convergence rates comparable to S-SGD; (2) overlapping parameter synchronization with computation without extra GPU memory occupation; (3) identifying and exploiting three properties to schedule the communication and computation to reduce the training time based on fine-grained profiling of layer-wise communication and computation time. Empirical evaluations conducted on 32 GPUs using prominent deep learning models, including ResNet-18, ResNet-50, GPT-2, and Llama-2, demonstrate that DreamDDP enhances the convergence properties of Local SGD (and Adam) and achieves speedups ranging from $1.49\\times$ to $3.91\\times$ over leading baseline methods.",
@@ -16447,7 +16709,8 @@
         "2026-11-22": 8,
         "2026-11-23": 8,
         "2026-11-24": 8,
-        "2026-11-25": 8
+        "2026-11-25": 8,
+        "2026-11-27": 8
       },
       "meta": {}
     },
@@ -16509,7 +16772,8 @@
         "2026-11-22": 8,
         "2026-11-23": 8,
         "2026-11-24": 8,
-        "2026-11-25": 8
+        "2026-11-25": 8,
+        "2026-11-27": 8
       },
       "meta": {}
     },
@@ -16571,7 +16835,8 @@
         "2026-11-22": 8,
         "2026-11-23": 8,
         "2026-11-24": 8,
-        "2026-11-25": 8
+        "2026-11-25": 8,
+        "2026-11-27": 9
       },
       "meta": {}
     },
@@ -16633,7 +16898,8 @@
         "2026-11-22": 8,
         "2026-11-23": 8,
         "2026-11-24": 8,
-        "2026-11-25": 8
+        "2026-11-25": 8,
+        "2026-11-27": 8
       },
       "meta": {}
     },
@@ -16695,7 +16961,8 @@
         "2026-11-22": 8,
         "2026-11-23": 8,
         "2026-11-24": 8,
-        "2026-11-25": 8
+        "2026-11-25": 8,
+        "2026-11-27": 9
       },
       "meta": {}
     },
@@ -16757,7 +17024,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {
         "abstract": "",
@@ -16834,7 +17102,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {
         "abstract": "",
@@ -16907,7 +17176,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {
         "abstract": "Artificial Intelligence Generated Content (AIGC) has gained significant popularity for creating diverse content. Current AIGC models primarily focus on content quality within a centralized framework, resulting in a high service delay and negative user experiences. However, not only does the workload of an AIGC task depend on the AIGC model's complexity rather than the amount of data, but the large model and its multi-layer encoder structure also result in a huge demand for computational and memory resources. These unique characteristics pose new challenges in its modeling, deployment, and scheduling at edge networks. Thus, we model an offloading problem among edges for providing real AIGC services and propose LAD-TS, a novel Latent Action Diffusion-based Task Scheduling method that orchestrates multiple edge servers for expedited AIGC services. The LAD-TS generates a near-optimal offloading decision by leveraging the diffusion model's conditional generation capability and the reinforcement learning's environment interaction ability, thereby minimizing the service delays under multiple resource constraints. Meanwhile, a latent action diffusion strategy is designed to guide decision generation by utilizing historical action probability, enabling rapid achievement of near-optimal decisions. Furthermore, we develop DEdgeAI, a prototype edge system with a refined AIGC model deployment to implement and evaluate our LAD-TS method. DEdgeAI provides a real AIGC service for users, demonstrating up to 29.18% shorter service delays than the current five representative AIGC platforms. We release our open-source code at https://github.com/ChangfuXu/DEdgeAI/.",
@@ -16987,7 +17257,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {
         "_tried": "2026-09-26",
@@ -17065,7 +17336,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {
         "abstract": "",
@@ -17142,7 +17414,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {
         "_tried": "2026-11-03"
@@ -17206,7 +17479,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {
         "_tried": "2026-11-07"
@@ -17270,7 +17544,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {}
     },
@@ -17332,7 +17607,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {}
     },
@@ -17394,7 +17670,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {}
     },
@@ -17456,7 +17733,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {}
     },
@@ -17518,7 +17796,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {}
     },
@@ -17580,7 +17859,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {}
     },
@@ -17642,7 +17922,8 @@
         "2026-11-22": 7,
         "2026-11-23": 7,
         "2026-11-24": 7,
-        "2026-11-25": 7
+        "2026-11-25": 7,
+        "2026-11-27": 7
       },
       "meta": {}
     },
@@ -17704,7 +17985,8 @@
         "2026-11-22": 6,
         "2026-11-23": 6,
         "2026-11-24": 6,
-        "2026-11-25": 6
+        "2026-11-25": 6,
+        "2026-11-27": 6
       },
       "meta": {
         "abstract": "Abstract Conventionally, it is a prerequisite to acquire a good number of annotated data to train an accurate classifier. However, the acquisition of such dataset is usually infeasible due to the high annotation cost. Therefore, semi-supervised learning has emerged and attracts increasing research efforts in recent years. Essentially, semi-supervised learning is sensitive to the manner how the unlabeled data is sampled. However, the model performance might be seriously deteriorated if biased unlabeled data is sampled at the early stage. In this paper, an unbiased semi-supervised cluster tree is proposed which is learnt using only very few labeled data. Specifically, a K-means algorithm is adopted to build each level of this hierarchical tree in a decent top-down manner. The number of clusters is determined by the number of classes contained in the labeled data. The confidence error of the cluster tree is theoretically analyzed which is then used to prune the tree. Empirical studies on several datasets have demonstrated that the proposed semi-supervised cluster tree is superior to the state-of-the-art semi-supervised learning algorithms with respect to classification accuracy.",
@@ -17781,7 +18063,8 @@
         "2026-11-22": 6,
         "2026-11-23": 6,
         "2026-11-24": 6,
-        "2026-11-25": 6
+        "2026-11-25": 6,
+        "2026-11-27": 6
       },
       "meta": {
         "abstract": "Key management is a core mechanism to provide secure and reliable communications in wireless sensor networks (WSNs). In large-scale WSNs, due to the resource constraint on sensor nodes, it is still an extremely challenging task to achieve good performance in terms of high network connectivity and strong resilience against sensor nodes capture with low overheads. To address this issue, in this paper we propose a novel random pairwise key establishment scheme, called RPKE. In RPKE, sensor nodes differentiate their roles as either auxiliary nodes or ordinary nodes prior to network deployment. The auxiliary nodes act as distributed key distribution center (KDC), and neighboring ordinary nodes can establish pairwise key with the help of the distributed KDC. Theoretical analysis and simulation evaluation demonstrate that RPKE performs well in terms of network connectivity and resilience at the cost of low computation/communication/storage overheads, compared to the existing counterparts.",
@@ -17858,7 +18141,8 @@
         "2026-11-22": 6,
         "2026-11-23": 6,
         "2026-11-24": 6,
-        "2026-11-25": 6
+        "2026-11-25": 6,
+        "2026-11-27": 6
       },
       "meta": {
         "_tried": "2026-11-07"
@@ -17933,7 +18217,8 @@
         "2026-11-22": 6,
         "2026-11-23": 6,
         "2026-11-24": 6,
-        "2026-11-25": 6
+        "2026-11-25": 6,
+        "2026-11-27": 6
       },
       "meta": {}
     },
@@ -17995,7 +18280,8 @@
         "2026-11-22": 6,
         "2026-11-23": 6,
         "2026-11-24": 6,
-        "2026-11-25": 6
+        "2026-11-25": 6,
+        "2026-11-27": 6
       },
       "meta": {}
     },
@@ -18057,7 +18343,8 @@
         "2026-11-22": 6,
         "2026-11-23": 6,
         "2026-11-24": 6,
-        "2026-11-25": 6
+        "2026-11-25": 6,
+        "2026-11-27": 6
       },
       "meta": {}
     },
@@ -18119,7 +18406,8 @@
         "2026-11-22": 6,
         "2026-11-23": 6,
         "2026-11-24": 6,
-        "2026-11-25": 6
+        "2026-11-25": 6,
+        "2026-11-27": 6
       },
       "meta": {}
     },
@@ -18181,7 +18469,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 5
       },
       "meta": {
         "abstract": "",
@@ -18257,7 +18546,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 5
       },
       "meta": {}
     },
@@ -18319,7 +18609,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 6
       },
       "meta": {}
     },
@@ -18381,7 +18672,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 5
       },
       "meta": {}
     },
@@ -18443,7 +18735,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 5
       },
       "meta": {}
     },
@@ -18505,7 +18798,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 5
       },
       "meta": {}
     },
@@ -18567,7 +18861,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 5
       },
       "meta": {}
     },
@@ -18629,7 +18924,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 5
       },
       "meta": {}
     },
@@ -18691,7 +18987,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 6
       },
       "meta": {}
     },
@@ -18753,7 +19050,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 5
       },
       "meta": {}
     },
@@ -18815,7 +19113,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 5
       },
       "meta": {}
     },
@@ -18877,7 +19176,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 5
       },
       "meta": {}
     },
@@ -18939,7 +19239,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 5
       },
       "meta": {}
     },
@@ -19001,7 +19302,8 @@
         "2026-11-22": 5,
         "2026-11-23": 5,
         "2026-11-24": 5,
-        "2026-11-25": 5
+        "2026-11-25": 5,
+        "2026-11-27": 5
       },
       "meta": {}
     },
@@ -19063,7 +19365,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 4
       },
       "meta": {
         "_tried": "2026-09-19",
@@ -19139,7 +19442,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 4
       },
       "meta": {
         "abstract": "In cognitive radio networks, rendezvous is a fundamental operation by which cognitive users establish communication links. Most of existing works were devoted to shortening the time-to-rendezvous (TTR) but paid little attention to qualities of the channels on which rendezvous is achieved. In fact, qualities of channels, such as resistance to primary users' activities, have a great effect on the rendezvous operation. If users achieve a rendezvous on a low-quality channel, the communication link is unstable and the communication performance is poor. In this case, re- rendezvous is required which results in considerable communication overhead and a large latency. In this paper, we first show that actual TTRs of existing rendezvous solutions increase by 65.40-104.38% if qualities of channels are not perfect. Then we propose a Quality-Aware Rendezvous Framework (QARF) that can be applied to any existing ren-dezvous algorithms to achieve rendezvous on high-quality channels. The basic idea of QARF is to expand the set of available channels by selectively duplicating high-quality channels. We prove that QARF can reduce the expected TTR of any rendezvous algorithm when the expanded ratio $\\lambda$ is smaller than the threshold $(-3+\\sqrt{1+4(\\frac{\\sigma}{\\mu})^{2}}) / 2$, where $\\mu$ and $\\sigma$, respectively, are the mean and the standard deviation of qualities of channels. We further prove that QARF can always reduce the expected TTR of Random algorithm by a factor of $1+(\\frac{\\sigma}{\\mu})^{2}$. Extensive experiments are conducted and the results show that QARF can significantly reduce the TTRs of the existing rendezvous algorithms by 10.50-51.05 % when qualities of channels are taken into account.",
@@ -19217,7 +19521,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 4
       },
       "meta": {
         "_tried": "2026-09-22",
@@ -19295,7 +19600,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 4
       },
       "meta": {
         "_tried": "2026-11-05"
@@ -19359,7 +19665,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 4
       },
       "meta": {}
     },
@@ -19421,7 +19728,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 4
       },
       "meta": {}
     },
@@ -19483,7 +19791,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 4
       },
       "meta": {}
     },
@@ -19545,7 +19854,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 5
       },
       "meta": {}
     },
@@ -19607,7 +19917,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 4
       },
       "meta": {}
     },
@@ -19669,7 +19980,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 4
       },
       "meta": {}
     },
@@ -19731,7 +20043,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 4
       },
       "meta": {}
     },
@@ -19793,7 +20106,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 4
       },
       "meta": {}
     },
@@ -19855,7 +20169,8 @@
         "2026-11-22": 4,
         "2026-11-23": 4,
         "2026-11-24": 4,
-        "2026-11-25": 4
+        "2026-11-25": 4,
+        "2026-11-27": 4
       },
       "meta": {}
     },
@@ -19979,7 +20294,8 @@
         "2026-11-22": 3,
         "2026-11-23": 3,
         "2026-11-24": 3,
-        "2026-11-25": 3
+        "2026-11-25": 3,
+        "2026-11-27": 3
       },
       "meta": {
         "abstract": "We present GASS, an LLVM-based open-source compiler for NVIDIA GPU's SASS machine assembly. GASS is the first open-source compiler targeting SASS, and it provides a unified toolchain for currently fragmented low-level performance research on NVIDIA GPUs. GASS supports all recent architectures, including Volta, Turing, and Ampere. Our evaluation shows that our specialized optimizations deliver significant speedup over LLVM's algorithms.",
@@ -20054,7 +20370,8 @@
         "2026-11-22": 3,
         "2026-11-23": 3,
         "2026-11-24": 3,
-        "2026-11-25": 3
+        "2026-11-25": 3,
+        "2026-11-27": 3
       },
       "meta": {
         "abstract": "Training large language models using 4-bit arithmetic enhances throughput and memory efficiency. Yet, the limited dynamic range of FP4 increases sensitivity to outliers. While NVFP4 mitigates quantization error via hierarchical microscaling, a persistent loss gap remains compared to BF16. This study conducts a longitudinal analysis of outlier dynamics across architecture during NVFP4 pretraining, focusing on where they localize, why they occur, and how they evolve temporally. We find that, compared with Softmax Attention (SA), Linear Attention (LA) reduces per-tensor heavy tails but still exhibits persistent block-level spikes under block quantization. Our analysis attributes outliers to specific architectural components: Softmax in SA, gating in LA, and SwiGLU in FFN, with\"post-QK\"operations exhibiting higher sensitivity to quantization. Notably, outliers evolve from transient spikes early in training to a small set of persistent hot channels (i.e., channels with persistently large magnitudes) in later stages. Based on these findings, we introduce Hot-Channel Patch (HCP), an online compensation mechanism that identifies hot channels and reinjects residuals using hardware-efficient kernels. We then develop CHON, an NVFP4 training recipe integrating HCP with post-QK operation protection. On GLA-1.3B model trained for 60B tokens, CHON reduces the loss gap to BF16 from 0.94% to 0.58% while maintaining downstream accuracy.",
@@ -20140,7 +20457,8 @@
         "2026-11-22": 3,
         "2026-11-23": 3,
         "2026-11-24": 3,
-        "2026-11-25": 3
+        "2026-11-25": 3,
+        "2026-11-27": 3
       },
       "meta": {}
     },
@@ -20202,7 +20520,8 @@
         "2026-11-22": 3,
         "2026-11-23": 3,
         "2026-11-24": 3,
-        "2026-11-25": 3
+        "2026-11-25": 3,
+        "2026-11-27": 3
       },
       "meta": {}
     },
@@ -20264,7 +20583,8 @@
         "2026-11-22": 3,
         "2026-11-23": 3,
         "2026-11-24": 3,
-        "2026-11-25": 3
+        "2026-11-25": 3,
+        "2026-11-27": 3
       },
       "meta": {}
     },
@@ -20326,7 +20646,8 @@
         "2026-11-22": 3,
         "2026-11-23": 3,
         "2026-11-24": 3,
-        "2026-11-25": 3
+        "2026-11-25": 3,
+        "2026-11-27": 3
       },
       "meta": {}
     },
@@ -20388,7 +20709,8 @@
         "2026-11-22": 3,
         "2026-11-23": 3,
         "2026-11-24": 3,
-        "2026-11-25": 3
+        "2026-11-25": 3,
+        "2026-11-27": 3
       },
       "meta": {}
     },
@@ -20450,7 +20772,8 @@
         "2026-11-22": 3,
         "2026-11-23": 3,
         "2026-11-24": 3,
-        "2026-11-25": 3
+        "2026-11-25": 3,
+        "2026-11-27": 3
       },
       "meta": {}
     },
@@ -20512,7 +20835,8 @@
         "2026-11-22": 3,
         "2026-11-23": 3,
         "2026-11-24": 3,
-        "2026-11-25": 3
+        "2026-11-25": 3,
+        "2026-11-27": 3
       },
       "meta": {}
     },
@@ -20574,7 +20898,8 @@
         "2026-11-22": 3,
         "2026-11-23": 3,
         "2026-11-24": 3,
-        "2026-11-25": 3
+        "2026-11-25": 3,
+        "2026-11-27": 3
       },
       "meta": {}
     },
@@ -20636,7 +20961,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {
         "abstract": "Reinforcement learning (RL) has become a dominant post-training paradigm, driving the emergence of high-performance RL systems such as veRL for autoregressive large language models (LLMs). In parallel, diffusion-oriented RL algorithms, e.g., DanceGRPO and FlowGRPO, have rapidly expanded the scope of RL from language reasoning to diffusion-based visual and flow-based generation. However, efficient RL systems for diffusion generative LLMs remain underexplored. Existing implementations, e.g., veRL-Omni, still rely on colocated execution, which simplifies synchronization but couples rollout and training resources, limits heterogeneous deployment, and constrains independent scaling. To this end, we introduce DigenRL, a disaggregated RL framework for diffusion-based generative LLMs that supports flexible resource allocation, accommodates heterogeneous GPUs, and facilitates efficient task scheduling. To maximally reduce the execution bubbles in the disaggregated architecture, we propose: 1) a generation-axis pipeline (GAP) and time-step parallelism (TSP) in the diffusion architecture to enable finer-grained pipelining between rollout and training; 2) an elastic trainer-assisted generation (TAG) approach to enable the trainer GPU resources to dynamically assist in executing rollout generations; and 3) a tightly one-step constrained asynchronous strategy to further utilize the tail bubble in the pipeline. Extensive experiments are conducted on three hardware testbeds with 16-32 GPUs using HunyuanVideo-13B, Wan2.1-14B, FLUX.1-12B, and QwenImage-20B generative models. Experimental results show that DigenRL achieves 1.56-2.10x throughput improvements over state-of-the-art diffusion RL systems, veRL-Omni and GenRL.",
@@ -20717,7 +21043,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {
         "_tried": "2026-09-20"
@@ -20781,7 +21108,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {
         "abstract": "",
@@ -20856,7 +21184,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {
         "_tried": "2026-09-25",
@@ -20931,7 +21260,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {
         "abstract": "As Large Language Models (LLMs) become more powerful and autonomous, they increasingly face conflicts and dilemmas in many scenarios. We first summarize and taxonomize these diverse conflicts. Then, we model the LLM's preferences to make different choices as a priority graph, where instructions and values are nodes, and the edges represent context-specific priorities determined by the model's output distribution. This graph reveals that a unified stable LLM alignment is very challenging, because the graph is neither static nor necessarily consistent in different contexts. Besides, it also reveals a potential vulnerability: priority hacking, where adversaries can craft deceptive contexts to manipulate the graph and bypass safety alignments. To counter this, we propose a runtime verification mechanism, enabling LLMs to query external sources to ground their context and resist manipulation. While this approach enhances robustness, we also acknowledge that many ethical and value dilemmas are philosophically irreducible, posing a long-term, open challenge for the future of AI alignment.",
@@ -21009,7 +21339,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {
         "abstract": "The pandemic of coronavirus disease 2019 (COVID-19) has had a significant global impact, and computed tomography (CT) scans play a crucial role in diagnosing COVID-19, where the research of deep learning-based lung infection segmentation attracts more and more attention. However, existing segmentation methods often struggle with challenges unique to COVID-19 CT images, such as scattered regions, varying numbers of infected areas, diverse sizes, intricate backgrounds, and indistinct boundaries. To address these challenges, we propose a cascaded aggregation network (CANet) which incorporates a multi-level feature encoder, a cascaded decoding module, and a pyramid aggregation module. First, the multilevel feature encoder captures and enhances high-level semantic cues across multiple levels, allowing CANet to effectively deal with the spatial variability of infection areas. Then, the cascaded decoding module combines multilevel deep features using a hierarchical structure. It progressively fuses information from different levels through two partial decoder (PD) blocks and a dense feature aggregation (DFA) block. In this way, we can ensure detailed feature refinement and global semantic consistency. After that, the pyramid aggregation module further refines the fused features. By using three attention-aware feature integration (AFI) units, it dynamically adjusts feature importance across different spatial scales, improving the segmentation accuracy of infection regions with varying sizes and complex backgrounds. By following this approach, we can achieve the final premium segmentation results. Extensive experiments show that CANet outperforms 13 state-of-the-art methods. Specifically, CANet achieves improvements over the top-level model BS-Net in sensitivity (2.2%), $F1$ -score (0.5%), and Hausdorff distance (HD) (10.5%), demonstrating its superior performance in segmenting COVID-19 lung infections.",
@@ -21088,7 +21419,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {
         "_tried": "2026-10-12"
@@ -21152,7 +21484,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {
         "_tried": "2026-10-14",
@@ -21227,7 +21560,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -21289,7 +21623,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -21351,7 +21686,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -21413,7 +21749,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -21475,7 +21812,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -21537,7 +21875,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -21599,7 +21938,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -21661,7 +22001,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -21723,7 +22064,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -21785,7 +22127,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -21847,7 +22190,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -21909,7 +22253,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -21971,7 +22316,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -22033,7 +22379,8 @@
         "2026-11-22": 2,
         "2026-11-23": 2,
         "2026-11-24": 2,
-        "2026-11-25": 2
+        "2026-11-25": 2,
+        "2026-11-27": 2
       },
       "meta": {}
     },
@@ -22095,7 +22442,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {
         "_tried": "2026-09-18"
@@ -22159,7 +22507,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {
         "abstract": "",
@@ -22236,7 +22585,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {
         "abstract": "Long-running molecular simulation campaigns require repeated continuation from saved states, provenance-aware progression, adaptive assessment, and occasional interpretation of workflow conditions that cannot be resolved safely by fixed rules. Here, we present Agent-MD, a framework that places large language model (LLM) reasoning selectively at campaign construction and event-triggered review, while routine simulation, analysis, continuation, archiving, and state progression are handled by a persistent rule-based campaign agent using approved policies and explicit state records. Agent-MD was demonstrated in a grand canonical Monte Carlo-molecular dynamics (GCMC-MD) water-vapor desorption campaign comprising five montmorillonite systems and three sequential relative-humidity states (RH = 0.9-0.3-0.1). Across 15 system-RH states, the workflow completed 120 segmented simulation cycles with state-specific sampling lengths and provenance-aware restart inheritance. Routine production required no live reasoning-agent invocation, while one state reached a review boundary; two preserved incidents were subsequently evaluated through blinded reasoning-agent replay, which identified the underlying workflow problems and recommended appropriate follow-up actions. The simulations also revealed distinct composition-dependent low-RH responses, with Ca-bearing montmorillonite retaining more interlayer water and maintaining a larger basal spacing than the Na- and K-bearing systems, while the highest-charge Na system retained more residual water under dry conditions. These results demonstrate that long-running scientific workflows need not place every operation inside an LLM reasoning loop: selective reasoning can instead be combined with deterministic execution, structured evidence, and validated control handoffs to provide reproducible and auditable agent-assisted molecular simulation.",
@@ -22273,7 +22623,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {
         "_tried": "2026-11-09"
@@ -22337,7 +22688,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {
         "abstract": "Evaluating Large Language Models (LLMs) incurs prohibitive computational overhead during continuous development processes. While coreset selection accelerates evaluation, existing methods either suffer from a severe ``cold start''bottleneck requiring massive historical logs (e.g., Item Response Theory) or exhibit a surface lexical bias that misses the underlying reasoning manifold of tasks. We propose CoT-Core, a novel training-free core question selection framework. Recognizing that lexically disparate questions can share equivalent underlying logic, CoT-Core prompts LLMs to unroll zero-shot Chain-of-Thought (CoT) reasoning trajectories. Projecting these paths into a latent space effectively clusters questions by intrinsic logical equivalence rather than superficial text similarity. Extensive experiments on GSM8K, MMLU, MMLU-Pro, and GPQA demonstrate that CoT-Core drastically reduces evaluation costs while maintaining high-fidelity score estimation, and delineate the boundary conditions of reasoning-aware pruning, revealing that its efficacy is intrinsically gated by task complexity.",
@@ -22416,7 +22768,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {
         "abstract": "Overlapping communication and computation operators is a common practice to hide communication overheads, accelerating large language models (LLMs) training on GPU clusters. Existing systems achieve this through either intra-operator fusion (IntraFusion), which packs operators into a single large kernel, or inter-operator decomposition (InterDecom), which splits a tensor into multiple parts for pipelined execution. However, current IntraFusion methods underutilize network topology, causing suboptimal bandwidth usage on multiGPU systems, while InterDecom struggles to determine the optimal number of decomposed parts for peak performance. To address these issues, we introduce Compass, which employs systematic optimization and comprehensive modeling. First, we design a novel IntraFusion algorithm leveraging double-ring communications to maximize bandwidth utilization in hybrid NVLink-PCIe systems, achieving 1.5x-2.5x speedups. Second, we develop a decomposition model that mathematically derives the optimal tensor decomposition degree for InterDecom, improving performance by up to 1.3x. Finally, we develop a unified performance framework that accurately determines the best strategy for different scenarios. We validate Compass through extensive evaluation across 288 configurations and end-to-end experiments on real-world applications. The results demonstrate that Compass consistently selects the optimal strategy, achieving up to a 1.42x end-to-end speedup compared to the Megatron-LM baseline.",
@@ -22494,7 +22847,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {
         "_tried": "2026-10-11",
@@ -22572,7 +22926,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {
         "abstract": "",
@@ -22652,7 +23007,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -22714,7 +23070,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -22776,7 +23133,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -22838,7 +23196,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -22900,7 +23259,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -22962,7 +23322,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23024,7 +23385,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23086,7 +23448,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23148,7 +23511,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23210,7 +23574,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23272,7 +23637,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23334,7 +23700,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23396,7 +23763,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23458,7 +23826,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23520,7 +23889,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23582,7 +23952,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23644,7 +24015,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23706,7 +24078,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23768,7 +24141,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23787,7 +24161,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23849,7 +24224,8 @@
         "2026-11-22": 1,
         "2026-11-23": 1,
         "2026-11-24": 1,
-        "2026-11-25": 1
+        "2026-11-25": 1,
+        "2026-11-27": 1
       },
       "meta": {}
     },
@@ -23911,7 +24287,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "abstract": "Abstract Energy efficiency has become one of the top design criteria for current computing systems. The dynamic voltage and frequency scaling (DVFS) has been widely adopted by laptop computers, servers, and mobile devices to conserve energy, while the GPU DVFS is still at a certain early age. This paper aims at exploring the impact of GPU DVFS on the application performance and power consumption, and furthermore, on energy conservation. We survey the state-of-the-art GPU DVFS characterizations, and then summarize recent research works on GPU power and performance models. We also conduct real GPU DVFS experiments on NVIDIA Fermi and Maxwell GPUs. According to our experimental results, GPU DVFS has significant potential for energy saving. The effect of scaling core voltage/frequency and memory voltage/frequency depends on not only the GPU architectures, but also the characteristic of GPU applications.",
@@ -23941,7 +24318,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-11-16"
@@ -24005,7 +24383,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "abstract": "Multi-modal large language models (MLLMs) have become a focal point of recent AI research, with numerous works investigating their architectures, training strategies, and real-world applications. Unlike uni-modal LLMs, MLLMs introduce heterogeneous modules with various workloads, including different input modalities, model sizes (parameters can be trainable or frozen), and architectures. This results in significantly reduced scaling efficiency when MLLMs are trained on GPU clusters. Current training systems either place all MLLM modules on the same GPUs to minimize communication overheads or separate different modules onto different GPUs for more flexible task scheduling. However, both approaches underestimate the impacts of model placement and parallelization, leading to sub-optimal training performance on GPU clusters. In this paper, we propose MoPPTrain to adaptively determine a model placement and parallelization strategy to minimize the MLLM training time. To achieve this, we first design a novel pipeline schedule for the colocated placement to enable communication tasks to be well overlapped with computation tasks. Then we theoretically analyze possible model placement and parallelization strategies for any given MLLM on a GPU cluster to formulate an optimization problem. Finally, we develop a cost model for the end-to-end iteration time, which allows us to derive the near-optimal solution to the optimization problem. We implement MoPPTrain atop Megatron-LM and conduct extensive experiments on a 40-GPU cluster. Experimental results show that our MoPPTrain outperforms state-of-the-art baselines (Megatron-LM, DistTrain, and Optimus) by 1.06× ∼ 4.2× in end-to-end training time.",
@@ -24081,7 +24460,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-09-21"
@@ -24119,7 +24499,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "abstract": "Hosted LLMs enable automated alpha mining but incur recurring API costs and expose research context to external providers. Training a local generator requires supervision aligned with portfolio utility: a predictive factor may add little after redundancy and trading costs. This incremental value is assessed only after the factor program is complete, whereas generation proceeds sequentially. Deployment must also adapt to evolving stock-specific evidence and changes in factor effectiveness across market regimes. We propose AlphaLedger to address these challenges. Economic-context on-policy distillation (EC-OPD) conditions a frozen teacher on completed factors and their cost-adjusted marginal portfolio contributions, then distills its legal-action distributions along the student's own trajectories. The deployed generator requires neither teacher calls nor outcome inputs. EviPool constructs a dynamic stock universe from lagged multi-source evidence, while a regime-residual gate (RRG) reweights factors using matured, state-matched returns with shrinkage and bounded deviations from equal weighting. On Chinese A-shares, AlphaLedger achieves a 55.4\\% annualized net return, a Sharpe ratio of 2.06, and a maximum drawdown of 10.8\\%. In a common CSI500 universe, its annualized net return exceeds the strongest baseline by 43.6\\% (31.6\\% vs.\\ 22.0\\%), with a 13.5\\% higher Sharpe ratio.",
@@ -24201,7 +24582,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-09-25",
@@ -24278,7 +24660,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "abstract": "Intricate malware can result in the failure of on-line Comprehensive Protection (CP) in distributed systems, and place the system in an unsafe state which is difficult to recover from. There lacks an effective scheme to defend against this extreme attack. In this paper, based on the Two-layer Protection and Co-operative Recovery (TPCRS) mechanism, we propose an efficient survivable scheme against malware attacks in distributed systems. The basic strategy is to deploy an Emergency Response/Recovery (ER) agent at each node to recognize the state of the system whenever the CP fails, and to carry out cooperative security among multiple nodes so that the infected nodes can be rapidly recovered. Furthermore, a Preventive Maintenance (PM) model is adopted to enhance the reliability of the distributed system. Si-mulation results demonstrate the practicality and efficiency of the proposed schemes.",
@@ -24314,7 +24697,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "abstract": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabilities on complex tasks through Chain-of-Thought (CoT) reasoning, yet at the cost of substantially increased inference overhead. While post-training quantization (PTQ) has emerged as a prevalent approach for reducing deployment costs, its impact on the reasoning capability of MLLMs remains largely unexplored. This paper presents a comprehensive empirical study on the reasoning capability of quantized MLLMs. Employing two representative weight-only quantization methods, AWQ and GPTQ, we systematically evaluate 10 models spanning the Qwen2.5-VL, Qwen3-VL, and InternVL3 families across 20 multimodal benchmarks, and analyze the performance-efficiency trade-offs introduced by quantization. We find that quantization incurs significantly greater degradation on multimodal reasoning tasks than on perception tasks, with the disparity becoming especially pronounced in long-chain reasoning scenarios. Mechanistic analysis attributes this degradation primarily to error accumulation during long-sequence decoding, reasoning trajectory drift, and systematic shifts in output patterns. Despite these adverse effects, quantization still yields substantial end-to-end speedups in reasoning-heavy, long-output scenarios. Finally, we empirically analyze two training-free factors that influence quantization performance, namely calibration set design and selective layer preservation, and discuss their implications for future multimodal quantization research.",
@@ -24392,7 +24776,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-09-23"
@@ -24456,7 +24841,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "abstract": "The rapid progress of reasoning and agentic large language models (LLMs) has increased the demand for long-context inference, but self-attention (SA) scales quadratically with context length. To address this, we study SWARR (Sliding-Window Attention with Reinforced Adaptation for Math Reasoning), a practical recipe for adapting SWA models to mathematical reasoning. SWARR has two stages: (1) efficient conversion from a pretrained SA model to SWA with supervised fine-tuning (SFT), which avoids pretraining a new base model, and (2) policy adaptation with reinforcement learning (RL). We find that SWA still underperforms SA after SFT, and we hypothesize that this gap is caused in part by a data-architecture mismatch: most SFT data are prepared for SA models and may contain long-range dependencies that are difficult for SWA to model. Because on-policy RL optimizes self-generated trajectories under the SWA constraint, it can adapt trajectories to better match SWA. Experiments on mathematical reasoning benchmarks show that this recipe substantially narrows the gap between SWA and SA, recovering much of the accuracy lost during SWA conversion while preserving the efficiency benefits of linear-complexity attention. Our central contribution is the empirical finding that RL changes the conclusion one would draw from conversion and SFT alone about SWA's viability for math reasoning.",
@@ -24507,7 +24893,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "abstract": "The rapid progress of reasoning and agentic large language models (LLMs) has increased the demand for long-context inference, but self-attention (SA) scales quadratically with context length. To address this, we study SWARR (Sliding-Window Attention with Reinforced Adaptation for Math Reasoning), a practical recipe for adapting SWA models to mathematical reasoning. SWARR has two stages: (1) efficient conversion from a pretrained SA model to SWA with supervised fine-tuning (SFT), which avoids pretraining a new base model, and (2) policy adaptation with reinforcement learning (RL). We find that SWA still underperforms SA after SFT, and we hypothesize that this gap is caused in part by a data-architecture mismatch: most SFT data are prepared for SA models and may contain long-range dependencies that are difficult for SWA to model. Because on-policy RL optimizes self-generated trajectories under the SWA constraint, it can adapt trajectories to better match SWA. Experiments on mathematical reasoning benchmarks show that this recipe substantially narrows the gap between SWA and SA, recovering much of the accuracy lost during SWA conversion while preserving the efficiency benefits of linear-complexity attention. Our central contribution is the empirical finding that RL changes the conclusion one would draw from conversion and SFT alone about SWA's viability for math reasoning.",
@@ -24587,7 +24974,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "abstract": "As Large Language Models (LLMs) evolve into autonomous Deep Search and Deep Research Agents capable of executing long-horizon, multi-step tasks, evaluating their reliability becomes increasingly critical. However, existing evaluation paradigms predominantly focus on final task outcomes, leaving a significant gap in understanding the intermediate execution traces, where agents are highly susceptible to various errors. To address this critical gap, we introduce a comprehensive methodology and analytical framework designed specifically to diagnose errors in intermediate workflows. Building upon this framework, we establish a structured taxonomy that categorizes these vulnerabilities into two primary dimensions: System-Level Errors and Task-Level Errors. Through a systematic examination of step-by-step execution traces and agent-environment interactions, we reveal how these underlying errors affect overall performance. Finally, through empirical experiments and systematic analysis of the identified error types, we provide actionable design guidelines, aiming to enhance the robustness, reasoning capabilities, and reliability of Deep Search and Deep Research agents.",
@@ -24634,7 +25022,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-10-28",
@@ -24710,7 +25099,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-09-28"
@@ -24774,7 +25164,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-09-29"
@@ -24899,7 +25290,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-10-01"
@@ -24963,7 +25355,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-10-11"
@@ -24982,7 +25375,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-11-21"
@@ -25046,7 +25440,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "abstract": "",
@@ -25119,7 +25514,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-10-31"
@@ -25183,7 +25579,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-11-01"
@@ -25247,7 +25644,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "_tried": "2026-11-01"
@@ -25311,7 +25709,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {
         "abstract": "The high computational complexity of the self-attention mechanism constitutes a primary performance bottleneck in LLM inference. Existing sparse attention mechanisms commonly adopt coarse-grained block sparsity to align with FlashAttention’s tiling and rely on dense Tensor Cores, leaving the potential of emerging hardware Sparse Tensor Cores (SpTCs) and semi-structured sparsity largely untapped. We present DynSpAttn , a dynamic sparse attention mechanism co-designed with NVIDIA Sparse Tensor Cores. DynSpAttn introduces a dual-side 2:4 structured sparsity strategy that prunes both the Query and Score matrices, thereby transforming the dominant matrix multiplications in attention into sparse matrix multiplications (SpMMs) executable on SpTCs. To realize this transformation, DynSpAttn incorporates lightweight in-register pruners and a shuffle-free operand remapping scheme within a fully fused, I/O-aware CUDA kernel. Evaluations on RTX 4090 and L20 GPUs show that DynSpAttn achieves up to 1.70 × kernel-level preformance improvement over FlashAttention and 1.58 × end-to-end inference speedup. These results demonstrate that co-designing semi-structured sparsity with hardware support across the full attention pipeline provides a practical and efficient solution for LLM inference.",
@@ -25389,7 +25788,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -25451,7 +25851,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -25475,7 +25876,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -25537,7 +25939,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -25599,7 +26002,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -25661,7 +26065,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -25723,7 +26128,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -25785,7 +26191,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -25847,7 +26254,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -25909,7 +26317,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -25971,7 +26380,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26033,7 +26443,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26095,7 +26506,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26157,7 +26569,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26219,7 +26632,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26281,7 +26695,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26343,7 +26758,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26405,7 +26821,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26467,7 +26884,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26529,7 +26947,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26589,7 +27008,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26601,7 +27021,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26620,7 +27041,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26682,7 +27104,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26744,7 +27167,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26806,7 +27230,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26868,7 +27293,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26930,7 +27356,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -26992,7 +27419,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -27054,7 +27482,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -27116,7 +27545,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -27178,7 +27608,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -27230,7 +27661,8 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
       },
       "meta": {}
     },
@@ -27292,7 +27724,148 @@
         "2026-11-22": 0,
         "2026-11-23": 0,
         "2026-11-24": 0,
-        "2026-11-25": 0
+        "2026-11-25": 0,
+        "2026-11-27": 0
+      },
+      "meta": {}
+    },
+    "Client-Driven Performance Model of Hyperledger Fabric Blockchain via Phase Decomposition": {
+      "first_seen": "2026-10-27",
+      "history": {
+        "2026-10-27": 0,
+        "2026-10-28": 0,
+        "2026-10-31": 0,
+        "2026-11-01": 0,
+        "2026-11-02": 0,
+        "2026-11-03": 0,
+        "2026-11-04": 0,
+        "2026-11-05": 0,
+        "2026-11-06": 0,
+        "2026-11-07": 0,
+        "2026-11-08": 0,
+        "2026-11-09": 0,
+        "2026-11-10": 0,
+        "2026-11-11": 0,
+        "2026-11-12": 0,
+        "2026-11-14": 0,
+        "2026-11-15": 0,
+        "2026-11-16": 0,
+        "2026-11-18": 0,
+        "2026-11-19": 0,
+        "2026-11-20": 0,
+        "2026-11-21": 0,
+        "2026-11-22": 0,
+        "2026-11-23": 0,
+        "2026-11-24": 0,
+        "2026-11-25": 0,
+        "2026-11-27": 0
+      },
+      "meta": {
+        "abstract": "Hyperledger Fabric is a popular permissioned blockchain platform. Although many existing works on the overall performance of Hyperledger Fabric are available, a decomposition of each phase in Hyperledger Fabric remains to be explored. While the overall performance of Hyperledger Fabric might provide an end-user with sufficient performance information when processing a transaction, it is far from informative when deploying a distributed system with specific performance goals, except for understanding each decomposition phase in Hyperledger Fabric. This paper presents a client-driven measurement framework to characterize the transactions of each decomposition phase in Hyperledger Fabric, based on the Fabric SDK Node.js. We evaluate the Hyperledger Fabric performance and have some interesting observations, e.g., 1) The number of CPU cores linearly impacts the throughput of an endorsing peer. 2) Raft-based ordering service shows good scalability with the number of ordering service nodes. 3) Waiting time dominates a transaction’s latency in the order phase when encountering unfit block-setting parameters. We then identify the dominant resource in each decomposition phase, propose a stochastic computation model and an alpha-beta communication model to analyze the performance of each decomposition phase. Finally, we validate the performance model’s accuracy in two clusters. And we propose a strategy to reduce waiting time when it dominates transaction latency in the order phase under unfit block-setting parameters, by automatically adjusting block-setting parameters, achieving at least 20% reductions in waiting time.",
+        "arxiv": "",
+        "authors": [
+          "Can-Hui Wang",
+          "Xiao-Wen Chu"
+        ],
+        "doi": "10.1109/TNSE.2026.3731011",
+        "pdf": "https://doi.org/10.1109/tnse.2026.3731011",
+        "s2url": "https://www.semanticscholar.org/paper/8815e38210b14f8be5b7e42129cf34d4b4a98cbd",
+        "tldr": "A client-driven measurement framework is presented to characterize the transactions of each decomposition phase in Hyperledger Fabric, based on the Fabric SDK Node.js, and a strategy to reduce waiting time when it dominates transaction latency in the order phase under unfit block-setting parameters is proposed.",
+        "venue": "IEEE Transactions on Network Science and Engineering"
+      },
+      "pub_id": "v4rX24EAAAAJ:wyM6WWKXmoIC",
+      "year": "2026"
+    },
+    "Llm agent memory: a survey from a unified representation–management perspective": {
+      "first_seen": "2026-09-17",
+      "history": {
+        "2026-09-17": 4,
+        "2026-09-18": 4,
+        "2026-09-19": 4,
+        "2026-09-20": 4,
+        "2026-09-21": 4,
+        "2026-09-22": 4,
+        "2026-09-23": 4,
+        "2026-09-24": 4,
+        "2026-09-25": 4,
+        "2026-09-26": 4,
+        "2026-09-27": 4,
+        "2026-09-29": 4,
+        "2026-09-30": 4,
+        "2026-10-01": 4,
+        "2026-10-06": 4,
+        "2026-10-08": 4,
+        "2026-10-09": 4,
+        "2026-10-10": 4,
+        "2026-10-11": 4,
+        "2026-10-12": 4,
+        "2026-10-13": 4,
+        "2026-10-14": 4,
+        "2026-10-15": 4,
+        "2026-10-20": 4,
+        "2026-10-21": 4,
+        "2026-10-22": 4,
+        "2026-10-23": 4,
+        "2026-10-25": 4,
+        "2026-10-27": 4,
+        "2026-10-28": 4,
+        "2026-10-31": 4,
+        "2026-11-01": 4,
+        "2026-11-02": 4,
+        "2026-11-03": 4,
+        "2026-11-04": 4,
+        "2026-11-05": 4,
+        "2026-11-06": 4,
+        "2026-11-07": 6,
+        "2026-11-08": 6,
+        "2026-11-09": 6,
+        "2026-11-10": 6,
+        "2026-11-11": 6,
+        "2026-11-12": 6
+      },
+      "meta": {},
+      "pub_id": "v4rX24EAAAAJ:qmtmRrLr0tkC",
+      "year": "2026"
+    },
+    "Zipccl: Efficient lossless data compression of communication collectives for accelerating llm training": {
+      "first_seen": "2026-11-09",
+      "history": {
+        "2026-11-09": 4,
+        "2026-11-10": 4,
+        "2026-11-11": 4,
+        "2026-11-12": 4,
+        "2026-11-14": 4,
+        "2026-11-15": 4,
+        "2026-11-16": 4,
+        "2026-11-18": 4,
+        "2026-11-19": 4,
+        "2026-11-20": 4,
+        "2026-11-21": 4,
+        "2026-11-22": 4,
+        "2026-11-23": 4,
+        "2026-11-24": 4,
+        "2026-11-25": 4,
+        "2026-11-27": 4
+      },
+      "meta": {},
+      "pub_id": "v4rX24EAAAAJ:ymY9cBF3mdcC",
+      "year": "2026"
+    },
+    "Bidirectional resource scheduling for disaggregated and asynchronous rl post-training": {
+      "year": "2026",
+      "pub_id": "v4rX24EAAAAJ:xGWFX6Gbr9MC",
+      "first_seen": "2026-11-27",
+      "history": {
+        "2026-11-27": 9
+      },
+      "meta": {}
+    },
+    "Route-Consistent Adaptation for Stable Quantization of Mixture-of-Experts Models with Theoretical Guarantees": {
+      "year": "",
+      "pub_id": "v4rX24EAAAAJ:kUhpeDhEZMUC",
+      "first_seen": "2026-11-27",
+      "history": {
+        "2026-11-27": 0
       },
       "meta": {}
     }
