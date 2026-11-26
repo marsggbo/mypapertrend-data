@@ -6491,6 +6491,8 @@
       }
     },
     "Computer-aided clinical skin disease diagnosis using cnn and object detection models": {
+      "year": "2019",
+      "pub_id": "LYNKm_8AAAAJ:eQOLeE2rZwMC",
       "first_seen": "2026-08-02",
       "history": {
         "2026-08-02": 27,
@@ -6632,11 +6634,11 @@
         "s2url": "https://www.semanticscholar.org/paper/584c88b519ea159523a1500e67f5ded2010e57c7",
         "tldr": "The results show that object detection can help improve the accuracy of some skin disease classes and an object detection based approach by introducing bounding boxes into the Skin -10 dataset is presented.",
         "venue": "2019 IEEE International Conference on Big Data (Big Data)"
-      },
-      "pub_id": "LYNKm_8AAAAJ:eQOLeE2rZwMC",
-      "year": "2019"
+      }
     },
     "Evolutionary multi-objective architecture search framework: Application to covid-19 3d ct classification": {
+      "year": "2022",
+      "pub_id": "LYNKm_8AAAAJ:UeHWp8X0CEIC",
       "first_seen": "2026-04-04",
       "history": {
         "2026-04-04": 27,
@@ -6775,11 +6777,11 @@
         "s2url": "https://www.semanticscholar.org/paper/a3bae64030dd675701b9a65e6920ba4ca9110b9f",
         "tldr": "This work proposes an efficient Evolutionary Multi-objective ARchitecture Search (EMARS) framework, and demonstrates that under objectives of accuracy and potential, EMARS can balance exploitation and exploration, i.e., reducing search time and finding better models.",
         "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention"
-      },
-      "pub_id": "LYNKm_8AAAAJ:UeHWp8X0CEIC",
-      "year": "2022"
+      }
     },
     "Llm agent memory: A survey from a unified representation–management perspective": {
+      "year": "2026",
+      "pub_id": "LYNKm_8AAAAJ:MXK_kJrjxJIC",
       "first_seen": "2026-06-11",
       "history": {
         "2026-06-11": 1,
@@ -6874,11 +6876,11 @@
         "s2url": "https://www.semanticscholar.org/paper/82f2c012358d4734c4e134ae6a3e1054bf1baa0a",
         "tldr": "A unified taxonomy is presented that organizes memory systems for long-context scenarios by decoupling memory abstractions from model-specific inference and training methods, and outlines key research directions for long-context memory system design.",
         "venue": "Volume 1"
-      },
-      "pub_id": "LYNKm_8AAAAJ:MXK_kJrjxJIC",
-      "year": "2026"
+      }
     },
     "Llm agent memory: a survey from a unified representation–management perspective": {
+      "year": "2026",
+      "pub_id": "LYNKm_8AAAAJ:MXK_kJrjxJIC",
       "first_seen": "2026-07-25",
       "history": {
         "2026-07-25": 3,
@@ -7021,9 +7023,7 @@
         "s2url": "https://www.semanticscholar.org/paper/82f2c012358d4734c4e134ae6a3e1054bf1baa0a",
         "tldr": "A unified taxonomy is presented that organizes memory systems for long-context scenarios by decoupling memory abstractions from model-specific inference and training methods, and outlines key research directions for long-context memory system design.",
         "venue": "Volume 1"
-      },
-      "pub_id": "LYNKm_8AAAAJ:MXK_kJrjxJIC",
-      "year": "2026"
+      }
     }
   }
 }
