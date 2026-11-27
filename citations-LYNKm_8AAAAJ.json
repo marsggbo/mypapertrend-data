@@ -649,10 +649,15 @@
         "citations": 4086,
         "hindex": 15,
         "i10": 16
+      },
+      "2026-11-28": {
+        "citations": 4086,
+        "hindex": 15,
+        "i10": 16
       }
     }
   },
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "source": "dom",
   "papers": {
     "AutoML: A survey of the state-of-the-art": {
@@ -894,7 +899,8 @@
         "2026-11-24": 2996,
         "2026-11-25": 3000,
         "2026-11-26": 3000,
-        "2026-11-27": 2999
+        "2026-11-27": 2999,
+        "2026-11-28": 2999
       },
       "meta": {
         "authors": [
@@ -1150,7 +1156,8 @@
         "2026-11-24": 312,
         "2026-11-25": 313,
         "2026-11-26": 313,
-        "2026-11-27": 312
+        "2026-11-27": 312,
+        "2026-11-28": 312
       },
       "meta": {
         "authors": [
@@ -1417,7 +1424,8 @@
         "2026-11-24": 169,
         "2026-11-25": 169,
         "2026-11-26": 169,
-        "2026-11-27": 169
+        "2026-11-27": 169,
+        "2026-11-28": 169
       },
       "meta": {
         "authors": [
@@ -1676,7 +1684,8 @@
         "2026-11-24": 144,
         "2026-11-25": 144,
         "2026-11-26": 144,
-        "2026-11-27": 145
+        "2026-11-27": 145,
+        "2026-11-28": 145
       },
       "meta": {
         "authors": [
@@ -1936,7 +1945,8 @@
         "2026-11-24": 68,
         "2026-11-25": 68,
         "2026-11-26": 68,
-        "2026-11-27": 68
+        "2026-11-27": 68,
+        "2026-11-28": 68
       },
       "meta": {
         "authors": [
@@ -2198,7 +2208,8 @@
         "2026-11-24": 59,
         "2026-11-25": 59,
         "2026-11-26": 59,
-        "2026-11-27": 59
+        "2026-11-27": 59,
+        "2026-11-28": 59
       },
       "meta": {
         "authors": [
@@ -2460,7 +2471,8 @@
         "2026-11-24": 58,
         "2026-11-25": 58,
         "2026-11-26": 58,
-        "2026-11-27": 59
+        "2026-11-27": 59,
+        "2026-11-28": 59
       },
       "meta": {
         "authors": [
@@ -2724,7 +2736,8 @@
         "2026-11-24": 51,
         "2026-11-25": 51,
         "2026-11-26": 51,
-        "2026-11-27": 51
+        "2026-11-27": 51,
+        "2026-11-28": 51
       },
       "meta": {
         "authors": [
@@ -2988,7 +3001,8 @@
         "2026-11-24": 44,
         "2026-11-25": 44,
         "2026-11-26": 44,
-        "2026-11-27": 44
+        "2026-11-27": 44,
+        "2026-11-28": 44
       },
       "meta": {
         "authors": [
@@ -3246,7 +3260,8 @@
         "2026-11-24": 28,
         "2026-11-25": 28,
         "2026-11-26": 28,
-        "2026-11-27": 28
+        "2026-11-27": 28,
+        "2026-11-28": 28
       },
       "meta": {
         "abstract": "Skin disease is one of the most common types of human diseases, which may happen to everyone regardless of age, gender or race. Due to the high visual diversity, human diagnosis highly relies on personal experience; and there is a serious shortage of experienced dermatologists in many countries. To alleviate this problem, computer-aided diagnosis with state-of-the-art (SOTA) machine learning techniques would be a promising solution. In this paper, we aim at understanding the performance of convolutional neural network (CNN) based approaches. We first build two versions of skin disease datasets from Internet images: (a) Skin -10, which contains 10 common classes of skin disease with a total of 10,218 images; (b) Skin -100, which is a larger dataset that consists of 19,807 images of 100 skin disease classes. Based on these datasets, we benchmark several SOTA CNN models and show that the accuracy of skin -100 is much lower than the accuracy of skin -10. We then implement an ensemble method based on several CNN models and achieve the best accuracy of 79.01% for Skin -10 and 53.54% for Skin -100. We also present an object detection based approach by introducing bounding boxes into the Skin -10 dataset. Our results show that object detection can help improve the accuracy of some skin disease classes.",
@@ -3513,7 +3528,8 @@
         "2026-11-24": 28,
         "2026-11-25": 28,
         "2026-11-26": 28,
-        "2026-11-27": 28
+        "2026-11-27": 28,
+        "2026-11-28": 28
       },
       "meta": {
         "abstract": "The COVID-19 pandemic has threatened global health. Many studies have applied deep convolutional neural networks (CNN) to recognize COVID-19 based on chest 3D computed tomography (CT). Recent works show that no model generalizes well across CT datasets from different countries, and manually designing models for specific datasets requires expertise;thus, neural architecture search (NAS) that aims to search models automatically has become an attractive solution. To reduce the search cost on large 3D CT datasets, most NAS-based works use the weight-sharing (WS) strategy to make all models share weights within a supernet;however, WS inevitably incurs search instability, leading to inaccurate model estimation. In this work, we propose an efficient Evolutionary Multi-objective ARchitecture Search (EMARS) framework. We propose a new objective, namely potential, which can help exploit promising models to indirectly reduce the number of models involved in weights training, thus alleviating search instability. We demonstrate that under objectives of accuracy and potential, EMARS can balance exploitation and exploration, i.e., reducing search time and finding better models. Our searched models are small and perform better than prior works on three public COVID-19 3D CT datasets.",
@@ -3770,7 +3786,8 @@
         "2026-11-24": 24,
         "2026-11-25": 24,
         "2026-11-26": 24,
-        "2026-11-27": 24
+        "2026-11-27": 24,
+        "2026-11-28": 24
       },
       "meta": {
         "authors": [
@@ -4031,7 +4048,8 @@
         "2026-11-24": 21,
         "2026-11-25": 21,
         "2026-11-26": 21,
-        "2026-11-27": 21
+        "2026-11-27": 21,
+        "2026-11-28": 21
       },
       "meta": {
         "authors": [
@@ -4295,7 +4313,8 @@
         "2026-11-24": 20,
         "2026-11-25": 20,
         "2026-11-26": 20,
-        "2026-11-27": 20
+        "2026-11-27": 20,
+        "2026-11-28": 20
       },
       "meta": {
         "authors": [
@@ -4562,7 +4581,8 @@
         "2026-11-24": 18,
         "2026-11-25": 18,
         "2026-11-26": 18,
-        "2026-11-27": 18
+        "2026-11-27": 18,
+        "2026-11-28": 18
       },
       "meta": {
         "authors": [
@@ -4821,7 +4841,8 @@
         "2026-11-24": 12,
         "2026-11-25": 12,
         "2026-11-26": 12,
-        "2026-11-27": 12
+        "2026-11-27": 12,
+        "2026-11-28": 12
       },
       "meta": {
         "authors": [
@@ -5076,7 +5097,8 @@
         "2026-11-24": 9,
         "2026-11-25": 9,
         "2026-11-26": 9,
-        "2026-11-27": 9
+        "2026-11-27": 9,
+        "2026-11-28": 9
       },
       "meta": {
         "_tried": "2026-11-27",
@@ -5273,7 +5295,8 @@
         "2026-11-24": 6,
         "2026-11-25": 6,
         "2026-11-26": 6,
-        "2026-11-27": 6
+        "2026-11-27": 6,
+        "2026-11-28": 6
       },
       "meta": {
         "abstract": "Large language models (LLMs) face significant challenges in sustaining long-term memory for agentic applications due to limited context windows. To address this limitation, many work has proposed diverse memory mechanisms to support long-term, multi-turn interactions, leveraging different approaches tailored to distinct memory storage objects, such as KV caches. In this survey, we present a unified taxonomy that organizes memory systems for long-context scenarios by decoupling memory abstractions from model-specific inference and training methods. We categorize LLM memory into three primary paradigms: natural language tokens, intermediate representations and parameters. For each paradigm, we organize existing methods by three management stages, including memory construction, update, and query, so that long-context memory mechanisms can be described in a consistent way across system designs, with their implementation choices and constraints made explicit. Finally, we outline key research directions for long-context memory system design.",
@@ -5547,7 +5570,8 @@
         "2026-11-24": 5,
         "2026-11-25": 5,
         "2026-11-26": 5,
-        "2026-11-27": 6
+        "2026-11-27": 6,
+        "2026-11-28": 6
       },
       "meta": {
         "authors": [
@@ -5807,7 +5831,8 @@
         "2026-11-24": 4,
         "2026-11-25": 4,
         "2026-11-26": 4,
-        "2026-11-27": 4
+        "2026-11-27": 4,
+        "2026-11-28": 4
       },
       "meta": {
         "authors": [
