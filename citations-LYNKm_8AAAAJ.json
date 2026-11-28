@@ -6050,7 +6050,8 @@
         "2026-11-24": 2,
         "2026-11-25": 2,
         "2026-11-26": 2,
-        "2026-11-27": 3
+        "2026-11-27": 3,
+        "2026-11-28": 3
       },
       "meta": {
         "authors": [
@@ -6198,7 +6199,8 @@
         "2026-11-24": 1,
         "2026-11-25": 1,
         "2026-11-26": 1,
-        "2026-11-27": 1
+        "2026-11-27": 1,
+        "2026-11-28": 1
       },
       "meta": {
         "abstract": "Classical models of opinion dynamics assume human participants with bounded rationality and limited coordination. The rise of LLM-based agents introduces a qualitative shift: agents can now participate in online discussions at scale, maintain consistent persuasion strategies, and coordinate systematically. This paper argues that LLM agents make collective belief dynamics programmable, enabling deliberate steering of population-level beliefs. We term this emerging problem programmable collective belief control. Through controlled multi-agent simulations, we provide proof-of-concept evidence that coordinated AI agents can induce measurable belief shifts that stabilize within a few interaction rounds. We identify four structural properties (indistinguishability, persistence, contextuality, and configurability) that make detection and defense fundamentally difficult. Based on these findings, we outline a research agenda spanning theoretical foundations for adversarial belief dynamics, operational methods for system-level detection and intervention, and simulation infrastructure for scalable experimentation. Our goal is not to present a complete solution, but to articulate why this problem demands urgent attention and to provide a conceptual foundation for future work.",
@@ -6350,7 +6352,8 @@
         "2026-11-24": 0,
         "2026-11-25": 0,
         "2026-11-26": 0,
-        "2026-11-27": 0
+        "2026-11-27": 0,
+        "2026-11-28": 0
       },
       "meta": {
         "_tried": "2026-11-27"
@@ -6378,7 +6381,8 @@
         "2026-11-24": 0,
         "2026-11-25": 0,
         "2026-11-26": 0,
-        "2026-11-27": 0
+        "2026-11-27": 0,
+        "2026-11-28": 0
       },
       "meta": {
         "abstract": "Physical AI aims to enable intelligent systems to perceive, reason, act, and learn through interaction with the physical world. Unlike purely digital intelligence, physical agents must operate under partial observability, uncertain dynamics, embodiment constraints, and real-time requirements, while their actions continuously reshape the environment and subsequent observations. Recent advances in foundation models and robot learning have expanded the capabilities of physical agents, yet achieving reliable autonomy requires more than improvements in individual models. This survey presents a comprehensive, system-level review of Physical AI, organized around the closed-loop process of physical interaction. We examine the foundations and recent developments in task representations and memory, predictive and action-generating models, data and learning methods, embodiment and control, computing systems, evaluation, and safety. Beyond reviewing individual advances, we investigate how these components interact and collectively shape the capabilities and limitations of Physical AI systems. Building on this integrated perspective, we identify fundamental challenges in generalization, resource-efficient learning and execution, reliable state tracking, safety, recovery, and continual adaptation. We argue that advancing Physical AI requires moving beyond isolated model performance toward integrated systems capable of robust, efficient, safe, and autonomous physical interaction under changing real-world conditions.",
@@ -6539,7 +6543,8 @@
         "2026-11-24": 0,
         "2026-11-25": 0,
         "2026-11-26": 0,
-        "2026-11-27": 0
+        "2026-11-27": 0,
+        "2026-11-28": 0
       },
       "meta": {
         "_tried": "2026-11-27"
